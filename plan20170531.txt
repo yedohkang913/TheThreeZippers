@@ -1,0 +1,16 @@
+TheThreeZippers: Kelly Wang, Kristin Lin, Yedoh Kang
+APCS2 pd01
+Dictionary Frenzy!: Plan
+2017-05-18
+
+1. Which jobs are most crucial?
+      
+2. Which components constitute core functionality (vs non-essential)?
+      Writing the word class is the most crucial because the words are the backbone for the entire program. 
+
+3. Which components are prerequisites for others?
+      The word class is needed to make flashcards. Flashcards are required to make Learn.java, AsteroidGravity.java, Matching.java. 
+
+4. Which tasks can be delegated, and which must be collaboratively tackled?
+
+5. What is the timeline, and how does it accommodate setbacks, course changes?	
