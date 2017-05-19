@@ -13,7 +13,7 @@ public class Word implements Comparable{
     }
 
     public int compareTo( Object w ){
-        return this.getTimesMissed() - w.getTimesMissed();
+        return this.getTimesMissed() - ((Word) w).getTimesMissed();
     }
 
     public String getName() {
