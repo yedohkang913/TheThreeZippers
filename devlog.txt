@@ -1,7 +1,6 @@
 TheThreeZippers: Kelly Wang, Kristin Lin, Yedoh Kang
 APCS2 pd01
-Dictionary Frenzy!: Plan
-2017-05-18
+Dictionary Frenzy!: DevLog
 
 /////////// Zone of Reflection \\\\\\\\\\\
 ------------------------------------------
