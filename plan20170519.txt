@@ -4,13 +4,50 @@ Dictionary Frenzy!: Plan
 2017-05-18
 
 1. Which jobs are most crucial?
-      
+   In order of priority:
+   A. Writing Driver.java (or some rough outline of it using comments): 
+      This will give us a sense of how the entire program is going to function, so all of us will be on the same page. This           
+      will also help us in figuring out how to incorporate the Dictionary--how searching and creating a Flashcard instance                     
+      and adding words will be done.
+   B. Writing Word.java: 
+      The most basic class for Dictionary Frenzy! to function.
+   C. Writing Flashcard.java: 
+      The second most basic class for Dictionary Frenzy! to function, using Word objects. We will also use this class to 
+      figure out how exactly Learn, AsteroidGravity, and Matching to what extent the queue of Words in each Flashcard 
+      instance will be accessed and modified.
+   D. Writing Learn.java, AsteroidGravity.java, and Matching.java:
+      These classes are the final part; they will allow the users to practice their sets of words (instances of Flashcard),         
+      through either the Learn function, a game of Asteroid Gravity, or the Matching function. These classes will mainly 
+      involve user input and display through the terminal. 
+
 2. Which components constitute core functionality (vs non-essential)?
-      Writing the word class is the most crucial because the words are the backbone for the entire program. 
+      A core function is the search method to find a word in a dictionary. We will need this to add words. Writing the word   
+      class is the most crucial because the words are the backbone for the entire program. The flashcard class is also 
+      essential because they are implemented by Learn.java, AsteroidGravity.java, and Matching.java. 
 
 3. Which components are prerequisites for others?
-      The word class is needed to make flashcards. Flashcards are required to make Learn.java, AsteroidGravity.java, Matching.java. 
+      Word.java is needed to make flashcards. Flashcards are required to make Learn.java, AsteroidGravity.java, 
+      Matching.java.
 
 4. Which tasks can be delegated, and which must be collaboratively tackled?
+      Writing the Word, Flashcards, and Driver class must be collaboratively tackled because they are the core classes. 
+      They are important for the other classes to function, and it would be best if we had three people looking over the            
+      code and writing it together with similar ideas, rather than having one person write it. It will also help everyone 
+      understand how these classes function, so writing Learn.java, Asteroid.java, and Matching.java will be easier for all 
+      of us. We are going to try working on all the other classes together so that it's easier for us to carry the task out 
+      and be on the same page, but if it is impossible, we will delegate the later classes.
 
 5. What is the timeline, and how does it accommodate setbacks, course changes?	
+      This timeline allows sufficient time for change, and leaves a few days to make crucial changes/fix things.
+      COMPLETE BY MIDNIGHT: 
+            *make changes necessary as we go
+            *remember to add comments!
+            *make changes to the Driver file along the way
+      5/19 - Word.java
+      5/21 - Flashcard.java
+      5/24 - Learn.java
+      5/27 - AsteroidGravity.java
+      5/30 - Matching.java
+      6/2 - Driver.java
+      6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
+
