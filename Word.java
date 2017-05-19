@@ -13,11 +13,15 @@ public class Word implements Comparable{
     }
 
     public int compareTo( Word w ){
-        return this.getTimesMissed - w.getTimesMissed;
+        return this.getTimesMissed() - w.getTimesMissed();
     }
 
     public String getName() {
         return name;
+    }
+
+    public void setTimesMissed() {
+	timesMissed += 1;
     }
 
     public int getTimesMissed() {
@@ -26,10 +30,6 @@ public class Word implements Comparable{
 
     public String getDefinition() {
 	return definition;
-    }
-
-    public void setDefinition (String def) {
-	definition = def;
     }
 
     public void setNext(Word next) {
