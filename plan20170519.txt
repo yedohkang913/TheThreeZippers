@@ -63,7 +63,7 @@ Word.java (implements Comparable)
 
 Set.java 
 	Attributes include: String name, Word first, Word last, int size, int reviewed
-	Methods include: add, removeR, removeP, showAll, getSize, getReviewed
+	Methods include: add, removeR, removeP, showAllWords, getSize, getReviewed, addReviewed
 
 Flashcard.java 
 	Attributes include: String name, ArrayList _deck
