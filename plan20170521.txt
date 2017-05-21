@@ -1,0 +1,83 @@
+TheThreeZippers: Kelly Wang, Kristin Lin, Yedoh Kang
+APCS2 pd01
+Dictionary Frenzy!: Plan #2
+2017-05-21
+
+1. Which jobs are most crucial?
+   In order of priority:
+   A. Writing Driver.java (or some rough outline of it using comments): 
+      This will give us a sense of how the entire program is going to function, so all of us will be on the same page. This           
+      will also help us in figuring out how to incorporate the Dictionary--how searching and creating a Flashcard instance                     
+      and adding words will be done.
+   B. Writing Word.java: 
+      The most basic class for Dictionary Frenzy! to function.
+   C. Writing Set.java: 
+      The second most basic class for Dictionary Frenzy! to function, using Word objects. We will also use this class to 
+      figure out how exactly Flashcards, Learn, AsteroidGravity, and Matching to what extent the queue of Words in each Flashcard 
+      instance will be accessed and modified.
+   D. Writing Flashcard.java, Learn.java, AsteroidGravity.java, and Matching.java:
+      These classes are the final part; they will allow the users to practice their sets of words through either the Flashcard function, 
+      the Learn function, a game of Asteroid Gravity, or the Matching function. These classes will mainly 
+      involve user input and display through the terminal. 
+
+2. Which components constitute core functionality (vs non-essential)?
+      A core function is the search method to find a word in a dictionary. We will need this to add words. Writing the word   
+      class is the most crucial because the words are the backbone for the entire program. The Set class is also 
+      essential because they are implemented by Flashcard.java, Learn.java, AsteroidGravity.java, and Matching.java. 
+
+3. Which components are prerequisites for others?
+      Word.java is needed to make flashcards. Sets are required to make Flashcards.java, Learn.java, AsteroidGravity.java, 
+      Matching.java.
+
+4. Which tasks can be delegated, and which must be collaboratively tackled?
+      Writing the Word, Set, and Driver class must be collaboratively tackled because they are the core classes. 
+      They are important for the other classes to function, and it would be best if we had three people looking over the            
+      code and writing it together with similar ideas, rather than having one person write it. It will also help everyone 
+      understand how these classes function, so writing Flashcards.java, Learn.java, Asteroid.java, and Matching.java will be easier for all 
+      of us. We are going to try working on all the other classes together so that it's easier for us to carry the task out 
+      and be on the same page, but if it is impossible, we will delegate the later classes.
+
+5. What is the timeline, and how does it accommodate setbacks, course changes?	
+      This timeline allows sufficient time for change, and leaves a few days to make crucial changes/fix things.
+      COMPLETE BY MIDNIGHT: 
+            *make changes necessary as we go
+            *remember to add comments!
+            *make changes to the Driver file along the way
+      5/19 - Word.java (DONE)
+      5/20 - Set.java (DONE)
+      5/22 - Flashcard.java
+      5/24 - Learn.java
+      5/27 - AsteroidGravity.java
+      5/30 - Matching.java
+      6/2 - Driver.java
+      6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
+
+Necessary Classes: 
+
+Driver.java
+	Serves as a main menu, allowing user to search a word, create a new flashcards set, study an existing flashcards set, or 
+	play a game with one of the flashcard sets
+
+Word.java (implements Comparable)
+	Attributes include: String definition, int timesMissed, Word nextWord, Word lastWord
+	Methods include: getName, getDefinition, setDefinition, compareTo, getTimesMissed
+
+Set.java 
+	Attributes include: String name, Word first, Word last, int size, int reviewed
+	Methods include: add, removeR, removeP, showAllWords, getSize, getReviewed, addReviewed
+
+Flashcard.java 
+	Attributes include: String name, ArrayList _deck
+	Methods include: play
+
+Learn.java
+	Attributes include: ArrayList _deck, int percentRight
+	Methods include: getPercent, getNext, play
+
+AsteroidGravity.java 
+	Attributes include: ArrayList _deck, int numRight, String[][] _display
+	Methods include: getPercent, getNext, updateDisplay, printDisplay, play
+
+Matching.java
+	Attributes include: ArrayList _deck, int numMatched, String[][] _display
+	Methods include: getPercent, updateDisplay, printDisplay, play
