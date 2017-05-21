@@ -35,7 +35,7 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-05-20
 --------------------------------------------------------------
-Yedoh: worked on Set.java and Flashcards.java. Sorted out some unclear things, like the underlying container for Word.java and how to use Set.java or Flashcards.java in the games | 70 min
+Yedoh: worked on Set.java and Flashcards.java. Sorted out some unclear things, like the underlying container for Word.java and how to use Set.java or Flashcards.java in the games. Decided how to use priority and randomized queue in Set.java | 70 min
 Kristin: (same) | 70 min
 Kelly: (same) | 70 min
 
