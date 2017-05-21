@@ -51,3 +51,33 @@ Dictionary Frenzy!: Plan
       6/2 - Driver.java
       6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
 
+Necessary Classes: 
+
+Driver.java
+	Serves as a main menu, allowing user to search a word, create a new flashcards set, study an existing flashcards set, or 
+	play a game with one of the flashcard sets
+
+Word.java (implements Comparable)
+	Attributes include: String definition, int timesMissed, Word nextWord, Word lastWord
+	Methods include: getName, getDefinition, setDefinition, compareTo, getTimesMissed
+
+Set.java 
+	Attributes include: String name, Word first, Word last, int size, int reviewed
+	Methods include: add, removeR, removeP, showAllWords, getSize, getReviewed, addReviewed
+
+Flashcard.java 
+	Attributes include: String name, ArrayList _deck
+	Methods include: play
+
+Learn.java
+	Attributes include: ArrayList _deck, int percentRight
+	Methods include: getPercent, getNext, play
+
+AsteroidGravity.java 
+	Attributes include: ArrayList _deck, int numRight, String[][] _display
+	Methods include: getPercent, getNext, updateDisplay, printDisplay, play
+
+Matching.java
+	Attributes include: ArrayList _deck, int numMatched, String[][] _display
+	Methods include: getPercent, updateDisplay, printDisplay, play
+
