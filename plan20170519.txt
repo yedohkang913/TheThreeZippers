@@ -54,14 +54,15 @@ Dictionary Frenzy!: Plan
 Necessary Classes: 
 
 Driver.java
-   Serves as a main menu, allowing user to search a word, create a new flashcards set, study an existing flashcards set, or play    a game with one of the flashcard sets
+	Serves as a main menu, allowing user to search a word, create a new flashcards set, study an existing flashcards set, or 
+	play a game with one of the flashcard sets
 
 Word.java (implements Comparable)
-   Attributes include: String definition, int timesMissed, Word nextWord, Word lastWord
-   Methods include: getName, getDefinition, setDefinition, compareTo, getTimesMissed
+	Attributes include: String definition, int timesMissed, Word nextWord, Word lastWord
+	Methods include: getName, getDefinition, setDefinition, compareTo, getTimesMissed
 
 Set.java 
-   Attributes include: String name, Word first, Word last, int size, int reviewed
+	Attributes include: String name, Word first, Word last, int size, int reviewed
 	Methods include: add, removeR, removeP, showAll, getSize, getReviewed
 
 Flashcard.java 
