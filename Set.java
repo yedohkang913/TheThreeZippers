@@ -2,33 +2,34 @@ public class Set {
 
     private String name;
     private Word _first; 
-    private Word _last
-	private int size;
+    private Word _last;
+    private int size;
     private int reviewed;
 
     public Set(String newName) {
 	name = newName;
-	_root = null;
+	_first = null; _last = null;
 	size = 0;
 	reviewed = 0;
     }
 
-    public void add(Word new) {
-	new.setLast(_last);
-	_last.setNext(new);
+    public void add ( Word newWord ) {
+	newWord.setLast(_last);
+	_last.setNext(newWord);
+	_last = newWord;
 	size++;
     }
 
     // remove randomly
     public Word removeR() {
-	//choose a random node in the list
+	//choose a random number of times
 	int r = (int) (Math.random() * size);
-	//remove that node and add it to the end of the list
+	//add the removed first node that random number of times
 	for (int x = 0; x < r; x++) {
 	    Word temp = _first;
 	    _first = _first.getNext();
 	    _first.setLast(null);
-	    add(temp);
+	    add(temp); size--;
 	}
 	//return the first node, which is now a random node in the list
 	Word output = _first;
@@ -49,6 +50,7 @@ public class Set {
 	    }
 	    temp = temp.getNext();
 	}
+	//remove that highest priority node
 	highest.getLast().setNext(highest.getNext());
 	highest.getNext().setLast(highest.getLast());
 	size--;
@@ -72,7 +74,7 @@ public class Set {
 	int numberPlace = 1;
 	Word temp = _first;
 	while (temp.getNext() != null) {
-	    System.out.println(numberPlace + temp.getName());
+	    System.out.println(numberPlace + " " + temp.getName());
 	    numberPlace += 1;
 	    temp = temp.getNext();
 	}
