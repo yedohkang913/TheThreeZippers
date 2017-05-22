@@ -33,6 +33,13 @@ ______   ______   __   __   __       ______   _______
    \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
 ==============================================================
+2017-05-21
+--------------------------------------------------------------
+Yedoh: wrote an updated plan; currently unknown | currently unknown
+Kristin: fixed errors in Set.java for functionality and wrote a main method for test calls; added short description to current classes | 30 min
+Kelly: N/A | 0 min
+
+==============================================================
 2017-05-20
 --------------------------------------------------------------
 Yedoh: worked on Set.java and Flashcards.java. Sorted out some unclear things, like the underlying container for Word.java and how to use Set.java or Flashcards.java in the games. Decided how to use priority and randomized queue in Set.java | 100 min

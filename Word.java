@@ -1,3 +1,12 @@
+/*=======================================
+  class Word
+
+  Description: A basic building block that can function as a node
+  Attributes: name, definition, timesMissed, nextWord, lastWord
+  Methods: compareTo, getName, setTimesMissed, getTimesMissed, setNext, getNext,
+  setLast, getLast
+ =======================================*/
+
 public class Word implements Comparable{
 
     private String name;
@@ -47,6 +56,10 @@ public class Word implements Comparable{
 
     public Word getLast() {
 	return lastWord;
+    }
+
+    public String toString() {
+	return name;
     }
 
 }//end class word

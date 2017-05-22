@@ -1,3 +1,12 @@
+/*=======================================
+  class Set
+
+  Description: Creates a collection of Word instances as a linked list.
+  Attributes: name, _first, _last, size, reviewed
+  Methods: add, removeR, removeP, getReviewed, addReviewed, getSize, 
+  showAllWords
+ =======================================*/
+
 public class Set {
 
     private String name;
@@ -14,27 +23,39 @@ public class Set {
     }
 
     public void add ( Word newWord ) {
+	size++;
+	if (_first == null) {
+	    _first = newWord;
+	    _last = newWord;
+	    return;
+	}
 	newWord.setLast(_last);
 	_last.setNext(newWord);
 	_last = newWord;
-	size++;
     }
 
     // remove randomly
     public Word removeR() {
-	//choose a random number of times
-	int r = (int) (Math.random() * size);
-	//add the removed first node that random number of times
-	for (int x = 0; x < r; x++) {
-	    Word temp = _first;
+	Word output;
+	if (_last == _first) {
+	    output = _first;
+	    _first = null;
+	    _last = null;
+	} else {
+	    //choose a random number of times
+	    int r = (int) (Math.random() * size);
+	    //add the removed first node that random number of times
+	    for (int x = 0; x < r; x++) {
+		Word temp = _first;
+		_first = _first.getNext();
+		_first.setLast(null);
+		add(temp); size--;
+	    }
+	    //return the first node, which is now a random node in the list
+	    output = _first;
 	    _first = _first.getNext();
 	    _first.setLast(null);
-	    add(temp); size--;
 	}
-	//return the first node, which is now a random node in the list
-	Word output = _first;
-	_first = _first.getNext();
-	_first.setLast(null);
 	size--;
 	return output;
     }
@@ -44,15 +65,29 @@ public class Set {
 	Word highest = _first;
 	Word temp = _first;
 	//walk to the highest priority node by traversing the list and comparing priorities 
-	while (temp.getNext() != null) {
+	while (temp != null) {
 	    if (temp.compareTo(highest) > 0) {
 		highest = temp;
 	    }
 	    temp = temp.getNext();
 	}
 	//remove that highest priority node
-	highest.getLast().setNext(highest.getNext());
-	highest.getNext().setLast(highest.getLast());
+	if (_first == _last) {
+	    _first = null;
+	    _last = null;
+	}
+	else if (highest == _first) {
+	    _first = highest.getNext();
+	    _first.setLast(null);
+	}
+	else if (highest == _last) {
+	    _last = highest.getLast();
+	    _last.setNext(null);
+	}
+	else {
+	    highest.getLast().setNext(highest.getNext());
+	    highest.getNext().setLast(highest.getLast());
+	}
 	size--;
 	return highest;
     }
@@ -71,14 +106,46 @@ public class Set {
 
     //print all the words in the set
     public void showAllWords() {
+	System.out.println("\n" + name + ": A Complete List");
 	int numberPlace = 1;
 	Word temp = _first;
-	while (temp.getNext() != null) {
-	    System.out.println(numberPlace + " " + temp.getName());
+	while (temp != null) {
+	    System.out.println(numberPlace + " " + temp);
 	    numberPlace += 1;
 	    temp = temp.getNext();
 	}
 
+    }
+
+    //testing
+    public static void main (String[] args) {
+	/* ~~~~~~~~ A TEST OF FUNCTIONALITY ~~~~~~~~
+	Set geo = new Set("Geometry Terms");
+	Word orthocenter = new Word("Orthocenter");
+	Word hypotenuse = new Word("hypotenuse");
+	Word isosceles = new Word("isoceles");
+	orthocenter.setTimesMissed(); //p = 1
+	hypotenuse.setTimesMissed(); hypotenuse.setTimesMissed(); // p = 2
+	//p for isoceles = 0
+	geo.add(orthocenter);
+	geo.add(hypotenuse);
+	geo.add(isosceles);
+	geo.showAllWords();
+	//should be hypo, ortho, iso
+	System.out.println("\nRemoving by priority: ");
+	System.out.println(geo.removeP());
+	System.out.println(geo.removeP());
+	System.out.println(geo.removeP());
+	//readd
+	geo.add(orthocenter);
+	geo.add(hypotenuse);
+	geo.add(isosceles);
+	//should be random
+	System.out.println("\nRemoving randomly: ");
+	System.out.println(geo.removeR());
+	System.out.println(geo.removeR());
+	System.out.println(geo.removeR());
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     }
 
 }
