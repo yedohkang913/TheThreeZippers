@@ -35,7 +35,7 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-05-21
 --------------------------------------------------------------
-Yedoh: wrote an updated plan; currently unknown | currently unknown
+Yedoh: wrote an updated plan | 10 min
 Kristin: fixed errors in Set.java for functionality and wrote a main method for test calls; added short description to current classes | 30 min
 Kelly: N/A | 0 min
 
