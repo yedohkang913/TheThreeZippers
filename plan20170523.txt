@@ -13,12 +13,16 @@ Dictionary Frenzy!: Plan #2
       The most basic class for Dictionary Frenzy! to function.
    C. Writing Set.java: 
       The second most basic class for Dictionary Frenzy! to function, using Word objects. We will also use this class to 
-      figure out how exactly Flashcards, Learn, AsteroidGravity, and Matching to what extent the queue of Words in each Flashcard 
+      figure out how exactly Flashcards, Learn, AsteroidGravity, and Matching to what extent the queue of Words in each 
+      Flashcard 
       instance will be accessed and modified.
-   D. Writing Flashcard.java, Learn.java, AsteroidGravity.java, and Matching.java:
-      These classes are the final part; they will allow the users to practice their sets of words through either the Flashcard function, 
-      the Learn function, a game of Asteroid Gravity, or the Matching function. These classes will mainly 
-      involve user input and display through the terminal. 
+   D. Writing Dictionary.java:
+      An important class that uses binary search to search for the word and its definition. Important to the program itself
+      because it allows the user to access definitions and words.
+   E. Writing Flashcard.java, Learn.java, AsteroidGravity.java, and Matching.java:
+      These classes are the final part; they will allow the users to practice their sets of words through either the 
+      Flashcard function, the Learn function, a game of Asteroid Gravity, or the Matching function. These classes will
+      mainly involve user input and display through the terminal. 
 
 2. Which components constitute core functionality (vs non-essential)?
       A core function is the search method to find a word in a dictionary. We will need this to add words. Writing the word   
@@ -43,12 +47,13 @@ Dictionary Frenzy!: Plan #2
             *make changes necessary as we go
             *remember to add comments!
             *make changes to the Driver file along the way
+	    *WORK ON DICTIONARY.JAVA ALONG THE WAY!!
       5/19 - Word.java (DONE)
       5/20 - Set.java (DONE)
       5/22 - Flashcard.java
       5/24 - Learn.java
-      5/27 - AsteroidGravity.java
-      5/30 - Matching.java
+      5/29 - AsteroidGravity.java
+      5/31 - Matching.java
       6/2 - Driver.java
       6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
 
