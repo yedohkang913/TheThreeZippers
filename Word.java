@@ -42,6 +42,10 @@ public class Word implements Comparable{
     public String getDefinition() {
 	return definition;
     }
+	
+    public void setDefinition(String input) {
+	definition = input;	    
+    }
 
     public void setNext(Word next) {
 	nextWord = next;
