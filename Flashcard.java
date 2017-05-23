@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Flashcard {
 
     //private String name;
-    private ArrayList<Word> deck;
+    private Word[] deck;
     private int removeType; //1 = random & 2 = priority & 3 = alphabetical         
     private int order; //1 = name & 2 = definition    
     private boolean randomOrder; //either display words first or definition first
@@ -59,17 +59,17 @@ public class Flashcard {
 	}
 
 	//dequeue cards randomly or by priority or alpha into an ArrayList
-	deck = new ArrayList<Word>();           
-	while (newDeck.getSize() != 0) {
+	deck = new Word[newDeck.getSize()];
+	for (int x = 0; x < newDeck.getSize(); x++) {
 	    //put words of Set newDeck into AL deck randomly
 	    if (removeType == 1) { 
-		deck.add(newDeck.removeR());
+		deck[x] = newDeck.removeR();
 	    } //put words of Set newDeck into AL deck by priority
 	    else if (removeType == 2) {
-		deck.add(newDeck.removeP());
+		deck[x] = newDeck.removeP();
 	    } //put words of Set newDeck into AL deck regularly; sorted later 
 	    else {
-		deck.add(newDeck.regRemove());
+		deck[x] = newDeck.regRemove();
 	    }
 	}
 	//put words of Set newDeck back into newDeck
@@ -87,33 +87,33 @@ public class Flashcard {
 	Scanner sc1 = new Scanner(System.in);
 	System.out.println("LET'S STUDY WITH FLASHCARDS!");
 	System.out.println("Press 1 to see the corresponding word/definition.");
-	for (int i = 0; i < deck.size(); i++) {
+	for (int i = 0; i < deck.length; i++) {
 	    //If user has chosen to start with random choice
 	    if (randomOrder == true) { 
 		order = (int)(Math.random()*2+1);
 	    }
 	    //Print word, then print definition as prompted when user enters 1
 	    if (order == 1) {
-		System.out.println(deck.get(i).getName());
+		System.out.println(deck[i].getName());
 		int option = sc1.nextInt();
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.");
 		    option = sc1.nextInt();
 		}
 		if (option == 1) {
-		    System.out.println(deck.get(i).getDefinition());
+		    System.out.println(deck[i].getDefinition());
 		}
 	    }
 	    //Print definition, then print word as prompted when user enters 1
 	    else if (order == 2) {
-		System.out.println(deck.get(i).getDefinition());
+		System.out.println(deck[i].getDefinition());
 		int option = sc1.nextInt();
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.") ;
 		    option = sc1.nextInt();
 		}
 		if (option == 1) {
-		    System.out.println(deck.get(i).getName());
+		    System.out.println(deck[i].getName());
 		}
 	    }
 	} // end for loop
