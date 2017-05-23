@@ -85,7 +85,7 @@ public class Flashcard {
 
     public void play() {
 	Scanner sc1 = new Scanner(System.in);
-	System.out.println("LET’S STUDY WITH FLASHCARDS!");
+	System.out.println("LET'S STUDY WITH FLASHCARDS!");
 	System.out.println("Press 1 to see the corresponding word/definition.");
 	for (int i = 0; i < deck.size(); i++) {
 	    //If user has chosen to start with random choice
