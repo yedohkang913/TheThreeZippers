@@ -73,10 +73,9 @@ public class Flashcard {
 		deck[x] = newDeck.regRemove();
 	    }
 	}
-	System.out.println(deck.length);
+
 	//put words of Set newDeck back into newDeck
 	for (Word x : deck) {
-	    System.out.println(x);
 	    newDeck.add(x);
 	}	
 
@@ -97,7 +96,7 @@ public class Flashcard {
 	    }
 	    //Print word, then print definition as prompted when user enters 1
 	    if (order == 1) {
-		System.out.println(deck[i].getName());
+		System.out.println("\n" + deck[i].getName());
 		int option = sc1.nextInt();
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.");
@@ -109,7 +108,7 @@ public class Flashcard {
 	    }
 	    //Print definition, then print word as prompted when user enters 1
 	    else if (order == 2) {
-		System.out.println(deck[i].getDefinition());
+		System.out.println("\n" + deck[i].getDefinition());
 		int option = sc1.nextInt();
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.") ;
@@ -130,7 +129,6 @@ public class Flashcard {
 	geo.add(new Word ("median"));
 	geo.add(new Word ("quadrilateral"));
 	geo.add(new Word ("triangle"));
-	System.out.println(geo.getSize());
 	Flashcard tester = new Flashcard(geo);
 	tester.play();
 
