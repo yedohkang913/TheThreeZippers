@@ -37,9 +37,9 @@ Dictionary Frenzy!: Plan #2
       Writing the Word, Set, and Driver class must be collaboratively tackled because they are the core classes. 
       They are important for the other classes to function, and it would be best if we had three people looking over the            
       code and writing it together with similar ideas, rather than having one person write it. It will also help everyone 
-      understand how these classes function, so writing Flashcards.java, Learn.java, Asteroid.java, and Matching.java will be easier for all 
-      of us. We are going to try working on all the other classes together so that it's easier for us to carry the task out 
-      and be on the same page, but if it is impossible, we will delegate the later classes.
+      understand how these classes function, so writing Flashcards.java, Learn.java, Asteroid.java, and Matching.java will
+      be easier for all of us. We are going to try working on all the other classes together so that it's easier for us to 
+      carry the task out and be on the same page, but if it is impossible, we will delegate the later classes.
 
 5. What is the timeline, and how does it accommodate setbacks, course changes?	
       This timeline allows sufficient time for change, and leaves a few days to make crucial changes/fix things.
@@ -69,7 +69,7 @@ Word.java (implements Comparable)
 
 Set.java 
 	Attributes include: String name, Word first, Word last, int size, int reviewed
-	Methods include: add, removeR, removeP, showAllWords, getSize, getReviewed, addReviewed
+	Methods include: add, regRemove, removeR, removeP, showAllWords, getSize, getReviewed, addReviewed
 
 Flashcard.java 
 	Attributes include: String name, ArrayList _deck
