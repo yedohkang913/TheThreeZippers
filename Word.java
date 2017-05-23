@@ -13,6 +13,7 @@ public class Word implements Comparable{
     private String definition;
     private int timesMissed;
     private Word nextWord; private Word lastWord;
+    private final String ALPHA = "abcdefghijklmnopqrtuvwxyz";
     
     public Word(String nam) {
         name = nam;
@@ -60,6 +61,10 @@ public class Word implements Comparable{
 
     public String toString() {
 	return name;
+    }
+
+    public int alphaCompare(Object that) {
+	
     }
 
 }//end class word
