@@ -34,6 +34,23 @@ public class Set {
 	_last = newWord;
     }
 
+    //reg remove at head 
+    public Word regRemove() {
+	Word output;
+	//if it's the only one, set all to null
+	if (size == 1) {
+	    output = _first;
+	    _first = null;
+	    _last = null;
+	} else { //otherwise just point first to the next node
+	    output = _first;
+	    _first = _first.getNext();
+	    _first.setLast(null);
+	}
+	size--;
+	return output;
+    }
+    
     // remove randomly
     public Word removeR() {
 	Word output;
@@ -41,22 +58,17 @@ public class Set {
 	    output = _first;
 	    _first = null;
 	    _last = null;
+	    size--;
 	} else {
 	    //choose a random number of times
 	    int r = (int) (Math.random() * size);
 	    //add the removed first node that random number of times
 	    for (int x = 0; x < r; x++) {
-		Word temp = _first;
-		_first = _first.getNext();
-		_first.setLast(null);
-		add(temp); size--;
+		add(regRemove());
 	    }
 	    //return the first node, which is now a random node in the list
-	    output = _first;
-	    _first = _first.getNext();
-	    _first.setLast(null);
+	    output = regRemove();
 	}
-	size--;
 	return output;
     }
 
@@ -72,23 +84,18 @@ public class Set {
 	    temp = temp.getNext();
 	}
 	//remove that highest priority node
-	if (_first == _last) {
-	    _first = null;
-	    _last = null;
-	}
-	else if (highest == _first) {
-	    _first = highest.getNext();
-	    _first.setLast(null);
+	if (highest == _first) {
+	    regRemove();
 	}
 	else if (highest == _last) {
 	    _last = highest.getLast();
-	    _last.setNext(null);
+	    _last.setNext(null); size--;
 	}
 	else {
 	    highest.getLast().setNext(highest.getNext());
 	    highest.getNext().setLast(highest.getLast());
+	    size--;	    
 	}
-	size--;
 	return highest;
     }
 
@@ -133,18 +140,23 @@ public class Set {
 	geo.showAllWords();
 	//should be hypo, ortho, iso
 	System.out.println("\nRemoving by priority: ");
+	System.out.println("size: " + geo.getSize());
+	System.out.println(geo.removeP()); 
+	System.out.println(geo.removeP()); 
 	System.out.println(geo.removeP());
-	System.out.println(geo.removeP());
-	System.out.println(geo.removeP());
+	System.out.println("size: " + geo.getSize());
 	//readd
 	geo.add(orthocenter);
 	geo.add(hypotenuse);
 	geo.add(isosceles);
 	//should be random
 	System.out.println("\nRemoving randomly: ");
+	System.out.println("size: " + geo.getSize());
+	System.out.println(geo.removeR()); 
 	System.out.println(geo.removeR());
 	System.out.println(geo.removeR());
-	System.out.println(geo.removeR());
+	System.out.println("size: " + geo.getSize());
+
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     }
 
