@@ -86,3 +86,7 @@ AsteroidGravity.java
 Matching.java
 	Attributes include: ArrayList _deck, int numMatched, String[][] _display
 	Methods include: getPercent, updateDisplay, printDisplay, play
+
+Dictionary.java
+	Attributes include: ArrayList _dictionary;
+	Methods include: search
