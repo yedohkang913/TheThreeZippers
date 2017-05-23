@@ -60,9 +60,10 @@ public class Flashcard {
 
 	//dequeue cards randomly or by priority or alpha into an ArrayList
 	deck = new Word[newDeck.getSize()];
-	for (int x = 0; x < newDeck.getSize(); x++) {
+	int limit = newDeck.getSize();
+	for (int x = 0; x < limit; x++) {
 	    //put words of Set newDeck into AL deck randomly
-	    if (removeType == 1) { 
+	    if (removeType == 1) {
 		deck[x] = newDeck.removeR();
 	    } //put words of Set newDeck into AL deck by priority
 	    else if (removeType == 2) {
@@ -72,8 +73,10 @@ public class Flashcard {
 		deck[x] = newDeck.regRemove();
 	    }
 	}
+	System.out.println(deck.length);
 	//put words of Set newDeck back into newDeck
 	for (Word x : deck) {
+	    System.out.println(x);
 	    newDeck.add(x);
 	}	
 
@@ -119,5 +122,19 @@ public class Flashcard {
 	} // end for loop
     } // end play		
 
+    //tester
+    public static void main(String[] args) {
+	Set geo = new Set("Geometry Terms");
+	geo.add(new Word ("hypotenuse"));
+	geo.add(new Word ("isosceles"));
+	geo.add(new Word ("median"));
+	geo.add(new Word ("quadrilateral"));
+	geo.add(new Word ("triangle"));
+	System.out.println(geo.getSize());
+	Flashcard tester = new Flashcard(geo);
+	tester.play();
+
+    }
+    
 } // end class flashcard
 

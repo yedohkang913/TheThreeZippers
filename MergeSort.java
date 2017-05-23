@@ -1,8 +1,8 @@
 public class MergeSort {
 
     /******************************************************
-     * int[] merge(int[],int[]) 
-     * Merges two input arrays
+     * int[] merge(Word[], Word[]) 
+     * Merges two input arrayss
      * Precond:  Input arrays are sorted in ascending order
      * Postcond: Input arrays unchanged, and 
      * output array sorted in ascending order.
@@ -14,7 +14,7 @@ public class MergeSort {
 	int bCounter = 0;
 	int index = 0;
         while (aCounter < a.length  && bCounter < b.length){
-	    if (a[aCounter] < b[bCounter]){
+	    if (a[aCounter].alphaCompare(b[bCounter]) < 0) {
 		retArr[index] = a[aCounter];
 		index++;
 		aCounter++;
@@ -37,7 +37,7 @@ public class MergeSort {
 		index++;
 	    }
 	}
-	System.out.println ("Merged List: " + printArray(retArr));
+	// System.out.println ("Merged List: " + printArray(retArr));
 	return retArr;
     }//end merge()
 
@@ -53,18 +53,18 @@ public class MergeSort {
 	    return arr;
 	}
 	else{
-	    Word[] leftHalf = new int[arr.length/2];
+	    Word[] leftHalf = new Word[arr.length/2];
 	    for (int x= 0; x < leftHalf.length; x++){
 		leftHalf[x] = arr[x];
 	    }
-	    Word[] rightHalf = new int[(arr.length)-leftHalf.length];
+	    Word[] rightHalf = new Word[(arr.length)-leftHalf.length];
 	    int counter = 0;
 	    for (int y = leftHalf.length; y<arr.length; y++){
 		rightHalf[counter] = arr[y];
 		counter++;
 	    }
-	    System.out.print("Left Half: " + printArray(leftHalf));
-	    System.out.println("  Right Half: " + printArray(rightHalf));
+	    // System.out.print("Left Half: " + printArray(leftHalf));
+	    // System.out.println("  Right Half: " + printArray(rightHalf));
 	    return merge (sort (leftHalf), sort(rightHalf));
 	}
     }//end sort()
@@ -74,6 +74,7 @@ public class MergeSort {
     //-------------------HELPERS-------------------------
     //tester function for exploring how arrays are passed
     //usage: print array, mess(array), print array. Whaddayasee?
+    /*
     public static void mess( Word[] a ) {
 	for( int i = 0 ; i<a.length; i++ )
 	    a[i] = 0;
@@ -89,5 +90,6 @@ public class MergeSort {
 	retStr += "]";
 	return retStr;
     }
+    */
     //---------------------------------------------------
 }//end class MergeSort
