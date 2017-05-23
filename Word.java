@@ -64,7 +64,34 @@ public class Word implements Comparable{
     }
 
     public int alphaCompare(Object that) {
-	
+	if (name.equals(((Word) that).getName())) {return 0;}
+	int a = 0; int b = 0;
+	while (a != name.length() && b != ((Word) that).getName().length()) {
+	    if (ALPHA.indexOf(name.substring(a,a+1)) ==
+		ALPHA.indexOf(((Word) that).getName().substring(b, b+1))) {
+		a++;
+		b++;
+	    }
+	    else {
+		return ALPHA.indexOf(name.substring(a,a+1)) -
+		    ALPHA.indexOf(((Word) that).getName().substring(b, b+1));
+	    }
+	}
+	return name.length() - ((Word) that).getName().length();
+    }
+
+    //tester for alphaCompare
+    public static void main(String[] args) {
+	Word bob = new Word ("dog");
+	Word cob = new Word ("dog");
+	Word rob = new Word ("doghouse");
+	Word fob = new Word ("driver");
+	Word job = new Word ("angle");
+
+	System.out.println(bob.alphaCompare(job)); //angle is greater
+	System.out.println(bob.alphaCompare(fob)); //dog is greater
+	System.out.println(bob.alphaCompare(rob)); //dog is greater
+	System.out.println(bob.alphaCompare(cob)); //same
     }
 
 }//end class word
