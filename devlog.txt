@@ -33,6 +33,13 @@ ______   ______   __   __   __       ______   _______
    \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
 ==============================================================
+2017-05-22
+--------------------------------------------------------------
+Yedoh: wrote Flashcard.java; discussed the binary search for the Dictionary and decided on creating a new Dictionary.java class to hold an ArrayList of words that would represent the dictionary | 140 min (with class time) 
+Kristin: (same) | 140 min (with class time)
+Kelly: helped write Flashcard.java and fixed syntax errors | 140 min
+
+==============================================================
 2017-05-21
 --------------------------------------------------------------
 Yedoh: wrote an updated plan | 10 min
