@@ -50,10 +50,10 @@ Dictionary Frenzy!: Plan #2
 	    *WORK ON DICTIONARY.JAVA ALONG THE WAY!!
       5/19 - Word.java (DONE)
       5/20 - Set.java (DONE)
-      5/22 - Flashcard.java
-      5/24 - Learn.java
-      5/29 - AsteroidGravity.java
-      5/31 - Matching.java
+      5/22 - Flashcard.java (DONE)
+      5/24 - Learn.java (DONE)
+      5/26 - Matching.java
+      5/29 - Dictionary.java
       6/2 - Driver.java
       6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
 
