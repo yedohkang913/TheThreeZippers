@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Learn {
 
     private Word[] deck;
-    private int percentRight;
+    private float percentRight;
     private int correct;
     private int wrong;
     private int wordsLeft;
@@ -65,7 +65,7 @@ public class Learn {
 	wordsLeft = deck.length;    
     }
 
-    public int getPercent() {
+    public float getPercent() {
         return percentRight;
     }
 
@@ -79,7 +79,7 @@ public class Learn {
 	    System.out.println("\n" + deck[i].getDefinition());
 	    String input = sc1.next().toLowerCase();
 	    if (!input.equals(deck[i].getName())) {
-		System.out.println("Sorry, but that’s incorrect.");
+		System.out.println("Sorry, but that's incorrect.");
 		deck[i].setTimesMissed(); 
 		wrong++;
 		while (!input.equals(deck[i].getName())) {
@@ -95,10 +95,20 @@ public class Learn {
 	    System.out.println("# of Words Correct: " + correct);
 	    System.out.println("# of Words Left : " + wordsLeft);
 	} // end for loop
-	percentRight = correct / (correct+wrong);
+	percentRight = (float) correct / (correct + wrong) * 100;
 	System.out.println("Percent Correct: " + percentRight + "%");
     } // end play        
 
-
+    //tester
+    public static void main(String[] args) {
+	Set geo = new Set("Geometry Terms");
+	geo.add(new Word ("hypotenuse"));
+	geo.add(new Word ("isosceles"));
+	geo.add(new Word ("median"));
+	geo.add(new Word ("quadrilateral"));
+	geo.add(new Word ("triangle"));
+	Learn tester = new Learn(geo);
+	tester.play();
+    }
 
 } // end class Learn
