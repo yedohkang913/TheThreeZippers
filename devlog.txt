@@ -36,7 +36,7 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-05-23
 --------------------------------------------------------------
-Yedoh: worked on parsing the Dictionary.txt file, worked on the UML diagram and the flowchart | 120 min (with class time) 
+Yedoh: worked on parsing the Dictionary.txt file, worked on the UML diagram and the flowchart, edited proposal | 130 min (with class time) 
 Kristin: (same) | 140 min (with class time)
 Kelly: helped with alphaCompare method, worked on the flowchart, methods in Flashcard.java | 100 min (with class time)
 
