@@ -118,6 +118,13 @@ public class Flashcard {
 		    System.out.println(deck[i].getName());
 		}
 	    }
+	    //If the user did not know the correct word/definition, assign a higher priority to that word
+	    System.out.println("Did you know the correct word/definition?\n1: Yes\n2: No");
+	    int rite = sc1.nextInt();
+	    if( rite == 2 ) {
+		deck[i].setTimesMissed();
+	    }
+	    
 	} // end for loop
     } // end play		
 
