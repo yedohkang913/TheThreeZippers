@@ -68,9 +68,9 @@ public class Word implements Comparable{
     }
 
     /*
-      returns - if this word comes after the argument in the dictionary
+      returns - if this word comes before the argument in the dictionary
       returns 0 if they are the same word
-      returns + if this word comes before the argument in the dictionary
+      returns + if this word comes after the argument in the dictionary
      */
     public int alphaCompare(Object that) {
 	if (name.equals(((Word) that).getName())) {return 0;}
