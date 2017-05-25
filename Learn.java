@@ -94,8 +94,8 @@ public class Learn {
 	    System.out.println("# of Words Incorrect: " + wrong);
 	    System.out.println("# of Words Correct: " + correct);
 	    System.out.println("# of Words Left : " + wordsLeft);
+	    percentRight = (float) correct / (correct + wrong) * 100;
 	} // end for loop
-	percentRight = (float) correct / (correct + wrong) * 100;
 	System.out.println("Percent Correct: " + percentRight + "%");
     } // end play        
 
