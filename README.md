@@ -6,11 +6,11 @@
 
 ### For Users:
 Welcome to Dictionary Frenzy! Dictonary Frenzy includes interactive learning tools that help you study vocabulary words. The program features not one, not two, but THREE educational tools: 
-1. Flashcards 
-  Display a word then show its definition, or display a definition then show its word!
-2. Learning
+##### Flashcards 
+Display a word then show its definition, or display a definition then show its word!
+##### Learning
   Given a definition, type in the corresponding word
-3. Matching 
+##### Matching 
   Match each word with its correct definition
 
 ### How it works:
