@@ -11,5 +11,10 @@ blah blah blah
 blah blah blah
 
 ### Launch Instructions: 
-blah blah blah
+1. Open up the terminal.
+2. $ git clone https://github.com/yedohkang913/TheThreeZippers.git
+3. $ cd TheThreeZippers
+4. $ javac Driver.java
+5. $ java Driver
+6. Have fun!
 
