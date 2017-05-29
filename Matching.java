@@ -10,7 +10,7 @@ public class Matching {
     private Word[] defDeck;
     private int numMatched;
     private Word[][] display;
-    private final String ALPHA = "abcdefghijklmnopqrtuvwxyz";
+    private final String ALPHA = "abcdefghijklmnopqrstuvwxyz";
  
     public Matching (Set newDeck) {
 	System.out.println("Welcome to Matching!");
@@ -52,10 +52,12 @@ public class Matching {
 	for ( int r = 0 ; r < display.length ; r++ ) {
 	    String output1 = ""; String output2 = "";
 	    if (display[r][0] != null)
-		output1 += "\t" + ALPHA.substring(r, r+1) + ": " + display[r][0].getName();
+		output1 += ALPHA.substring(r, r+1) + ": " + display[r][0].getName();
 	    if (display[r][1] != null) 
-		output2 += "\t" + (r+1) + ": "  + display[r][1].getDefinition();
+		output2 += + (r+1) + ": "  + display[r][1].getDefinition();
+	    System.out.print("\t");
 	    System.out.printf("%-26s", output1);
+	    System.out.print("\t");
 	    System.out.printf("%-26s", output2);
 	    System.out.println();
 
@@ -95,30 +97,33 @@ public class Matching {
 		    defPlace += input.substring(x, x+1);
 		}
 	    }
-	    int indexOfWord = Integer.parseInt(wordPlace);
-	    int indexOfDef = Integer.parseInt(defPlace) - 1;
-	    System.out.println(indexOfWord + " "+ indexOfDef);
-	    //is it a valid input?
-	    if (indexOfWord < 0 || indexOfWord > wordDeck.length ||
-		indexOfDef < 0 || indexOfDef > wordDeck.length ||
-		display[indexOfWord][0] == null ||
-		display[indexOfDef][1] == null) {
+	    if ( wordPlace == "" || defPlace == "") {
 		System.out.println("Input does not follow instructions.");
 	    }
-	    //is the input correct?
-	    else if (display[indexOfWord][0].getDefinition().equals(
-		    display[indexOfDef][1].getDefinition())) {
-		System.out.println("You got it!");
-		numMatched++;
-		display[indexOfWord][0] = null;
-		display[indexOfDef][1] = null;
+	    else {
+		int indexOfWord = Integer.parseInt(wordPlace);
+		int indexOfDef = Integer.parseInt(defPlace) - 1;
+		//is it a valid input?
+		if (indexOfWord < 0 || indexOfWord > wordDeck.length ||
+		    indexOfDef < 0 || indexOfDef > wordDeck.length ||
+		    display[indexOfWord][0] == null ||
+		    display[indexOfDef][1] == null) {
+		    System.out.println("Input does not follow instructions.");
+		}
+		//is the input correct?
+		else if (display[indexOfWord][0].getDefinition().equals(
+			 display[indexOfDef][1].getDefinition())) {
+		    System.out.println("You got it!");
+		    numMatched++;
+		    display[indexOfWord][0] = null;
+		    display[indexOfDef][1] = null;
+		}
+		else { //input is wrong
+		    System.out.println("Sorry, buddy.");
+		}
 	    }
-	    else { //input is wrong
-		System.out.println("Sorry, buddy.");
-	    }
-	    System.out.println("End of Game");
 	}
-
+	System.out.println("End of Game");
 	/*
 	  if (!input.equals(deck[i].getName())) {
 	  System.out.println("Sorry, but that's incorrect.");
@@ -144,11 +149,21 @@ public class Matching {
 
     public static void main(String[] args) {
 	Set hello = new Set("coolSet");
-	hello.add( new Word ( "cool" ) );
-	hello.add( new Word ( "great" ) );
-	hello.add( new Word ( "super" ) );
-	hello.add( new Word ( "fantastic" ) );
-	hello.add( new Word ( "awesome" ) );
+	Word cool = new Word("cool");
+	cool.setDefinition("not warm enough");
+	Word great = new Word ("great");
+	great.setDefinition("what you say to a mate");
+	Word superb = new Word ("superb");
+	superb.setDefinition("it's not just super, it's _____");
+	Word fantastic = new Word ("fantastic");
+	fantastic.setDefinition("_____ baby!");
+	Word awesome = new Word ("awesome");
+	awesome.setDefinition("awe inducing");
+	hello.add(cool);
+	hello.add(great);
+	hello.add(superb);
+	hello.add(fantastic);
+	hello.add(awesome);
 	Matching hi = new Matching (hello);
 	hi.play();
     }
