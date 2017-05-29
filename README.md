@@ -7,11 +7,11 @@
 ### For Users:
 Welcome to Dictionary Frenzy! Dictonary Frenzy includes interactive learning tools that help you study vocabulary words. The program features not one, not two, but THREE educational tools: 
 1. Flashcards
-⋅⋅1. Display a word then show its definition, or display a definition then show its word!
+  a. Display a word then show its definition, or display a definition then show its word!
 2. Learning
-⋅⋅1. Given a definition, type in the corresponding word
+  a. Given a definition, type in the corresponding word
 3. Matching 
-⋅⋅1. Match each word with its correct definition
+  a. Match each word with its correct definition
 
 ### How it works:
 blah blah blah
