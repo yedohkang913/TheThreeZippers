@@ -91,7 +91,7 @@ public class Matching {
 		if (ALPHA.indexOf(input.substring(x, x+1)) != -1) {
 		    wordPlace += ALPHA.indexOf(input.substring(x, x+1));
 		} else {
-		    defPlace += Integer.parseInt(input.substring(x, x+1));
+		    defPlace += input.substring(x, x+1);
 		}
 	    }
 	    int indexOfWord = Integer.parseInt(wordPlace);
@@ -141,6 +141,13 @@ public class Matching {
     }
 
     public static void main(String[] args) {
-
+	Set hello = new Set("coolSet");
+	hello.add( new Word ( "cool" ) );
+	hello.add( new Word ( "great" ) );
+	hello.add( new Word ( "super" ) );
+	hello.add( new Word ( "fantastic" ) );
+	hello.add( new Word ( "awesome" ) );
+	Matching hi = new Matching (hello);
+	hi.play();
     }
 }
