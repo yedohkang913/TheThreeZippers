@@ -96,21 +96,22 @@ public class Matching {
 		}
 	    }
 	    int indexOfWord = Integer.parseInt(wordPlace);
-	    int indexOfDef = Integer.parseInt(defPlace);
+	    int indexOfDef = Integer.parseInt(defPlace) - 1;
+	    System.out.println(indexOfWord + " "+ indexOfDef);
 	    //is it a valid input?
 	    if (indexOfWord < 0 || indexOfWord > wordDeck.length ||
 		indexOfDef < 0 || indexOfDef > wordDeck.length ||
-		display[indexOfWord][1] == null ||
-		display[indexOfDef][2] == null) {
+		display[indexOfWord][0] == null ||
+		display[indexOfDef][1] == null) {
 		System.out.println("Input does not follow instructions.");
 	    }
 	    //is the input correct?
-	    else if (display[indexOfWord][1].getDefinition().equals(
-		    display[indexOfDef][2].getDefinition())) {
+	    else if (display[indexOfWord][0].getDefinition().equals(
+		    display[indexOfDef][1].getDefinition())) {
 		System.out.println("You got it!");
 		numMatched++;
-		display[indexOfWord][1] = null;
-		display[indexOfDef][2] = null;
+		display[indexOfWord][0] = null;
+		display[indexOfDef][1] = null;
 	    }
 	    else { //input is wrong
 		System.out.println("Sorry, buddy.");
