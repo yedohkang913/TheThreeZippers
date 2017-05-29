@@ -38,8 +38,8 @@ public class Matching {
 	display = new Word[wordDeck.length][2];
 	//populate the display
 	for (int r = 0; r < display.length; r++) {
-	    display[r][1] = wordDeck[r];
-	    display[r][2] = defDeck[r];
+	    display[r][0] = wordDeck[r];
+	    display[r][1] = defDeck[r];
 	}
 
 	numMatched = 0;
@@ -51,10 +51,10 @@ public class Matching {
     public void printDisplay() {
 	for ( int r = 0 ; r < display.length ; r++ ) {
 	    String output1 = ""; String output2 = "";
-	    if (display[r][1] != null)
-		output1 = ALPHA.substring(r, r+1) + display[r][1].getName();
-	    if (display[r][2] != null) 
-		output2 += r + display[r][2].getDefinition();
+	    if (display[r][0] != null)
+		output1 = ALPHA.substring(r, r+1) + display[r][0].getName();
+	    if (display[r][1] != null) 
+		output2 += r + display[r][1].getDefinition();
 	    System.out.printf("%26d", output1);
 	    System.out.printf("%-26d", output2);
 	    System.out.println();
