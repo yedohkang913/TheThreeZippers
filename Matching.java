@@ -52,16 +52,13 @@ public class Matching {
 	for ( int r = 0 ; r < display.length ; r++ ) {
 	    String output1 = ""; String output2 = "";
 	    if (display[r][0] != null)
-		output1 = ALPHA.substring(r, r+1) + ": " + display[r][0].getName();
+		output1 += "\t" + ALPHA.substring(r, r+1) + ": " + display[r][0].getName();
 	    if (display[r][1] != null) 
-		output2 += r+1 + ": "  + display[r][1].getDefinition();
-	    //System.out.printf("%26d", output1);
-	    //System.out.printf("%-26d", output2);
-
-	    //FOR TESTING
-	    System.out.print( output1);
-	    System.out.print( output2);
+		output2 += "\t" + (r+1) + ": "  + display[r][1].getDefinition();
+	    System.out.printf("%-26s", output1);
+	    System.out.printf("%-26s", output2);
 	    System.out.println();
+
 	    /*String output;
 	    for (int c = 0; c < 2; c++) {
 		if (c == 0) {output += ALPHA.substring(r, r+1);}
