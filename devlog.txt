@@ -36,7 +36,7 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-05-29
 --------------------------------------------------------------
-Yedoh: worked on parsing the Dictionary.txt file & worked on README- "Launch Instructions" | UNKNOWN min  
+Yedoh: worked on parsing the Dictionary.txt file & worked on README- "Launch Instructions" | 90 min  
 Kristin: Worked on README- "How It Works" | 10 min 
 Kelly: Worked on README- "For Users" | 10 min 
 
