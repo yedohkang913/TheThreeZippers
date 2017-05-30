@@ -1,0 +1,69 @@
+TheThreeZippers: Kelly Wang, Kristin Lin, Yedoh Kang
+APCS2 pd01
+Dictionary Frenzy!: Plan #3
+2017-05-31
+
+1. Which jobs are most crucial?
+   In order of priority:
+   A. Writing Dictionary.java:
+      An important class that uses binary search to search for the word and its definition. Important to the program itself
+      because it allows the user to access definitions and words.
+   B. Writing Driver.java:
+      An important class that will bring everything together, allowing the user to actually run and use the program/tool.
+
+2. Which components constitute core functionality (vs non-essential)?
+      Core functionality: writing Dictionary.java and finding and accessing a word and its definition.
+                          writing Driver.java so that the user can use the program.
+
+3. Which components are prerequisites for others?
+      Dictionary.java is a prerequisite for the definitions and words to work and be present.
+
+4. Which tasks can be delegated, and which must be collaboratively tackled?
+      Dictionary.java will be delegated, and Driver.java must be collaboratively tackled because the logic and connections in it 
+      are very confusing.
+
+5. What is the timeline, and how does it accommodate setbacks, course changes?	
+      This timeline allows sufficient time for change, and leaves a few days to make crucial changes/fix things.
+      COMPLETE BY MIDNIGHT: 
+            *make changes necessary as we go
+            *remember to add comments!
+            *make changes to the Driver file along the way
+	    *WORK ON DICTIONARY.JAVA ALONG THE WAY!!
+      5/19 - Word.java (DONE)
+      5/20 - Set.java (DONE)
+      5/22 - Flashcard.java (DONE)
+      5/24 - Learn.java (DONE)
+      5/26 - Matching.java (DONE)
+      5/30 - Dictionary.java (ALMOST DONE)
+      6/2 - Driver.java
+      6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
+
+Necessary Classes: 
+
+Driver.java
+	Serves as a main menu, allowing user to search a word, create a new flashcards set, study an existing flashcards set, or 
+	play a game with one of the flashcard sets
+
+Word.java (implements Comparable)
+	Attributes include: String definition, int timesMissed, Word nextWord, Word lastWord
+	Methods include: getName, getDefinition, setDefinition, compareTo, getTimesMissed
+
+Set.java 
+	Attributes include: String name, Word first, Word last, int size, int reviewed
+	Methods include: add, regRemove, removeR, removeP, showAllWords, getSize, getReviewed, addReviewed
+
+Flashcard.java 
+	Attributes include: String name, ArrayList _deck
+	Methods include: play
+
+Learn.java
+	Attributes include: ArrayList _deck, int percentRight
+	Methods include: getPercent, getNext, play
+
+Matching.java
+	Attributes include: ArrayList _deck, int numMatched, String[][] _display
+	Methods include: getPercent, updateDisplay, printDisplay, play
+
+Dictionary.java
+	Attributes include: ArrayList _dictionary;
+	Methods include: search
