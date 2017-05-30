@@ -104,8 +104,8 @@ public class Matching {
 		int indexOfWord = Integer.parseInt(wordPlace);
 		int indexOfDef = Integer.parseInt(defPlace) - 1;
 		//is it a valid input?
-		if (indexOfWord < 0 || indexOfWord > wordDeck.length ||
-		    indexOfDef < 0 || indexOfDef > wordDeck.length ||
+		if (indexOfWord < 0 || indexOfWord >= wordDeck.length ||
+		    indexOfDef < 0 || indexOfDef >= wordDeck.length ||
 		    display[indexOfWord][0] == null ||
 		    display[indexOfDef][1] == null) {
 		    System.out.println("Input does not follow instructions.");
