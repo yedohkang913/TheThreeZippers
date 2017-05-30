@@ -15,9 +15,9 @@ public class Word implements Comparable{
     private Word nextWord; private Word lastWord;
     private final String ALPHA = "abcdefghijklmnopqrstuvwxyz";
     
-    public Word(String nam) {
+    public Word(String nam, String def) {
         name = nam;
-        definition = null;
+        definition = def;
         timesMissed = 0;
         nextWord = null;
 	lastWord = null;
