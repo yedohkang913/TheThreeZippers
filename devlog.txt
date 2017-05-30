@@ -45,7 +45,7 @@ Kelly: Worked on README- "For Users" | 10 min
 --------------------------------------------------------------
 Yedoh: worked on parsing the Dictionary.txt file | 40 min  
 Kristin: finished Matching.java; fixed tester method and logic errors in Matching | 50 min 
-Kelly: wrote a tester method for Matching.java | 30 min 
+Kelly: wrote a tester method for Matching.java, fixed some errors | 30 min 
 
 ==============================================================
 2017-05-27
