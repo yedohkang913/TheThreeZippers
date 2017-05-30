@@ -60,23 +60,6 @@ public class Matching {
 	    System.out.print("\t");
 	    System.out.printf("%-26s", output2);
 	    System.out.println();
-
-	    /*String output;
-	    for (int c = 0; c < 2; c++) {
-		if (c == 0) {output += ALPHA.substring(r, r+1);}
-		else {output += r+1;}
-		if ( display[r][c] != null ) {
-		    for (int x = 0; x < (26 - display[r][c].getName.length); x++) {
-			output += " " ;
-		    }
-		    output += display[r][c].getName();
-		} else { 
-		    for (int x = 0; x < 26; x++) {
-			output += " ";
-		    }
-		} 
-		System.out.println(output);
-	    */
 	}
     }
  
@@ -124,26 +107,6 @@ public class Matching {
 	    }
 	}
 	System.out.println("End of Game");
-	/*
-	  if (!input.equals(deck[i].getName())) {
-	  System.out.println("Sorry, but that's incorrect.");
-	  deck[i].setTimesMissed();
-	  wrong++;
-	  while (!input.equals(deck[i].getName())) {
-	  System.out.println("Please enter the CORRECT answer: " + deck[i].getName() ) ;
-	  input = sc1.next();
-	  }
-	  } else {
-	  System.out.println("True and correct!");
-	  correct++;
-	  }
-
-	  wordsLeft--;
-	  System.out.println("# of Words Incorrect: " + wrong);
-	  System.out.println("# of Words Correct: " + correct);
-	  System.out.println("# of Words Left : " + wordsLeft);
-	  percentRight = (float) correct / (correct + wrong) * 100;
-	*/
 
     }
 
