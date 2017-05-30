@@ -1,6 +1,9 @@
 public class Driver {
 
     public static void main (String[] arg) {
+	System.out.println("Welcome to Dictionary Frenzy!");
+	System.out.println("Here's an example set:");
+	
 	Set hello = new Set("coolSet");
 	Word cool = new Word("cool");
 	cool.setDefinition("not warm enough");
@@ -18,7 +21,6 @@ public class Driver {
 	hello.add(fantastic);
 	hello.add(awesome);
 	hello.showAllWords();
-
 	System.out.println();
 
 	Flashcard hiF = new Flashcard (hello);
