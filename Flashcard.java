@@ -98,10 +98,11 @@ public class Flashcard {
 	    if (order == 1) {
 		System.out.println("\n" + deck[i].getName());
 		String opt = sc1.next();
-		try {int option = Integer.parseInt(opt)}
+		int option;
+		try { option = Integer.parseInt(opt);}
 		catch (Exception e) {
-		     System.out.println("Please enter a valid number.");
-		     option = sc1.nextInt();
+		    System.out.println("Please enter a valid number.");
+		    option = sc1.nextInt();
 		}
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.");
@@ -115,10 +116,11 @@ public class Flashcard {
 	    else if (order == 2) {
 		System.out.println("\n" + deck[i].getDefinition());
 		String opt = sc1.next();
-		try {int option = Integer.parseInt(opt)}
+		int option;
+		try { option = Integer.parseInt(opt);}
 		catch (Exception e) {
-		     System.out.println("Please enter a valid number.");
-		     option = sc1.nextInt();
+		    System.out.println("Please enter a valid number.");
+		    option = sc1.nextInt();
 		}
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.") ;
