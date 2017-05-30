@@ -102,16 +102,7 @@ public class Word implements Comparable{
 
     //tester for alphaCompare
     public static void main(String[] args) {
-	Word bob = new Word ("dog");
-	Word cob = new Word ("dog");
-	Word rob = new Word ("doghouse");
-	Word fob = new Word ("driver");
-	Word job = new Word ("angle");
 
-	System.out.println(bob.alphaCompare(job)); //angle is greater
-	System.out.println(bob.alphaCompare(fob)); //dog is greater
-	System.out.println(bob.alphaCompare(rob)); //dog is greater
-	System.out.println(bob.alphaCompare(cob)); //same
     }
 
 }//end class word

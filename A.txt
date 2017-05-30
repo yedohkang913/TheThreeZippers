@@ -96,7 +96,7 @@ Abnegation  n. Denial; renunciation of a doctrine.
 
 Abnormal  adj. Deviating from the norm; exceptional.  abnormality n. (pl. -ies). 
 
-Abnormally adv. [french: related to *anomalous]
+Abnormally  adv. [french: related to *anomalous]
 
 Aboard  adv. & prep. On or into (a ship, aircraft, etc.). [from *a2]
 
@@ -182,7 +182,7 @@ Absinth  n. 1 wormwood. 2 (usu. Absinthe) aniseed-flavoured liqueur based on thi
 
 Absolute  adj. 1 complete, utter (absolute bliss). 2 unconditional (absolute authority). 3 despotic (absolute monarch). 4 not relative or comparative (absolute standard). 5 gram. A (of a construction) syntactically independent of the rest of the sentence, as in dinner being over, we left the table. B (of an adjective or transitive verb) without an expressed noun or object (e.g. The deaf, guns kill). 6 (of a legal decree etc.) Final. —n. Philos. (prec. By the) that which can exist independently of anything else. [latin: related to *absolve]
 
-Absolutely  adv. 1 completely, utterly. 2 in an absolute sense (god exists absolutely). 3  colloq. (used in reply) quite so; yes.
+Absolutely  adv. 1 completely, utterly. 2 in an absolute sense (god exists absolutely). 3 colloq. (used in reply) quite so; yes.
 
 Absolute majority  n. Majority over all rivals combined.
 
@@ -222,7 +222,7 @@ Abstruse  adj. Hard to understand, profound. [latin abstrudo -trus- conceal]
 
 Absurd  adj. Wildly illogical or inappropriate; ridiculous.  absurdity n. (pl. -ies). 
 
-Absurdly adv. [latin: related to *surd]
+Absurdly  adv. [latin: related to *surd]
 
 Abta  abbr. Association of british travel agents.
 
@@ -395,6 +395,7 @@ Accordion  n. Musical reed instrument with concertina-like bellows, keys, and bu
 Accost  v. 1 approach and address (a person), esp. Boldly. 2 (of a prostitute) solicit. [latin costa rib]
 
 Account  n. 1 narration, description (an account of his trip). 2 arrangement at a bank etc. For depositing and withdrawing money, credit, etc. (open an account). 3 record or statement of financial transactions with the balance (kept detailed accounts). —v. Consider as (account him wise, a fool).
+
 Accountable  adj. 1 responsible; required to account for one's conduct. 2 explicable, understandable.  accountability n.
 
 Accountant  n. Professional keeper or verifier of accounts.  accountancy n. Accounting n.
@@ -471,7 +472,7 @@ Achy  adj. (-ier, -iest) full of or suffering from aches.
 
 Acid  n. 1 a any of a class of substances that liberate hydrogen ions in water, are usu. Sour and corrosive, turn litmus red, and have a ph of less than 7. B any compound or atom donating protons. 2 any sour substance. 3 slang the drug lsd. —adj. 1 sour. 2 biting, sharp (an acid wit). 3 chem. Having the essential properties of an acid.  acidic adj. 
 
-Acidify v. (-ies, -ied). Acidity n. Acidly adv. [latin aceo be sour]
+Acidify  v. (-ies, -ied). Acidity n. Acidly adv. [latin aceo be sour]
 
 Acid house  n. A type of synthesized music with a simple repetitive beat, often associated with hallucinogenic drugs.
 
@@ -681,7 +682,7 @@ Adjure  v. (-ring) (usu. Foll. By to + infin.) Beg or command.  adjuration n. [
 
 Adjust  v. 1 order or position; regulate; arrange. 2 (usu. Foll. By to) become or make suited; adapt. 3 harmonize (discrepancies). 4 assess (loss or damages).  adjustable adj. 
 
-Adjustment n. [latin juxta near]
+Adjustment  n. [latin juxta near]
 
 Adjutant  n. 1 a army officer assisting a superior in administrative duties. B assistant. 2 (in full adjutant bird) giant indian stork. [latin: related to *ad-, juvo jut- help]
 
@@ -921,9 +922,6 @@ Afloat  adv. & predic.adj. 1 floating. 2 at sea. 3 out of debt or difficulty. 4 
 
 Afoot  adv. & predic.adj. In operation; progressing.
 
-Afore  prep. & adv. Archaic before; previously; in front (of). [old english: related to *a2]
-
-Afore-  comb. Form before, previously (aforementioned; aforesaid).
 Afore  prep. & adv. Archaic before; previously; in front (of). [old english: related to *a2]
 
 Afore-  comb. Form before, previously (aforementioned; aforesaid).
