@@ -97,7 +97,12 @@ public class Flashcard {
 	    //Print word, then print definition as prompted when user enters 1
 	    if (order == 1) {
 		System.out.println("\n" + deck[i].getName());
-		int option = sc1.nextInt();
+		String opt = sc1.next();
+		try {int option = Integer.parseInt(opt)}
+		catch (Exception e) {
+		     System.out.println("Please enter a valid number.");
+		     option = sc1.nextInt();
+		}
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.");
 		    option = sc1.nextInt();
@@ -109,7 +114,12 @@ public class Flashcard {
 	    //Print definition, then print word as prompted when user enters 1
 	    else if (order == 2) {
 		System.out.println("\n" + deck[i].getDefinition());
-		int option = sc1.nextInt();
+		String opt = sc1.next();
+		try {int option = Integer.parseInt(opt)}
+		catch (Exception e) {
+		     System.out.println("Please enter a valid number.");
+		     option = sc1.nextInt();
+		}
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.") ;
 		    option = sc1.nextInt();
