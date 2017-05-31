@@ -34,10 +34,10 @@ ______   ______   __   __   __       ______   _______
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
 
 ==============================================================
-2017-05-29
+2017-05-30
 --------------------------------------------------------------
 Yedoh: worked on parsing the Dictionary.txt file & worked on README- "Launch Instructions" | 90 min  
-Kristin: Worked on README- "How It Works" | 10 min 
+Kristin: developed and added in-line comments to Driver; corrected UML | 100 min 
 Kelly: Worked on Learn.java, added comments | 45 min 
 
 ==============================================================
