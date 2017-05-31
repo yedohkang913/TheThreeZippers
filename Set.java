@@ -99,6 +99,10 @@ public class Set {
 	return highest;
     }
 
+    public String getName() {
+	return name;
+    }
+
     public int getReviewed() {
 	return reviewed;
     }
