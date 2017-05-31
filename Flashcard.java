@@ -92,7 +92,7 @@ public class Flashcard {
     public void play() {
 	Scanner sc1 = new Scanner(System.in);
 	System.out.println("LET'S STUDY WITH FLASHCARDS!");
-	System.out.println("Enter any key to see the corresponding word/definition.");
+	System.out.println("Press 1 to see the corresponding word/definition.");
 	for (int i = 0; i < deck.length; i++) {
 	    //If user has chosen to start with random choice
 	    if (randomOrder == true) { 
@@ -102,7 +102,6 @@ public class Flashcard {
 	    if (order == 1) {
 		System.out.println("\n" + deck[i].getName());
 		String opt = sc1.next();
-<<<<<<< HEAD
 		int option;
 		//if user enters something other than 1
 		try { option = Integer.parseInt(opt);}
@@ -120,15 +119,11 @@ public class Flashcard {
 		if (option == 1) {
 		    System.out.println(deck[i].getDefinition());
 		}
-=======
-		System.out.println(deck[i].getDefinition());
->>>>>>> 5f5a2f73a7cddf7de038d3fd3839a2c50117a0db
 	    }
 	    //Print definition, then print word as prompted when user enters 1
 	    else if (order == 2) {
 		System.out.println("\n" + deck[i].getDefinition());
 		String opt = sc1.next();
-<<<<<<< HEAD
 		int option;
 		//if user enters something other than 1
 		try { option = Integer.parseInt(opt);}
@@ -145,9 +140,6 @@ public class Flashcard {
 		if (option == 1) {
 		    System.out.println(deck[i].getName());
 		}
-=======
-		System.out.println(deck[i].getName());
->>>>>>> 5f5a2f73a7cddf7de038d3fd3839a2c50117a0db
 	    }
 	    //If the user did not know the correct word/definition, assign a higher priority to that word
 	    System.out.println("Did you know the correct word/definition?\n1: Yes\n2: No");
