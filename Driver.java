@@ -4,7 +4,9 @@ import java.util.ArrayList;
 
 public class Driver {
 
+    //=======instance vars==========
     static ArrayList<Set> _all;
+    //==============================
     
     public static void main (String[] arg) {
 
