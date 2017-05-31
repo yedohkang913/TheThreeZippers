@@ -16,7 +16,7 @@ public class Flashcard {
 	System.out.println("Welcome to Flashcard!");
 	System.out.println("Please select an option: ");
 	System.out.println("1 for RANDOM SET");
-	System.out.println("2 for PRIORITIZED SET (based on number of word)");
+	System.out.println("2 for PRIORITIZED SET (based on number of times the word was missed)");
 	System.out.println("3 for ALPHABETICAL SET");
 	System.out.print("Selection: ");
 	removeType = sc.nextInt();
