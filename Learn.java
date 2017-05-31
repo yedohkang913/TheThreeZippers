@@ -24,6 +24,7 @@ public class Learn {
         System.out.println("3 for ALPHABETICAL SET");
         System.out.print("Selection: ");
         removeType = sc.nextInt();
+	//did the user enter a valid input?
         while (removeType != 1 && removeType != 2 && removeType != 3) {
             System.out.println("Invalid number selected. Please enter a valid number for selection.");
             System.out.print("Selection: ");
@@ -78,18 +79,31 @@ public class Learn {
 	    //Print definition
 	    System.out.println("\n" + deck[i].getDefinition());
 	    String input = sc1.next().toLowerCase();
+	    //if the user enters the incorrect word: either display the answer or try again
 	    if (!input.equals(deck[i].getName())) {
-		System.out.println("Sorry, but that's incorrect.");
 		deck[i].setTimesMissed(); 
 		wrong++;
 		while (!input.equals(deck[i].getName())) {
-                    System.out.println("Please enter the CORRECT answer: " + deck[i].getName() ) ;
-                    input = sc1.next();
+		    System.out.println("Sorry, but that's incorrect. \nWould you like to try again? y/n");
+		    input = sc1.next();
+		    if ( input.equals("n") ) {
+			System.out.println("Please enter the CORRECT answer: " + deck[i].getName() ) ;
+			input = sc1.next();
+		    }
+		    else if ( input.equals("y") ) {
+			System.out.println("Try again! Type in your answer:");
+			input = sc1.next();
+		    }
+		    else {
+			System.out.println("Please enter y or n");
+			input = sc1.next();
+		    }
 		}
 	    } else {
 		System.out.println("True and correct!");
 		correct++;
 	    }
+	    //print stats for this game!
 	    wordsLeft--;
 	    System.out.println("# of Words Incorrect: " + wrong);
 	    System.out.println("# of Words Correct: " + correct);
@@ -102,11 +116,11 @@ public class Learn {
     //tester
     public static void main(String[] args) {
 	Set geo = new Set("Geometry Terms");
-	geo.add(new Word ("hypotenuse"));
-	geo.add(new Word ("isosceles"));
-	geo.add(new Word ("median"));
-	geo.add(new Word ("quadrilateral"));
-	geo.add(new Word ("triangle"));
+	geo.add(new Word ("hypotenuse", "issa leg"));
+	geo.add(new Word ("isosceles", "issa triangle"));
+	geo.add(new Word ("median", "issa middle"));
+	geo.add(new Word ("quadrilateral", "issa four"));
+	geo.add(new Word ("triangle","threes"));
 	Learn tester = new Learn(geo);
 	tester.play();
     }

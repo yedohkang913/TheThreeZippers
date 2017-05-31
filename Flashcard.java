@@ -20,11 +20,13 @@ public class Flashcard {
 	System.out.println("3 for ALPHABETICAL SET");
 	System.out.print("Selection: ");
 	removeType = sc.nextInt();
+	//did the user enter a valid input?
 	while (removeType != 1 && removeType != 2 && removeType != 3) {
 	    System.out.println("Invalid number selected. Please enter a valid number for selection.");
 	    System.out.print("Selection: ");
 	    removeType = sc.nextInt();
 	}
+	
 	if (removeType == 1) {
 	    System.out.println("You have chosen a random set.");
 	}
@@ -42,11 +44,13 @@ public class Flashcard {
 	System.out.println("3 for RANDOM");
 	System.out.print("Selection: ");
 	order = sc.nextInt();
+	//did the user enter a valid input?
 	while (order != 1 && order != 2 && order != 3) {
 	    System.out.println("Invalid number selected. Please enter a valid number for selection.");
 	    System.out.print("Selection: ");
 	    order = sc.nextInt();
 	}
+
 	if (order == 1) {
 	    System.out.println("You have chosen to start with words.");
 	}
@@ -99,15 +103,19 @@ public class Flashcard {
 		System.out.println("\n" + deck[i].getName());
 		String opt = sc1.next();
 		int option;
+		//if user enters something other than 1
 		try { option = Integer.parseInt(opt);}
 		catch (Exception e) {
 		    System.out.println("Please enter a valid number.");
 		    option = sc1.nextInt();
 		}
-		while (option != 1) {
+		/*
+		while (option =!1 )) {
 		    System.out.println("Please enter a valid number.");
 		    option = sc1.nextInt();
 		}
+
+		*/
 		if (option == 1) {
 		    System.out.println(deck[i].getDefinition());
 		}
@@ -117,15 +125,18 @@ public class Flashcard {
 		System.out.println("\n" + deck[i].getDefinition());
 		String opt = sc1.next();
 		int option;
+		//if user enters something other than 1
 		try { option = Integer.parseInt(opt);}
 		catch (Exception e) {
 		    System.out.println("Please enter a valid number.");
 		    option = sc1.nextInt();
 		}
+		/*
 		while (option != 1) {
 		    System.out.println("Please enter a valid number.") ;
 		    option = sc1.nextInt();
 		}
+		*/
 		if (option == 1) {
 		    System.out.println(deck[i].getName());
 		}
@@ -143,11 +154,11 @@ public class Flashcard {
     //tester
     public static void main(String[] args) {
 	Set geo = new Set("Geometry Terms");
-	geo.add(new Word ("hypotenuse"));
-	geo.add(new Word ("isosceles"));
-	geo.add(new Word ("median"));
-	geo.add(new Word ("quadrilateral"));
-	geo.add(new Word ("triangle"));
+	geo.add(new Word ("hypotenuse", "issa leg"));
+	geo.add(new Word ("isosceles", "issa triangle"));
+	geo.add(new Word ("median", "issa middle"));
+	geo.add(new Word ("quadrilateral", "issa four"));
+	geo.add(new Word ("triangle","threes"));
 	Flashcard tester = new Flashcard(geo);
 	tester.play();
 

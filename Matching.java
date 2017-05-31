@@ -80,13 +80,13 @@ public class Matching {
 		    defPlace += input.substring(x, x+1);
 		}
 	    }
+	    //is it a valid input?
 	    if ( wordPlace == "" || defPlace == "") {
 		System.out.println("Input does not follow instructions.");
 	    }
 	    else {
 		int indexOfWord = Integer.parseInt(wordPlace);
 		int indexOfDef = Integer.parseInt(defPlace) - 1;
-		//is it a valid input?
 		if (indexOfWord < 0 || indexOfWord >= wordDeck.length ||
 		    indexOfDef < 0 || indexOfDef >= wordDeck.length ||
 		    display[indexOfWord][0] == null ||
