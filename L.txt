@@ -28,7 +28,7 @@ Laboratory  n. (pl. -ies) room, building, or establishment for scientific experi
 
 Laborer  n. (brit. Labourer) person doing unskilled, usu. Manual, work for wages.
 
-Laborious  adj. 1 needing hard work or toil. 2 (esp. Of literary style) showing signs of toil.  laboriously adv. [latin: related to *labour]
+Laborious  adj. 1 needing hard work or toil. 2 (esp. Of literary style) showing signs of toil. * laboriously adv. [latin: related to *labour]
 
 Labour  (us & austral. Labor) —n. 1 physical or mental work; exertion. 2 a workers, esp. Manual, considered as a political and economic force. B (labour) labour party. 3 process of childbirth. 4 particular task. —v. 1 work hard; exert oneself. 2 a elaborate needlessly (don't labour the point). B (as laboured adj.) Done with great effort; not spontaneous.
 
@@ -48,13 +48,13 @@ Labrador  n. Retriever of a breed with a black or golden coat. [labrador in cana
 
 Laburnum  n. Tree with drooping golden flowers yielding poisonous seeds. [latin]
 
-Labyrinth  n. 1 complicated network of passages etc. 2 intricate or tangled arrangement. 3 the complex structure of the inner ear.  labyrinthine adj. [latin from greek]
+Labyrinth  n. 1 complicated network of passages etc. 2 intricate or tangled arrangement. 3 the complex structure of the inner ear. * labyrinthine adj. [latin from greek]
 
 Lac  n. Resinous substance secreted as a protective covering by a se asian insect. [hindustani]
 
 Lace  —n. 1 fine open fabric or trimming, made by weaving thread in patterns. 2 cord etc. Passed through holes or hooks for fastening shoes etc. —v. (-cing) 1 (usu. Foll. By up) fasten or tighten with a lace or laces. 2 add spirits to (a drink). 3 (often foll. By through) pass (a shoelace etc.) Through. [latin laqueus noose]
 
-Lacerate  v. (-ting) 1 mangle or tear (esp. Flesh etc.). 2 cause pain to (the feelings etc.).  laceration n. [latin lacer torn]
+Lacerate  v. (-ting) 1 mangle or tear (esp. Flesh etc.). 2 cause pain to (the feelings etc.). * laceration n. [latin lacer torn]
 
 Lace-up  —n. Shoe fastened with a lace. —attrib. Adj. (of a shoe etc.) Fastened by a lace or laces.
 
@@ -64,7 +64,7 @@ Lachrymose  adj. Formal given to weeping; tearful.
 
 Lack  —n. (usu. Foll. By of) want, deficiency. —v. Be without or deficient in. [low german or dutch]
 
-Lackadaisical  adj. Unenthusiastic; listless; idle.  lackadaisically adv. [from archaic lackaday]
+Lackadaisical  adj. Unenthusiastic; listless; idle. * lackadaisically adv. [from archaic lackaday]
 
 Lackey  n. (pl. -s) 1 servile follower; toady. 2 footman, manservant. [catalan alacay]
 
@@ -74,7 +74,7 @@ Lackluster  adj. (brit. Lacklustre) 1 lacking in vitality etc. 2 dull.
 
 Lacklustre  adj. (us lackluster) 1 lacking in vitality etc. 2 dull.
 
-Laconic  adj. Terse, using few words.  laconically adv. [greek lakon spartan]
+Laconic  adj. Terse, using few words. * laconically adv. [greek lakon spartan]
 
 Lacquer  —n. 1 varnish made of shellac or a synthetic substance. 2 substance sprayed on the hair to keep it in place. —v. Coat with lacquer. [french lacre *lac]
 
@@ -128,7 +128,7 @@ Lady-killer  n. Habitual seducer of women.
 
 Ladylike  adj. Like or befitting a lady.
 
-Ladyship  n.  her (or your) ladyship respectful form of reference or address to a lady.
+Ladyship  n. * her (or your) ladyship respectful form of reference or address to a lady.
 
 Lady's slipper  n. Plant of the orchid family with a slipper-shaped lip on its flowers.
 
@@ -182,7 +182,7 @@ Lama  n. Tibetan or mongolian buddhist monk. [tibetan]
 
 Lamasery  n. (pl. -ies) monastery of lamas. [french]
 
-Lamb  —n. 1 young sheep. 2 its flesh as food. 3 mild, gentle, or kind person. —v. Give birth to lambs.  the lamb (or lamb of god) name for christ. [old english]
+Lamb  —n. 1 young sheep. 2 its flesh as food. 3 mild, gentle, or kind person. —v. Give birth to lambs. * the lamb (or lamb of god) name for christ. [old english]
 
 Lambada  n. Fast erotic brazilian dance in which couples dance with their stomachs touching each other. [portuguese, = a beating]
 
@@ -190,25 +190,25 @@ Lambaste  v. (-ting) (also lambast) colloq. Thrash, beat. [from *lam, *baste1]
 
 Lambda  n. Eleventh letter of the greek alphabet (l, l). [greek]
 
-Lambent  adj. 1 (of a flame or a light) playing on a surface. 2 (of the eyes, sky, wit, etc.) Lightly brilliant.  lambency n. [latin lambo lick]
+Lambent  adj. 1 (of a flame or a light) playing on a surface. 2 (of the eyes, sky, wit, etc.) Lightly brilliant. * lambency n. [latin lambo lick]
 
 Lambswool  n. Soft fine wool from a young sheep.
 
-Lame  —adj. 1 disabled in the foot or leg. 2 a (of an excuse etc.) Unconvincing; feeble. B (of verse etc.) Halting. —v. (-ming) make lame; disable.  lamely adv. Lameness n. [old english]
+Lame  —adj. 1 disabled in the foot or leg. 2 a (of an excuse etc.) Unconvincing; feeble. B (of verse etc.) Halting. —v. (-ming) make lame; disable. * lamely adv. Lameness n. [old english]
 
 Lamé  n. Fabric with gold or silver threads interwoven. [french]
 
 Lame duck  n. Helpless person or firm.
 
-Lament  —n. 1 passionate expression of grief. 2 song etc. Of mourning etc. —v. (also absol.) 1 express or feel grief for or about. 2 (as lamented adj.) Used to refer to a recently dead person.  lament for (or over) mourn or regret. [latin lamentor]
+Lament  —n. 1 passionate expression of grief. 2 song etc. Of mourning etc. —v. (also absol.) 1 express or feel grief for or about. 2 (as lamented adj.) Used to refer to a recently dead person. * lament for (or over) mourn or regret. [latin lamentor]
 
-Lamentable  adj. Deplorable, regrettable.  lamentably adv.
+Lamentable  adj. Deplorable, regrettable. * lamentably adv.
 
 Lamentation  n. 1 lamenting. 2 lament.
 
-Lamina  n. (pl. -nae) thin plate or scale.  laminar adj. [latin]
+Lamina  n. (pl. -nae) thin plate or scale. * laminar adj. [latin]
 
-Laminate  —v. (-ting) 1 beat or roll into thin plates. 2 overlay with metal plates, a plastic layer, etc. 3 split into layers. —n. Laminated structure, esp. Of layers fixed together. —adj. In the form of thin plates.  lamination n.
+Laminate  —v. (-ting) 1 beat or roll into thin plates. 2 overlay with metal plates, a plastic layer, etc. 3 split into layers. —n. Laminated structure, esp. Of layers fixed together. —adj. In the form of thin plates. * lamination n.
 
 Lammas  n. (in full lammas day) first day of august, formerly kept as harvest festival. [old english: related to *loaf1, *mass2]
 
@@ -220,7 +220,7 @@ Lamplight  n. Light from a lamp.
 
 Lamplighter  n. Hist. Person who lit street lamps.
 
-Lampoon  —n. Satirical attack on a person etc. —v. Satirize.  lampoonist n. [french lampon]
+Lampoon  —n. Satirical attack on a person etc. —v. Satirize. * lampoonist n. [french lampon]
 
 Lamppost  n. Tall post supporting a street-light.
 
@@ -242,7 +242,7 @@ Lancet  n. Small broad two-edged surgical knife with a sharp point.
 
 Lancet arch  n. (also lancet light or window) narrow arch or window with a pointed head.
 
-Land  —n. 1 solid part of the earth's surface. 2 a expanse of country; ground, soil. B this in relation to its use, quality, etc., or as a basis for agriculture. 3 country, nation, state. 4 a landed property. B (in pl.) Estates. —v. 1 a set or go ashore. B (often foll. By at) disembark. 2 bring (an aircraft) to the ground or another surface. 3 alight on the ground etc. 4 bring (a fish) to land. 5 (also refl.; often foll. By up) colloq. Bring to, reach, or find oneself in a certain situation or place. 6 colloq. A deal (a person etc. A blow etc.). B (foll. By with) present (a person) with (a problem, job, etc.). 7 colloq. Win or obtain (a prize, job, etc.).  how the land lies what is the state of affairs. Land on one's feet attain a good position, job, etc., by luck.  landless adj. [old english]
+Land  —n. 1 solid part of the earth's surface. 2 a expanse of country; ground, soil. B this in relation to its use, quality, etc., or as a basis for agriculture. 3 country, nation, state. 4 a landed property. B (in pl.) Estates. —v. 1 a set or go ashore. B (often foll. By at) disembark. 2 bring (an aircraft) to the ground or another surface. 3 alight on the ground etc. 4 bring (a fish) to land. 5 (also refl.; often foll. By up) colloq. Bring to, reach, or find oneself in a certain situation or place. 6 colloq. A deal (a person etc. A blow etc.). B (foll. By with) present (a person) with (a problem, job, etc.). 7 colloq. Win or obtain (a prize, job, etc.). * how the land lies what is the state of affairs. Land on one's feet attain a good position, job, etc., by luck. * landless adj. [old english]
 
 Land-agent  n. 1 steward of an estate. 2 agent for the sale of estates.
 
@@ -280,7 +280,7 @@ Land mass  n. Large area of land.
 
 Land-mine  n. Explosive mine laid in or on the ground.
 
-Landowner  n. Owner of (esp. Much) land.  landowning adj. & n.
+Landowner  n. Owner of (esp. Much) land. * landowning adj. & n.
 
 Landscape  —n. 1 scenery as seen in a broad view. 2 (often attrib.) Picture representing this; this genre of painting. —v. (-ping) improve (a piece of land) by landscape gardening. [dutch landscap]
 
@@ -296,15 +296,15 @@ Language  n. 1 use of words in an agreed way as a method of human communication.
 
 Language laboratory  n. Room equipped with tape recorders etc. For learning a foreign language.
 
-Languid  adj. Lacking vigour; idle; inert.  languidly adv. [related to *languish]
+Languid  adj. Lacking vigour; idle; inert. * languidly adv. [related to *languish]
 
-Languish  v. Lose or lack vitality.  languish for droop or pine for. Languish under suffer under (depression, confinement, etc.). [latin langueo]
+Languish  v. Lose or lack vitality. * languish for droop or pine for. Languish under suffer under (depression, confinement, etc.). [latin langueo]
 
-Languor  n. 1 lack of energy; idleness. 2 soft or tender mood or effect. 3 oppressive stillness.  languorous adj.
+Languor  n. 1 lack of energy; idleness. 2 soft or tender mood or effect. 3 oppressive stillness. * languorous adj.
 
 Lank  adj. 1 (of hair, grass, etc.) Long and limp. 2 thin and tall. [old english]
 
-Lanky  adj. (-ier, -iest) ungracefully thin and long or tall.  lankiness n.
+Lanky  adj. (-ier, -iest) ungracefully thin and long or tall. * lankiness n.
 
 Lanolin  n. Fat found on sheep's wool and used in cosmetics etc. [latin lana wool, oleum *oil]
 
@@ -322,7 +322,7 @@ Lanyard  n. 1 cord worn round the neck or the shoulder, to which a knife etc. Ma
 
 Laodicean  half-hearted, esp. In religion or politics. [laodicea in asia minor (rev. 3:16)]
 
-Lap1  n. 1 front of the body from the waist to the knees of a sitting person. 2 clothing covering this.   in the lap of the gods beyond human control. In the lap of luxury in extremely luxurious surroundings. [old english]
+Lap1  n. 1 front of the body from the waist to the knees of a sitting person. 2 clothing covering this. * in the lap of the gods beyond human control. In the lap of luxury in extremely luxurious surroundings. [old english]
 
 Lap2  —n. 1 a one circuit of a racetrack etc. B section of a journey etc. 2 a amount of overlapping. B overlapping part. 3 single turn of thread etc. Round a reel etc. —v. (-pp-) 1 lead or overtake (a competitor in a race) by one or more laps. 2 (often foll. By about, round) fold or wrap (a garment etc.) Round. 3 (usu. Foll. By in) enfold in wraps etc. 4 (as lapped adj.) (usu. Foll. By in) enfolded caressingly. 5 cause to overlap. [probably from *lap1]
 
@@ -352,7 +352,7 @@ Lapwing  n. Plover with a shrill cry. [old english: related to *leap, *wink: fro
 
 Larboard  n. & adj. Archaic = *port3. [originally ladboard, perhaps ‘side on which cargo was taken in’: related to *lade]
 
-Larceny  n. (pl. -ies) theft of personal property.  larcenous adj. [anglo-french from latin latrocinium]
+Larceny  n. (pl. -ies) theft of personal property. * larcenous adj. [anglo-french from latin latrocinium]
 
 Larch  n. 1 deciduous coniferous tree with bright foliage. 2 its wood. [latin larix -icis]
 
@@ -364,7 +364,7 @@ Lardy  adj. Like lard.
 
 Lardy-cake  n. Cake made with lard, currants, etc.
 
-Large  adj. 1 of relatively great size or extent. 2 of the larger kind (large intestine). 3 comprehensive. 4 pursuing an activity on a large scale (large farmer).  at large 1 at liberty. 2 as a body or whole. 3 at full length, with all details.  largeness n. Largish adj. [latin largus copious]
+Large  adj. 1 of relatively great size or extent. 2 of the larger kind (large intestine). 3 comprehensive. 4 pursuing an activity on a large scale (large farmer). * at large 1 at liberty. 2 as a body or whole. 3 at full length, with all details. * largeness n. Largish adj. [latin largus copious]
 
 Large as life  adj. Colloq. In person, esp. Prominently.
 
@@ -384,7 +384,7 @@ Lark2  colloq. —n. 1 frolic; amusing incident. 2 type of activity (fed up with
 
 Larkspur  n. Plant with a spur-shaped calyx.
 
-Larva  n. (pl. -vae) stage of an insect's development between egg and pupa.  larval adj. [latin, = ghost]
+Larva  n. (pl. -vae) stage of an insect's development between egg and pupa. * larval adj. [latin, = ghost]
 
 Laryngeal  adj. Of the larynx.
 
@@ -394,11 +394,11 @@ Larynx  n. (pl. Larynges or -xes) hollow organ in the throat holding the vocal c
 
 Lasagne  n. Pasta in the form of sheets. [italian pl., from latin lasanum cooking-pot]
 
-Lascivious  adj. 1 lustful. 2 inciting to lust.  lasciviously adv. [latin]
+Lascivious  adj. 1 lustful. 2 inciting to lust. * lasciviously adv. [latin]
 
 Laser  n. Device that generates an intense beam of coherent light, or other electromagnetic radiation, in one direction. [light amplification by stimulated emission of radiation]
 
-Lash  —v. 1 make a sudden whiplike movement. 2 beat with a whip etc. 3 (often foll. By against, down, etc.) (of rain etc.) Beat, strike. 4 criticize harshly. 5 rouse, incite. 6 (foll. By down, together, etc.) Fasten with a cord etc. —n. 1 sharp blow made by a whip etc. 2 flexible end of a whip. 3 eyelash.  lash out 1 speak or hit out angrily. 2 colloq. Spend money extravagantly. [imitative]
+Lash  —v. 1 make a sudden whiplike movement. 2 beat with a whip etc. 3 (often foll. By against, down, etc.) (of rain etc.) Beat, strike. 4 criticize harshly. 5 rouse, incite. 6 (foll. By down, together, etc.) Fasten with a cord etc. —n. 1 sharp blow made by a whip etc. 2 flexible end of a whip. 3 eyelash. * lash out 1 speak or hit out angrily. 2 colloq. Spend money extravagantly. [imitative]
 
 Lashings  n.pl. Colloq. (foll. By of) plenty.
 
@@ -410,11 +410,11 @@ Lassitude  n. 1 languor. 2 disinclination to exert oneself. [latin lassus tired]
 
 Lasso  —n. (pl. -s or -es) rope with a noose at one end, esp. For catching cattle. —v. (-es, -ed) catch with a lasso. [spanish lazo: related to *lace]
 
-Last1  —adj. 1 after all others; coming at or belonging to the end. 2 most recent; next before a specified time (last christmas). 3 only remaining (last chance). 4 (prec. By the) least likely or suitable (the last person i'd want). 5 lowest in rank (last place). —adv. 1 after all others (esp. In comb.: last-mentioned). 2 on the most recent occasion (when did you last see him?). 3 lastly. —n. 1 person or thing that is last, last-mentioned, most recent, etc. 2 (prec. By the) last mention or sight etc. (shall never hear the last of it). 3 last performance of certain acts (breathed his last). 4 (prec. By the) the end; death (fighting to the last).  at last (or long last) in the end; after much delay. [old english, = latest]
+Last1  —adj. 1 after all others; coming at or belonging to the end. 2 most recent; next before a specified time (last christmas). 3 only remaining (last chance). 4 (prec. By the) least likely or suitable (the last person i'd want). 5 lowest in rank (last place). —adv. 1 after all others (esp. In comb.: last-mentioned). 2 on the most recent occasion (when did you last see him?). 3 lastly. —n. 1 person or thing that is last, last-mentioned, most recent, etc. 2 (prec. By the) last mention or sight etc. (shall never hear the last of it). 3 last performance of certain acts (breathed his last). 4 (prec. By the) the end; death (fighting to the last). * at last (or long last) in the end; after much delay. [old english, = latest]
 
-Last2  v. 1 remain unexhausted or alive for a specified or considerable time (food to last a week). 2 continue for a specified time (match lasts an hour).  last out be strong enough or sufficient for the whole of a given period. [old english]
+Last2  v. 1 remain unexhausted or alive for a specified or considerable time (food to last a week). 2 continue for a specified time (match lasts an hour). * last out be strong enough or sufficient for the whole of a given period. [old english]
 
-Last3  n. Shoemaker's model for shaping a shoe etc.  stick to one's last not meddle in what one does not understand. [old english]
+Last3  n. Shoemaker's model for shaping a shoe etc. * stick to one's last not meddle in what one does not understand. [old english]
 
 Last-ditch  attrib. Adj. (of an attempt etc.) Final, desperate.
 
@@ -438,11 +438,11 @@ Last word  n. (prec. By the) 1 final or definitive statement. 2 (often foll. By 
 
 Lat.  Abbr. Latitude.
 
-Latch  —n. 1 bar with a catch and lever as a fastening for a gate etc. 2 spring-lock preventing a door from being opened from the outside without a key. —v. Fasten with a latch.  latch on (often foll. By to) colloq. 1 attach oneself (to). 2 understand. On the latch fastened by the latch (sense 1) only. [old english]
+Latch  —n. 1 bar with a catch and lever as a fastening for a gate etc. 2 spring-lock preventing a door from being opened from the outside without a key. —v. Fasten with a latch. * latch on (often foll. By to) colloq. 1 attach oneself (to). 2 understand. On the latch fastened by the latch (sense 1) only. [old english]
 
 Latchkey  n. (pl. -s) key of an outer door.
 
-Late  —adj. 1 after the due or usual time; occurring or done after the proper time. 2 a far on in the day or night or in a specified period. B far on in development. 3 flowering or ripening towards the end of the season. 4 no longer alive; no longer having the specified status, former (my late husband; the late prime minister). 5 of recent date. —adv. 1 after the due or usual time. 2 far on in time. 3 at or till a late hour. 4 at a late stage of development. 5 formerly but not now (late of the scillies).  late in the day colloq. At a late stage in the proceedings.  lateness n. [old english]
+Late  —adj. 1 after the due or usual time; occurring or done after the proper time. 2 a far on in the day or night or in a specified period. B far on in development. 3 flowering or ripening towards the end of the season. 4 no longer alive; no longer having the specified status, former (my late husband; the late prime minister). 5 of recent date. —adv. 1 after the due or usual time. 2 far on in time. 3 at or till a late hour. 4 at a late stage of development. 5 formerly but not now (late of the scillies). * late in the day colloq. At a late stage in the proceedings. * lateness n. [old english]
 
 Latecomer  n. Person who arrives late.
 
@@ -452,11 +452,11 @@ Lateen sail  n. Triangular sail on a long yard at an angle of 45° to the mast.
 
 Lately  adv. Not long ago; recently. [old english: related to *late]
 
-Latent  adj. Existing but not developed or manifest; concealed, dormant.  latency n. [latin lateo be hidden]
+Latent  adj. Existing but not developed or manifest; concealed, dormant. * latency n. [latin lateo be hidden]
 
 Latent heat  n. Physics heat required to convert a solid into a liquid or vapour, or a liquid into a vapour, without change of temperature.
 
-Lateral  —adj. 1 of, at, towards, or from the side or sides. 2 descended from the sibling of a person in direct line. —n. Lateral shoot or branch.  laterally adv. [latin latus later- side]
+Lateral  —adj. 1 of, at, towards, or from the side or sides. 2 descended from the sibling of a person in direct line. —n. Lateral shoot or branch. * laterally adv. [latin latus later- side]
 
 Lateral thinking  n. Method of solving problems other than by using conventional logic.
 
@@ -474,11 +474,11 @@ Latin america  n. Parts of central and s. America where spanish or portuguese is
 
 Latinate  adj. Having the character of latin.
 
-Latinize  v. (also -ise) (-zing or -sing) give a latin form to.  latinization n.
+Latinize  v. (also -ise) (-zing or -sing) give a latin form to. * latinization n.
 
 Latish  adj. & adv. Fairly late.
 
-Latitude  n. 1 a angular distance on a meridian north or south of the equator. B (usu. In pl.) Regions or climes. 2 tolerated variety of action or opinion.  latitudinal adj. [latin latus broad]
+Latitude  n. 1 a angular distance on a meridian north or south of the equator. B (usu. In pl.) Regions or climes. 2 tolerated variety of action or opinion. * latitudinal adj. [latin latus broad]
 
 Latitudinarian  —adj. Liberal, esp. In religion. —n. Latitudinarian person.
 
@@ -492,7 +492,7 @@ Latter-day saints  n.pl. Mormons' name for themselves.
 
 Latterly  adv. 1 recently. 2 in the latter part of life or a period.
 
-Lattice  n. 1 structure of crossed laths or bars with spaces between, used as a screen, fence, etc. 2 regular periodic arrangement of atoms, ions, or molecules.  latticed adj. [french lattis from latte *lath]
+Lattice  n. 1 structure of crossed laths or bars with spaces between, used as a screen, fence, etc. 2 regular periodic arrangement of atoms, ions, or molecules. * latticed adj. [french lattis from latte *lath]
 
 Lattice window  n. Window with small panes set in diagonally crossing strips of lead.
 
@@ -500,17 +500,17 @@ Latvian  —n. 1 a native or national of latvia in eastern europe. B person of l
 
 Laud  —v. Praise or extol. —n. 1 praise; hymn of praise. 2 (in pl.) The first morning prayer of the roman catholic church. [latin laus laud-]
 
-Laudable  adj. Commendable.  laudability n. Laudably adv.
+Laudable  adj. Commendable. * laudability n. Laudably adv.
 
 Laudanum  n. Solution prepared from opium. [perhaps from medieval latin]
 
 Laudatory  adj. Praising.
 
-Laugh  —v. 1 make the sounds and movements usual in expressing lively amusement, scorn, etc. 2 express by laughing. 3 (foll. By at) ridicule, make fun of. —n. 1 sound, act, or manner of laughing. 2 colloq. Comical thing.  laugh off get rid of (embarrassment or humiliation) by joking. Laugh up one's sleeve laugh secretly. [old english]
+Laugh  —v. 1 make the sounds and movements usual in expressing lively amusement, scorn, etc. 2 express by laughing. 3 (foll. By at) ridicule, make fun of. —n. 1 sound, act, or manner of laughing. 2 colloq. Comical thing. * laugh off get rid of (embarrassment or humiliation) by joking. Laugh up one's sleeve laugh secretly. [old english]
 
-Laughable  adj. Ludicrous; amusing.  laughably adv.
+Laughable  adj. Ludicrous; amusing. * laughably adv.
 
-Laughing  n. Laughter.  no laughing matter serious matter.  laughingly adv.
+Laughing  n. Laughter. * no laughing matter serious matter. * laughingly adv.
 
 Laughing-gas  n. Nitrous oxide as an anaesthetic.
 
@@ -536,9 +536,9 @@ Laundress  n. Woman who launders, esp. Professionally.
 
 Laundry  n. (pl. -ies) 1 a place for washing clothes etc. B firm washing clothes etc. Commercially. 2 clothes or linen for laundering or newly laundered.
 
-Laureate  —adj. Wreathed with laurel as a mark of honour. —n. = *poet laureate.  laureateship n. [related to *laurel]
+Laureate  —adj. Wreathed with laurel as a mark of honour. —n. = *poet laureate. * laureateship n. [related to *laurel]
 
-Laurel  n. 1 = *bay2. 2 (in sing. Or pl.) Wreath of bay-leaves as an emblem of victory or poetic merit. 3 any of various plants with dark-green glossy leaves.  look to one's laurels beware of losing one's pre-eminence. Rest on one's laurels see *rest1. [latin laurus bay]
+Laurel  n. 1 = *bay2. 2 (in sing. Or pl.) Wreath of bay-leaves as an emblem of victory or poetic merit. 3 any of various plants with dark-green glossy leaves. * look to one's laurels beware of losing one's pre-eminence. Rest on one's laurels see *rest1. [latin laurus bay]
 
 Lav  n. Colloq. Lavatory. [abbreviation]
 
@@ -558,21 +558,21 @@ Lavender-water  n. Light perfume made with distilled lavender.
 
 Laver  n. Edible seaweed. [latin]
 
-Lavish  —adj. 1 giving or producing in large quantities; profuse. 2 generous. —v. (often foll. By on) bestow or spend (money, effort, praise, etc.) Abundantly.  lavishly adv. [french lavasse deluge: related to *lave]
+Lavish  —adj. 1 giving or producing in large quantities; profuse. 2 generous. —v. (often foll. By on) bestow or spend (money, effort, praise, etc.) Abundantly. * lavishly adv. [french lavasse deluge: related to *lave]
 
-Law  n. 1 a rule enacted or customary in a community and recognized as commanding or forbidding certain actions. B body of such rules. 2 controlling influence of laws; respect for laws. 3 laws collectively as a social system or subject of study. 4 binding force (her word is law). 5 (prec. By the) a the legal profession. B colloq. The police. 6 (in pl.) Jurisprudence. 7 a the judicial remedy. B the lawcourts as providing this (go to law). 8 rule of action or procedure. 9 regularity in natural occurrences (laws of nature; law of gravity). 10 divine commandments.  be a law unto oneself do what one considers right; disregard custom. Lay down the law be dogmatic or authoritarian. Take the law into one's own hands redress a grievance by one's own means, esp. By force. [old english from old norse, = thing laid down]
+Law  n. 1 a rule enacted or customary in a community and recognized as commanding or forbidding certain actions. B body of such rules. 2 controlling influence of laws; respect for laws. 3 laws collectively as a social system or subject of study. 4 binding force (her word is law). 5 (prec. By the) a the legal profession. B colloq. The police. 6 (in pl.) Jurisprudence. 7 a the judicial remedy. B the lawcourts as providing this (go to law). 8 rule of action or procedure. 9 regularity in natural occurrences (laws of nature; law of gravity). 10 divine commandments. * be a law unto oneself do what one considers right; disregard custom. Lay down the law be dogmatic or authoritarian. Take the law into one's own hands redress a grievance by one's own means, esp. By force. [old english from old norse, = thing laid down]
 
 Law-abiding  adj. Obedient to the laws.
 
-Lawbreaker  n. Person who breaks the law.  lawbreaking n. & adj.
+Lawbreaker  n. Person who breaks the law. * lawbreaking n. & adj.
 
 Lawcourt  n. Court of law.
 
-Lawful  adj. Conforming with or recognized by law; not illegal.  lawfully adv. Lawfulness n.
+Lawful  adj. Conforming with or recognized by law; not illegal. * lawfully adv. Lawfulness n.
 
 Lawgiver  n. Person who formulates laws; legislator.
 
-Lawless  adj. 1 having no laws or law enforcement. 2 disregarding laws.  lawlessness n.
+Lawless  adj. 1 having no laws or law enforcement. 2 disregarding laws. * lawlessness n.
 
 Law lord  n. Member of the house of lords qualified to perform its legal work.
 
@@ -592,11 +592,11 @@ Lawsuit  n. Bringing of a dispute, claim, etc. Before a lawcourt.
 
 Lawyer  n. Legal practitioner, esp. A solicitor.
 
-Lax  adj. 1 lacking care or precision. 2 not strict.  laxity n. Laxly adv. Laxness n. [latin laxus loose]
+Lax  adj. 1 lacking care or precision. 2 not strict. * laxity n. Laxly adv. Laxness n. [latin laxus loose]
 
 Laxative  —adj. Facilitating evacuation of the bowels. —n. Laxative medicine. [latin: related to *lax]
 
-Lay1  —v. (past and past part. Laid) 1 place on a surface, esp. Horizontally or in the proper or specified place. 2 put or bring into the required position or state (lay carpet). 3 make by laying (lay foundations). 4 (often absol.) (of a hen bird) produce (an egg). 5 cause to subside or lie flat. 6 (usu. Foll. By on); attribute or impute (blame etc.). 7 prepare or make ready (a plan or trap). 8 prepare (a table) for a meal. 9 arrange the material for (a fire). 10 put down as a wager; stake. 11 (foll. By with) coat or strew (a surface). 12 slang offens. Have sexual intercourse with (esp. A woman). —n. 1 way, position, or direction in which something lies. 2 slang offens. Partner (esp. Female) in, or act of, sexual intercourse.  lay about one hit out on all sides. Lay aside 1 put to one side. 2 cease to consider. Lay at the door of impute to. Lay bare expose, reveal. Lay claim to claim as one's own. Lay down 1 put on a flat surface. 2 give up (an office). 3 formulate (a rule). 4 store (wine) for maturing. 5 sacrifice (one's life). Lay (one's) hands on obtain, locate. Lay hands on seize or attack. Lay hold of seize. Lay in provide oneself with a stock of. Lay into colloq. Punish or scold harshly. Lay it on thick (or with a trowel) colloq. Flatter or exaggerate grossly. Lay low overthrow or humble. Lay off 1 discharge (unneeded workers) temporarily; make redundant. 2 colloq. Desist. Lay on 1 provide. 2 impose. 3 inflict (blows). 4 spread on (paint etc.). Lay open 1 break the skin of. 2 (foll. By to) expose (to criticism etc.). Lay out 1 spread out, expose to view. 2 prepare (a corpse) for burial. 3 colloq. Knock unconscious. 4 arrange (grounds etc.) According to a design.
+Lay1  —v. (past and past part. Laid) 1 place on a surface, esp. Horizontally or in the proper or specified place. 2 put or bring into the required position or state (lay carpet). 3 make by laying (lay foundations). 4 (often absol.) (of a hen bird) produce (an egg). 5 cause to subside or lie flat. 6 (usu. Foll. By on); attribute or impute (blame etc.). 7 prepare or make ready (a plan or trap). 8 prepare (a table) for a meal. 9 arrange the material for (a fire). 10 put down as a wager; stake. 11 (foll. By with) coat or strew (a surface). 12 slang offens. Have sexual intercourse with (esp. A woman). —n. 1 way, position, or direction in which something lies. 2 slang offens. Partner (esp. Female) in, or act of, sexual intercourse. * lay about one hit out on all sides. Lay aside 1 put to one side. 2 cease to consider. Lay at the door of impute to. Lay bare expose, reveal. Lay claim to claim as one's own. Lay down 1 put on a flat surface. 2 give up (an office). 3 formulate (a rule). 4 store (wine) for maturing. 5 sacrifice (one's life). Lay (one's) hands on obtain, locate. Lay hands on seize or attack. Lay hold of seize. Lay in provide oneself with a stock of. Lay into colloq. Punish or scold harshly. Lay it on thick (or with a trowel) colloq. Flatter or exaggerate grossly. Lay low overthrow or humble. Lay off 1 discharge (unneeded workers) temporarily; make redundant. 2 colloq. Desist. Lay on 1 provide. 2 impose. 3 inflict (blows). 4 spread on (paint etc.). Lay open 1 break the skin of. 2 (foll. By to) expose (to criticism etc.). Lay out 1 spread out, expose to view. 2 prepare (a corpse) for burial. 3 colloq. Knock unconscious. 4 arrange (grounds etc.) According to a design.
 
 Lay2  adj. 1 a non-clerical. B not ordained into the clergy. 2 a not professionally qualified. B of or done by such persons. [greek laos people]
 
@@ -624,7 +624,7 @@ Lay reader  n. Lay person licensed to conduct some religious services.
 
 Laze  —v. (-zing) 1 spend time idly. 2 (foll. By away) pass (time) idly. —n. Spell of lazing. [back-formation from *lazy]
 
-Lazy  adj. (-ier, -iest) 1 disinclined to work, doing little work. 2 of or inducing idleness.  lazily adv. Laziness n. [perhaps from low german]
+Lazy  adj. (-ier, -iest) 1 disinclined to work, doing little work. 2 of or inducing idleness. * lazily adv. Laziness n. [perhaps from low german]
 
 Lazybones  n. (pl. Same) colloq. Lazy person.
 
@@ -650,13 +650,13 @@ Lea  n. Poet. Meadow, field. [old english]
 
 Leach  v. 1 make (a liquid) percolate through some material. 2 subject (bark, ore, ash, or soil) to the action of percolating fluid. 3 (foll. By away, out) remove (soluble matter) or be removed in this way. [old english]
 
-Lead1  —v. (past and past part. Led) 1 cause to go with one, esp. By guiding or going in front. 2 a direct the actions or opinions of. B (often foll. By to, or to + infin.) Guide by persuasion or example (what led you to think that). 3 (also absol.) Provide access to; bring to a certain position (gate leads you into a field; road leads to lincoln). 4 pass or go through (a life etc. Of a specified kind). 5 a have the first place in. B (absol.) Go first; be ahead in a race etc. C (absol.) Be pre-eminent in some field. 6 be in charge of (leads a team). 7 (also absol.) Play (a card) or a card of (a particular suit) as first player in a round. 8 (foll. By to) result in. 9 (foll. By with) (of a newspaper or news broadcast) have as its main story (led with the royal wedding). 10 (foll. By through) make (a liquid, strip of material, etc.) Pass through a certain course. —n. 1 guidance given by going in front; example. 2 a leading place (take the lead). B amount by which a competitor is ahead of the others. 3 clue. 4 strap etc. For leading a dog etc. 5 conductor (usu. A wire) conveying electric current to an appliance. 6 a chief part in a play etc. B person playing this. C (attrib.) Chief performer or instrument of a specified type (lead guitar). 7 cards a act or right of playing first. B card led.  lead by the nose cajole into compliance. Lead off begin. Lead on entice dishonestly. Lead up the garden path colloq. Mislead. Lead up to form a preparation for; direct conversation towards. [old english]
+Lead1  —v. (past and past part. Led) 1 cause to go with one, esp. By guiding or going in front. 2 a direct the actions or opinions of. B (often foll. By to, or to + infin.) Guide by persuasion or example (what led you to think that). 3 (also absol.) Provide access to; bring to a certain position (gate leads you into a field; road leads to lincoln). 4 pass or go through (a life etc. Of a specified kind). 5 a have the first place in. B (absol.) Go first; be ahead in a race etc. C (absol.) Be pre-eminent in some field. 6 be in charge of (leads a team). 7 (also absol.) Play (a card) or a card of (a particular suit) as first player in a round. 8 (foll. By to) result in. 9 (foll. By with) (of a newspaper or news broadcast) have as its main story (led with the royal wedding). 10 (foll. By through) make (a liquid, strip of material, etc.) Pass through a certain course. —n. 1 guidance given by going in front; example. 2 a leading place (take the lead). B amount by which a competitor is ahead of the others. 3 clue. 4 strap etc. For leading a dog etc. 5 conductor (usu. A wire) conveying electric current to an appliance. 6 a chief part in a play etc. B person playing this. C (attrib.) Chief performer or instrument of a specified type (lead guitar). 7 cards a act or right of playing first. B card led. * lead by the nose cajole into compliance. Lead off begin. Lead on entice dishonestly. Lead up the garden path colloq. Mislead. Lead up to form a preparation for; direct conversation towards. [old english]
 
 Lead2  —n. 1 heavy bluish-grey soft metallic element. 2 a graphite. B thin length of this in a pencil. 3 lump of lead used in sounding water. 4 (in pl.) A strips of lead covering a roof. B piece of lead-covered roof. 5 (in pl.) Lead frames holding the glass of a lattice etc. 6 blank space between lines of print. —v. 1 cover, weight, or frame with lead. 2 space (printed matter) with leads. [old english]
 
 Leaden  adj. 1 of or like lead. 2 heavy or slow. 3 lead-coloured.
 
-Leader  n. 1 a person or thing that leads. B person followed by others. 2 principal player in a music group or of the first violins in an orchestra. 3 = *leading article. 4 shoot of a plant at the apex of a stem or of the main branch.  leadership n.
+Leader  n. 1 a person or thing that leads. B person followed by others. 2 principal player in a music group or of the first violins in an orchestra. 3 = *leading article. 4 shoot of a plant at the apex of a stem or of the main branch. * leadership n.
 
 Lead-free  adj. (of petrol) without added lead compounds.
 
@@ -680,7 +680,7 @@ Lead pencil  n. Pencil of graphite in wood.
 
 Lead-poisoning  n. Poisoning by absorption of lead into the body.
 
-Leaf  —n. (pl. Leaves) 1 each of several flattened usu. Green structures of a plant, growing usu. On the side of a stem. 2 a foliage regarded collectively. B state of bearing leaves (tree in leaf). 3 single thickness of paper. 4 very thin sheet of metal etc. 5 hinged part, extra section, or flap of a table etc. —v. 1 put forth leaves. 2 (foll. By through) turn over the pages of (a book etc.).  leafage n. Leafy adj. (-ier, -iest). [old english]
+Leaf  —n. (pl. Leaves) 1 each of several flattened usu. Green structures of a plant, growing usu. On the side of a stem. 2 a foliage regarded collectively. B state of bearing leaves (tree in leaf). 3 single thickness of paper. 4 very thin sheet of metal etc. 5 hinged part, extra section, or flap of a table etc. —v. 1 put forth leaves. 2 (foll. By through) turn over the pages of (a book etc.). * leafage n. Leafy adj. (-ier, -iest). [old english]
 
 Leaflet  —n. 1 sheet of paper, pamphlet, etc. Giving information. 2 young leaf. 3 bot. Division of a compound leaf. —v. (-t-) distribute leaflets (to).
 
@@ -688,19 +688,19 @@ Leaf-mould  n. Soil or compost consisting chiefly of decayed leaves.
 
 Leaf-stalk  n. Stalk joining a leaf to a stem.
 
-League1  —n. 1 people, countries, groups, etc., combining for a particular purpose. 2 agreement to combine in this way. 3 group of sports clubs which compete for a championship. 4 class of contestants etc. —v. (-gues, -gued, -guing) (often foll. By together) join in a league.  in league allied, conspiring. [latin ligo bind]
+League1  —n. 1 people, countries, groups, etc., combining for a particular purpose. 2 agreement to combine in this way. 3 group of sports clubs which compete for a championship. 4 class of contestants etc. —v. (-gues, -gued, -guing) (often foll. By together) join in a league. * in league allied, conspiring. [latin ligo bind]
 
 League2  n. Hist. Varying measure of distance, usu. About three miles. [latin from celtic]
 
 League table  n. List in ranked order of success etc.
 
-Leak  —n. 1 a hole through which matter passes accidentally in or out. B matter passing through thus. C act of passing through thus. 2 a similar escape of electrical charge. B charge that escapes. 3 disclosure of secret information. —v. 1 a pass through a leak. B lose or admit through a leak. 2 disclose (secret information). 3 (often foll. By out) become known.  have (or take) a leak slang urinate.  leaky adj. (-ier, -iest). [low german or dutch]
+Leak  —n. 1 a hole through which matter passes accidentally in or out. B matter passing through thus. C act of passing through thus. 2 a similar escape of electrical charge. B charge that escapes. 3 disclosure of secret information. —v. 1 a pass through a leak. B lose or admit through a leak. 2 disclose (secret information). 3 (often foll. By out) become known. * have (or take) a leak slang urinate. * leaky adj. (-ier, -iest). [low german or dutch]
 
 Leakage  n. Action or result of leaking.
 
-Lean1  —v. (past and past part. Leaned or leant) 1 (often foll. By across, back, over, etc.) Be or place in a sloping position; incline from the perpendicular. 2 (foll. By against, on, upon) (cause to) rest for support against etc. 3 (foll. By on, upon) rely on. 4 (foll. By to, towards) be inclined or partial to. —n. Deviation from the perpendicular; inclination.  lean on colloq. Put pressure on (a person) to act in a certain way. Lean over backwards see *backwards. [old english]
+Lean1  —v. (past and past part. Leaned or leant) 1 (often foll. By across, back, over, etc.) Be or place in a sloping position; incline from the perpendicular. 2 (foll. By against, on, upon) (cause to) rest for support against etc. 3 (foll. By on, upon) rely on. 4 (foll. By to, towards) be inclined or partial to. —n. Deviation from the perpendicular; inclination. * lean on colloq. Put pressure on (a person) to act in a certain way. Lean over backwards see *backwards. [old english]
 
-Lean2  —adj. 1 (of a person or animal) thin; having no superfluous fat. 2 (of meat) containing little fat. 3 meagre. —n. Lean part of meat.  leanness n. [old english]
+Lean2  —adj. 1 (of a person or animal) thin; having no superfluous fat. 2 (of meat) containing little fat. 3 meagre. —n. Lean part of meat. * leanness n. [old english]
 
 Leaning  n. Tendency or partiality.
 
@@ -708,7 +708,7 @@ Lean-to  n. (pl. -tos) building with its roof leaning against a larger building 
 
 Lean years  n.pl. Years of scarcity.
 
-Leap  —v. (past and past part. Leaped or leapt) jump or spring forcefully. —n. Forceful jump.  by leaps and bounds with startlingly rapid progress. Leap in the dark daring step or enterprise. [old english]
+Leap  —v. (past and past part. Leaped or leapt) jump or spring forcefully. —n. Forceful jump. * by leaps and bounds with startlingly rapid progress. Leap in the dark daring step or enterprise. [old english]
 
 Leap-frog  —n. Game in which players vault with parted legs over others bending down. —v. (-gg-) 1 perform such a vault (over). 2 overtake alternately.
 
@@ -722,13 +722,13 @@ Learner  n. 1 person who is learning a subject or skill. 2 (in full learner driv
 
 Learning  n. Knowledge acquired by study.
 
-Lease  —n. Contract by which the owner of property allows another to use it for a specified time, usu. In return for payment. —v. (-sing) grant or take on lease.  new lease of (us on) life improved prospect of living, or of use after repair. [anglo-french lesser let, from latin laxo loosen]
+Lease  —n. Contract by which the owner of property allows another to use it for a specified time, usu. In return for payment. —v. (-sing) grant or take on lease. * new lease of (us on) life improved prospect of living, or of use after repair. [anglo-french lesser let, from latin laxo loosen]
 
-Leasehold  n. 1 holding of property by lease. 2 property held by lease.  leaseholder n.
+Leasehold  n. 1 holding of property by lease. 2 property held by lease. * leaseholder n.
 
-Leash  —n. Strap for holding a dog etc.; lead. —v. 1 put a leash on. 2 restrain.  straining at the leash eager to begin. [french lesse: related to *lease]
+Leash  —n. Strap for holding a dog etc.; lead. —v. 1 put a leash on. 2 restrain. * straining at the leash eager to begin. [french lesse: related to *lease]
 
-Least  —adj. 1 smallest, slightest. 2 (of a species etc.) Very small. —n. The least amount. —adv. In the least degree.  at least 1 at any rate. 2 (also at the least) not less than. In the least (or the least) (usu. With neg.) At all (not in the least offended). To say the least putting the case moderately. [old english, superlative of *less]
+Least  —adj. 1 smallest, slightest. 2 (of a species etc.) Very small. —n. The least amount. —adv. In the least degree. * at least 1 at any rate. 2 (also at the least) not less than. In the least (or the least) (usu. With neg.) At all (not in the least offended). To say the least putting the case moderately. [old english, superlative of *less]
 
 Least common denominator  n. = *lowest common denominator.
 
@@ -746,9 +746,9 @@ Leather-jacket  n. Crane-fly grub with a tough skin.
 
 Leathery  adj. 1 like leather. 2 tough.
 
-Leave1  v. (-ving; past and past part. Left) 1 a go away from. B (often foll. By for) depart. 2 cause to or let remain; depart without taking. 3 (also absol.) Cease to reside at or belong to or work for. 4 abandon; cease to live with (one's family etc.). 5 have remaining after one's death. 6 bequeath. 7 (foll. By to + infin.) Allow (a person or thing) to do something independently. 8 (foll. By to) commit to another person etc. (leave that to me). 9 a abstain from consuming or dealing with. B (in passive; often foll. By over) remain over. 10 a deposit or entrust (a thing) to be attended to in one's absence (left a message with his secretary). B depute (a person) to perform a function in one's absence. 11 allow to remain or cause to be in a specified state or position (left the door open; left me exhausted).  leave alone refrain from disturbing, not interfere with. Leave a person cold not impress or excite a person. Leave off 1 come to or make an end. 2 discontinue. Leave out omit; exclude. [old english]
+Leave1  v. (-ving; past and past part. Left) 1 a go away from. B (often foll. By for) depart. 2 cause to or let remain; depart without taking. 3 (also absol.) Cease to reside at or belong to or work for. 4 abandon; cease to live with (one's family etc.). 5 have remaining after one's death. 6 bequeath. 7 (foll. By to + infin.) Allow (a person or thing) to do something independently. 8 (foll. By to) commit to another person etc. (leave that to me). 9 a abstain from consuming or dealing with. B (in passive; often foll. By over) remain over. 10 a deposit or entrust (a thing) to be attended to in one's absence (left a message with his secretary). B depute (a person) to perform a function in one's absence. 11 allow to remain or cause to be in a specified state or position (left the door open; left me exhausted). * leave alone refrain from disturbing, not interfere with. Leave a person cold not impress or excite a person. Leave off 1 come to or make an end. 2 discontinue. Leave out omit; exclude. [old english]
 
-Leave2  n. 1 (often foll. By to + infin.) Permission. 2 a (in full leave of absence) permission to be absent from duty. B period for which this lasts.  on leave legitimately absent from duty. Take one's leave (of) bid farewell (to). Take leave of one's senses go mad. [old english]
+Leave2  n. 1 (often foll. By to + infin.) Permission. 2 a (in full leave of absence) permission to be absent from duty. B period for which this lasts. * on leave legitimately absent from duty. Take one's leave (of) bid farewell (to). Take leave of one's senses go mad. [old english]
 
 Leaved  adj. Having a leaf or leaves, esp. (in comb.) Of a specified kind or number (four-leaved clover).
 
@@ -766,13 +766,13 @@ Lech  colloq. —v. (often foll. By after) lust. —n. 1 lecherous man. 2 lust. 
 
 Lecher  n. Lecherous man. [french lechier live in debauchery]
 
-Lecherous  adj. Lustful, having excessive sexual desire.  lecherously adv.
+Lecherous  adj. Lustful, having excessive sexual desire. * lecherously adv.
 
 Lechery  n. Excessive sexual desire.
 
 Lectern  n. 1 stand for holding a book in a church etc. 2 similar stand for a lecturer etc. [latin lectrum from lego read]
 
-Lecture  —n. 1 talk giving specified information to a class etc. 2 long serious speech, esp. As a reprimand. —v. (-ring) 1 (often foll. By on) deliver lecture(s). 2 talk seriously or reprovingly to.  lectureship n. [latin: related to *lectern]
+Lecture  —n. 1 talk giving specified information to a class etc. 2 long serious speech, esp. As a reprimand. —v. (-ring) 1 (often foll. By on) deliver lecture(s). 2 talk seriously or reprovingly to. * lectureship n. [latin: related to *lectern]
 
 Lecturer  n. Person who lectures, esp. As a teacher in higher education.
 
@@ -810,11 +810,11 @@ Left bank  n. Bank of a river on the left facing downstream.
 
 Left-hand  attrib. Adj. 1 on or towards the left side of a person or thing. 2 done with the left hand. 3 (of a screw) = *left-handed 4b.
 
-Left-handed  adj. 1 naturally using the left hand for writing etc. 2 (of a tool etc.) For use by the left hand. 3 (of a blow) struck with the left hand. 4 a turning to the left. B (of a screw) turned anticlockwise to tighten. 5 awkward, clumsy. 6 a (of a compliment) ambiguous. B of doubtful sincerity.  left-handedly adv. Left-handedness n.
+Left-handed  adj. 1 naturally using the left hand for writing etc. 2 (of a tool etc.) For use by the left hand. 3 (of a blow) struck with the left hand. 4 a turning to the left. B (of a screw) turned anticlockwise to tighten. 5 awkward, clumsy. 6 a (of a compliment) ambiguous. B of doubtful sincerity. * left-handedly adv. Left-handedness n.
 
 Left-hander  n. 1 left-handed person. 2 left-handed blow.
 
-Leftism  n. Socialist political principles.  leftist n. & adj.
+Leftism  n. Socialist political principles. * leftist n. & adj.
 
 Left luggage  n. Luggage deposited for later retrieval.
 
@@ -824,25 +824,25 @@ Leftover  —n. (usu. In pl.) Surplus items (esp. Of food). —attrib. Adj. Rema
 
 Leftward  —adv. (also leftwards) towards the left. —adj. Going towards or facing the left.
 
-Left wing  —n. 1 more socialist section of a political party or system. 2 left side of a football etc. Team on the field. —adj. (left-wing) socialist, radical.  left-winger n.
+Left wing  —n. 1 more socialist section of a political party or system. 2 left side of a football etc. Team on the field. —adj. (left-wing) socialist, radical. * left-winger n.
 
 Lefty  n. (pl. -ies) colloq. 1 polit. Often derog. Left-winger. 2 left-handed person.
 
-Leg  n. 1 each of the limbs on which a person or animal walks and stands. 2 leg of an animal or bird as food. 3 part of a garment covering a leg. 4 support of a chair, table, etc. 5 cricket the half of the field (divided lengthways) in which the batsman's feet are placed. 6 a section of a journey. B section of a relay race. C stage in a competition.  leg it (-gg-) colloq. Walk or run hard. Not have a leg to stand on be unable to support one's argument by facts or sound reasons. On one's last legs near death or the end of usefulness etc.  legged adj. (also in comb.). [old norse]
+Leg  n. 1 each of the limbs on which a person or animal walks and stands. 2 leg of an animal or bird as food. 3 part of a garment covering a leg. 4 support of a chair, table, etc. 5 cricket the half of the field (divided lengthways) in which the batsman's feet are placed. 6 a section of a journey. B section of a relay race. C stage in a competition. * leg it (-gg-) colloq. Walk or run hard. Not have a leg to stand on be unable to support one's argument by facts or sound reasons. On one's last legs near death or the end of usefulness etc. * legged adj. (also in comb.). [old norse]
 
 Legacy  n. (pl. -ies) 1 gift left in a will. 2 thing handed down by a predecessor. [latin lego bequeath]
 
-Legal  adj. 1 of or based on law; concerned with law. 2 appointed or required by law. 3 permitted by law.  legally adv. [latin lex leg- law]
+Legal  adj. 1 of or based on law; concerned with law. 2 appointed or required by law. 3 permitted by law. * legally adv. [latin lex leg- law]
 
 Legal aid  n. State assistance for legal advice or action.
 
 Legalese  n. Colloq. Technical language of legal documents.
 
-Legalistic  adj. Adhering excessively to a law or formula.  legalism n. Legalist n.
+Legalistic  adj. Adhering excessively to a law or formula. * legalism n. Legalist n.
 
 Legality  n. (pl. -ies) 1 lawfulness. 2 (in pl.) Obligations imposed by law.
 
-Legalize  v. (also -ise) (-zing or -sing) 1 make lawful. 2 bring into harmony with the law.  legalization n.
+Legalize  v. (also -ise) (-zing or -sing) 1 make lawful. 2 bring into harmony with the law. * legalization n.
 
 Legal separation  see *separation.
 
@@ -868,11 +868,11 @@ Legerdemain  n. 1 sleight of hand. 2 trickery, sophistry. [french, = light of ha
 
 Leger line  n. Mus. Short line added for notes above or below the range of a staff. [var. Of *ledger]
 
-Legging  n. (usu. In pl.) 1  close-fitting knitted trousers for women or children. 2 stout protective outer covering for the lower leg.
+Legging  n. (usu. In pl.) 1 close-fitting knitted trousers for women or children. 2 stout protective outer covering for the lower leg.
 
-Leggy  adj. (-ier, -iest) 1 long-legged. 2 long-stemmed and weak.  legginess n.
+Leggy  adj. (-ier, -iest) 1 long-legged. 2 long-stemmed and weak. * legginess n.
 
-Legible  adj. Clear enough to read; readable.  legibility n. Legibly adv. [latin lego read]
+Legible  adj. Clear enough to read; readable. * legibility n. Legibly adv. [latin lego read]
 
 Legion  —n. 1 division of 3,000–6,000 men in the ancient roman army. 2 large organized body. —predic. Adj. Great in number (his good works were legion). [latin legio -onis]
 
@@ -882,7 +882,7 @@ Legionnaire  n. Member of a legion. [french: related to *legion]
 
 Legionnaires' disease  n. Form of bacterial pneumonia.
 
-Legislate  v. (-ting) make laws.  legislator n. [from *legislation]
+Legislate  v. (-ting) make laws. * legislator n. [from *legislation]
 
 Legislation  n. 1 law-making. 2 laws collectively. [latin lex legis law, latus past part. Of fero carry]
 
@@ -892,11 +892,11 @@ Legislature  n. Legislative body of a state.
 
 Legit  adj. Colloq. Legitimate (in sense 2). [abbreviation]
 
-Legitimate  adj. 1 (of a child) born of parents married to each other. 2 lawful, proper, regular. 3 logically acceptable.  legitimacy n. Legitimately adv. [latin legitimo legitimize, from lex legis law]
+Legitimate  adj. 1 (of a child) born of parents married to each other. 2 lawful, proper, regular. 3 logically acceptable. * legitimacy n. Legitimately adv. [latin legitimo legitimize, from lex legis law]
 
 Legitimatize  v. (also -ise) (-zing or -sing) legitimize.
 
-Legitimize  v. (also -ise) (-zing or -sing) 1 make legitimate. 2 serve as a justification for.  legitimization n.
+Legitimize  v. (also -ise) (-zing or -sing) 1 make legitimate. 2 serve as a justification for. * legitimization n.
 
 Legless  adj. 1 having no legs. 2 slang very drunk.
 
@@ -911,19 +911,20 @@ Leg-room  n. Space for the legs of a seated person.
 Legume  n. 1 leguminous plant. 2 edible part of a leguminous plant. [latin legumen -minis from lego pick, because pickable by hand]
 
 Leguminous  adj. Of the family of plants with seeds in pods (e.g. Peas and beans).
+
 Leg up  n. Help given to mount a horse etc., or to overcome an obstacle or problem; boost.
 
 Leg warmer  n. Either of a pair of tubular knitted garments covering the leg from ankle to knee or thigh.
 
 Lei  n. Polynesian garland of flowers. [hawaiian]
 
-Leisure  n. 1 free time. 2 enjoyment of free time.  at leisure 1 not occupied. 2 in an unhurried manner. At one's leisure when one has time. [anglo-french leisour from latin licet it is allowed]
+Leisure  n. 1 free time. 2 enjoyment of free time. * at leisure 1 not occupied. 2 in an unhurried manner. At one's leisure when one has time. [anglo-french leisour from latin licet it is allowed]
 
 Leisure centre  n. Public building with sports facilities etc.
 
 Leisured  adj. Having ample leisure.
 
-Leisurely  —adj. Unhurried, relaxed. —adv. Without hurry.  leisureliness n.
+Leisurely  —adj. Unhurried, relaxed. —adv. Without hurry. * leisureliness n.
 
 Leisurewear  n. Informal clothes, esp. Sportswear.
 
@@ -931,7 +932,7 @@ Leitmotif  n. (also leitmotiv) recurrent theme in a musical etc. Composition rep
 
 Lemming  n. Small arctic rodent reputed to rush into the sea and drown during migration. [norwegian]
 
-Lemon  n. 1 a yellow oval citrus fruit with acidic juice. B tree bearing it. 2 pale yellow colour. 3 colloq. Person or thing regarded as a failure.  lemony adj. [arabic laimun]
+Lemon  n. 1 a yellow oval citrus fruit with acidic juice. B tree bearing it. 2 pale yellow colour. 3 colloq. Person or thing regarded as a failure. * lemony adj. [arabic laimun]
 
 Lemonade  n. 1 drink made from lemon juice. 2 synthetic substitute for this.
 
@@ -945,9 +946,9 @@ Lemon sole  n. (pl. Same or -s) flat-fish of the plaice family. [french limande]
 
 Lemur  n. Tree-dwelling primate of madagascar. [latin lemures ghosts]
 
-Lend  v. (past and past part. Lent) 1 (usu. Foll. By to) grant (to a person) the use of (a thing) on the understanding that it or its equivalent shall be returned. 2 allow the use of (money) at interest. 3 bestow or contribute (lends a certain charm).  lend an ear listen. Lend a hand help. Lend itself to (of a thing) be suitable for.  lender n. [old english: related to *loan]
+Lend  v. (past and past part. Lent) 1 (usu. Foll. By to) grant (to a person) the use of (a thing) on the understanding that it or its equivalent shall be returned. 2 allow the use of (money) at interest. 3 bestow or contribute (lends a certain charm). * lend an ear listen. Lend a hand help. Lend itself to (of a thing) be suitable for. * lender n. [old english: related to *loan]
 
-Length  n. 1 measurement or extent from end to end. 2 extent in or of time. 3 distance a thing extends. 4 length of a horse, boat, etc., as a measure of the lead in a race. 5 long stretch or extent. 6 degree of thoroughness in action (went to great lengths). 7 piece of a certain length (length of cloth). 8 prosody quantity of a vowel or syllable. 9 cricket a distance from the batsman at which the ball pitches. B proper amount of this. 10 length of a swimming-pool as a measure of distance swum. at length 1 in detail. 2 after a long time. [old english: related to *long1]
+Length  n. 1 measurement or extent from end to end. 2 extent in or of time. 3 distance a thing extends. 4 length of a horse, boat, etc., as a measure of the lead in a race. 5 long stretch or extent. 6 degree of thoroughness in action (went to great lengths). 7 piece of a certain length (length of cloth). 8 prosody quantity of a vowel or syllable. 9 cricket a distance from the batsman at which the ball pitches. B proper amount of this. 10 length of a swimming-pool as a measure of distance swum.* at length 1 in detail. 2 after a long time. [old english: related to *long1]
 
 Lengthen  v. Make or become longer.
 
@@ -955,13 +956,13 @@ Lengthways  adv. In a direction parallel with a thing's length.
 
 Lengthwise  —adv. Lengthways. —adj. Lying or moving lengthways.
 
-Lengthy  adj. (-ier, -iest) of unusual or tedious length.  lengthily adv. Lengthiness n.
+Lengthy  adj. (-ier, -iest) of unusual or tedious length. * lengthily adv. Lengthiness n.
 
-Lenient  adj. Merciful, not severe.  lenience n. Leniency n. Leniently adv. [latin lenis gentle]
+Lenient  adj. Merciful, not severe. * lenience n. Leniency n. Leniently adv. [latin lenis gentle]
 
 Lens  n. 1 piece of a transparent substance with one or (usu.) Both sides curved for concentrating or dispersing light-rays esp. In optical instruments. 2 combination of lenses used in photography. 3 transparent substance behind the iris of the eye. 4 = *contact lens. [latin lens lent- lentil (from the similarity of shape)]
 
-Lent  n. Eccl. Period of fasting and penitence from ash wednesday to holy saturday.  lenten adj. [old english, = spring]
+Lent  n. Eccl. Period of fasting and penitence from ash wednesday to holy saturday. * lenten adj. [old english, = spring]
 
 Lent  past and past part. Of *lend.
 
@@ -979,13 +980,13 @@ Leotard  n. Close-fitting one-piece garment worn by dancers etc. [léotard, name
 
 Leper  n. 1 person with leprosy. 2 person who is shunned. [greek lepros scaly]
 
-Lepidopterous  adj. Of the order of insects with four scale-covered wings, including butterflies and moths.  lepidopterist n. [greek lepis -idos scale, pteron wing]
+Lepidopterous  adj. Of the order of insects with four scale-covered wings, including butterflies and moths. * lepidopterist n. [greek lepis -idos scale, pteron wing]
 
 Leprechaun  n. Small mischievous sprite in irish folklore. [irish lu small, corp body]
 
-Leprosy  n. Contagious disease that damages the skin and nerves.  leprous adj. [related to *leper]
+Leprosy  n. Contagious disease that damages the skin and nerves. * leprous adj. [related to *leper]
 
-Lesbian  —n. Homosexual woman. —adj. Of female homosexuality.  lesbianism n. [lesbos, name of an island in the aegean sea]
+Lesbian  —n. Homosexual woman. —adj. Of female homosexuality. * lesbianism n. [lesbos, name of an island in the aegean sea]
 
 Lese-majesty  n. 1 treason. 2 insult to a sovereign or ruler. 3 presumptuous conduct. [french lèse-majesté injured sovereignty]
 
@@ -1007,21 +1008,21 @@ Lessor  n. Person who lets a property by lease. [anglo-french: related to *lease
 
 Lest  conj. Formal 1 in order that not, for fear that (lest he forget). 2 that (afraid lest we should be late). [old english: related to *less]
 
-Let1  —v. (-tt-; past and past part. Let) 1 a allow to, not prevent or forbid. B cause to (let me know). 2 (foll. By into) allow to enter. 3 grant the use of (rooms, land, etc.) For rent or hire. 4 allow or cause (liquid or air) to escape (let blood). 5 aux. Supplying the first and third persons of the imperative in exhortations (let us pray), commands (let it be done at once; let there be light), assumptions, etc. (let ab equal cd). —n. Act of letting a house, room, etc.  let alone 1 not to mention, far less or more (hasn't got a television, let alone a video). 2 = let be. Let be not interfere with, attend to, or do. Let down 1 lower. 2 fail to support or satisfy, disappoint. 3 lengthen (a garment). 4 deflate (a tyre). Let down gently reject or disappoint without humiliating. Let drop (or fall) drop (esp. A word or hint) intentionally or by accident. Let go 1 release. 2 a (often foll. By of) lose one's hold. B lose hold of. Let oneself go 1 act spontaneously. 2 neglect one's appearance or habits. Let in 1 allow to enter (let the dog in; let in a flood of light). 2 (foll. By for) involve (a person, often oneself) in loss or difficulty. 3 (foll. By on) allow (a person) to share a secret, privileges, etc. Let loose release, unchain. Let off 1 a fire (a gun). B explode (a bomb). 2 allow or cause (steam etc.) To escape. 3 a not punish or compel. B (foll. By with) punish lightly.
+Let1  —v. (-tt-; past and past part. Let) 1 a allow to, not prevent or forbid. B cause to (let me know). 2 (foll. By into) allow to enter. 3 grant the use of (rooms, land, etc.) For rent or hire. 4 allow or cause (liquid or air) to escape (let blood). 5 aux. Supplying the first and third persons of the imperative in exhortations (let us pray), commands (let it be done at once; let there be light), assumptions, etc. (let ab equal cd). —n. Act of letting a house, room, etc. * let alone 1 not to mention, far less or more (hasn't got a television, let alone a video). 2 = let be. Let be not interfere with, attend to, or do. Let down 1 lower. 2 fail to support or satisfy, disappoint. 3 lengthen (a garment). 4 deflate (a tyre). Let down gently reject or disappoint without humiliating. Let drop (or fall) drop (esp. A word or hint) intentionally or by accident. Let go 1 release. 2 a (often foll. By of) lose one's hold. B lose hold of. Let oneself go 1 act spontaneously. 2 neglect one's appearance or habits. Let in 1 allow to enter (let the dog in; let in a flood of light). 2 (foll. By for) involve (a person, often oneself) in loss or difficulty. 3 (foll. By on) allow (a person) to share a secret, privileges, etc. Let loose release, unchain. Let off 1 a fire (a gun). B explode (a bomb). 2 allow or cause (steam etc.) To escape. 3 a not punish or compel. B (foll. By with) punish lightly.
 
-Let2  —n. Obstruction of a ball or player in tennis etc., requiring the ball to be served again. —v. (-tt-; past and past part. Letted or let) archaic hinder, obstruct.  without let or hindrance unimpeded. [old english: related to *late]
+Let2  —n. Obstruction of a ball or player in tennis etc., requiring the ball to be served again. —v. (-tt-; past and past part. Letted or let) archaic hinder, obstruct. * without let or hindrance unimpeded. [old english: related to *late]
 
 -let  suffix forming nouns, usu. Diminutive (flatlet) or denoting articles of ornament or dress (anklet). [french]
 
 Let-down  n. Disappointment.
 
-Lethal  adj. Causing or sufficient to cause death.  lethally adv. [latin letum death]
+Lethal  adj. Causing or sufficient to cause death. * lethally adv. [latin letum death]
 
-Lethargy  n. 1 lack of energy. 2 morbid drowsiness.  lethargic adj. Lethargically adv. [greek lethargos forgetful]
+Lethargy  n. 1 lack of energy. 2 morbid drowsiness. * lethargic adj. Lethargically adv. [greek lethargos forgetful]
 
 Let-out  n. Colloq. Opportunity to escape a commitment etc.
 
-Letter  —n. 1 character representing one or more of the sounds used in speech. 2 a written or printed message, usu. Sent in an envelope by post. B (in pl.) Addressed legal or formal document. 3 precise terms of a statement, the strict verbal interpretation (letter of the law). 4 (in pl.) A literature. B acquaintance with books, erudition. —v. 1 inscribe letters on. 2 classify with letters.  to the letter with adherence to every detail. [french from latin littera]
+Letter  —n. 1 character representing one or more of the sounds used in speech. 2 a written or printed message, usu. Sent in an envelope by post. B (in pl.) Addressed legal or formal document. 3 precise terms of a statement, the strict verbal interpretation (letter of the law). 4 (in pl.) A literature. B acquaintance with books, erudition. —v. 1 inscribe letters on. 2 classify with letters. * to the letter with adherence to every detail. [french from latin littera]
 
 Letter-bomb  n. Terrorist explosive device in the form of a postal packet.
 
@@ -1046,19 +1047,20 @@ Leucocyte  n. White blood cell.
 Leukaemia  n. (us leukemia) malignant disease in which the bone-marrow etc. Produces too many leucocytes. [greek leukos white, haima blood]
 
 Leukemia  n. (brit. Leukaemia) malignant disease in which the bone-marrow etc. Produces too many leucocytes. [greek leukos white, haima blood]
+
 Levant  n. (prec. By the) archaic eastern mediterranean countries. [french, = point of sunrise, from latin levo lift]
 
 Levantine  —adj. Of or trading to the levant. —n. Native or inhabitant of the levant.
 
 Levee  n. Us 1 embankment against river floods. 2 natural embankment built up by a river. 3 landing-place. [french levée past part. Of lever raise: related to *levy]
 
-Level  —n. 1 horizontal line or plane. 2 height or value reached; position on a real or imaginary scale (eye level; sugar level; danger level). 3 social, moral, or intellectual standard. 4 plane of rank or authority (talks at cabinet level). 5 instrument giving a line parallel to the plane of the horizon. 6 level surface. 7 flat tract of land. —adj. 1 flat and even; not bumpy. 2 horizontal. 3 (often foll. By with) a on the same horizontal plane as something else. B having equality with something else. 4 even, uniform, equable, or well-balanced. —v. (-ll-; us -l-) 1 make level. 2 raze. 3 (also absol.) Aim (a missile or gun). 4 (also absol.; foll. By at, against) direct (an accusation etc.).  do one's level best colloq. Do one's utmost. Find one's level reach the right social, intellectual, etc. Position. Level down bring down to a standard. Level off make or become level. Level out make or become level. Level up bring up to a standard. On the level 1 honestly, without deception. 2 honest, truthful. On a level with 1 in the same horizontal plane as. 2 equal with. [latin diminutive of libra balance]
+Level  —n. 1 horizontal line or plane. 2 height or value reached; position on a real or imaginary scale (eye level; sugar level; danger level). 3 social, moral, or intellectual standard. 4 plane of rank or authority (talks at cabinet level). 5 instrument giving a line parallel to the plane of the horizon. 6 level surface. 7 flat tract of land. —adj. 1 flat and even; not bumpy. 2 horizontal. 3 (often foll. By with) a on the same horizontal plane as something else. B having equality with something else. 4 even, uniform, equable, or well-balanced. —v. (-ll-; us -l-) 1 make level. 2 raze. 3 (also absol.) Aim (a missile or gun). 4 (also absol.; foll. By at, against) direct (an accusation etc.). * do one's level best colloq. Do one's utmost. Find one's level reach the right social, intellectual, etc. Position. Level down bring down to a standard. Level off make or become level. Level out make or become level. Level up bring up to a standard. On the level 1 honestly, without deception. 2 honest, truthful. On a level with 1 in the same horizontal plane as. 2 equal with. [latin diminutive of libra balance]
 
 Level crossing  n. Crossing of a railway and a road, or two railways, at the same level.
 
 Leveler  n. (brit. Leveller) 1 person who advocates the abolition of social distinctions. 2 person or thing that levels.
 
-Level-headed  adj. Mentally well-balanced, sensible.  level-headedness n.
+Level-headed  adj. Mentally well-balanced, sensible. * level-headedness n.
 
 Leveller  n. (us leveler) 1 person who advocates the abolition of social distinctions. 2 person or thing that levels.
 
@@ -1076,7 +1078,7 @@ Leviathan  n. 1 bibl. Sea-monster. 2 very large or powerful thing. [latin from h
 
 Levis  n.pl. (also levi's propr.) Type of (orig. Blue) denim jeans or overalls reinforced with rivets. [levi strauss, name of the manufacturer]
 
-Levitate  v. (-ting) 1 rise and float in the air (esp. With reference to spiritualism). 2 cause to do this.  levitation n. [latin levis light, after *gravitate]
+Levitate  v. (-ting) 1 rise and float in the air (esp. With reference to spiritualism). 2 cause to do this. * levitation n. [latin levis light, after *gravitate]
 
 Levity  n. Lack of serious thought, frivolity. [latin levis light]
 
@@ -1086,7 +1088,7 @@ Lewd  adj. 1 lascivious. 2 obscene. [old english, originally = lay, vulgar]
 
 Lexical  adj. 1 of the words of a language. 2 of or as of a lexicon. [greek lexikos, lexikon: see *lexicon]
 
-Lexicography  n. Compiling of dictionaries.  lexicographer n. [from *lexicon, *-graphy]
+Lexicography  n. Compiling of dictionaries. * lexicographer n. [from *lexicon, *-graphy]
 
 Lexicon  n. 1 dictionary, esp. Of greek, hebrew, syriac, or arabic. 2 vocabulary of a person etc. [greek lexis word]
 
@@ -1114,31 +1116,31 @@ Lib  n. Colloq. (in names of political movements) liberation. [abbreviation]
 
 Libation  n. 1 pouring out of a drink-offering to a god. 2 such a drink-offering. [latin]
 
-Libel  —n. 1 law a published false statement that is damaging to a person's reputation. B act of publishing this. 2 false and defamatory misrepresentation or statement. —v. (-ll-; us -l-) 1 defame by libellous statements. 2 law publish a libel against.  libellous adj. [latin libellus diminutive of liber book]
+Libel  —n. 1 law a published false statement that is damaging to a person's reputation. B act of publishing this. 2 false and defamatory misrepresentation or statement. —v. (-ll-; us -l-) 1 defame by libellous statements. 2 law publish a libel against. * libellous adj. [latin libellus diminutive of liber book]
 
-Liberal  —adj. 1 abundant, ample. 2 giving freely, generous. 3 open-minded. 4 not strict or rigorous. 5 for the general broadening of the mind (liberal studies). 6 a favouring moderate political and social reform. B (liberal) of or characteristic of liberals. —n. 1 person of liberal views. 2 (liberal) supporter or member of a liberal party.  liberalism n. Liberality n. Liberally adv. [latin liber free]
+Liberal  —adj. 1 abundant, ample. 2 giving freely, generous. 3 open-minded. 4 not strict or rigorous. 5 for the general broadening of the mind (liberal studies). 6 a favouring moderate political and social reform. B (liberal) of or characteristic of liberals. —n. 1 person of liberal views. 2 (liberal) supporter or member of a liberal party. * liberalism n. Liberality n. Liberally adv. [latin liber free]
 
 Liberal democrat  n. Member of the party formed from the liberal party and the social democratic party.
 
-Liberalize  v. (also -ise) (-zing or -sing) make or become more liberal or less strict.  liberalization n.
+Liberalize  v. (also -ise) (-zing or -sing) make or become more liberal or less strict. * liberalization n.
 
-Liberate  v. (-ting) 1 (often foll. By from) set free. 2 free (a country etc.) From an oppressor or enemy. 3 (often as liberated adj.) Free (a person) from rigid social conventions.  liberation n. Liberator n. [latin liberare liberat- from liber free]
+Liberate  v. (-ting) 1 (often foll. By from) set free. 2 free (a country etc.) From an oppressor or enemy. 3 (often as liberated adj.) Free (a person) from rigid social conventions. * liberation n. Liberator n. [latin liberare liberat- from liber free]
 
 Libertine  —n. Licentious person, rake. —adj. Licentious. [latin, = freedman, from liber free]
 
-Liberty  n. (pl. -ies) 1 freedom from captivity etc. 2 right or power to do as one pleases. 3 (usu. In pl.) Right or privilege granted by authority.  at liberty 1 free. 2 (foll. By to + infin.) Permitted. Take liberties (often foll. By with) behave in an unduly familiar manner. [latin: related to *liberal]
+Liberty  n. (pl. -ies) 1 freedom from captivity etc. 2 right or power to do as one pleases. 3 (usu. In pl.) Right or privilege granted by authority. * at liberty 1 free. 2 (foll. By to + infin.) Permitted. Take liberties (often foll. By with) behave in an unduly familiar manner. [latin: related to *liberal]
 
 Libidinous  adj. Lustful. [latin: related to *libido]
 
-Libido  n. (pl. -s) psychic drive or energy, esp. That associated with sexual desire.  libidinal adj. [latin, = lust]
+Libido  n. (pl. -s) psychic drive or energy, esp. That associated with sexual desire. * libidinal adj. [latin, = lust]
 
 Libra  n. 1 constellation and seventh sign of the zodiac (the scales). 2 person born when the sun is in this sign. [latin, = pound weight]
 
-Librarian  n. Person in charge of or assisting in a library.  librarianship n.
+Librarian  n. Person in charge of or assisting in a library. * librarianship n.
 
 Library  n. (pl. -ies) 1 collection of books. 2 room or building where these are kept. 3 a similar collection of films, records, computer routines, etc. B place where these are kept. 4 set of books issued in similar bindings. [latin liber book]
 
-Libretto  n. (pl. -ti or -s) text of an opera etc.  librettist n. [italian, = little book]
+Libretto  n. (pl. -ti or -s) text of an opera etc. * librettist n. [italian, = little book]
 
 Lice  pl. Of *louse.
 
@@ -1162,25 +1164,26 @@ Lich-gate  n. (also lych-gate) roofed gateway to a churchyard where a coffin awa
 
 Licit  adj. Formal permitted, lawful. [latin: related to *licence]
 
-Lick  —v. 1 pass the tongue over. 2 bring into a specified condition by licking (licked it all up; licked it clean). 3 (of a flame etc.) Play lightly over. 4 colloq. Defeat. 5 colloq. Thrash. —n. 1 act of licking with the tongue. 2 colloq. Fast pace (at a lick). 3 smart blow.  lick a person's boots be servile. Lick into shape make presentable or efficient. Lick one's lips (or chops) look forward with relish. Lick one's wounds be in retirement regaining strength etc. After defeat. [old english]
+Lick  —v. 1 pass the tongue over. 2 bring into a specified condition by licking (licked it all up; licked it clean). 3 (of a flame etc.) Play lightly over. 4 colloq. Defeat. 5 colloq. Thrash. —n. 1 act of licking with the tongue. 2 colloq. Fast pace (at a lick). 3 smart blow. * lick a person's boots be servile. Lick into shape make presentable or efficient. Lick one's lips (or chops) look forward with relish. Lick one's wounds be in retirement regaining strength etc. After defeat. [old english]
 
 Lick and a promise  n. Colloq. Hasty performance of a task, esp. Washing oneself.
 
 Licorice  var. Of *liquorice.
 
-Lid  n. 1 hinged or removable cover, esp. For a container. 2 = *eyelid.  put the lid on colloq. 1 be the culmination of. 2 put a stop to.  lidded adj. (also in comb.). [old english]
+Lid  n. 1 hinged or removable cover, esp. For a container. 2 = *eyelid. * put the lid on colloq. 1 be the culmination of. 2 put a stop to. * lidded adj. (also in comb.). [old english]
 
 Lido  n. (pl. -s) public open-air swimming-pool or bathing-beach. [lido, name of a beach near venice]
 
-Lie1  —v. (lies; lying; past lay; past part. Lain) 1 be in or assume a horizontal position on a surface; be at rest on something. 2 (of a thing) rest flat on a surface. 3 remain undisturbed or undiscussed etc. (let matters lie). 4 a be kept, remain, or be in a specified state or place (lie hidden; lie in wait; books lay unread). B (of abstract things) exist; be in a certain position or relation (answer lies in education). 5 a be situated (village lay to the east). B be spread out to view. —n. Way, direction, or position in which a thing lies.  lie down assume a lying position; have a short rest. Lie down under accept (an insult etc.) Without protest. Lie in stay in bed late in the morning. Lie low 1 keep quiet or unseen. 2 be discreet about one's intentions. Lie with be the responsibility of (a person) (decision lies with you). Take lying down (usu. With neg.) Accept (an insult etc.) Without protest. [old english]
+Lie1  —v. (lies; lying; past lay; past part. Lain) 1 be in or assume a horizontal position on a surface; be at rest on something. 2 (of a thing) rest flat on a surface. 3 remain undisturbed or undiscussed etc. (let matters lie). 4 a be kept, remain, or be in a specified state or place (lie hidden; lie in wait; books lay unread). B (of abstract things) exist; be in a certain position or relation (answer lies in education). 5 a be situated (village lay to the east). B be spread out to view. —n. Way, direction, or position in which a thing lies. * lie down assume a lying position; have a short rest. Lie down under accept (an insult etc.) Without protest. Lie in stay in bed late in the morning. Lie low 1 keep quiet or unseen. 2 be discreet about one's intentions. Lie with be the responsibility of (a person) (decision lies with you). Take lying down (usu. With neg.) Accept (an insult etc.) Without protest. [old english]
 
-Lie2  —n. 1 intentionally false statement (tell a lie). 2 something that deceives. —v. (lies, lied, lying) 1 tell a lie or lies. 2 (of a thing) be deceptive.  give the lie to show the falsity of (a supposition etc.). [old english]
+Lie2  —n. 1 intentionally false statement (tell a lie). 2 something that deceives. —v. (lies, lied, lying) 1 tell a lie or lies. 2 (of a thing) be deceptive. * give the lie to show the falsity of (a supposition etc.). [old english]
 
 Lied  n. (pl. Lieder) german song, esp. Of the romantic period. [german]
 
 Lie-detector  n. Instrument supposedly determining whether a person is lying, by testing for certain physiological changes.
 
 Lie-down  n. Short rest.
+
 Liege  usu. Hist. —adj. Entitled to receive, or bound to give, feudal service or allegiance. —n. 1 (in full liege lord) feudal superior or sovereign. 2 (usu. In pl.) Vassal, subject. [medieval latin laeticus, probably from germanic]
 
 Lie-in  n. Prolonged stay in bed in the morning.
@@ -1189,15 +1192,15 @@ Lien  n. Law right to hold another's property until a debt on it is paid. [latin
 
 Lie of the land  n. State of affairs.
 
-Lieu  n.  in lieu 1 instead. 2 (foll. By of) in the place of. [latin locus place]
+Lieu  n. * in lieu 1 instead. 2 (foll. By of) in the place of. [latin locus place]
 
 Lieut.  Abbr. Lieutenant.
 
-Lieutenant  n. 1 a army officer next in rank below captain. B naval officer next in rank below lieutenant commander. 2 deputy.  lieutenancy n. (pl. -ies). [french: related to *lieu place, *tenant holder]
+Lieutenant  n. 1 a army officer next in rank below captain. B naval officer next in rank below lieutenant commander. 2 deputy. * lieutenancy n. (pl. -ies). [french: related to *lieu place, *tenant holder]
 
 Lieutenant colonel  n. (also lieutenant commander or general) officers ranking next below colonel, commander, or general.
 
-Life  n. (pl. Lives) 1 capacity for growth, functional activity, and continual change until death. 2 living things and their activity (insect life; is there life on mars?). 3 a period during which life lasts, or the period from birth to the present time or from the present time to death (have done it all my life; will regret it all my life). B duration of a thing's existence or ability to function. 4 a person's state of existence as a living individual (sacrificed their lives). B living person (many lives were lost). 5 a individual's actions or fortunes; manner of existence (start a new life). B particular aspect of this (private life). 6 business and pleasures of the world (in paris you really see life). 7 energy, liveliness (full of life). 8 biography. 9 colloq. = *life sentence.  for dear (or one's) life as if or in order to escape death. For life for the rest of one's life. Not on your life colloq. Most certainly not. [old english]
+Life  n. (pl. Lives) 1 capacity for growth, functional activity, and continual change until death. 2 living things and their activity (insect life; is there life on mars?). 3 a period during which life lasts, or the period from birth to the present time or from the present time to death (have done it all my life; will regret it all my life). B duration of a thing's existence or ability to function. 4 a person's state of existence as a living individual (sacrificed their lives). B living person (many lives were lost). 5 a individual's actions or fortunes; manner of existence (start a new life). B particular aspect of this (private life). 6 business and pleasures of the world (in paris you really see life). 7 energy, liveliness (full of life). 8 biography. 9 colloq. = *life sentence. * for dear (or one's) life as if or in order to escape death. For life for the rest of one's life. Not on your life colloq. Most certainly not. [old english]
 
 Life assurance  n. = *life insurance.
 
@@ -1219,7 +1222,7 @@ Life insurance  n. Insurance for a sum to be paid after a set period or on the d
 
 Life-jacket  n. Buoyant jacket for keeping a person afloat.
 
-Lifeless  adj. 1 dead. 2 unconscious. 3 lacking movement or vitality.  lifelessly adv. [old english]
+Lifeless  adj. 1 dead. 2 unconscious. 3 lacking movement or vitality. * lifelessly adv. [old english]
 
 Lifelike  adj. Closely resembling life or the person or thing represented.
 
@@ -1253,9 +1256,9 @@ Ligament  n. Band of tough fibrous tissue linking bones. [latin ligo bind]
 
 Ligature  —n. 1 tie or bandage. 2 mus. Slur, tie. 3 two or more letters joined, e.g. Æ. 4 bond; thing that unites. —v. (-ring) bind or connect with a ligature. [latin ligo bind]
 
-Light1  —n. 1 the natural agent (electromagnetic radiation) that stimulates sight and makes things visible. 2 the medium or condition of the space in which this is present (just enough light to see). 3 appearance of brightness (saw a distant light). 4 source of light, e.g. The sun, a lamp, fire, etc. 5 (often in pl.) Traffic-light. 6 a flame or spark serving to ignite. B device producing this. 7 aspect in which a thing is regarded (appeared in a new light). 8 a mental illumination. B spiritual illumination by divine truth. 9 vivacity etc. In a person's face, esp. In the eyes. 10 eminent person (leading light). 11 bright parts of a picture etc. 12 window or opening in a wall to let light in. —v. (past lit; past part. Lit or lighted) (attrib.) 1 set burning; begin to burn. 2 (often foll. By up) provide with light or lighting; make prominent by means of light. 3 show (a person) the way or surroundings with a light. 4 (usu. Foll. By up) (of the face or eyes) brighten with animation, pleasure, etc. —adj. 1 well provided with light; not dark. 2 (of a colour) pale (light blue; light-blue ribbon).  bring (or come) to light reveal or be revealed. In a good (or bad) light giving a favourable (or unfavourable) impression. In the light of taking account of. Light up 1 colloq. Begin to smoke a cigarette etc. 2 = sense 2 of v. 3 = sense 4 of v.  lightish adj. [old english]
+Light1  —n. 1 the natural agent (electromagnetic radiation) that stimulates sight and makes things visible. 2 the medium or condition of the space in which this is present (just enough light to see). 3 appearance of brightness (saw a distant light). 4 source of light, e.g. The sun, a lamp, fire, etc. 5 (often in pl.) Traffic-light. 6 a flame or spark serving to ignite. B device producing this. 7 aspect in which a thing is regarded (appeared in a new light). 8 a mental illumination. B spiritual illumination by divine truth. 9 vivacity etc. In a person's face, esp. In the eyes. 10 eminent person (leading light). 11 bright parts of a picture etc. 12 window or opening in a wall to let light in. —v. (past lit; past part. Lit or lighted) (attrib.) 1 set burning; begin to burn. 2 (often foll. By up) provide with light or lighting; make prominent by means of light. 3 show (a person) the way or surroundings with a light. 4 (usu. Foll. By up) (of the face or eyes) brighten with animation, pleasure, etc. —adj. 1 well provided with light; not dark. 2 (of a colour) pale (light blue; light-blue ribbon). * bring (or come) to light reveal or be revealed. In a good (or bad) light giving a favourable (or unfavourable) impression. In the light of taking account of. Light up 1 colloq. Begin to smoke a cigarette etc. 2 = sense 2 of v. 3 = sense 4 of v. * lightish adj. [old english]
 
-Light2  —adj. 1 not heavy. 2 a relatively low in weight, amount, density, intensity, etc. (light arms, traffic, metal, rain). B deficient in weight (light coin). 3 a carrying or suitable for small loads (light railway). B (of a ship) unladen. C carrying only light arms, armaments, etc. 4 (of food) easy to digest. 5 (of entertainment, music, etc.) Intended for amusement only; not profound. 6 (of sleep or a sleeper) easily disturbed. 7 easily borne or done (light duties). 8 nimble; quick-moving (light step; light rhythm). 9 (of a building etc.) Graceful, elegant. 10 a free from sorrow; cheerful (light heart). B giddy (light in the head). —adv. 1 in a light manner (tread light; sleep light). 2 with a minimum load (travel light). —v. (past and past part. Lit or lighted) (foll. By on, upon) come upon or find by chance.  make light of treat as unimportant.  lightish adj. Lightly adv. Lightness n. [old english]
+Light2  —adj. 1 not heavy. 2 a relatively low in weight, amount, density, intensity, etc. (light arms, traffic, metal, rain). B deficient in weight (light coin). 3 a carrying or suitable for small loads (light railway). B (of a ship) unladen. C carrying only light arms, armaments, etc. 4 (of food) easy to digest. 5 (of entertainment, music, etc.) Intended for amusement only; not profound. 6 (of sleep or a sleeper) easily disturbed. 7 easily borne or done (light duties). 8 nimble; quick-moving (light step; light rhythm). 9 (of a building etc.) Graceful, elegant. 10 a free from sorrow; cheerful (light heart). B giddy (light in the head). —adv. 1 in a light manner (tread light; sleep light). 2 with a minimum load (travel light). —v. (past and past part. Lit or lighted) (foll. By on, upon) come upon or find by chance. * make light of treat as unimportant. * lightish adj. Lightly adv. Lightness n. [old english]
 
 Light-bulb  n. Glass bulb containing an inert gas and a metal filament, providing light when an electric current is passed through it.
 
@@ -1275,9 +1278,9 @@ Light flyweight  n. 1 amateur boxing weight up to 48 kg. 2 amateur boxer of this
 
 Light-footed  adj. Nimble.
 
-Light-headed  adj. Giddy, delirious.  light-headedness n.
+Light-headed  adj. Giddy, delirious. * light-headedness n.
 
-Light-hearted  adj. 1 cheerful. 2 (unduly) casual.  light-heartedly adv.
+Light-hearted  adj. 1 cheerful. 2 (unduly) casual. * light-heartedly adv.
 
 Light heavyweight  n. 1 weight in certain sports between middleweight and heavyweight, in amateur boxing 75–81 kg: also called *cruiserweight. 2 sportsman of this weight.
 
@@ -1315,7 +1318,7 @@ Lignum vitae  n. A hard-wooded tree. [latin, = wood of life]
 
 Likable  var. Of *likeable.
 
-Like1  —adj. (more like, most like) 1 a having some or all of the qualities of another, each other, or an original. B resembling in some way, such as (good writers like dickens). 2 characteristic of (not like them to be late). 3 in a suitable state or mood for (felt like working; felt like a cup of tea). —prep. In the manner of; to the same degree as (drink like a fish; acted like an idiot). —adv. 1 slang so to speak (did a quick getaway, like). 2 colloq. Likely, probably (as like as not). —conj. Colloq. 1 as (cannot do it like you do). 2 as if (ate like they were starving). —n. 1 counterpart; equal; similar person or thing. 2 (prec. By the) thing or things of the same kind (will never do the like again).  and the like and similar things. Like anything colloq. Very much, vigorously. The likes of colloq. A person such as. More like it colloq. Nearer what is required. What is he (or it etc.) Like? What sort of person is he (or thing is it etc.)? [old english]
+Like1  —adj. (more like, most like) 1 a having some or all of the qualities of another, each other, or an original. B resembling in some way, such as (good writers like dickens). 2 characteristic of (not like them to be late). 3 in a suitable state or mood for (felt like working; felt like a cup of tea). —prep. In the manner of; to the same degree as (drink like a fish; acted like an idiot). —adv. 1 slang so to speak (did a quick getaway, like). 2 colloq. Likely, probably (as like as not). —conj. Colloq. 1 as (cannot do it like you do). 2 as if (ate like they were starving). —n. 1 counterpart; equal; similar person or thing. 2 (prec. By the) thing or things of the same kind (will never do the like again). * and the like and similar things. Like anything colloq. Very much, vigorously. The likes of colloq. A person such as. More like it colloq. Nearer what is required. What is he (or it etc.) Like? What sort of person is he (or thing is it etc.)? [old english]
 
 Like2  —v. (-king) 1 find agreeable or enjoyable. 2 a choose to have; prefer (like my tea weak). B wish for or be inclined to (would like a nap; should like to come). —n. (in pl.) Things one likes or prefers. [old english]
 
@@ -1323,11 +1326,11 @@ Like2  —v. (-king) 1 find agreeable or enjoyable. 2 a choose to have; prefer (
 
 -like  comb. Form forming adjectives from nouns, meaning ‘similar to, characteristic of’ (doglike; shell-like; tortoise-like).
 
-Likeable  adj. (also likable) pleasant; easy to like.  likeably adv.
+Likeable  adj. (also likable) pleasant; easy to like. * likeably adv.
 
-Likelihood  n. Probability.  in all likelihood very probably.
+Likelihood  n. Probability. * in all likelihood very probably.
 
-Likely  —adj. (-ier, -iest) 1 probable; such as may well happen or be true. 2 to be reasonably expected (not likely to come now). 3 promising; apparently suitable (a likely spot). —adv. Probably.  not likely! Colloq. Certainly not, i refuse. [old norse: related to *like1]
+Likely  —adj. (-ier, -iest) 1 probable; such as may well happen or be true. 2 to be reasonably expected (not likely to come now). 3 promising; apparently suitable (a likely spot). —adv. Probably. * not likely! Colloq. Certainly not, i refuse. [old norse: related to *like1]
 
 Like-minded  adj. Having the same tastes, opinions, etc.
 
@@ -1357,7 +1360,7 @@ Lily of the valley  n. Plant with white bell-shaped fragrant flowers.
 
 Lily white  adj. & n. (as adj. Often hyphenated) pure white.
 
-Limb1  n. 1 arm, leg, or wing. 2 large branch of a tree. 3 branch of a cross.  out on a limb isolated. [old english]
+Limb1  n. 1 arm, leg, or wing. 2 large branch of a tree. 3 branch of a cross. * out on a limb isolated. [old english]
 
 Limb2  n. Specified edge of the sun, moon, etc. [latin limbus hem, border]
 
@@ -1369,7 +1372,7 @@ Limbo1  n. (pl. -s) 1 (in some christian beliefs) supposed abode of the souls of
 
 Limbo2  n. (pl. -s) w. Indian dance in which the dancer bends backwards to pass under a horizontal bar which is progressively lowered. [w. Indian word, perhaps = *limber1]
 
-Lime1  —n. 1 (in full quicklime) white substance (calcium oxide) obtained by heating limestone. 2 (in full slaked lime) calcium hydroxide obtained by reacting quicklime with water, used as a fertilizer and in making mortar. —v. (-ming) treat with lime.  limy adj. (-ier, -iest). [old english]
+Lime1  —n. 1 (in full quicklime) white substance (calcium oxide) obtained by heating limestone. 2 (in full slaked lime) calcium hydroxide obtained by reacting quicklime with water, used as a fertilizer and in making mortar. —v. (-ming) treat with lime. * limy adj. (-ier, -iest). [old english]
 
 Lime2  n. 1 a fruit like a lemon but green, rounder, smaller, and more acid. B tree which produces this fruit. 2 (in full lime-green) yellowish-green colour. [french from arabic]
 
@@ -1381,11 +1384,11 @@ Limelight  n. 1 intense white light used formerly in theatres. 2 (prec. By the) 
 
 Limerick  n. Humorous five-line verse with a rhyme-scheme aabba. [origin uncertain]
 
-Limestone  n.  Rock composed mainly of calcium carbonate.
+Limestone  n. Rock composed mainly of calcium carbonate.
 
 Limey  n. (pl. -s) us slang offens. British person (orig. A sailor) or ship. [from *lime2, because of the former enforced consumption of lime juice in the british navy]
 
-Limit  —n. 1 point, line, or level beyond which something does not or may not extend or pass. 2 greatest or smallest amount permissible. —v. (-t-) 1 set or serve as a limit to. 2 (foll. By to) restrict.  be the limit colloq. Be intolerable. Within limits with some degree of freedom.  limitless adj. [latin limes limit- boundary, frontier]
+Limit  —n. 1 point, line, or level beyond which something does not or may not extend or pass. 2 greatest or smallest amount permissible. —v. (-t-) 1 set or serve as a limit to. 2 (foll. By to) restrict. * be the limit colloq. Be intolerable. Within limits with some degree of freedom. * limitless adj. [latin limes limit- boundary, frontier]
 
 Limitation  n. 1 limiting or being limited. 2 limit (of ability etc.) (often in pl.: know one's limitations). 3 limiting circumstance.
 
@@ -1401,13 +1404,13 @@ Limousine  n. Large luxurious car. [french]
 
 Limp1  —v. Walk or proceed lamely or awkwardly. —n. Lame walk. [perhaps from obsolete limphalt: related to *halt2]
 
-Limp2  adj. 1 not stiff or firm. 2 without energy or will.  limply adv. Limpness n. [perhaps from *limp1]
+Limp2  adj. 1 not stiff or firm. 2 without energy or will. * limply adv. Limpness n. [perhaps from *limp1]
 
 Limpet  n. Marine gastropod with a conical shell, sticking tightly to rocks. [old english]
 
 Limpet mine  n. Delayed action mine attached to a ship's hull.
 
-Limpid  adj. Clear, transparent.  limpidity n. [latin]
+Limpid  adj. Clear, transparent. * limpidity n. [latin]
 
 Linage  n. 1 number of lines in printed or written matter. 2 payment by the line.
 
@@ -1423,11 +1426,11 @@ Line2  v. (-ning) 1 cover the inside surface of (a garment, box, etc.) With a la
 
 Lineage  n. Lineal descent; ancestry. [latin: related to *line1]
 
-Lineal  adj. 1 in the direct line of descent or ancestry. 2 linear.  lineally adv.
+Lineal  adj. 1 in the direct line of descent or ancestry. 2 linear. * lineally adv.
 
 Lineament  n. (usu. In pl.) Distinctive feature or characteristic, esp. Of the face. [latin: related to *line1]
 
-Linear  adj. 1 of or in lines. 2 long and narrow and of uniform breadth.  linearity n. Linearly adv.
+Linear  adj. 1 of or in lines. 2 long and narrow and of uniform breadth. * linearity n. Linearly adv.
 
 Linear b  n. Form of bronze age writing found in greece: an earlier undeciphered form (linear a) also exists.
 
@@ -1469,11 +1472,11 @@ Lingo  n. (pl. -s or -es) colloq. 1 foreign language. 2 vocabulary of a special 
 
 Lingua franca  n. (pl. Lingua francas) 1 language used in common by speakers with different native languages. 2 system for mutual understanding. [italian, = frankish tongue]
 
-Lingual  adj. 1 of or formed by the tongue. 2 of speech or languages.  lingually adv. [latin lingua tongue, language]
+Lingual  adj. 1 of or formed by the tongue. 2 of speech or languages. * lingually adv. [latin lingua tongue, language]
 
 Linguist  n. Person skilled in languages or linguistics.
 
-Linguistic  adj. Of language or the study of languages.  linguistically adv.
+Linguistic  adj. Of language or the study of languages. * linguistically adv.
 
 Linguistics  n. The study of language and its structure.
 
@@ -1481,7 +1484,7 @@ Liniment  n. Embrocation. [latin linio smear]
 
 Lining  n. Material which lines a surface etc.
 
-Link  —n. 1 one loop or ring of a chain etc. 2 a connecting part; one in a series. B state or means of connection. 3 cuff-link. —v. 1 (foll. By together, to, with) connect or join (two things or one to another). 2 clasp or intertwine (hands or arms). 3 (foll. By on, to, in to) be joined; attach oneself to (a system, company, etc.).  link up (foll. By with) connect or combine. [old norse]
+Link  —n. 1 one loop or ring of a chain etc. 2 a connecting part; one in a series. B state or means of connection. 3 cuff-link. —v. 1 (foll. By together, to, with) connect or join (two things or one to another). 2 clasp or intertwine (hands or arms). 3 (foll. By on, to, in to) be joined; attach oneself to (a system, company, etc.). * link up (foll. By with) connect or combine. [old norse]
 
 Linkage  n. 1 linking or being linked, esp. The linking of quite different political issues in negotiations. 2 link or system of links.
 
@@ -1513,13 +1516,13 @@ Lintel  n. Horizontal timber, stone, etc., across the top of a door or window. [
 
 Lion  n. 1 (fem. Lioness) large tawny flesh-eating wild cat of africa and s. Asia. 2 (the lion) zodiacal sign or constellation leo. 3 brave or celebrated person. [latin leo]
 
-Lion-heart  n. Courageous person.  lion-hearted adj.
+Lion-heart  n. Courageous person. * lion-hearted adj.
 
 Lionize  v. (also -ise) (-zing or -sing) treat as a celebrity.
 
 Lion's share  n. Largest or best part.
 
-Lip  —n. 1 either of the two fleshy parts forming the edges of the mouth-opening. 2 edge of a cup, vessel, etc., esp. The part shaped for pouring from. 3 colloq. Impudent talk. —v. (-pp-) 1 touch with the lips; apply the lips to. 2 touch lightly.  lipped adj. (also in comb.). [old english]
+Lip  —n. 1 either of the two fleshy parts forming the edges of the mouth-opening. 2 edge of a cup, vessel, etc., esp. The part shaped for pouring from. 3 colloq. Impudent talk. —v. (-pp-) 1 touch with the lips; apply the lips to. 2 touch lightly. * lipped adj. (also in comb.). [old english]
 
 Lipid  n. Any of a group of fatlike substances that are insoluble in water but soluble in organic solvents, including fatty acids, oils, waxes, and steroids. [greek lipos fat]
 
@@ -1531,15 +1534,15 @@ Lip-service  n. Insincere expression of support etc.
 
 Lipstick  n. Stick of cosmetic for colouring the lips.
 
-Liquefy  v. (-ies, -ied) make or become liquid.  liquefaction n. [latin: related to *liquid]
+Liquefy  v. (-ies, -ied) make or become liquid. * liquefaction n. [latin: related to *liquid]
 
 Liqueur  n. Any of several strong sweet alcoholic spirits. [french]
 
 Liquid  —adj. 1 having a consistency like that of water or oil, flowing freely but of constant volume. 2 having the qualities of water in appearance. 3 (of sounds) clear and pure. 4 (of assets) easily converted into cash. —n. 1 liquid substance. 2 phonet. Sound of l or r. [latin liqueo be liquid]
 
-Liquidate  v. (-ting) 1 wind up the affairs of (a firm) by ascertaining liabilities and apportioning assets. 2 pay off (a debt). 3 wipe out, kill.  liquidator n. [medieval latin: related to *liquid]
+Liquidate  v. (-ting) 1 wind up the affairs of (a firm) by ascertaining liabilities and apportioning assets. 2 pay off (a debt). 3 wipe out, kill. * liquidator n. [medieval latin: related to *liquid]
 
-Liquidation  n. Liquidating, esp. Of a firm.  go into liquidation (of a firm etc.) Be wound up and have its assets apportioned.
+Liquidation  n. Liquidating, esp. Of a firm. * go into liquidation (of a firm etc.) Be wound up and have its assets apportioned.
 
 Liquid crystal  n. Turbid liquid with some order in its molecular arrangement.
 
@@ -1563,19 +1566,20 @@ Lisp  —n. Speech defect in which s is pronounced like th in thick and z is pro
 
 Lissom  adj. Lithe, agile. [ultimately from *lithe]
 
-List1  —n. 1 number of items, names, etc., written or printed together as a record or aid to memory. 2 (in pl.) A palisades enclosing an area for a tournament. B scene of a contest. —v. 1 make a list of. 2 enter in a list. 3 (as listed adj.) A (of securities) approved for dealings on the stock exchange. B (of a building) of historical importance and officially protected.  enter the lists issue or accept a challenge. [old english]
+List1  —n. 1 number of items, names, etc., written or printed together as a record or aid to memory. 2 (in pl.) A palisades enclosing an area for a tournament. B scene of a contest. —v. 1 make a list of. 2 enter in a list. 3 (as listed adj.) A (of securities) approved for dealings on the stock exchange. B (of a building) of historical importance and officially protected. * enter the lists issue or accept a challenge. [old english]
 
 List2  —v. (of a ship etc.) Lean over to one side. —n. Process or instance of listing. [origin unknown]
 
-Listen  v. 1 a make an effort to hear something. B attentively hear a person speaking. 2 (foll. By to) a give attention with the ear. B take notice of; heed. 3 (also listen out) (often foll. By for) seek to hear by waiting alertly.  listen in 1 tap a telephonic communication. 2 use a radio receiving set. [old english]
+Listen  v. 1 a make an effort to hear something. B attentively hear a person speaking. 2 (foll. By to) a give attention with the ear. B take notice of; heed. 3 (also listen out) (often foll. By for) seek to hear by waiting alertly. * listen in 1 tap a telephonic communication. 2 use a radio receiving set. [old english]
 
 Listener  n. 1 person who listens. 2 person who listens to the radio.
 
 Listeria  n. Any of several bacteria infecting humans and animals eating contaminated food. [lister, name of a surgeon]
 
-Listless  adj. Lacking energy or enthusiasm.  listlessly adv. Listlessness n. [from obsolete list inclination]
+Listless  adj. Lacking energy or enthusiasm. * listlessly adv. Listlessness n. [from obsolete list inclination]
 
 List price  n. Price of something as shown in a published list.
+
 Lit  past and past part. Of *light1, *light2.
 
 Litany  n. (pl. -ies) 1 a series of supplications to god recited by a priest etc. With set responses by the congregation. B (the litany) that in the book of common prayer. 2 tedious recital (litany of woes). [greek litaneia prayer]
@@ -1586,11 +1590,11 @@ Liter  n. (brit. Litre) metric unit of capacity equal to 1 cubic decimetre (1.76
 
 Literacy  n. Ability to read and write. [latin littera letter]
 
-Literal  —adj. 1 taking words in their basic sense without metaphor or allegory. 2 corresponding exactly to the original words (literal translation). 3 prosaic; matter-of-fact. 4 so called without exaggeration (literal bankruptcy). 5 of a letter or the letters of the alphabet. —n. Misprint.  literally adv. [latin littera letter]
+Literal  —adj. 1 taking words in their basic sense without metaphor or allegory. 2 corresponding exactly to the original words (literal translation). 3 prosaic; matter-of-fact. 4 so called without exaggeration (literal bankruptcy). 5 of a letter or the letters of the alphabet. —n. Misprint. * literally adv. [latin littera letter]
 
-Literalism  n. Insistence on a literal interpretation; adherence to the letter.  literalist n.
+Literalism  n. Insistence on a literal interpretation; adherence to the letter. * literalist n.
 
-Literary  adj. 1 of or concerned with books or literature etc. 2 (of a word or idiom) used chiefly by writers; formal.  literariness n. [latin: related to *letter]
+Literary  adj. 1 of or concerned with books or literature etc. 2 (of a word or idiom) used chiefly by writers; formal. * literariness n. [latin: related to *letter]
 
 Literate  —adj. Able to read and write; educated. —n. Literate person.
 
@@ -1606,13 +1610,13 @@ Litho  colloq. —n. = *lithography. —v. (-oes, -oed) lithograph. [abbreviatio
 
 Lithograph  —n. Lithographic print. —v. Print by lithography. [greek lithos stone]
 
-Lithography  n. Process of printing from a plate so treated that ink adheres only to the design to be printed.  lithographer n. Lithographic adj. Lithographically adv.
+Lithography  n. Process of printing from a plate so treated that ink adheres only to the design to be printed. * lithographer n. Lithographic adj. Lithographically adv.
 
 Lithuanian  —n. 1 a native or national of lithuania in eastern europe. B person of lithuanian descent. 2 language of lithuania. —adj. Of lithuania, its people, or language.
 
 Litigant  —n. Party to a lawsuit. —adj. Engaged in a lawsuit. [related to *litigate]
 
-Litigate  v. (-ting) 1 go to law. 2 contest (a point) at law.  litigation n. Litigator n. [latin lis lit- lawsuit]
+Litigate  v. (-ting) 1 go to law. 2 contest (a point) at law. * litigation n. Litigator n. [latin lis lit- lawsuit]
 
 Litigious  adj. 1 fond of litigation. 2 contentious. [latin: related to *litigate]
 
@@ -1628,7 +1632,7 @@ Litre  n. (us liter) metric unit of capacity equal to 1 cubic decimetre (1.76 pi
 
 Litt.d.  Abbr. Doctor of letters. [latin litterarum doctor]
 
-Litter  —n. 1 a refuse, esp. Paper, discarded in a public place. B odds and ends lying about. 2 young animals brought forth at one birth. 3 vehicle containing a couch and carried on men's shoulders or by animals. 4 a kind of stretcher for the sick and wounded. 5 straw etc., as bedding for animals. 6 granulated material for use as an animal's, esp. A cat's, toilet indoors. —v. 1 make (a place) untidy with refuse. 2 give birth to (whelps etc.). 3  a provide (a horse etc.) With litter as bedding. B spread straw etc. On (a stable-floor etc.). [latin lectus bed]
+Litter  —n. 1 a refuse, esp. Paper, discarded in a public place. B odds and ends lying about. 2 young animals brought forth at one birth. 3 vehicle containing a couch and carried on men's shoulders or by animals. 4 a kind of stretcher for the sick and wounded. 5 straw etc., as bedding for animals. 6 granulated material for use as an animal's, esp. A cat's, toilet indoors. —v. 1 make (a place) untidy with refuse. 2 give birth to (whelps etc.). 3 a provide (a horse etc.) With litter as bedding. B spread straw etc. On (a stable-floor etc.). [latin lectus bed]
 
 Litterbug  n. Colloq. Person who drops litter in the street etc.
 
@@ -1650,11 +1654,11 @@ Little woman  n. (prec. By the) colloq. Often derog. One's wife.
 
 Littoral  —adj. Of or on the shore. —n. Region lying along a shore. [latin litus litor- shore]
 
-Liturgy  n. (pl. -ies) 1 prescribed form of public worship. 2 (the liturgy) the book of common prayer.  liturgical adj. Liturgically adv. [greek leitourgia public worship]
+Liturgy  n. (pl. -ies) 1 prescribed form of public worship. 2 (the liturgy) the book of common prayer. * liturgical adj. Liturgically adv. [greek leitourgia public worship]
 
 Livable  var. Of *liveable.
 
-Live1  v. (-ving) 1 have life; be or remain alive. 2 have one's home (lives up the road). 3 (foll. By on) subsist or feed (lives on fruit). 4 (foll. By on, off) depend for subsistence (lives off the state; lives on a pension). 5 (foll. By on, by) sustain one's position (live on their reputation; lives by his wits). 6 a spend or pass (lived a full life). B express in one's life (lives his faith). 7 conduct oneself, arrange one's habits, etc., in a specified way (live quietly). 8 (often foll. By on) (of a person or thing) survive; remain (memory lived on). 9 enjoy life to the full (not really living).  live and let live condone others' failings so as to be similarly tolerated. Live down cause (past guilt, a scandal, etc.) To be forgotten by blameless conduct thereafter. Live for regard as one's life's purpose (lives for her music). Live in (or out) reside on (or off) the premises of one's work. Live it up colloq. Live gaily and extravagantly. Live a lie keep up a pretence. Live together (esp. Of a couple not married to each other) share a home and have a sexual relationship. Live up to fulfil. Live with 1 share a home with. 2 tolerate. [old english]
+Live1  v. (-ving) 1 have life; be or remain alive. 2 have one's home (lives up the road). 3 (foll. By on) subsist or feed (lives on fruit). 4 (foll. By on, off) depend for subsistence (lives off the state; lives on a pension). 5 (foll. By on, by) sustain one's position (live on their reputation; lives by his wits). 6 a spend or pass (lived a full life). B express in one's life (lives his faith). 7 conduct oneself, arrange one's habits, etc., in a specified way (live quietly). 8 (often foll. By on) (of a person or thing) survive; remain (memory lived on). 9 enjoy life to the full (not really living). * live and let live condone others' failings so as to be similarly tolerated. Live down cause (past guilt, a scandal, etc.) To be forgotten by blameless conduct thereafter. Live for regard as one's life's purpose (lives for her music). Live in (or out) reside on (or off) the premises of one's work. Live it up colloq. Live gaily and extravagantly. Live a lie keep up a pretence. Live together (esp. Of a couple not married to each other) share a home and have a sexual relationship. Live up to fulfil. Live with 1 share a home with. 2 tolerate. [old english]
 
 Live2  —adj. 1 (attrib.) That is alive; living. 2 (of a broadcast, performance, etc.) Heard or seen at the time of its performance or with an audience present. 3 of current interest or importance (a live issue). 4 glowing, burning (live coals). 5 (of a match, bomb, etc.) Not yet kindled or exploded. 6 (of a wire etc.) Charged with or carrying electricity. —adv. 1 in order to make a live broadcast (going live now to the house of commons). 2 as a live performance etc. (show went out live). [from *alive]
 
@@ -1668,7 +1672,7 @@ Livelihood  n. Means of living; job, income. [old english: related to *life]
 
 Livelong  adj. In its entire length (the livelong day). [from obsolete lief, assimilated to *live1]
 
-Lively  adj. (-ier, -iest) 1 full of life; vigorous, energetic. 2 vivid (lively imagination). 3 cheerful. 4 joc. Exciting, dangerous (made things lively for him).  liveliness n. [old english]
+Lively  adj. (-ier, -iest) 1 full of life; vigorous, energetic. 2 vivid (lively imagination). 3 cheerful. 4 joc. Exciting, dangerous (made things lively for him). * liveliness n. [old english]
 
 Liven  v. (often foll. By up) colloq. Make or become lively, cheer up.
 
@@ -1686,7 +1690,7 @@ Liver sausage  n. Sausage of cooked liver etc.
 
 Liverwort  n. Small mosslike or leafless plant sometimes lobed like a liver.
 
-Livery  n. (pl. -ies) 1 distinctive uniform of a member of a city company or of a servant. 2 distinctive guise or marking (birds in their winter livery). 3 distinctive colour scheme in which a company's vehicles etc. Are painted.  at livery (of a horse) kept for the owner for a fixed charge. [anglo-french liveré, past part. Of livrer *deliver]
+Livery  n. (pl. -ies) 1 distinctive uniform of a member of a city company or of a servant. 2 distinctive guise or marking (birds in their winter livery). 3 distinctive colour scheme in which a company's vehicles etc. Are painted. * at livery (of a horse) kept for the owner for a fixed charge. [anglo-french liveré, past part. Of livrer *deliver]
 
 Livery stable  n. Stable where horses are kept at livery or let out for hire.
 
@@ -1698,7 +1702,7 @@ Live wire  n. Spirited person.
 
 Livid  adj. 1 colloq. Furious. 2 of a bluish leaden colour (livid bruise). [latin]
 
-Living  —n. 1 being alive (that's what living is all about). 2 livelihood. 3 position held by a clergyman, providing an income. —adj. 1 contemporary; now alive. 2 (of a likeness) exact, lifelike. 3 (of a language) still in vernacular use.  within living memory within the memory of people still alive.
+Living  —n. 1 being alive (that's what living is all about). 2 livelihood. 3 position held by a clergyman, providing an income. —adj. 1 contemporary; now alive. 2 (of a likeness) exact, lifelike. 3 (of a language) still in vernacular use. * within living memory within the memory of people still alive.
 
 Living-room  n. Room for general day use.
 
@@ -1726,15 +1730,15 @@ Lloyd's register  n. Annual classified list of all ships.
 
 Ln  abbr. Natural logarithm.
 
-Lo  int. Archaic look.  lo and behold joc. Formula introducing mention of a surprising fact. [old english]
+Lo  int. Archaic look. * lo and behold joc. Formula introducing mention of a surprising fact. [old english]
 
 Loach  n. (pl. Same or -es) small freshwater fish. [french]
 
-Load  —n. 1 a what is carried or to be carried. B amount usu. Or actually carried (often in comb.: lorry-load of bricks). 2 burden or commitment of work, responsibility, care, etc. 3 colloq. A (in pl.; often foll. By of) plenty, a lot (loads of money, people). B (a load of) a quantity (a load of nonsense). 4 amount of power carried by an electric circuit or supplied by a generating station. —v. 1 a put a load on or aboard. B place (a load) aboard a ship, on a vehicle, etc. 2 (often foll. By up) (of a vehicle or person) take a load aboard. 3 (often foll. By with) burden, strain (loaded with food). 4 (also load up) (foll. By with) overburden, overwhelm (loaded us with work, with abuse). 5 a put ammunition in (a gun), film in (a camera), a cassette in (a tape recorder), a program in (a computer), etc. B put (a film, cassette, etc.) Into a device. 6 give a bias to.  get a load of slang take note of. [old english, = way]
+Load  —n. 1 a what is carried or to be carried. B amount usu. Or actually carried (often in comb.: lorry-load of bricks). 2 burden or commitment of work, responsibility, care, etc. 3 colloq. A (in pl.; often foll. By of) plenty, a lot (loads of money, people). B (a load of) a quantity (a load of nonsense). 4 amount of power carried by an electric circuit or supplied by a generating station. —v. 1 a put a load on or aboard. B place (a load) aboard a ship, on a vehicle, etc. 2 (often foll. By up) (of a vehicle or person) take a load aboard. 3 (often foll. By with) burden, strain (loaded with food). 4 (also load up) (foll. By with) overburden, overwhelm (loaded us with work, with abuse). 5 a put ammunition in (a gun), film in (a camera), a cassette in (a tape recorder), a program in (a computer), etc. B put (a film, cassette, etc.) Into a device. 6 give a bias to. * get a load of slang take note of. [old english, = way]
 
 Loaded  adj. 1 slang a rich. B drunk. C us drugged. 2 (of dice etc.) Weighted. 3 (of a question or statement) carrying some hidden implication.
 
-Loader  n. 1 loading-machine. 2 (in comb.) Gun, machine, lorry, etc., loaded in a specified way (breech-loader; front-loader).  -loading adj. (in comb.) (in sense 2).
+Loader  n. 1 loading-machine. 2 (in comb.) Gun, machine, lorry, etc., loaded in a specified way (breech-loader; front-loader). * -loading adj. (in comb.) (in sense 2).
 
 Load line  n. = *plimsoll line.
 
@@ -1746,15 +1750,15 @@ Loaf2  v. (often foll. By about, around) spend time idly; hang about. [back-form
 
 Loafer  n. 1 idle person. 2 (loafer) propr. Flat soft-soled leather shoe. [origin uncertain]
 
-Loam  n. Rich soil of clay, sand, and humus.  loamy adj. [old english]
+Loam  n. Rich soil of clay, sand, and humus. * loamy adj. [old english]
 
-Loan  —n. 1 thing lent, esp. A sum of money. 2 lending or being lent. —v. Lend (money, works of art, etc.).  on loan being lent. [old english]
+Loan  —n. 1 thing lent, esp. A sum of money. 2 lending or being lent. —v. Lend (money, works of art, etc.). * on loan being lent. [old english]
 
 Loan shark  n. Colloq. Person who lends money at exorbitant rates of interest.
 
 Loath  predic. Adj. (also loth) disinclined, reluctant (loath to admit it). [old english]
 
-Loathe  v. (-thing) detest, hate.  loathing n. [old english]
+Loathe  v. (-thing) detest, hate. * loathing n. [old english]
 
 Loathsome  adj. Arousing hatred or disgust; repulsive.
 
@@ -1770,7 +1774,7 @@ Lobby  —n. (pl. -ies) 1 porch, ante-room, entrance-hall, or corridor. 2 a (in 
 
 Lobbyist  n. Person who lobbies an mp etc., esp. Professionally.
 
-Lobe  n. 1 lower soft pendulous part of the outer ear. 2 similar part of other organs, esp. The brain, liver, and lung.  lobed adj. [greek lobos lobe, pod]
+Lobe  n. 1 lower soft pendulous part of the outer ear. 2 similar part of other organs, esp. The brain, liver, and lung. * lobed adj. [greek lobos lobe, pod]
 
 Lobelia  n. Plant with bright, esp. Blue, flowers. [lobel, name of a botanist]
 
@@ -1784,7 +1788,7 @@ Lobster-pot  n. Basket for trapping lobsters.
 
 Lobworm  n. Large earthworm used as fishing-bait. [from *lob in obsolete sense ‘pendulous object’]
 
-Local  —adj. 1 belonging to, existing in, or peculiar to a particular place (local history). 2 of the neighbourhood (local paper). 3 of or affecting a part and not the whole (local anaesthetic). 4 (of a telephone call) to a nearby place and charged at a lower rate. —n. 1 inhabitant of a particular place. 2 (often prec. By the) colloq. Local public house. 3 local anaesthetic.  locally adv. [latin locus place]
+Local  —adj. 1 belonging to, existing in, or peculiar to a particular place (local history). 2 of the neighbourhood (local paper). 3 of or affecting a part and not the whole (local anaesthetic). 4 (of a telephone call) to a nearby place and charged at a lower rate. —n. 1 inhabitant of a particular place. 2 (often prec. By the) colloq. Local public house. 3 local anaesthetic. * locally adv. [latin locus place]
 
 Local authority  n. Administrative body in local government.
 
@@ -1812,7 +1816,7 @@ Loch  n. Scot. Lake or narrow inlet of the sea. [gaelic]
 
 Loci  pl. Of *locus.
 
-Lock1  —n. 1 mechanism for fastening a door etc., with a bolt that requires a key of a particular shape to work it. 2 confined section of a canal or river within sluice-gates, for moving boats from one level to another. 3 a turning of a vehicle's front wheels. B (in full full lock) maximum extent of this. 4 interlocked or jammed state. 5 wrestling-hold that keeps an opponent's limb fixed. 6 (in full lock forward) player in the second row of a rugby scrum. 7 mechanism for exploding the charge of a gun. —v. 1 a fasten with a lock. B (foll. By up) shut (a house etc.) Thus. C (of a door etc.) Be lockable. 2 a (foll. By up, in, into) enclose (a person or thing) by locking. B (foll. By up) colloq. Imprison (a person). 3 (often foll. By up, away) store inaccessibly (capital locked up in land). 4 (foll. By in) hold fast (in sleep, an embrace, a struggle, etc.). 5 (usu. In passive) (of land, hills, etc.) Enclose. 6 make or become rigidly fixed. 7 (cause to) jam or catch.  lock on to (of a missile etc.) Automatically find and then track (a target). Lock out 1 keep out by locking the door. 2 (of an employer) subject (employees) to a lockout. Under lock and key locked up.  lockable adj. [old english]
+Lock1  —n. 1 mechanism for fastening a door etc., with a bolt that requires a key of a particular shape to work it. 2 confined section of a canal or river within sluice-gates, for moving boats from one level to another. 3 a turning of a vehicle's front wheels. B (in full full lock) maximum extent of this. 4 interlocked or jammed state. 5 wrestling-hold that keeps an opponent's limb fixed. 6 (in full lock forward) player in the second row of a rugby scrum. 7 mechanism for exploding the charge of a gun. —v. 1 a fasten with a lock. B (foll. By up) shut (a house etc.) Thus. C (of a door etc.) Be lockable. 2 a (foll. By up, in, into) enclose (a person or thing) by locking. B (foll. By up) colloq. Imprison (a person). 3 (often foll. By up, away) store inaccessibly (capital locked up in land). 4 (foll. By in) hold fast (in sleep, an embrace, a struggle, etc.). 5 (usu. In passive) (of land, hills, etc.) Enclose. 6 make or become rigidly fixed. 7 (cause to) jam or catch. * lock on to (of a missile etc.) Automatically find and then track (a target). Lock out 1 keep out by locking the door. 2 (of an employer) subject (employees) to a lockout. Under lock and key locked up. * lockable adj. [old english]
 
 Lock2  n. 1 portion of hair that hangs together. 2 (in pl.) The hair of the head (golden locks). [old english]
 
@@ -1866,9 +1870,9 @@ Loess  n. Deposit of fine wind-blown soil, esp. In the basins of large rivers. [
 
 Loft  —n. 1 attic. 2 room over a stable. 3 gallery in a church or hall. 4 pigeon-house. 5 backward slope on the face of a golf-club. 6 lofting stroke. —v. Send (a ball etc.) High up. [old english, = air, upper room]
 
-Lofty  adj. (-ier, -iest) 1 (of things) of imposing height. 2 haughty, aloof. 3 exalted, noble (lofty ideals).  loftily adv. Loftiness n.
+Lofty  adj. (-ier, -iest) 1 (of things) of imposing height. 2 haughty, aloof. 3 exalted, noble (lofty ideals). * loftily adv. Loftiness n.
 
-Log1  —n. 1 unhewn piece of a felled tree; any large rough piece of wood, esp. Cut for firewood. 2 hist. Floating device for gauging a ship's speed. 3 record of events occurring during the voyage of a ship or aircraft. 4 any systematic record of deeds, experiences, etc. 5 = *logbook. —v. (-gg-) 1 a enter (a ship's speed, or other transport details) in a logbook. B enter (data etc.) In a regular record. 2 attain (a distance, speed, etc., thus recorded) (had logged over 600 miles). 3 cut into logs.  log in = log on. Log on (or off) open (or close) one's online access to a computer system. Sleep like a log sleep soundly. [origin unknown]
+Log1  —n. 1 unhewn piece of a felled tree; any large rough piece of wood, esp. Cut for firewood. 2 hist. Floating device for gauging a ship's speed. 3 record of events occurring during the voyage of a ship or aircraft. 4 any systematic record of deeds, experiences, etc. 5 = *logbook. —v. (-gg-) 1 a enter (a ship's speed, or other transport details) in a logbook. B enter (data etc.) In a regular record. 2 attain (a distance, speed, etc., thus recorded) (had logged over 600 miles). 3 cut into logs. * log in = log on. Log on (or off) open (or close) one's online access to a computer system. Sleep like a log sleep soundly. [origin unknown]
 
 Log2  n. Logarithm. [abbreviation]
 
@@ -1876,7 +1880,7 @@ Logan  n. (in full logan-stone) poised heavy stone rocking at a touch. [= (dial.
 
 Loganberry  n. (pl. -ies) dark red fruit, hybrid of a blackberry and a raspberry. [logan, name of a horticulturalist]
 
-Logarithm  n. One of a series of arithmetic exponents tabulated to simplify computation by making it possible to use addition and subtraction instead of multiplication and division.  logarithmic adj. Logarithmically adv. [greek logos reckoning, arithmos number]
+Logarithm  n. One of a series of arithmetic exponents tabulated to simplify computation by making it possible to use addition and subtraction instead of multiplication and division. * logarithmic adj. Logarithmically adv. [greek logos reckoning, arithmos number]
 
 Logbook  n. 1 book containing a detailed record or log. 2 vehicle registration document.
 
@@ -1884,21 +1888,21 @@ Log cabin  n. Hut built of logs.
 
 Logger  n. Us lumberjack.
 
-Loggerhead  n.  at loggerheads (often foll. By with) disagreeing or disputing. [probably dial. From logger wooden block]
+Loggerhead  n. * at loggerheads (often foll. By with) disagreeing or disputing. [probably dial. From logger wooden block]
 
 Loggia  n. Open-sided gallery or arcade. [italian, = *lodge]
 
 Logging  n. Work of cutting and preparing forest timber.
 
-Logic  n. 1 a science of reasoning. B particular system or method of reasoning. 2 a chain of reasoning (regarded as sound or unsound). B use of or ability in argument. 3 inexorable force, compulsion, or consequence (the logic of events). 4 a principles used in designing a computer etc. B circuits using this.  logician n. [related to *-logic]
+Logic  n. 1 a science of reasoning. B particular system or method of reasoning. 2 a chain of reasoning (regarded as sound or unsound). B use of or ability in argument. 3 inexorable force, compulsion, or consequence (the logic of events). 4 a principles used in designing a computer etc. B circuits using this. * logician n. [related to *-logic]
 
 -logic  comb. Form (also -logical) forming adjectives corresponding esp. To nouns in -logy (pathological; zoological). [greek -logikos]
 
-Logical  adj. 1 of or according to logic (the logical conclusion). 2 correctly reasoned. 3 defensible or explicable on the ground of consistency. 4 capable of correct reasoning.  logicality n. Logically adv. [greek logos word, reason]
+Logical  adj. 1 of or according to logic (the logical conclusion). 2 correctly reasoned. 3 defensible or explicable on the ground of consistency. 4 capable of correct reasoning. * logicality n. Logically adv. [greek logos word, reason]
 
 -logist  comb. Form forming nouns meaning ‘person skilled in -logy’ (geologist).
 
-Logistics  n.pl. 1 organization of (orig. Military) services and supplies. 2 organization of any complex operation.  logistic adj. Logistical adj. Logistically adv. [french loger lodge]
+Logistics  n.pl. 1 organization of (orig. Military) services and supplies. 2 organization of any complex operation. * logistic adj. Logistical adj. Logistically adv. [french loger lodge]
 
 Log-jam  n. Deadlock.
 
@@ -1910,7 +1914,7 @@ Loin  n. 1 (in pl.) Side and back of the body between the ribs and the hip-bones
 
 Loincloth  n. Cloth worn round the hips, esp. As a sole garment.
 
-Loiter  v. 1 stand about idly; linger. 2 go slowly with frequent stops.  loiter with intent linger in order to commit a felony.  loiterer n. [dutch]
+Loiter  v. 1 stand about idly; linger. 2 go slowly with frequent stops. * loiter with intent linger in order to commit a felony. * loiterer n. [dutch]
 
 Loll  v. 1 stand, sit, or recline in a lazy attitude. 2 hang loosely. [imitative]
 
@@ -1930,7 +1934,7 @@ Lone  attrib. Adj. 1 solitary; without companions. 2 isolated. 3 unmarried, sing
 
 Lone hand  n. 1 hand played or player playing against the rest at cards. 2 person or action without allies.
 
-Lonely  adj. (-ier, -iest) 1 without companions (lonely existence). 2 sad because of this. 3 unfrequented, isolated, uninhabited.  loneliness n.
+Lonely  adj. (-ier, -iest) 1 without companions (lonely existence). 2 sad because of this. 3 unfrequented, isolated, uninhabited. * loneliness n.
 
 Lonely hearts  n.pl. People seeking friendship or marriage through a newspaper column, club, etc.
 
@@ -1940,7 +1944,7 @@ Lonesome  adj. Esp. Us 1 lonely. 2 making one feel forlorn (a lonesome song).
 
 Lone wolf  n. Loner.
 
-Long1  —adj. (longer; longest) 1 measuring much from end to end in space or time. 2 (following a measurement) in length or duration (2 metres long; two months long). 3 a consisting of many items (a long list). B seemingly more than the stated amount; tedious (ten long miles). 4 of elongated shape. 5 lasting or reaching far back or forward in time (long friendship). 6 far-reaching; acting at a distance; involving a great interval or difference. 7 (of a vowel or syllable) having the greater of the two recognized durations. 8 (of odds or a chance) reflecting a low level of probability. 9 (of stocks) bought in large quantities in advance, with the expectation of a rise in price. 10 (foll. By on) colloq. Well supplied with. —n. Long interval or period (will not take long; won't be long). —adv. (longer; longest) 1 by or for a long time (long before; long ago). 2 (following nouns of duration) throughout a specified time (all day long). 3 (in compar.) After an implied point of time (shall not wait any longer).  as (or so) long as provided that. Before long soon. In the long run (or term) eventually, ultimately. The long and the short of it 1 all that need be said. 2 the eventual outcome. Not by a long shot (or chalk) by no means.  longish adj. [old english]
+Long1  —adj. (longer; longest) 1 measuring much from end to end in space or time. 2 (following a measurement) in length or duration (2 metres long; two months long). 3 a consisting of many items (a long list). B seemingly more than the stated amount; tedious (ten long miles). 4 of elongated shape. 5 lasting or reaching far back or forward in time (long friendship). 6 far-reaching; acting at a distance; involving a great interval or difference. 7 (of a vowel or syllable) having the greater of the two recognized durations. 8 (of odds or a chance) reflecting a low level of probability. 9 (of stocks) bought in large quantities in advance, with the expectation of a rise in price. 10 (foll. By on) colloq. Well supplied with. —n. Long interval or period (will not take long; won't be long). —adv. (longer; longest) 1 by or for a long time (long before; long ago). 2 (following nouns of duration) throughout a specified time (all day long). 3 (in compar.) After an implied point of time (shall not wait any longer). * as (or so) long as provided that. Before long soon. In the long run (or term) eventually, ultimately. The long and the short of it 1 all that need be said. 2 the eventual outcome. Not by a long shot (or chalk) by no means. * longish adj. [old english]
 
 Long2  v. (foll. By for or to + infin.) Have a strong wish or desire for. [old english, = seem *long1 to]
 
@@ -1966,13 +1970,13 @@ Longhand  n. Ordinary handwriting.
 
 Long haul  n. 1 transport over a long distance. 2 prolonged effort or task.
 
-Longing  —n. Intense desire. —adj. Having or showing this.  longingly adv.
+Longing  —n. Intense desire. —adj. Having or showing this. * longingly adv.
 
 Long in the tooth  predic. Adj. Colloq. Old.
 
 Longitude  n. 1 angular distance east or west from a standard meridian such as greenwich to the meridian of any place. 2 angular distance of a celestial body, esp. Along the ecliptic. [latin longitudo length, from longus long]
 
-Longitudinal  adj. 1 of or in length. 2 running lengthwise. 3 of longitude.  longitudinally adv.
+Longitudinal  adj. 1 of or in length. 2 running lengthwise. 3 of longitude. * longitudinally adv.
 
 Long johns  n.pl. Colloq. Long underpants.
 
@@ -1998,7 +2002,7 @@ Long shot  n. 1 wild guess or venture. 2 bet at long odds.
 
 Long sight  n. Ability to see clearly only what is comparatively distant.
 
-Long-sighted  adj. 1 having long sight. 2 far-sighted.  long-sightedness n.
+Long-sighted  adj. 1 having long sight. 2 far-sighted. * long-sightedness n.
 
 Long-standing  adj. That has long existed.
 
@@ -2016,7 +2020,7 @@ Loo  n. Colloq. Lavatory. [origin uncertain]
 
 Loofah  n. Rough bath-sponge made from the dried pod of a type of gourd. [arabic]
 
-Look  —v. 1 a (often foll. By at, down, up, etc.) Use one's sight; turn one's eyes in some direction. B turn one's eyes on; examine (looked me in the eyes; looked us up and down). 2 a make a visual or mental search (i'll look in the morning). B (foll. By at) consider, examine (must look at the facts). 3 (foll. By for) search for, seek, be on the watch for. 4 inquire (when one looks deeper). 5 have a specified appearance; seem (look a fool; future looks bleak). 6 (foll. By to) a consider; be concerned about (look to the future). B rely on (look to me for support). 7 (foll. By into) investigate. 8 (foll. By what, where, whether, etc.) Ascertain or observe by sight. 9 (of a thing) face some direction. 10 indicate (emotion etc.) By one's looks. 11 (foll. By that) take care; make sure. 12 (foll. By to + infin.) Aim (am looking to finish it soon). —n. 1 act of looking; gaze, glance. 2 (in sing. Or pl.) Appearance of a face; expression. 3 appearance of a thing (by the look of it). 4 style, fashion (this year's look; the wet look). —int. (also look here!) Calling attention, expressing a protest, etc.  look after attend to; take care of. Look one's age appear as old as one really is. Look back 1 (foll. By on, to) turn one's thoughts to (something past). 2 (usu. With neg.) Cease to progress (he's never looked back). Look down on (or look down one's nose at) regard with contempt or superiority.
+Look  —v. 1 a (often foll. By at, down, up, etc.) Use one's sight; turn one's eyes in some direction. B turn one's eyes on; examine (looked me in the eyes; looked us up and down). 2 a make a visual or mental search (i'll look in the morning). B (foll. By at) consider, examine (must look at the facts). 3 (foll. By for) search for, seek, be on the watch for. 4 inquire (when one looks deeper). 5 have a specified appearance; seem (look a fool; future looks bleak). 6 (foll. By to) a consider; be concerned about (look to the future). B rely on (look to me for support). 7 (foll. By into) investigate. 8 (foll. By what, where, whether, etc.) Ascertain or observe by sight. 9 (of a thing) face some direction. 10 indicate (emotion etc.) By one's looks. 11 (foll. By that) take care; make sure. 12 (foll. By to + infin.) Aim (am looking to finish it soon). —n. 1 act of looking; gaze, glance. 2 (in sing. Or pl.) Appearance of a face; expression. 3 appearance of a thing (by the look of it). 4 style, fashion (this year's look; the wet look). —int. (also look here!) Calling attention, expressing a protest, etc. * look after attend to; take care of. Look one's age appear as old as one really is. Look back 1 (foll. By on, to) turn one's thoughts to (something past). 2 (usu. With neg.) Cease to progress (he's never looked back). Look down on (or look down one's nose at) regard with contempt or superiority.
 
 Look-alike  n. Person or thing closely resembling another.
 
@@ -2036,7 +2040,7 @@ Loom2  v. 1 appear dimly, esp. As a vague and often threatening shape. 2 (of an 
 
 Loon  n. 1 a kind of diving bird. 2 colloq. Crazy person (cf. *loony). [old norse]
 
-Loony  slang —n. (pl. -ies) lunatic. —adj. (-ier, -iest) crazy.  looniness n. [abbreviation]
+Loony  slang —n. (pl. -ies) lunatic. —adj. (-ier, -iest) crazy. * looniness n. [abbreviation]
 
 Loony-bin  n. Slang offens. Mental home or hospital.
 
@@ -2046,15 +2050,15 @@ Loophole  n. 1 means of evading a rule etc. Without infringing it. 2 narrow vert
 
 Loopy  adj. (-ier, -iest) slang crazy, daft.
 
-Loose  —adj. 1 not tightly held, fixed, etc. (loose handle; loose stones). 2 free from bonds or restraint. 3 not held together (loose papers). 4 not compact or dense (loose soil). 5 inexact (loose translation). 6 morally lax. 7 (of the tongue) indiscreet. 8 tending to diarrhoea. 9 (in comb.) Loosely (loose-fitting). —v. (-sing) 1 free; untie or detach; release. 2 relax (loosed my hold). 3 discharge (a missile).  at a loose end unoccupied. On the loose 1 escaped from captivity. 2 enjoying oneself freely.  loosely adv. Looseness n. Loosish adj. [old norse]
+Loose  —adj. 1 not tightly held, fixed, etc. (loose handle; loose stones). 2 free from bonds or restraint. 3 not held together (loose papers). 4 not compact or dense (loose soil). 5 inexact (loose translation). 6 morally lax. 7 (of the tongue) indiscreet. 8 tending to diarrhoea. 9 (in comb.) Loosely (loose-fitting). —v. (-sing) 1 free; untie or detach; release. 2 relax (loosed my hold). 3 discharge (a missile). * at a loose end unoccupied. On the loose 1 escaped from captivity. 2 enjoying oneself freely. * loosely adv. Looseness n. Loosish adj. [old norse]
 
 Loose cover  n. Removable cover for an armchair etc.
 
 Loose-leaf  adj. (of a notebook etc.) With pages that can be removed and replaced.
 
-Loosen  v. Make or become loose or looser.  loosen a person's tongue make a person talk freely. Loosen up 1 relax. 2 limber up.
+Loosen  v. Make or become loose or looser. * loosen a person's tongue make a person talk freely. Loosen up 1 relax. 2 limber up.
 
-Loot  —n. 1 spoil, booty. 2 slang money. —v. 1 rob or steal, esp. After rioting etc. 2 plunder.  looter n. [hindi]
+Loot  —n. 1 spoil, booty. 2 slang money. —v. 1 rob or steal, esp. After rioting etc. 2 plunder. * looter n. [hindi]
 
 Lop  v. (-pp-) 1 a (often foll. By off, away) cut or remove (a part or parts) from a whole, esp. Branches from a tree. B remove branches from (a tree). 2 (often foll. By off) remove (items) as superfluous. [old english]
 
@@ -2062,13 +2066,13 @@ Lope  —v. (-ping) run with a long bounding stride. —n. Long bounding stride.
 
 Lop-eared  adj. Having drooping ears. [related to *lob]
 
-Lopsided  adj. Unevenly balanced.  lopsidedness n. [related to *lob]
+Lopsided  adj. Unevenly balanced. * lopsidedness n. [related to *lob]
 
-Loquacious  adj. Talkative.  loquacity n. [latin loquor speak]
+Loquacious  adj. Talkative. * loquacity n. [latin loquor speak]
 
 Loquat  n. 1 small yellow egg-shaped fruit. 2 tree bearing it. [chinese]
 
-Lord  —n. 1 master or ruler. 2 hist. Feudal superior, esp. Of a manor. 3 peer of the realm or person with the title lord. 4 (lord) (often prec. By the) god or christ. 5 (lord) a prefixed as the designation of a marquis, earl, viscount, or baron, or (to the christian name) of the younger son of a duke or marquis. B (the lords) = *house of lords. —int. (lord, good lord, etc.) Expressing surprise, dismay, etc.  lord it over domineer. [old english, = bread-keeper: related to *loaf1, *ward]
+Lord  —n. 1 master or ruler. 2 hist. Feudal superior, esp. Of a manor. 3 peer of the realm or person with the title lord. 4 (lord) (often prec. By the) god or christ. 5 (lord) a prefixed as the designation of a marquis, earl, viscount, or baron, or (to the christian name) of the younger son of a duke or marquis. B (the lords) = *house of lords. —int. (lord, good lord, etc.) Expressing surprise, dismay, etc. * lord it over domineer. [old english, = bread-keeper: related to *loaf1, *ward]
 
 Lord chamberlain  n. Official in charge of the royal household.
 
@@ -2078,7 +2082,7 @@ Lord chief justice  n. President of the queen's bench division.
 
 Lord lieutenant  n. 1 chief executive authority and head of magistrates in each county. 2 hist. Viceroy of ireland.
 
-Lordly  adj. (-ier, -iest) 1 haughty, imperious. 2 suitable for a lord.  lordliness n.
+Lordly  adj. (-ier, -iest) 1 haughty, imperious. 2 suitable for a lord. * lordliness n.
 
 Lord mayor  n. Title of the mayor in some large cities.
 
@@ -2110,7 +2114,7 @@ Lose  v. (-sing; past and past part. Lost) 1 be deprived of or cease to have, es
 
 Loser  n. 1 person or thing that loses, esp. A contest (is a bad loser). 2 colloq. Person who regularly fails.
 
-Loss  n. 1 losing or being lost. 2 thing or amount lost. 3 detriment resulting from losing.  at a loss (sold etc.) For less than was paid for it. Be at a loss be puzzled or uncertain. [probably back-formation from *lost]
+Loss  n. 1 losing or being lost. 2 thing or amount lost. 3 detriment resulting from losing. * at a loss (sold etc.) For less than was paid for it. Be at a loss be puzzled or uncertain. [probably back-formation from *lost]
 
 Loss-leader  n. Item sold at a loss to attract customers.
 
@@ -2118,7 +2122,7 @@ Lost  past and past part. Of *lose.
 
 Lost cause  n. Hopeless undertaking.
 
-Lot  n. 1 colloq. (prec. By a or in pl.) A a large number or amount (a lot of people; lots of milk). B colloq. Much (a lot warmer; smiles a lot). 2 a each of a set of objects used to make a chance selection. B this method of deciding (chosen by lot). 3 share or responsibility resulting from it. 4 person's destiny, fortune, or condition. 5 (esp. Us) plot; allotment of land (parking lot). 6 article or set of articles for sale at an auction etc. 7 group of associated persons or things.  cast (or draw) lots decide by lots. Throw in one's lot with decide to share the fortunes of. The (or the whole) lot the total number or quantity. A whole lot colloq. Very much (is a whole lot better). [old english]
+Lot  n. 1 colloq. (prec. By a or in pl.) A a large number or amount (a lot of people; lots of milk). B colloq. Much (a lot warmer; smiles a lot). 2 a each of a set of objects used to make a chance selection. B this method of deciding (chosen by lot). 3 share or responsibility resulting from it. 4 person's destiny, fortune, or condition. 5 (esp. Us) plot; allotment of land (parking lot). 6 article or set of articles for sale at an auction etc. 7 group of associated persons or things. * cast (or draw) lots decide by lots. Throw in one's lot with decide to share the fortunes of. The (or the whole) lot the total number or quantity. A whole lot colloq. Very much (is a whole lot better). [old english]
 
 Loth  var. Of *loath.
 
@@ -2136,7 +2140,7 @@ Lotus-eater  n. Person given to indolent enjoyment.
 
 Lotus position  n. Cross-legged position of meditation with the feet resting on the thighs.
 
-Loud  —adj. 1 strongly audible, noisy. 2 (of colours etc.) Gaudy, obtrusive. —adv. Loudly.  out loud aloud.  loudish adj. Loudly adv. Loudness n. [old english]
+Loud  —adj. 1 strongly audible, noisy. 2 (of colours etc.) Gaudy, obtrusive. —adv. Loudly. * out loud aloud. * loudish adj. Loudly adv. Loudness n. [old english]
 
 Loud hailer  n. Electronic device for amplifying the voice.
 
@@ -2152,13 +2156,13 @@ Lounge suit  n. Man's suit for ordinary day (esp. Business) wear.
 
 Lour  v. (also lower) 1 frown; look sullen. 2 (of the sky etc.) Look dark and threatening. [origin unknown]
 
-Louse  —n. 1 (pl. Lice) parasitic insect. 2 (pl. Louses) slang contemptible person. —v. (-sing) delouse.  louse up slang make a mess of. [old english]
+Louse  —n. 1 (pl. Lice) parasitic insect. 2 (pl. Louses) slang contemptible person. —v. (-sing) delouse. * louse up slang make a mess of. [old english]
 
-Lousy  adj. (-ier, -iest) 1 colloq. Very bad; disgusting; ill (feel lousy). 2 (often foll. By with) colloq. Well supplied, teeming. 3 infested with lice.  lousily adv. Lousiness n.
+Lousy  adj. (-ier, -iest) 1 colloq. Very bad; disgusting; ill (feel lousy). 2 (often foll. By with) colloq. Well supplied, teeming. 3 infested with lice. * lousily adv. Lousiness n.
 
-Lout  n. Rough-mannered person.  loutish adj. [origin uncertain]
+Lout  n. Rough-mannered person. * loutish adj. [origin uncertain]
 
-Louvre  n. (also louver) 1 each of a set of overlapping slats designed to admit air and some light and exclude rain. 2 domed structure on a roof with side openings for ventilation etc.  louvred adj. [french lover skylight]
+Louvre  n. (also louver) 1 each of a set of overlapping slats designed to admit air and some light and exclude rain. 2 domed structure on a roof with side openings for ventilation etc. * louvred adj. [french lover skylight]
 
 Lovable  adj. (also loveable) inspiring love or affection.
 
@@ -2166,7 +2170,7 @@ Lovage  n. Herb used for flavouring etc. [french levesche from latin ligusticum 
 
 Lovat  n. & adj. Muted green. [lovat in scotland]
 
-Love  —n. 1 deep affection or fondness. 2 sexual passion. 3 sexual relations. 4 a beloved one; sweetheart (often as a form of address). B colloq. Form of address regardless of affection. 5 colloq. Person of whom one is fond. 6 affectionate greetings (give him my love). 7 (in games) no score; nil. —v. (-ving) 1 feel love or a deep fondness for. 2 delight in; admire; greatly cherish. 3 colloq. Like very much (loves books). 4 (foll. By verbal noun, or to + infin.) Be inclined, esp. As a habit; greatly enjoy (children love dressing up; loves to run).  fall in love (often foll. By with) suddenly begin to love. For love for pleasure not profit. For the love of for the sake of. In love (often foll. By with) enamoured (of). Make love (often foll. By to) 1 have sexual intercourse (with). 2 archaic pay amorous attention (to). Not for love or money colloq. Not in any circumstances. [old english]
+Love  —n. 1 deep affection or fondness. 2 sexual passion. 3 sexual relations. 4 a beloved one; sweetheart (often as a form of address). B colloq. Form of address regardless of affection. 5 colloq. Person of whom one is fond. 6 affectionate greetings (give him my love). 7 (in games) no score; nil. —v. (-ving) 1 feel love or a deep fondness for. 2 delight in; admire; greatly cherish. 3 colloq. Like very much (loves books). 4 (foll. By verbal noun, or to + infin.) Be inclined, esp. As a habit; greatly enjoy (children love dressing up; loves to run). * fall in love (often foll. By with) suddenly begin to love. For love for pleasure not profit. For the love of for the sake of. In love (often foll. By with) enamoured (of). Make love (often foll. By to) 1 have sexual intercourse (with). 2 archaic pay amorous attention (to). Not for love or money colloq. Not in any circumstances. [old english]
 
 Loveable  var. Of *lovable.
 
@@ -2188,7 +2192,7 @@ Love-lies-bleeding  n. Cultivated plant with drooping spikes of purple-red bloom
 
 Lovelorn  adj. Pining from unrequited love.
 
-Lovely  —adj. (-ier, -iest) 1 colloq. Pleasing, delightful. 2 beautiful. —n. (pl. -ies) colloq. Pretty woman.  lovely and colloq. Delightfully (lovely and warm).  loveliness n. [old english]
+Lovely  —adj. (-ier, -iest) 1 colloq. Pleasing, delightful. 2 beautiful. —n. (pl. -ies) colloq. Pretty woman. * lovely and colloq. Delightfully (lovely and warm). * loveliness n. [old english]
 
 Lovemaking  n. 1 sexual play, esp. Intercourse. 2 archaic courtship.
 
@@ -2202,7 +2206,7 @@ Lovesick  adj. Languishing with love.
 
 Lovey-dovey  adj. Colloq. Fondly affectionate, sentimental.
 
-Loving  —adj. Feeling or showing love; affectionate. —n. Affection; love.  lovingly adv.
+Loving  —adj. Feeling or showing love; affectionate. —n. Affection; love. * lovingly adv.
 
 Loving-cup  n. Two-handled drinking-cup.
 
@@ -2224,7 +2228,7 @@ Low countries  n.pl. The netherlands, belgium, and luxembourg.
 
 Low-down  —adj. Mean, dishonourable. —n. Colloq. (prec. By the; usu. Foll. By on) relevant information.
 
-Lower1  —adj. (compar. Of *low1). 1 less high in position or status. 2 situated below another part (lower lip). 3 a situated on less high land (lower egypt). B situated to the south (lower california). 4 (of a mammal, plant, etc.) Evolved to only a slight degree. —adv. In or to a lower position, status, etc.  lowermost adj.
+Lower1  —adj. (compar. Of *low1). 1 less high in position or status. 2 situated below another part (lower lip). 3 a situated on less high land (lower egypt). B situated to the south (lower california). 4 (of a mammal, plant, etc.) Evolved to only a slight degree. —adv. In or to a lower position, status, etc. * lowermost adj.
 
 Lower2  v. 1 let or haul down. 2 make or become lower. 3 degrade.
 
@@ -2250,11 +2254,11 @@ Low-grade  adj. Of low quality.
 
 Low-key  adj. Lacking intensity, restrained.
 
-Lowland  —n. (usu. In pl.) Low-lying country. —adj. Of or in lowland.  lowlander n.
+Lowland  —n. (usu. In pl.) Low-lying country. —adj. Of or in lowland. * lowlander n.
 
 Low-level  adj. (of a computer language) close in form to machine code.
 
-Lowly  adj. (-ier, -iest) humble; unpretentious.  lowliness n.
+Lowly  adj. (-ier, -iest) humble; unpretentious. * lowliness n.
 
 Low-lying  adj. Near to the ground or sea level.
 
@@ -2270,9 +2274,9 @@ Low sunday  n. Sunday after easter.
 
 Low tide  n. (also low water) time or level of the tide at its ebb.
 
-Loyal  adj. 1 (often foll. By to) faithful. 2 steadfast in allegiance etc.  loyally adv. Loyalty n. (pl. -ies). [latin: related to *legal]
+Loyal  adj. 1 (often foll. By to) faithful. 2 steadfast in allegiance etc. * loyally adv. Loyalty n. (pl. -ies). [latin: related to *legal]
 
-Loyalist  n. 1 person who remains loyal to the legitimate sovereign etc. 2 (loyalist) (esp. Extremist) supporter of union between great britain and northern ireland.  loyalism n.
+Loyalist  n. 1 person who remains loyal to the legitimate sovereign etc. 2 (loyalist) (esp. Extremist) supporter of union between great britain and northern ireland. * loyalism n.
 
 Loyal toast  n. Toast to the sovereign.
 
@@ -2302,31 +2306,31 @@ Lubber  n. Clumsy fellow, lout. [origin uncertain]
 
 Lubricant  n. Substance used to reduce friction.
 
-Lubricate  v. (-ting) 1 apply oil or grease etc. To. 2 make slippery.  lubrication n. Lubricator n. [latin lubricus slippery]
+Lubricate  v. (-ting) 1 apply oil or grease etc. To. 2 make slippery. * lubrication n. Lubricator n. [latin lubricus slippery]
 
-Lubricious  adj. 1 slippery, evasive. 2 lewd.  lubricity n. [latin: related to *lubricate]
+Lubricious  adj. 1 slippery, evasive. 2 lewd. * lubricity n. [latin: related to *lubricate]
 
 Lucerne  n. = *alfalfa. [provençal, = glow-worm, referring to its shiny seeds]
 
-Lucid  adj. 1 expressing or expressed clearly. 2 sane.  lucidity n. Lucidly adv. Lucidness n. [latin lux luc- light]
+Lucid  adj. 1 expressing or expressed clearly. 2 sane. * lucidity n. Lucidly adv. Lucidness n. [latin lux luc- light]
 
 Lucifer  n. Satan. [latin: related to *lucid, fero bring]
 
-Luck  n. 1 good or bad fortune. 2 circumstances of life (beneficial or not) brought by this. 3 good fortune; success due to chance (in luck; out of luck).  no such luck colloq. Unfortunately not. [low german or dutch]
+Luck  n. 1 good or bad fortune. 2 circumstances of life (beneficial or not) brought by this. 3 good fortune; success due to chance (in luck; out of luck). * no such luck colloq. Unfortunately not. [low german or dutch]
 
 Luckless  adj. Unlucky; ending in failure.
 
-Lucky  adj. (-ier, -iest) 1 having or resulting from good luck. 2 bringing good luck (lucky charm).  luckily adv.
+Lucky  adj. (-ier, -iest) 1 having or resulting from good luck. 2 bringing good luck (lucky charm). * luckily adv.
 
 Lucky dip  n. Tub containing articles varying in value and chosen at random.
 
-Lucrative  adj. Profitable.  lucratively adv. Lucrativeness n. [latin: related to *lucre]
+Lucrative  adj. Profitable. * lucratively adv. Lucrativeness n. [latin: related to *lucre]
 
 Lucre  n. Derog. Financial gain. [latin lucrum gain]
 
-Luddite  —n. 1 person opposed to industrial progress or new technology. 2 hist. Member of a band of english artisans who destroyed machinery (1811–16). —adj. Of the luddites.  ludditism n. [ned lud, destroyer of machinery]
+Luddite  —n. 1 person opposed to industrial progress or new technology. 2 hist. Member of a band of english artisans who destroyed machinery (1811–16). —adj. Of the luddites. * ludditism n. [ned lud, destroyer of machinery]
 
-Ludicrous  adj. Absurd, ridiculous, laughable.  ludicrously adv. Ludicrousness n. [latin ludicrum stage play]
+Ludicrous  adj. Absurd, ridiculous, laughable. * ludicrously adv. Ludicrousness n. [latin ludicrum stage play]
 
 Ludo  n. Simple board-game played with dice and counters. [latin, = i play]
 
@@ -2342,7 +2346,7 @@ Lughole  n. Slang ear.
 
 Lugsail  n. Four-cornered sail on a yard. [probably from *lug]
 
-Lugubrious  adj. Doleful.  lugubriously adv. Lugubriousness n. [latin lugeo mourn]
+Lugubrious  adj. Doleful. * lugubriously adv. Lugubriousness n. [latin lugeo mourn]
 
 Lugworm  n. Large marine worm used as bait. [origin unknown]
 
@@ -2368,11 +2372,11 @@ Lumber-room  n. Room where disused things are kept.
 
 Luminary  n. (pl. -ies) 1 literary natural light-giving body. 2 wise or inspiring person. 3 celebrated member of a group (show-business luminaries). [latin lumen lumin- light]
 
-Luminescence  n. Emission of light without heat.  luminescent adj.
+Luminescence  n. Emission of light without heat. * luminescent adj.
 
-Luminous  adj. 1 shedding light. 2 phosphorescent, visible in darkness (luminous paint).  luminosity n.
+Luminous  adj. 1 shedding light. 2 phosphorescent, visible in darkness (luminous paint). * luminosity n.
 
-Lump1  —n. 1 compact shapeless mass. 2 tumour; swelling, bruise. 3 heavy, dull, or ungainly person. 4 (prec. By the) slang casual workers in the building trade. —v. 1 (usu. Foll. By together etc.) Treat as all alike; put together in a lump. 2 (of sauce etc.) Become lumpy.  lump in the throat feeling of pressure there, caused by emotion. [scandinavian]
+Lump1  —n. 1 compact shapeless mass. 2 tumour; swelling, bruise. 3 heavy, dull, or ungainly person. 4 (prec. By the) slang casual workers in the building trade. —v. 1 (usu. Foll. By together etc.) Treat as all alike; put together in a lump. 2 (of sauce etc.) Become lumpy. * lump in the throat feeling of pressure there, caused by emotion. [scandinavian]
 
 Lump2  v. Colloq. Put up with ungraciously (like it or lump it). [imitative]
 
@@ -2384,7 +2388,7 @@ Lump sugar  n. Sugar in cubes.
 
 Lump sum  n. 1 sum covering a number of items. 2 money paid down at once.
 
-Lumpy  adj. (-ier, -iest) full of or covered with lumps.  lumpily adv. Lumpiness n.
+Lumpy  adj. (-ier, -iest) full of or covered with lumps. * lumpily adv. Lumpiness n.
 
 Lunacy  n. (pl. -ies) 1 insanity. 2 mental unsoundness. 3 great folly. [latin: related to *lunar]
 
@@ -2424,7 +2428,7 @@ Lupus  n. Autoimmune inflammatory skin disease. [latin, = wolf]
 
 Lurch1  —n. Stagger; sudden unsteady movement or leaning. —v. Stagger; move or progress unsteadily. [originally naut., of uncertain origin]
 
-Lurch2  n.  leave in the lurch desert (a friend etc.) In difficulties. [obsolete french lourche a kind of backgammon]
+Lurch2  n. * leave in the lurch desert (a friend etc.) In difficulties. [obsolete french lourche a kind of backgammon]
 
 Lurcher  n. Crossbred dog, usu. A working dog crossed with a greyhound. [related to *lurk]
 
@@ -2432,7 +2436,7 @@ Lure  —v. (-ring) 1 (usu. Foll. By away, into) entice. 2 recall with a lure. �
 
 Lurex  n. Propr. 1 type of yarn incorporating a glittering metallic thread. 2 fabric made from this.
 
-Lurid  adj. 1 bright and glaring in colour. 2 sensational, shocking (lurid details). 3 ghastly, wan (lurid complexion).  luridly adv. [latin]
+Lurid  adj. 1 bright and glaring in colour. 2 sensational, shocking (lurid details). 3 ghastly, wan (lurid complexion). * luridly adv. [latin]
 
 Lurk  v. 1 linger furtively. 2 a lie in ambush. B (usu. Foll. By in, under, about, etc.) Hide, esp. For sinister purposes. 3 (as lurking adj.) Dormant (a lurking suspicion). [perhaps from *lour]
 
@@ -2442,13 +2446,13 @@ Lush1  adj. 1 (of vegetation) luxuriant and succulent. 2 luxurious. 3 slang exce
 
 Lush2  n. Slang alcoholic, drunkard. [origin uncertain]
 
-Lust  —n. 1 strong sexual desire. 2 (usu. Foll. By for, of) passionate desire for or enjoyment of (lust for power; lust of battle). 3 sensuous appetite regarded as sinful (lusts of the flesh). —v. (usu. Foll. By after, for) have a strong or excessive (esp. Sexual) desire.  lustful adj. Lustfully adv. [old english]
+Lust  —n. 1 strong sexual desire. 2 (usu. Foll. By for, of) passionate desire for or enjoyment of (lust for power; lust of battle). 3 sensuous appetite regarded as sinful (lusts of the flesh). —v. (usu. Foll. By after, for) have a strong or excessive (esp. Sexual) desire. * lustful adj. Lustfully adv. [old english]
 
-Luster  n. (brit. Lustre) 1 gloss, shining surface. 2 brilliance, splendour. 3 iridescent glaze on pottery and porcelain.  lustrous adj. [latin lustro illumine]
+Luster  n. (brit. Lustre) 1 gloss, shining surface. 2 brilliance, splendour. 3 iridescent glaze on pottery and porcelain. * lustrous adj. [latin lustro illumine]
 
-Lustre  n. (us luster) 1 gloss, shining surface. 2 brilliance, splendour. 3 iridescent glaze on pottery and porcelain.  lustrous adj. [latin lustro illumine]
+Lustre  n. (us luster) 1 gloss, shining surface. 2 brilliance, splendour. 3 iridescent glaze on pottery and porcelain. * lustrous adj. [latin lustro illumine]
 
-Lusty  adj. (-ier, -iest) 1 healthy and strong. 2 vigorous, lively.  lustily adv. Lustiness n. [from *lust]
+Lusty  adj. (-ier, -iest) 1 healthy and strong. 2 vigorous, lively. * lustily adv. Lustiness n. [from *lust]
 
 Lutanist  var. Of *lutenist.
 
@@ -2460,15 +2464,15 @@ Lutenist  n. (also lutanist) lute-player. [related to *lute1]
 
 Lutetium  n. Silvery metallic element, the heaviest of the lanthanide series. [lutetia, ancient name of paris]
 
-Lutheran  —n. 1 follower of luther. 2 member of the lutheran church. —adj. Of luther, or the protestant reformation and the doctrines associated with him.  lutheranism n. [martin luther, religious reformer]
+Lutheran  —n. 1 follower of luther. 2 member of the lutheran church. —adj. Of luther, or the protestant reformation and the doctrines associated with him. * lutheranism n. [martin luther, religious reformer]
 
-Lux  n. (pl. Same)  the si unit of illumination. [latin]
+Lux  n. (pl. Same) the si unit of illumination. [latin]
 
-Luxuriant  adj. 1 growing profusely. 2 exuberant. 3 florid.  luxuriance n. Luxuriantly adv. [latin: related to *luxury]
+Luxuriant  adj. 1 growing profusely. 2 exuberant. 3 florid. * luxuriance n. Luxuriantly adv. [latin: related to *luxury]
 
 Luxuriate  v. (-ting) 1 (foll. By in) take self-indulgent delight in, enjoy as a luxury. 2 relax in comfort.
 
-Luxurious  adj. 1 supplied with luxuries. 2 extremely comfortable. 3 fond of luxury.  luxuriously adv. [latin: related to *luxury]
+Luxurious  adj. 1 supplied with luxuries. 2 extremely comfortable. 3 fond of luxury. * luxuriously adv. [latin: related to *luxury]
 
 Luxury  n. (pl. -ies) 1 choice or costly surroundings, possessions, etc. 2 thing giving comfort or enjoyment but not essential. 3 (attrib.) Comfortable and expensive (luxury flat). [latin luxus abundance]
 
@@ -2500,7 +2504,7 @@ Lymph gland  n. (also lymph node) small mass of tissue in the lymphatic system.
 
 Lymphoma  n. (pl. -s or -mata) tumour of the lymph nodes.
 
-Lynch  v. (of a mob) put (a person) to death without a legal trial.  lynching n. [originally us, after lynch, 18th-c. Justice of the peace in virginia]
+Lynch  v. (of a mob) put (a person) to death without a legal trial. * lynching n. [originally us, after lynch, 18th-c. Justice of the peace in virginia]
 
 Lynch law  n. Procedure followed when a person is lynched.
 
@@ -2514,7 +2518,7 @@ Lyre-bird  n. Australian bird, the male of which has a lyre-shaped tail display.
 
 Lyric  —adj. 1 (of poetry) expressing the writer's emotions, usu. Briefly and in stanzas. 2 (of a poet) writing in this manner. 3 meant or fit to be sung, songlike. —n. 1 lyric poem. 2 (in pl.) Words of a song. [latin: related to *lyre]
 
-Lyrical  adj. 1 = *lyric. 2 resembling, or using language appropriate to, lyric poetry. 3 colloq. Highly enthusiastic (wax lyrical about).  lyrically adv.
+Lyrical  adj. 1 = *lyric. 2 resembling, or using language appropriate to, lyric poetry. 3 colloq. Highly enthusiastic (wax lyrical about). * lyrically adv.
 
 Lyricism  n. Quality of being lyric.
 

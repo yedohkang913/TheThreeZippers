@@ -8,7 +8,7 @@ U4  symb. Uranium.
 
 Ub40  abbr. 1 card issued to people claiming unemployment benefit. 2 colloq. Unemployed person. [unemployment benefit]
 
-Ubiquitous  adj. 1 (seemingly) present everywhere simultaneously. 2 often encountered.  ubiquity n. [latin ubique everywhere]
+Ubiquitous  adj. 1 (seemingly) present everywhere simultaneously. 2 often encountered. * ubiquity n. [latin ubique everywhere]
 
 U-boat  n. Hist. German submarine. [german untersee undersea]
 
@@ -34,7 +34,7 @@ Ugli  n. (pl. -lis or -lies) propr. Mottled green and yellow hybrid of a grapefr
 
 Uglify  v. (-ies, -ied) make ugly.
 
-Ugly  adj. (-lier, -liest) 1 unpleasant to the eye, ear, or mind etc. (ugly scar; ugly snarl). 2 unpleasantly suggestive; discreditable (ugly rumours). 3 threatening, dangerous (an ugly look). 4 morally repulsive (ugly vices).  ugliness n. [old norse]
+Ugly  adj. (-lier, -liest) 1 unpleasant to the eye, ear, or mind etc. (ugly scar; ugly snarl). 2 unpleasantly suggestive; discreditable (ugly rumours). 3 threatening, dangerous (an ugly look). 4 morally repulsive (ugly vices). * ugliness n. [old norse]
 
 Ugly customer  n. Threatening or violent person.
 
@@ -52,15 +52,15 @@ Ukrainian  —n. 1 native or language of ukraine. 2 person of ukrainian descent.
 
 Ukulele  n. Small four-stringed hawaiian guitar. [hawaiian]
 
-Ulcer  n. 1 open sore on or in the body, often forming pus. 2 corrupting influence etc.  ulcerous adj. [latin ulcus -cer-]
+Ulcer  n. 1 open sore on or in the body, often forming pus. 2 corrupting influence etc. * ulcerous adj. [latin ulcus -cer-]
 
-Ulcerate  v. (-ting) form into or affect with an ulcer.  ulceration n.
+Ulcerate  v. (-ting) form into or affect with an ulcer. * ulceration n.
 
 -ule  suffix forming diminutive nouns (globule). [latin -ulus]
 
 Ullage  n. 1 amount by which a cask etc. Falls short of being full. 2 loss by evaporation or leakage. [french from latin]
 
-Ulna  n. (pl. Ulnae) 1 thinner and longer bone in the forearm, opposite to the thumb. 2 corresponding bone in an animal's foreleg or a bird's wing.  ulnar adj. [latin]
+Ulna  n. (pl. Ulnae) 1 thinner and longer bone in the forearm, opposite to the thumb. 2 corresponding bone in an animal's foreleg or a bird's wing. * ulnar adj. [latin]
 
 Ulster  n. Long loose overcoat of rough cloth. [ulster in ireland]
 
@@ -70,7 +70,7 @@ Ult.  Abbr. Ultimo.
 
 Ulterior  adj. Not evident or admitted; hidden, secret (esp. Ulterior motive). [latin, = further]
 
-Ultimate  —adj. 1 last or last possible, final. 2 fundamental, primary, basic (ultimate truths). —n. 1 (prec. By the) best achievable or imaginable. 2 final or fundamental fact or principle.  ultimately adv. [latin ultimus last]
+Ultimate  —adj. 1 last or last possible, final. 2 fundamental, primary, basic (ultimate truths). —n. 1 (prec. By the) best achievable or imaginable. 2 final or fundamental fact or principle. * ultimately adv. [latin ultimus last]
 
 Ultimatum  n. (pl. -s) final statement of terms, the rejection of which could cause hostility etc. [latin: related to *ultimate]
 
@@ -88,7 +88,7 @@ Ultramicroscopic  adj. Too small to be seen by an ordinary optical microscope.
 
 Ultramontane  —adj. 1 situated beyond the alps. 2 advocating supreme papal authority. —n. 1 person living beyond the alps. 2 advocate of supreme papal authority. [medieval latin: related to *mountain]
 
-Ultrasonic  adj. Of or using sound waves pitched above the range of human hearing.  ultrasonically adv.
+Ultrasonic  adj. Of or using sound waves pitched above the range of human hearing. * ultrasonically adv.
 
 Ultrasonics  n.pl. (usu. Treated as sing.) Science of ultrasonic waves.
 
@@ -98,11 +98,11 @@ Ultraviolet  adj. Of or using radiation with a frequency just beyond that of the
 
 Ultra vires  adv. & predic.adj. Beyond one's legal power or authority. [latin]
 
-Ululate  v. (-ting) howl, wail.  ululation n. [latin]
+Ululate  v. (-ting) howl, wail. * ululation n. [latin]
 
 Um  int. Expressing hesitation or a pause in speech. [imitative]
 
-Umbel  n. Flower-cluster with stalks springing from a common centre and forming a flat or curved surface.  umbellate adj. [latin umbella sunshade]
+Umbel  n. Flower-cluster with stalks springing from a common centre and forming a flat or curved surface. * umbellate adj. [latin umbella sunshade]
 
 Umbelliferous  adj. (of a plant) bearing umbels, such as parsley and carrot.
 
@@ -124,7 +124,7 @@ Umlaut  n. 1 mark (¨) used over a vowel, esp. In germanic languages, to indicat
 
 Umpire  —n. Person enforcing rules and settling disputes in esp. Cricket or between disputants. —v. (-ring) (often foll. By for, in, etc.) Act as umpire (in). [french nonper not equal: related to *peer2]
 
-Umpteen  colloq. —adj. Indefinitely many; a lot of. —pron. Indefinitely many.  umpteenth adj. [jocular formation on *-teen]
+Umpteen  colloq. —adj. Indefinitely many; a lot of. —pron. Indefinitely many. * umpteenth adj. [jocular formation on *-teen]
 
 Un  abbr. United nations.
 
@@ -132,7 +132,7 @@ Un-1  prefix 1 added to adjectives and participles and their derivative nouns an
 
 Un-2  prefix added to verbs and (less often) nouns, forming verbs denoting: 1 reversal (undress; unsettle). 2 deprivation (unmask). 3 release from (unburden; uncage). 4 causing to be no longer (unman). [old english]
 
-Un-3  prefix chem. Denoting ‘one’, combined with other numerical roots nil (= 0), un (= 1), bi (= 2), etc., to form the names of elements based on the atomic number, and terminated with -ium, e.g. Unnilquadium = 104, ununbium = 112.  [latin unus one]
+Un-3  prefix chem. Denoting ‘one’, combined with other numerical roots nil (= 0), un (= 1), bi (= 2), etc., to form the names of elements based on the atomic number, and terminated with -ium, e.g. Unnilquadium = 104, ununbium = 112. [latin unus one]
 
 Unabashed  adj. Not abashed.
 
@@ -144,13 +144,13 @@ Unabridged  adj. Complete; not abridged.
 
 Unacademic  adj. (of a person, book, etc.) Not academic.
 
-Unacceptable  adj. Not acceptable.  unacceptably adv.
+Unacceptable  adj. Not acceptable. * unacceptably adv.
 
 Unaccompanied  adj. 1 not accompanied. 2 mus. Without accompaniment.
 
 Unaccomplished  adj. 1 uncompleted. 2 lacking accomplishments.
 
-Unaccountable  adj. 1 without explanation; strange. 2 not answerable for one's actions.  unaccountably adv.
+Unaccountable  adj. 1 without explanation; strange. 2 not answerable for one's actions. * unaccountably adv.
 
 Unaccounted  adj. (often foll. By for) unexplained; excluded.
 
@@ -168,9 +168,9 @@ Unadulterated  adj. 1 pure. 2 complete, utter.
 
 Unadventurous  adj. Not adventurous.
 
-Unadvised  adj. 1 indiscreet; rash. 2 without advice.  unadvisedly adv.
+Unadvised  adj. 1 indiscreet; rash. 2 without advice. * unadvisedly adv.
 
-Unaffected  adj. 1 (usu. Foll. By by) not affected. 2 free from affectation.  unaffectedly adv.
+Unaffected  adj. 1 (usu. Foll. By by) not affected. 2 free from affectation. * unaffectedly adv.
 
 Unaffiliated  adj. Not affiliated.
 
@@ -186,7 +186,7 @@ Unalterable  adj. Not alterable.
 
 Unaltered  adj. Not altered; remaining the same.
 
-Unambiguous  adj. Not ambiguous; clear or definite in meaning.  unambiguously adv.
+Unambiguous  adj. Not ambiguous; clear or definite in meaning. * unambiguously adv.
 
 Unambitious  adj. Not ambitious.
 
@@ -194,7 +194,7 @@ Un-american  adj. 1 uncharacteristic of americans. 2 contrary to us interests, t
 
 Unamused  adj. Not amused.
 
-Unanimous  adj. 1 all in agreement (committee was unanimous). 2 (of an opinion, vote, etc.) By all without exception (unanimous choice).  unanimity n. Unanimously adv. [latin unus one, animus mind]
+Unanimous  adj. 1 all in agreement (committee was unanimous). 2 (of an opinion, vote, etc.) By all without exception (unanimous choice). * unanimity n. Unanimously adv. [latin unus one, animus mind]
 
 Unannounced  adj. Not announced; without warning (of arrival etc.).
 
@@ -216,7 +216,7 @@ Unapproachable  adj. 1 inaccessible. 2 (of a person) unfriendly.
 
 Unarmed  adj. Not armed; without weapons.
 
-Unashamed  adj. 1 feeling no guilt. 2 blatant; bold.  unashamedly adv.
+Unashamed  adj. 1 feeling no guilt. 2 blatant; bold. * unashamedly adv.
 
 Unassailable  adj. Unable to be attacked; impregnable.
 
@@ -228,19 +228,19 @@ Unattainable  adj. Not attainable.
 
 Unattended  adj. 1 (usu. Foll. By to) not attended. 2 (of a person, vehicle, etc.) Alone.
 
-Unattractive  adj. Not attractive.  unattractively adv.
+Unattractive  adj. Not attractive. * unattractively adv.
 
 Unattributable  adj. (esp. Of published information) not attributed to a source etc.
 
 Unauthorized  adj. (also -ised) not authorized.
 
-Unavailable  adj. Not available.  unavailability n.
+Unavailable  adj. Not available. * unavailability n.
 
-Unavailing  adj. Achieving nothing.  unavailingly adv.
+Unavailing  adj. Achieving nothing. * unavailingly adv.
 
-Unavoidable  adj. Inevitable.  unavoidably adv.
+Unavoidable  adj. Inevitable. * unavoidably adv.
 
-Unaware  —adj. 1 (usu. Foll. By of or that) not aware. 2 unperceptive. —adv. = *unawares.  unawareness n.
+Unaware  —adj. 1 (usu. Foll. By of or that) not aware. 2 unperceptive. —adv. = *unawares. * unawareness n.
 
 Unawares  adv. 1 unexpectedly. 2 inadvertently.
 
@@ -250,19 +250,19 @@ Unban  v. (-nn-) remove prohibited status from; allow.
 
 Unbar  v. (-rr-) 1 unlock, open. 2 remove a bar from (a gate etc.).
 
-Unbearable  adj. Unendurable.  unbearably adv.
+Unbearable  adj. Unendurable. * unbearably adv.
 
 Unbeatable  adj. Not beatable; excelling.
 
 Unbeaten  adj. 1 not beaten. 2 (of a record etc.) Not surpassed.
 
-Unbecoming  adj. 1 unflattering (unbecoming hat). 2 (usu. Foll. By to, for) not fitting; indecorous.  unbecomingly adv.
+Unbecoming  adj. 1 unflattering (unbecoming hat). 2 (usu. Foll. By to, for) not fitting; indecorous. * unbecomingly adv.
 
 Unbeknown  adj. (also unbeknownst) (foll. By to) without the knowledge of (unbeknown to us).
 
-Unbelief  n. Lack of esp. Religious belief.  unbeliever n. Unbelieving adj.
+Unbelief  n. Lack of esp. Religious belief. * unbeliever n. Unbelieving adj.
 
-Unbelievable  adj. Not believable; incredible.  unbelievably adv.
+Unbelievable  adj. Not believable; incredible. * unbelievably adv.
 
 Unbend  v. (past and past part. Unbent) 1 straighten. 2 relax; become affable.
 
@@ -316,7 +316,7 @@ Unbutton  v. 1 unfasten the buttons of (a garment, person, etc.). 2 (absol.) Col
 
 Uncalled-for  adj. (of a remark, action, etc.) Rude, unnecessary.
 
-Uncanny  adj. (-ier, -iest) seemingly supernatural; mysterious.  uncannily adv. Uncanniness n.
+Uncanny  adj. (-ier, -iest) seemingly supernatural; mysterious. * uncannily adv. Uncanniness n.
 
 Uncapped  adj. Sport (of a player) not yet awarded his cap or never having been selected to represent his country.
 
@@ -328,9 +328,9 @@ Unceasing  adj. Not ceasing; continuous (unceasing effort).
 
 Uncensored  adj. Not censored.
 
-Unceremonious  adj. 1 abrupt; discourteous. 2 informal.  unceremoniously adv.
+Unceremonious  adj. 1 abrupt; discourteous. 2 informal. * unceremoniously adv.
 
-Uncertain  adj. 1 not certainly knowing or known (result is uncertain). 2 unreliable. 3 changeable, erratic (uncertain weather).  in no uncertain terms clearly and forcefully.  uncertainly adv. Uncertainty n. (pl. -ies).
+Uncertain  adj. 1 not certainly knowing or known (result is uncertain). 2 unreliable. 3 changeable, erratic (uncertain weather). * in no uncertain terms clearly and forcefully. * uncertainly adv. Uncertainty n. (pl. -ies).
 
 Unchain  v. Remove the chain(s) from; release.
 
@@ -346,15 +346,15 @@ Unchanging  adj. Not changing; remaining the same.
 
 Unchaperoned  adj. Without a chaperone.
 
-Uncharacteristic  adj. Not characteristic.  uncharacteristically adv.
+Uncharacteristic  adj. Not characteristic. * uncharacteristically adv.
 
-Uncharitable  adj. Censorious, severe in judgement.  uncharitably adv.
+Uncharitable  adj. Censorious, severe in judgement. * uncharitably adv.
 
 Uncharted  adj. Not mapped or surveyed.
 
 Unchecked  adj. 1 not checked. 2 unrestrained (unchecked violence).
 
-Unchivalrous  adj. Not chivalrous.  unchivalrously adv.
+Unchivalrous  adj. Not chivalrous. * unchivalrously adv.
 
 Unchristian  adj. Contrary to christian principles, esp. Uncaring or selfish.
 
@@ -362,7 +362,7 @@ Uncial  —adj. Of or written in rounded unjoined letters similar to capitals, f
 
 Uncircumcised  adj. Not circumcised.
 
-Uncivil  adj. Ill-mannered; impolite.  uncivilly adv.
+Uncivil  adj. Ill-mannered; impolite. * uncivilly adv.
 
 Uncivilized  adj. (also -ised) 1 not civilized. 2 rough; uncultured.
 
@@ -396,19 +396,19 @@ Uncoloured  adj. 1 having no colour. 2 not influenced; impartial.
 
 Uncombed  adj. (of hair or a person) not combed.
 
-Uncomfortable  adj. 1 not comfortable. 2 uneasy; disquieting (uncomfortable silence).  uncomfortably adv.
+Uncomfortable  adj. 1 not comfortable. 2 uneasy; disquieting (uncomfortable silence). * uncomfortably adv.
 
 Uncommercial  adj. Not commercial.
 
 Uncommitted  adj. 1 not committed. 2 not politically attached.
 
-Uncommon  adj. 1 unusual. 2 remarkably great etc. (uncommon appetite).  uncommonly adv. Uncommonness n.
+Uncommon  adj. 1 unusual. 2 remarkably great etc. (uncommon appetite). * uncommonly adv. Uncommonness n.
 
 Uncommunicative  adj. Taciturn.
 
 Uncompetitive  adj. Not competitive.
 
-Uncomplaining  adj. Not complaining; resigned.  uncomplainingly adv.
+Uncomplaining  adj. Not complaining; resigned. * uncomplainingly adv.
 
 Uncompleted  adj. Not completed; incomplete.
 
@@ -418,13 +418,13 @@ Uncomplimentary  adj. Insulting.
 
 Uncomprehending  adj. Not comprehending.
 
-Uncompromising  adj. Stubborn; unyielding.  uncompromisingly adv.
+Uncompromising  adj. Stubborn; unyielding. * uncompromisingly adv.
 
 Unconcealed  adj. Not concealed; obvious.
 
-Unconcern  n. Calmness; indifference; apathy.  unconcerned adj. Unconcernedly adv.
+Unconcern  n. Calmness; indifference; apathy. * unconcerned adj. Unconcernedly adv.
 
-Unconditional  adj. Not subject to conditions; complete (unconditional surrender).  unconditionally adv.
+Unconditional  adj. Not subject to conditions; complete (unconditional surrender). * unconditionally adv.
 
 Unconditioned reflex  n. Instinctive response to a stimulus.
 
@@ -438,13 +438,13 @@ Unconnected  adj. 1 not physically joined. 2 not connected or associated. 3 disc
 
 Unconquerable  adj. Not conquerable.
 
-Unconscionable  adj. 1 without or contrary to conscience. 2 excessive (unconscionable waste).  unconscionably adv. [from *un-1, *conscience]
+Unconscionable  adj. 1 without or contrary to conscience. 2 excessive (unconscionable waste). * unconscionably adv. [from *un-1, *conscience]
 
-Unconscious  —adj. Not conscious (fell unconscious; unconscious prejudice). —n. Normally inaccessible part of the mind affecting the emotions etc.  unconsciously adv. Unconsciousness n.
+Unconscious  —adj. Not conscious (fell unconscious; unconscious prejudice). —n. Normally inaccessible part of the mind affecting the emotions etc. * unconsciously adv. Unconsciousness n.
 
 Unconsidered  adj. 1 not considered; disregarded. 2 not premeditated.
 
-Unconstitutional  adj. In breach of a political constitution or procedural rules.  unconstitutionally adv.
+Unconstitutional  adj. In breach of a political constitution or procedural rules. * unconstitutionally adv.
 
 Unconstrained  adj. Not constrained or compelled.
 
@@ -452,17 +452,17 @@ Uncontaminated  adj. Not contaminated.
 
 Uncontested  adj. Not contested.
 
-Uncontrollable  adj. Not controllable.  uncontrollably adv.
+Uncontrollable  adj. Not controllable. * uncontrollably adv.
 
 Uncontrolled  adj. Not controlled; unrestrained.
 
 Uncontroversial  adj. Not controversial.
 
-Unconventional  adj. Unusual; unorthodox.  unconventionality n. Unconventionally adv.
+Unconventional  adj. Unusual; unorthodox. * unconventionality n. Unconventionally adv.
 
 Unconvinced  adj. Not convinced.
 
-Unconvincing  adj. Not convincing.  unconvincingly adv.
+Unconvincing  adj. Not convincing. * unconvincingly adv.
 
 Uncooked  adj. Not cooked; raw.
 
@@ -482,7 +482,7 @@ Uncouth  adj. Uncultured, rough. [old english, = unknown]
 
 Uncover  v. 1 remove a cover or covering from. 2 disclose (uncovered the truth).
 
-Uncritical  adj. 1 not critical; complacently accepting. 2 not in accordance with the principles of criticism.  uncritically adv.
+Uncritical  adj. 1 not critical; complacently accepting. 2 not in accordance with the principles of criticism. * uncritically adv.
 
 Uncross  v. 1 remove from a crossed position. 2 (as uncrossed adj.) (of a cheque) not crossed.
 
@@ -490,7 +490,7 @@ Uncrown  v. 1 deprive of a crown, a position, etc. 2 (as uncrowned adj.) A not c
 
 Unction  n. 1 a anointing with oil etc. As a religious rite or medical treatment. B oil, ointment, etc. So used. 2 a soothing words or thought. B excessive or insincere flattery. 3 a emotional fervency. B pretence of this. [latin ungo unct- anoint]
 
-Unctuous  adj. 1 unpleasantly flattering; oily. 2 greasy or soapy.  unctuously adv. [medieval latin: related to *unction]
+Unctuous  adj. 1 unpleasantly flattering; oily. 2 greasy or soapy. * unctuously adv. [medieval latin: related to *unction]
 
 Uncultivated  adj. Not cultivated.
 
@@ -524,13 +524,13 @@ Undemocratic  adj. Not democratic.
 
 Undemonstrative  adj. Not emotionally expressive; reserved.
 
-Undeniable  adj. Indisputable; certain.  undeniably adv.
+Undeniable  adj. Indisputable; certain. * undeniably adv.
 
 Under  —prep. 1 a in or to a position lower than; below; beneath (under the table). B on the inside of (vest under his shirt). 2 inferior to; less than (no-one under a major; is under 18; was under £20). 3 a subject to; controlled by (under constraint; born under saturn; prospered under him). B undergoing (is under repair). C classified or subsumed in (under two headings). 4 at the foot of or sheltered by (under the cliff). 5 planted with (a crop). 6 powered by (sail, steam, etc.). —adv. 1 in or to a lower position or condition (kept him under). 2 colloq. In or into unconsciousness (put him under). —adj.
 
 Under-  prefix in senses of *under: 1 below, beneath (underground). 2 lower; subordinate (under-secretary). 3 insufficiently, incompletely (undercook; underdeveloped).
 
-Underachieve  v. (-ving) do less well than might be expected (esp. Academically).  underachiever n.
+Underachieve  v. (-ving) do less well than might be expected (esp. Academically). * underachiever n.
 
 Underact  v. Theatr. Act with insufficient force.
 
@@ -560,19 +560,19 @@ Undercroft  n. Crypt. [obsolete croft from latin]
 
 Undercurrent  n. 1 current below the surface. 2 underlying often contrary feeling, influence, etc. (undercurrent of protest).
 
-Undercut  —v. (-tt-; past and past part. -cut) 1 sell or work at a lower price than. 2  strike (a ball) to make it rise high. 3 cut away the part below. 4 undermine. —n. Underside of sirloin.
+Undercut  —v. (-tt-; past and past part. -cut) 1 sell or work at a lower price than. 2 strike (a ball) to make it rise high. 3 cut away the part below. 4 undermine. —n. Underside of sirloin.
 
-Underdeveloped  adj. 1 not fully developed; immature. 2 (of a country etc.) With unexploited potential.  underdevelopment n.
+Underdeveloped  adj. 1 not fully developed; immature. 2 (of a country etc.) With unexploited potential. * underdevelopment n.
 
 Underdog  n. 1 oppressed person. 2 loser in a fight.
 
 Underdone  adj. Undercooked.
 
-Underemployed  adj. Not fully occupied.  underemployment n.
+Underemployed  adj. Not fully occupied. * underemployment n.
 
-Underestimate  —v. (-ting) form too low an estimate of. —n. Estimate that is too low.  underestimation n.
+Underestimate  —v. (-ting) form too low an estimate of. —n. Estimate that is too low. * underestimation n.
 
-Underexpose  v. (-sing) expose (film) for too short a time etc.  underexposure n.
+Underexpose  v. (-sing) expose (film) for too short a time etc. * underexposure n.
 
 Underfed  adj. Malnourished.
 
@@ -616,7 +616,7 @@ Undermine  v. (-ning) 1 injure (a person, reputation, health, etc.) Secretly or 
 
 Underneath  —prep. 1 at or to a lower place than, below. 2 on the inside of. —adv. 1 at or to a lower place. 2 inside. —n. Lower surface or part. —adj. Lower. [old english: related to *nether]
 
-Undernourished  adj. Insufficiently nourished.  undernourishment n.
+Undernourished  adj. Insufficiently nourished. * undernourishment n.
 
 Underpaid  past and past part. Of *underpay.
 
@@ -626,7 +626,7 @@ Underpart  n. Lower or subordinate part.
 
 Underpass  n. 1 road etc. Passing under another. 2 subway.
 
-Underpay  v. (past and past part. -paid) pay too little to (a person) or for (a thing).  underpayment n.
+Underpay  v. (past and past part. -paid) pay too little to (a person) or for (a thing). * underpayment n.
 
 Underpin  v. (-nn-) 1 support from below with masonry etc. 2 support, strengthen.
 
@@ -676,9 +676,9 @@ Understaffed  adj. Having too few staff.
 
 Understand  v. (past and past part. -stood) 1 perceive the meaning of (words, a person, a language, a subject, etc.) (understood you perfectly; cannot understand algebra). 2 perceive the significance or cause of (do not understand why he came). 3 (often absol.) Sympathize with, know how to deal with (quite understand your difficulty; ask her, she understands). 4 (often foll. By that or absol.) Infer, take as implied (am i to understand that you refuse?; he is old, i understand).
 
-Understanding  —n. 1 ability to understand or think; intelligence. 2 individual's perception of a situation etc. 3 agreement, esp. Informal (had an understanding). 4 sympathy; tolerance. —adj. 1 having understanding or insight. 2 sympathetic.  understandingly adv.
+Understanding  —n. 1 ability to understand or think; intelligence. 2 individual's perception of a situation etc. 3 agreement, esp. Informal (had an understanding). 4 sympathy; tolerance. —adj. 1 having understanding or insight. 2 sympathetic. * understandingly adv.
 
-Understate  v. (-ting) 1 express mildly or in a restrained way. 2 represent as less than it actually is.  understatement n.
+Understate  v. (-ting) 1 express mildly or in a restrained way. 2 represent as less than it actually is. * understatement n.
 
 Understeer  n. Tendency of a vehicle not to turn sharply enough.
 
@@ -694,7 +694,7 @@ Undertake  v. (-king; past -took; past part. -taken) 1 agree to perform or be re
 
 Undertaker  n. Professional funeral organizer.
 
-Undertaking  n. 1 work etc. Undertaken, enterprise (serious undertaking). 2 promise. 3  professional funeral management.
+Undertaking  n. 1 work etc. Undertaken, enterprise (serious undertaking). 2 promise. 3 professional funeral management.
 
 Underthings  n.pl. Underclothes.
 
@@ -722,17 +722,17 @@ Underwhelm  v. Joc. Fail to impress. [alteration of *overwhelm]
 
 Underworld  n. 1 those who live by organized crime and vice. 2 mythical abode of the dead under the earth.
 
-Underwrite  v. (-ting; past -wrote; past part. -written) 1 a sign and accept liability under (an insurance policy, esp. On shipping etc.). B accept (liability) in this way. 2 undertake to finance or support. 3  engage to buy all the unsold stock in (a company etc.).  underwriter n.
+Underwrite  v. (-ting; past -wrote; past part. -written) 1 a sign and accept liability under (an insurance policy, esp. On shipping etc.). B accept (liability) in this way. 2 undertake to finance or support. 3 engage to buy all the unsold stock in (a company etc.). * underwriter n.
 
-Undescended  adj.  (of a testicle) not descending normally into the scrotum.
+Undescended  adj. (of a testicle) not descending normally into the scrotum.
 
-Undeserved  adj. Not deserved.  undeservedly adv.
+Undeserved  adj. Not deserved. * undeservedly adv.
 
 Undeserving  adj. Not deserving.
 
 Undesigned  adj. Unintentional.
 
-Undesirable  —adj. Objectionable, unpleasant. —n. Undesirable person.  undesirability n.
+Undesirable  —adj. Objectionable, unpleasant. —n. Undesirable person. * undesirability n.
 
 Undetectable  adj. Not detectable.
 
@@ -788,7 +788,7 @@ Undoing  n. 1 ruin or cause of ruin. 2 reversing of an action etc. 3 opening or 
 
 Undone  adj. 1 not done. 2 not fastened. 3 archaic ruined.
 
-Undoubted  adj. Certain, not questioned.  undoubtedly adv.
+Undoubted  adj. Certain, not questioned. * undoubtedly adv.
 
 Undreamed  adj. (also undreamt) (often foll. By of) not dreamed, thought, or imagined.
 
@@ -798,9 +798,9 @@ Undressed  adj. 1 not, or no longer, dressed. 2 (of food) without a dressing. 3 
 
 Undrinkable  adj. Unfit for drinking.
 
-Undue  adj. Excessive, disproportionate.  unduly adv.
+Undue  adj. Excessive, disproportionate. * unduly adv.
 
-Undulate  v. (-ting) (cause to) have a wavy motion or look.  undulation n. [latin unda wave]
+Undulate  v. (-ting) (cause to) have a wavy motion or look. * undulation n. [latin unda wave]
 
 Undying  adj. Immortal; never-ending (undying love).
 
@@ -810,11 +810,11 @@ Unearned income  n. Income from investments etc. Rather than from working.
 
 Unearth  v. Discover by searching, digging, or rummaging.
 
-Unearthly  adj. 1 supernatural, mysterious. 2 colloq. Absurdly early or inconvenient (unearthly hour).  unearthliness n.
+Unearthly  adj. 1 supernatural, mysterious. 2 colloq. Absurdly early or inconvenient (unearthly hour). * unearthliness n.
 
 Unease  n. Nervousness, anxiety.
 
-Uneasy  adj. (-ier, -iest) 1 nervous, anxious. 2 disturbing (uneasy suspicion).  uneasily adv. Uneasiness n.
+Uneasy  adj. (-ier, -iest) 1 nervous, anxious. 2 disturbing (uneasy suspicion). * uneasily adv. Uneasiness n.
 
 Uneatable  adj. Not able to be eaten (cf. *inedible).
 
@@ -836,7 +836,7 @@ Unemotional  adj. Not emotional; lacking emotion.
 
 Unemphatic  adj. Not emphatic.
 
-Unemployable  adj. Unfit for paid employment.  unemployability n.
+Unemployable  adj. Unfit for paid employment. * unemployability n.
 
 Unemployed  adj. 1 out of work. 2 not in use.
 
@@ -854,27 +854,27 @@ Unenlightened  adj. Not enlightened.
 
 Unenterprising  adj. Not enterprising.
 
-Unenthusiastic  adj. Not enthusiastic.  unenthusiastically adv.
+Unenthusiastic  adj. Not enthusiastic. * unenthusiastically adv.
 
 Unenviable  adj. Not enviable.
 
-Unequal  adj. 1 (often foll. By to) not equal. 2 of varying quality. 3 unfair (unequal contest).  unequally adv.
+Unequal  adj. 1 (often foll. By to) not equal. 2 of varying quality. 3 unfair (unequal contest). * unequally adv.
 
 Unequaled  adj. (brit. -alled) superior to all others.
 
 Unequalled  adj. (us -aled) superior to all others.
 
-Unequivocal  adj. Not ambiguous, plain, unmistakable.  unequivocally adv.
+Unequivocal  adj. Not ambiguous, plain, unmistakable. * unequivocally adv.
 
-Unerring  adj. Not erring; true, certain.  unerringly adv.
+Unerring  adj. Not erring; true, certain. * unerringly adv.
 
 Unesco  abbr. (also unesco) united nations educational, scientific, and cultural organization.
 
-Unethical  adj. Not ethical, esp. Unscrupulous or unprofessional.  unethically adv.
+Unethical  adj. Not ethical, esp. Unscrupulous or unprofessional. * unethically adv.
 
-Uneven  adj. 1 not level or smooth. 2 of variable quality etc. 3 (of a contest) unequal.  unevenly adv. Unevenness n.
+Uneven  adj. 1 not level or smooth. 2 of variable quality etc. 3 (of a contest) unequal. * unevenly adv. Unevenness n.
 
-Uneventful  adj. Not eventful.  uneventfully adv.
+Uneventful  adj. Not eventful. * uneventfully adv.
 
 Unexampled  adj. Without precedent.
 
@@ -886,7 +886,7 @@ Unexceptional  adj. Usual, normal, ordinary.
 
 Unexciting  adj. Not exciting; dull.
 
-Unexpected  adj. Not expected; surprising.  unexpectedly adv. Unexpectedness n.
+Unexpected  adj. Not expected; surprising. * unexpectedly adv. Unexpectedness n.
 
 Unexplained  adj. Not explained.
 
@@ -900,23 +900,23 @@ Unexpurgated  adj. (esp. Of a text etc.) Complete.
 
 Unfading  adj. Never fading.
 
-Unfailing  adj. Not failing or dwindling; constant; reliable.  unfailingly adv.
+Unfailing  adj. Not failing or dwindling; constant; reliable. * unfailingly adv.
 
-Unfair  adj. Not fair, just, or impartial.  unfairly adv. Unfairness n.
+Unfair  adj. Not fair, just, or impartial. * unfairly adv. Unfairness n.
 
-Unfaithful  adj. 1 not faithful, esp. Adulterous. 2 treacherous; disloyal.  unfaithfully adv. Unfaithfulness n.
+Unfaithful  adj. 1 not faithful, esp. Adulterous. 2 treacherous; disloyal. * unfaithfully adv. Unfaithfulness n.
 
-Unfamiliar  adj. Not familiar.  unfamiliarity n.
+Unfamiliar  adj. Not familiar. * unfamiliarity n.
 
-Unfashionable  adj. Not fashionable.  unfashionably adv.
+Unfashionable  adj. Not fashionable. * unfashionably adv.
 
 Unfasten  v. 1 make or become loose. 2 open the fastening(s) of. 3 detach.
 
 Unfathomable  adj. Incapable of being fathomed.
 
-Unfavorable  adj. (brit. Unfavourable) not favourable; adverse, hostile.  unfavourably adv.
+Unfavorable  adj. (brit. Unfavourable) not favourable; adverse, hostile. * unfavourably adv.
 
-Unfavourable  adj. (us unfavorable) not favourable; adverse, hostile.  unfavourably adv.
+Unfavourable  adj. (us unfavorable) not favourable; adverse, hostile. * unfavourably adv.
 
 Unfeasible  adj. Not feasible; impractical.
 
@@ -942,13 +942,13 @@ Unfix  v. Release, loosen, or detach.
 
 Unflagging  adj. Tireless, persistent.
 
-Unflappable  adj. Colloq. Imperturbable; calm.  unflappability n.
+Unflappable  adj. Colloq. Imperturbable; calm. * unflappability n.
 
-Unflattering  adj. Not flattering.  unflatteringly adv.
+Unflattering  adj. Not flattering. * unflatteringly adv.
 
 Unfledged  adj. 1 (of a person) inexperienced. 2 (of a bird) not yet fledged.
 
-Unflinching  adj. Not flinching.  unflinchingly adv.
+Unflinching  adj. Not flinching. * unflinchingly adv.
 
 Unfold  v. 1 open the fold or folds of, spread out. 2 reveal (thoughts etc.). 3 become opened out. 4 develop.
 
@@ -994,9 +994,9 @@ Unfurl  v. 1 unroll, spread out (a sail, umbrella, etc.). 2 become unrolled.
 
 Unfurnished  adj. 1 (usu. Foll. By with) not supplied. 2 without furniture.
 
-Ungainly  adj. Awkward, clumsy.  ungainliness n. [obsolete gain straight, from old norse]
+Ungainly  adj. Awkward, clumsy. * ungainliness n. [obsolete gain straight, from old norse]
 
-Ungenerous  adj. Mean.  ungenerously adv.
+Ungenerous  adj. Mean. * ungenerously adv.
 
 Ungentlemanly  adj. Not gentlemanly.
 
@@ -1008,13 +1008,13 @@ Ungodly  adj. 1 impious, wicked. 2 colloq. Outrageous (ungodly hour).
 
 Ungovernable  adj. Uncontrollable, violent.
 
-Ungraceful  adj. Lacking grace or elegance.  ungracefully adv.
+Ungraceful  adj. Lacking grace or elegance. * ungracefully adv.
 
-Ungracious  adj. Discourteous; grudging.  ungraciously adv.
+Ungracious  adj. Discourteous; grudging. * ungraciously adv.
 
-Ungrammatical  adj. Contrary to the rules of grammar.  ungrammatically adv.
+Ungrammatical  adj. Contrary to the rules of grammar. * ungrammatically adv.
 
-Ungrateful  adj. Not feeling or showing gratitude.  ungratefully adv.
+Ungrateful  adj. Not feeling or showing gratitude. * ungratefully adv.
 
 Ungreen  adj. Not concerned with the protection of the environment; harmful to the environment.
 
@@ -1032,21 +1032,21 @@ Unhampered  adj. Not hampered.
 
 Unhand  v. Rhet. Or joc. Take one's hands off (a person); release.
 
-Unhappy  adj. (-ier, -iest) 1 miserable. 2 unfortunate. 3 disastrous.  unhappily adv. Unhappiness n.
+Unhappy  adj. (-ier, -iest) 1 miserable. 2 unfortunate. 3 disastrous. * unhappily adv. Unhappiness n.
 
 Unharmed  adj. Not harmed.
 
 Unharness  v. Remove a harness from.
 
-Unhealthy  adj. (-ier, -iest) 1 in poor health. 2 a harmful to health. B unwholesome. C slang dangerous.  unhealthily adv. Unhealthiness n.
+Unhealthy  adj. (-ier, -iest) 1 in poor health. 2 a harmful to health. B unwholesome. C slang dangerous. * unhealthily adv. Unhealthiness n.
 
 Unheard  adj. 1 not heard. 2 (usu. Unheard-of) unprecedented.
 
 Unheeded  adj. Disregarded.
 
-Unhelpful  adj. Not helpful.  unhelpfully adv.
+Unhelpful  adj. Not helpful. * unhelpfully adv.
 
-Unhesitating  adj. Without hesitation.  unhesitatingly adv.
+Unhesitating  adj. Without hesitation. * unhesitatingly adv.
 
 Unhindered  adj. Not hindered.
 
@@ -1084,25 +1084,25 @@ Unicellular  adj. (of an organism etc.) Consisting of a single cell.
 
 Unicorn  n. Mythical horse with a single straight horn. [latin cornu horn]
 
-Unicycle  n. Single-wheeled cycle, esp. As used by acrobats.  unicyclist n.
+Unicycle  n. Single-wheeled cycle, esp. As used by acrobats. * unicyclist n.
 
 Unidentified  adj. Not identified.
 
-Unification  n. Unifying or being unified.  unificatory adj.
+Unification  n. Unifying or being unified. * unificatory adj.
 
 Unification church  n. Religious organization founded by sun myung moon.
 
-Uniform  —adj. 1 unvarying (uniform appearance). 2 conforming to the same standard, rules, etc. 3 constant over a period (uniform acceleration). —n. Distinctive clothing worn by soldiers, police, schoolchildren, etc.  uniformed adj. Uniformity n. Uniformly adv. [latin: related to *form]
+Uniform  —adj. 1 unvarying (uniform appearance). 2 conforming to the same standard, rules, etc. 3 constant over a period (uniform acceleration). —n. Distinctive clothing worn by soldiers, police, schoolchildren, etc. * uniformed adj. Uniformity n. Uniformly adv. [latin: related to *form]
 
 Unify  v. (-ies, -ied) make or become united or uniform. [latin: related to *uni-]
 
-Unilateral  adj. Done by or affecting only one person or party (unilateral disarmament).  unilaterally adv.
+Unilateral  adj. Done by or affecting only one person or party (unilateral disarmament). * unilaterally adv.
 
-Unilateralism  n. Unilateral disarmament.  unilateralist n. & adj.
+Unilateralism  n. Unilateral disarmament. * unilateralist n. & adj.
 
 Unimaginable  adj. Impossible to imagine.
 
-Unimaginative  adj. Lacking imagination; stolid, dull.  unimaginatively adv.
+Unimaginative  adj. Lacking imagination; stolid, dull. * unimaginatively adv.
 
 Unimpaired  adj. Not impaired.
 
@@ -1138,7 +1138,7 @@ Unintelligible  adj. Not intelligible.
 
 Unintended  adj. Not intended.
 
-Unintentional  adj. Not intentional.  unintentionally adv.
+Unintentional  adj. Not intentional. * unintentionally adv.
 
 Uninterested  adj. Not interested; indifferent.
 
@@ -1150,25 +1150,25 @@ Uninvited  adj. Not invited.
 
 Uninviting  adj. Unattractive, repellent.
 
-Union  n. 1 uniting or being united. 2 a whole formed from parts or members. B political unit so formed. 3 = *trade union. 4 marriage. 5 concord (perfect union). 6 (union) a university social club and (at oxbridge) debating society. B buildings of this. 7 math. Totality of the members of two or more sets. 8  mixed fabric, e.g. Cotton with linen or silk. [latin unus one]
+Union  n. 1 uniting or being united. 2 a whole formed from parts or members. B political unit so formed. 3 = *trade union. 4 marriage. 5 concord (perfect union). 6 (union) a university social club and (at oxbridge) debating society. B buildings of this. 7 math. Totality of the members of two or more sets. 8 mixed fabric, e.g. Cotton with linen or silk. [latin unus one]
 
 Union-bashing  n. Colloq. Media or government campaign against trade unions.
 
-Unionist  n. 1 a member of a trade union. B advocate of trade unions. 2 (usu. Unionist) member of a party advocating continued union between great britain and northern ireland.  unionism n.
+Unionist  n. 1 a member of a trade union. B advocate of trade unions. 2 (usu. Unionist) member of a party advocating continued union between great britain and northern ireland. * unionism n.
 
-Unionize  v. (also -ise) (-zing or -sing) organize in or into a trade union.  unionization n.
+Unionize  v. (also -ise) (-zing or -sing) organize in or into a trade union. * unionization n.
 
 Union jack  n. (also union flag) national ensign of the united kingdom.
 
-Unique  adj. 1 being the only one of its kind; having no like, equal, or parallel. 2 remarkable (unique opportunity).  uniquely adv. [latin unicus from unus one]
+Unique  adj. 1 being the only one of its kind; having no like, equal, or parallel. 2 remarkable (unique opportunity). * uniquely adv. [latin unicus from unus one]
 
 Unisex  adj. (of clothing, hairstyles, etc.) Designed for both sexes.
 
-Unison  n. 1 concord (acted in perfect unison). 2  coincidence in pitch of sounds or notes (sung in unison). [latin sonus *sound1]
+Unison  n. 1 concord (acted in perfect unison). 2 coincidence in pitch of sounds or notes (sung in unison). [latin sonus *sound1]
 
-Unit  n. 1 a individual thing, person, or group, esp. For calculation. B smallest component of a complex whole. 2 quantity as a standard of measurement (unit of heat; si unit). 3 smallest share in a unit trust. 4 part of a mechanism with a specified function. 5 fitted item of furniture, esp. As part of a set. 6 subgroup with a special function. 7 group of buildings, wards, etc., in a hospital. 8  a single-digit number. B the number ‘one’. [latin unus one]
+Unit  n. 1 a individual thing, person, or group, esp. For calculation. B smallest component of a complex whole. 2 quantity as a standard of measurement (unit of heat; si unit). 3 smallest share in a unit trust. 4 part of a mechanism with a specified function. 5 fitted item of furniture, esp. As part of a set. 6 subgroup with a special function. 7 group of buildings, wards, etc., in a hospital. 8 a single-digit number. B the number ‘one’. [latin unus one]
 
-Unitarian  —n. 1 person who believes that god is one, not a trinity. 2 member of a religious body so believing. —adj. Of unitarians.  unitarianism n. [latin unitas *unity]
+Unitarian  —n. 1 person who believes that god is one, not a trinity. 2 member of a religious body so believing. —adj. Of unitarians. * unitarianism n. [latin unitas *unity]
 
 Unitary  adj. 1 of a unit or units. 2 marked by unity or uniformity. [from *unit or *unity]
 
@@ -1194,33 +1194,33 @@ Univalent  adj. Having a valency of one. [from *uni-, *valence1]
 
 Univalve  zool. —adj. Having one valve. —n. Univalve mollusc.
 
-Universal  —adj. Of, belonging to, or done etc. By all; applicable to all cases. —n. Term, characteristic, or concept of general application.  universality n. Universally adv. [latin: related to *universe]
+Universal  —adj. Of, belonging to, or done etc. By all; applicable to all cases. —n. Term, characteristic, or concept of general application. * universality n. Universally adv. [latin: related to *universe]
 
 Universal coupling  n. (also universal joint) coupling or joint which can transmit rotary power by a shaft at any angle.
 
-Universal time  n.  = *greenwich mean time.
+Universal time  n. = *greenwich mean time.
 
 Universe  n. 1 all existing things; creation. 2 all mankind. 3 statistics & logic all the objects under consideration. [latin universus combined into one]
 
 University  n. (pl. -ies) 1 educational institution of advanced learning and research conferring degrees. 2 members of this. [latin: related to *universe]
 
-Unjust  adj. Not just, not fair.  unjustly adv. Unjustness n.
+Unjust  adj. Not just, not fair. * unjustly adv. Unjustness n.
 
-Unjustifiable  adj. Not justifiable.  unjustifiably adv.
+Unjustifiable  adj. Not justifiable. * unjustifiably adv.
 
 Unjustified  adj. Not justified.
 
 Unkempt  adj. Untidy, dishevelled. [= uncombed]
 
-Unkind  adj. Not kind; harsh, cruel.  unkindly adv. Unkindness n.
+Unkind  adj. Not kind; harsh, cruel. * unkindly adv. Unkindness n.
 
 Unknot  v. (-tt-) release the knot(s) of, untie.
 
 Unknowable  —adj. That cannot be known. —n. 1 unknowable thing. 2 (the unknowable) the postulated absolute or ultimate reality.
 
-Unknowing  adj. (often foll. By of) not knowing; ignorant, unconscious.  unknowingly adv.
+Unknowing  adj. (often foll. By of) not knowing; ignorant, unconscious. * unknowingly adv.
 
-Unknown  —adj. (often foll. By to) not known, unfamiliar. —n. Unknown thing, person, or quantity.  unknown to without the knowledge of (did it unknown to me).
+Unknown  —adj. (often foll. By to) not known, unfamiliar. —n. Unknown thing, person, or quantity. * unknown to without the knowledge of (did it unknown to me).
 
 Unknown quantity  n. Mysterious or obscure person or thing.
 
@@ -1242,7 +1242,7 @@ Unladylike  adj. Not ladylike.
 
 Unlatch  v. 1 release the latch of. 2 open in this way.
 
-Unlawful  adj. Illegal, not permissible.  unlawfully adv.
+Unlawful  adj. Illegal, not permissible. * unlawfully adv.
 
 Unleaded  adj. (of petrol etc.) Without added lead.
 
@@ -1264,7 +1264,7 @@ Unlicensed  adj. Not licensed, esp. To sell alcohol.
 
 Unlike  —adj. 1 not like; different from. 2 uncharacteristic of (greed is unlike her). 3 dissimilar, different. —prep. Differently from (acts quite unlike anyone else).
 
-Unlikely  adj. (-ier, -iest) 1 improbable (unlikely tale). 2 (foll. By to + infin.) Not expected (unlikely to die). 3 unpromising (unlikely candidate).  unlikeliness n.
+Unlikely  adj. (-ier, -iest) 1 improbable (unlikely tale). 2 (foll. By to + infin.) Not expected (unlikely to die). 3 unpromising (unlikely candidate). * unlikeliness n.
 
 Unlike signs  n.pl. Math. Plus and minus.
 
@@ -1294,7 +1294,7 @@ Unlovely  adj. Not attractive; unpleasant.
 
 Unloving  adj. Not loving.
 
-Unlucky  adj. (-ier, -iest) 1 not fortunate or successful. 2 wretched. 3 bringing bad luck. 4 ill-judged.  unluckily adv.
+Unlucky  adj. (-ier, -iest) 1 not fortunate or successful. 2 wretched. 3 bringing bad luck. 4 ill-judged. * unluckily adv.
 
 Unmade  adj. (esp. Of a bed) not made.
 
@@ -1308,7 +1308,7 @@ Unmanly  adj. Not manly.
 
 Unmanned  adj. 1 not manned. 2 overcome by emotion etc.
 
-Unmannerly  adj. Ill-mannered.  unmannerliness n.
+Unmannerly  adj. Ill-mannered. * unmannerliness n.
 
 Unmarked  adj. 1 not marked. 2 not noticed.
 
@@ -1320,7 +1320,7 @@ Unmatched  adj. Not matched or equalled.
 
 Unmentionable  —adj. Unsuitable for polite conversation. —n. (in pl.) Joc. Undergarments.
 
-Unmerciful  adj. Merciless.  unmercifully adv.
+Unmerciful  adj. Merciless. * unmercifully adv.
 
 Unmerited  adj. Not merited.
 
@@ -1332,7 +1332,7 @@ Unmindful  adj. (often foll. By of) not mindful.
 
 Unmissable  adj. That cannot or should not be missed.
 
-Unmistakable  adj. Clear, obvious, plain.  unmistakably adv.
+Unmistakable  adj. Clear, obvious, plain. * unmistakably adv.
 
 Unmitigated  adj. Not mitigated; absolute (unmitigated disaster).
 
@@ -1340,7 +1340,7 @@ Unmixed  adj. Not mixed.
 
 Unmodified  adj. Not modified.
 
-Unmoral  adj. Not concerned with morality (cf. *immoral).  unmorality n.
+Unmoral  adj. Not concerned with morality (cf. *immoral). * unmorality n.
 
 Unmoved  adj. 1 not moved. 2 constant in purpose. 3 unemotional.
 
@@ -1350,9 +1350,9 @@ Unnameable  adj. Too bad to be named or mentioned.
 
 Unnamed  adj. Not named.
 
-Unnatural  adj. 1 contrary to nature; not normal. 2 lacking natural feelings, esp. Cruel or wicked. 3 artificial. 4 affected.  unnaturally adv.
+Unnatural  adj. 1 contrary to nature; not normal. 2 lacking natural feelings, esp. Cruel or wicked. 3 artificial. 4 affected. * unnaturally adv.
 
-Unnecessary  adj. 1 not necessary. 2 superfluous.  unnecessarily adv.
+Unnecessary  adj. 1 not necessary. 2 superfluous. * unnecessarily adv.
 
 Unneeded  adj. Not needed.
 
@@ -1372,11 +1372,11 @@ Unobserved  adj. Not observed.
 
 Unobtainable  adj. That cannot be obtained.
 
-Unobtrusive  adj. Not making oneself or itself noticed.  unobtrusively adv.
+Unobtrusive  adj. Not making oneself or itself noticed. * unobtrusively adv.
 
 Unoccupied  adj. Not occupied.
 
-Unofficial  adj. Not officially authorized or confirmed.  unofficially adv.
+Unofficial  adj. Not officially authorized or confirmed. * unofficially adv.
 
 Unofficial strike  n. Strike not ratified by the strikers' trade union.
 
@@ -1402,7 +1402,7 @@ Unpalatable  adj. (of food, an idea, suggestion, etc.) Disagreeable, distasteful
 
 Unparalleled  adj. Unequalled.
 
-Unpardonable  adj. That cannot be pardoned.  unpardonably adv.
+Unpardonable  adj. That cannot be pardoned. * unpardonably adv.
 
 Unparliamentary language  n. Oaths or abuse.
 
@@ -1426,7 +1426,7 @@ Unplanned  adj. Not planned.
 
 Unplayable  adj. 1 sport (of a ball) too fast etc. To be returned. 2 that cannot be played.
 
-Unpleasant  adj. Not pleasant, disagreeable.  unpleasantly adv. Unpleasantness n.
+Unpleasant  adj. Not pleasant, disagreeable. * unpleasantly adv. Unpleasantness n.
 
 Unpleasing  adj. Not pleasing.
 
@@ -1440,7 +1440,7 @@ Unpolished  adj. Not polished or refined; rough.
 
 Unpolitical  adj. Not concerned with politics.
 
-Unpopular  adj. Not popular; disliked.  unpopularity n.
+Unpopular  adj. Not popular; disliked. * unpopularity n.
 
 Unpopulated  adj. Not populated.
 
@@ -1450,9 +1450,9 @@ Unpracticed  adj. (brit. Unpractised) 1 not experienced or skilled. 2 not put in
 
 Unpractised  adj. (us unpracticed) 1 not experienced or skilled. 2 not put into practice.
 
-Unprecedented  adj. Having no precedent; unparalleled.  unprecedentedly adv.
+Unprecedented  adj. Having no precedent; unparalleled. * unprecedentedly adv.
 
-Unpredictable  adj. That cannot be predicted.  unpredictability n. Unpredictably adv.
+Unpredictable  adj. That cannot be predicted. * unpredictability n. Unpredictably adv.
 
 Unprejudiced  adj. Not prejudiced.
 
@@ -1472,7 +1472,7 @@ Unprintable  adj. Too offensive or indecent to be printed.
 
 Unproductive  adj. Not productive.
 
-Unprofessional  adj. 1 contrary to professional standards. 2 unskilled, amateurish.  unprofessionally adv.
+Unprofessional  adj. 1 contrary to professional standards. 2 unskilled, amateurish. * unprofessionally adv.
 
 Unprofitable  adj. Not profitable.
 
@@ -1506,11 +1506,11 @@ Unqualified  adj. 1 not legally or officially qualified. 2 complete (unqualified
 
 Unquenchable  adj. That cannot be quenched.
 
-Unquestionable  adj. That cannot be disputed or doubted.  unquestionably adv.
+Unquestionable  adj. That cannot be disputed or doubted. * unquestionably adv.
 
 Unquestioned  adj. Not disputed or doubted; definite, certain.
 
-Unquestioning  adj. 1 asking no questions. 2 (of obedience etc.) Absolute.  unquestioningly adv.
+Unquestioning  adj. 1 asking no questions. 2 (of obedience etc.) Absolute. * unquestioningly adv.
 
 Unquiet  adj. 1 restless, agitated. 2 anxious.
 
@@ -1524,9 +1524,9 @@ Unreadable  adj. Too dull, bad, or difficult to read.
 
 Unready  adj. 1 not ready. 2 hesitant.
 
-Unreal  adj. 1 not real. 2 imaginary. 3 slang incredible.  unreality n.
+Unreal  adj. 1 not real. 2 imaginary. 3 slang incredible. * unreality n.
 
-Unrealistic  adj. Not realistic.  unrealistically adv.
+Unrealistic  adj. Not realistic. * unrealistically adv.
 
 Unrealizable  adj. (also -isable) that cannot be realized.
 
@@ -1534,7 +1534,7 @@ Unrealized  adj. (also -ised) not realized.
 
 Unreason  n. Madness; chaos; disorder.
 
-Unreasonable  adj. 1 excessive (unreasonable demands). 2 not heeding reason.  unreasonably adv.
+Unreasonable  adj. 1 excessive (unreasonable demands). 2 not heeding reason. * unreasonably adv.
 
 Unreasoning  adj. Not reasoning.
 
@@ -1564,9 +1564,9 @@ Unrehearsed  adj. Not rehearsed.
 
 Unrelated  adj. Not related.
 
-Unrelenting  adj. Not abating, yielding, or relaxing; unmerciful.  unrelentingly adv.
+Unrelenting  adj. Not abating, yielding, or relaxing; unmerciful. * unrelentingly adv.
 
-Unreliable  adj. Not reliable; erratic.  unreliability n.
+Unreliable  adj. Not reliable; erratic. * unreliability n.
 
 Unrelieved  adj. Not relieved; monotonously uniform.
 
@@ -1574,13 +1574,13 @@ Unremarkable  adj. Not remarkable; uninteresting, ordinary.
 
 Unremarked  adj. Not mentioned or remarked upon.
 
-Unremitting  adj. Incessant.  unremittingly adv.
+Unremitting  adj. Incessant. * unremittingly adv.
 
 Unremunerative  adj. Not, or not very, profitable.
 
 Unrepeatable  adj. 1 that cannot be done, made, or said again. 2 too indecent to repeat.
 
-Unrepentant  adj. Not repentant, impenitent.  unrepentantly adv.
+Unrepentant  adj. Not repentant, impenitent. * unrepentantly adv.
 
 Unrepresentative  adj. Not representative.
 
@@ -1588,7 +1588,7 @@ Unrepresented  adj. Not represented.
 
 Unrequited  adj. (of love etc.) Not returned.
 
-Unreserved  adj. 1 not reserved. 2 total; without reservation.  unreservedly adv.
+Unreserved  adj. 1 not reserved. 2 total; without reservation. * unreservedly adv.
 
 Unresisting  adj. Not resisting.
 
@@ -1620,7 +1620,7 @@ Unromantic  adj. Not romantic.
 
 Unruffled  adj. Calm.
 
-Unruly  adj. (-ier, -iest) undisciplined, disorderly.  unruliness n. [related to *rule]
+Unruly  adj. (-ier, -iest) undisciplined, disorderly. * unruliness n. [related to *rule]
 
 Unsaddle  v. (-ling) 1 remove the saddle from. 2 unhorse.
 
@@ -1656,7 +1656,7 @@ Unscheduled  adj. Not scheduled.
 
 Unschooled  adj. Uneducated, untrained.
 
-Unscientific  adj. Not scientific in method etc.  unscientifically adv.
+Unscientific  adj. Not scientific in method etc. * unscientifically adv.
 
 Unscramble  v. (-ling) make plain, decode, interpret (a scrambled transmission etc.).
 
@@ -1666,27 +1666,27 @@ Unscrew  v. 1 unfasten by removing a screw or screws. 2 loosen (a screw or screw
 
 Unscripted  adj. (of a speech etc.) Delivered impromptu.
 
-Unscrupulous  adj. Having no scruples, unprincipled.  unscrupulously adv. Unscrupulousness n.
+Unscrupulous  adj. Having no scruples, unprincipled. * unscrupulously adv. Unscrupulousness n.
 
 Unseal  v. Break the seal of; open (a letter, receptacle, etc.).
 
-Unseasonable  adj. 1 not seasonable. 2 untimely, inopportune.  unseasonably adv.
+Unseasonable  adj. 1 not seasonable. 2 untimely, inopportune. * unseasonably adv.
 
-Unseasonal  adj. Not typical of, or appropriate to, the time or season.  unseasonally adv.
+Unseasonal  adj. Not typical of, or appropriate to, the time or season. * unseasonally adv.
 
 Unseat  v. 1 remove from (esp. A parliamentary) seat. 2 dislodge from a seat, esp. On horseback.
 
 Unseeded  adj. Sport (of a player) not seeded.
 
-Unseeing  adj. 1 unobservant. 2 blind.  unseeingly adv.
+Unseeing  adj. 1 unobservant. 2 blind. * unseeingly adv.
 
-Unseemly  adj. (-ier, -iest) 1 indecent. 2 unbecoming.  unseemliness n.
+Unseemly  adj. (-ier, -iest) 1 indecent. 2 unbecoming. * unseemliness n.
 
 Unseen  —adj. 1 not seen. 2 invisible. 3 (of a translation) to be done without preparation. —n. Unseen translation.
 
-Unselfconscious  adj. Not self-conscious.  unselfconsciously adv. Unselfconsciousness n.
+Unselfconscious  adj. Not self-conscious. * unselfconsciously adv. Unselfconsciousness n.
 
-Unselfish  adj. Concerned about others; sharing.  unselfishly adv. Unselfishness n.
+Unselfish  adj. Concerned about others; sharing. * unselfishly adv. Unselfishness n.
 
 Unsentimental  adj. Not sentimental.
 
@@ -1698,7 +1698,7 @@ Unsex  v. Deprive (a person, esp. A woman) of the qualities of her or his sex.
 
 Unshackle  v. (-ling) 1 release from shackles. 2 set free.
 
-Unshakeable  adj. Firm; obstinate.  unshakeably adv.
+Unshakeable  adj. Firm; obstinate. * unshakeably adv.
 
 Unshaken  adj. Not shaken.
 
@@ -1712,7 +1712,7 @@ Unshrinking  adj. Unhesitating, fearless.
 
 Unsighted  adj. 1 not sighted or seen. 2 prevented from seeing.
 
-Unsightly  adj. Ugly.  unsightliness n.
+Unsightly  adj. Ugly. * unsightliness n.
 
 Unsigned  adj. Not signed.
 
@@ -1748,11 +1748,11 @@ Unsorted  adj. Not sorted.
 
 Unsought  adj. 1 not sought for. 2 without being requested.
 
-Unsound  adj. 1 unhealthy, not sound. 2 rotten, weak; unreliable. 3 ill-founded.  of unsound mind insane.  unsoundness n.
+Unsound  adj. 1 unhealthy, not sound. 2 rotten, weak; unreliable. 3 ill-founded. * of unsound mind insane. * unsoundness n.
 
 Unsparing  adj. 1 lavish. 2 merciless.
 
-Unspeakable  adj. 1 that cannot be expressed in words. 2 indescribably bad.  unspeakably adv.
+Unspeakable  adj. 1 that cannot be expressed in words. 2 indescribably bad. * unspeakably adv.
 
 Unspecific  adj. Not specific; general, inexact.
 
@@ -1768,19 +1768,19 @@ Unsporting  adj. Not fair or generous.
 
 Unsportsmanlike  adj. Unsporting.
 
-Unstable  adj. (unstabler, unstablest) 1 not stable; likely to fall. 2 not stable emotionally. 3 changeable. unstably adv.
+Unstable  adj. (unstabler, unstablest) 1 not stable; likely to fall. 2 not stable emotionally. 3 changeable.* unstably adv.
 
 Unstained  adj. Not stained.
 
 Unstated  adj. Not stated or declared.
 
-Unsteady  adj. (-ier, -iest) 1 not steady or firm. 2 changeable. 3 not uniform or regular.  unsteadily adv. Unsteadiness n.
+Unsteady  adj. (-ier, -iest) 1 not steady or firm. 2 changeable. 3 not uniform or regular. * unsteadily adv. Unsteadiness n.
 
-Unstick  v. (past and past part. Unstuck) separate (a thing stuck to another).  come unstuck colloq. Come to grief, fail.
+Unstick  v. (past and past part. Unstuck) separate (a thing stuck to another). * come unstuck colloq. Come to grief, fail.
 
 Unstinted  adj. Not stinted.
 
-Unstinting  adj. Lavish; limitless.  unstintingly adv.
+Unstinting  adj. Lavish; limitless. * unstintingly adv.
 
 Unstitch  v. Undo the stitches of.
 
@@ -1806,9 +1806,9 @@ Unsubstantiated  adj. Not substantiated.
 
 Unsubtle  adj. Not subtle; obvious; clumsy.
 
-Unsuccessful  adj. Not successful.  unsuccessfully adv.
+Unsuccessful  adj. Not successful. * unsuccessfully adv.
 
-Unsuitable  adj. Not suitable.  unsuitability n. Unsuitably adv.
+Unsuitable  adj. Not suitable. * unsuitability n. Unsuitably adv.
 
 Unsuited  adj. 1 (usu. Foll. By for) not fit. 2 (usu. Foll. By to) not adapted.
 
@@ -1824,9 +1824,9 @@ Unsure  adj. Not sure.
 
 Unsurpassed  adj. Not surpassed.
 
-Unsurprising  adj. Not surprising.  unsurprisingly adv.
+Unsurprising  adj. Not surprising. * unsurprisingly adv.
 
-Unsuspecting  adj. Not suspecting.  unsuspected adj.
+Unsuspecting  adj. Not suspecting. * unsuspected adj.
 
 Unsustainable  adj. That cannot be sustained.
 
@@ -1834,13 +1834,13 @@ Unsweetened  adj. Not sweetened.
 
 Unswept  adj. Not swept.
 
-Unswerving  adj. Steady, constant.  unswervingly adv.
+Unswerving  adj. Steady, constant. * unswervingly adv.
 
 Unsymmetrical  adj. Not symmetrical.
 
-Unsympathetic  adj. Not sympathetic.  unsympathetically adv.
+Unsympathetic  adj. Not sympathetic. * unsympathetically adv.
 
-Unsystematic  adj. Not systematic.  unsystematically adv.
+Unsystematic  adj. Not systematic. * unsystematically adv.
 
 Untainted  adj. Not tainted.
 
@@ -1868,23 +1868,23 @@ Untested  adj. Not tested or proved.
 
 Untether  v. Release (an animal) from a tether.
 
-Unthinkable  adj. 1 unimaginable, inconceivable. 2 colloq. Highly unlikely or undesirable.  unthinkably adv.
+Unthinkable  adj. 1 unimaginable, inconceivable. 2 colloq. Highly unlikely or undesirable. * unthinkably adv.
 
-Unthinking  adj. 1 thoughtless. 2 unintentional, inadvertent.  unthinkingly adv.
+Unthinking  adj. 1 thoughtless. 2 unintentional, inadvertent. * unthinkingly adv.
 
 Unthread  v. Take the thread out of (a needle etc.).
 
 Unthrone  v. (-ning) dethrone.
 
-Untidy  adj. (-ier, -iest) not neat or orderly.  untidily adv. Untidiness n.
+Untidy  adj. (-ier, -iest) not neat or orderly. * untidily adv. Untidiness n.
 
 Untie  v. (untying) 1 undo (a knot, package, etc.). 2 release from bonds or attachment.
 
 Until  prep. & conj. = *till1. [earlier untill: un from old norse und as far as]
 
-Untimely  adj. 1 inopportune. 2 (of death) premature.  untimeliness n.
+Untimely  adj. 1 inopportune. 2 (of death) premature. * untimeliness n.
 
-Untiring  adj. Tireless.  untiringly adv.
+Untiring  adj. Tireless. * untiringly adv.
 
 Untitled  adj. Having no title.
 
@@ -1892,7 +1892,7 @@ Unto  prep. Archaic = *to (in all uses except signalling the infinitive). [from 
 
 Untold  adj. 1 not told. 2 immeasurable (untold misery).
 
-Untouchable  —adj. That may not be touched. —n. Member of a hereditary hindu group held to defile members of higher castes on contact.  untouchability n.
+Untouchable  —adj. That may not be touched. —n. Member of a hereditary hindu group held to defile members of higher castes on contact. * untouchability n.
 
 Untouched  adj. 1 not touched. 2 not affected physically, emotionally, etc. 3 not discussed.
 
@@ -1914,11 +1914,11 @@ Untroubled  adj. Calm, tranquil.
 
 Untrue  adj. 1 not true. 2 (often foll. By to) not faithful or loyal. 3 deviating from an accepted standard.
 
-Untrustworthy  adj. Not trustworthy.  untrustworthiness n.
+Untrustworthy  adj. Not trustworthy. * untrustworthiness n.
 
 Untruth  n. 1 being untrue. 2 lie.
 
-Untruthful  adj. Not truthful.  untruthfully adv.
+Untruthful  adj. Not truthful. * untruthfully adv.
 
 Untuck  v. Free (bedclothes etc.) From being tucked in or up.
 
@@ -1932,11 +1932,11 @@ Untwist  v. Open from a twisted or spiralled state.
 
 Unusable  adj. Not usable.
 
-Unused  adj. 1  a not in use. B never having been used. 2  (foll. By to) not accustomed.
+Unused  adj. 1 a not in use. B never having been used. 2 (foll. By to) not accustomed.
 
-Unusual  adj. 1 not usual. 2 remarkable.  unusually adv.
+Unusual  adj. 1 not usual. 2 remarkable. * unusually adv.
 
-Unutterable  adj. Inexpressible; beyond description.  unutterably adv.
+Unutterable  adj. Inexpressible; beyond description. * unutterably adv.
 
 Unvarnished  adj. 1 not varnished. 2 plain and straightforward (the unvarnished truth).
 
@@ -1956,15 +1956,15 @@ Unwaged  adj. Not receiving a wage; unemployed.
 
 Unwanted  adj. Not wanted.
 
-Unwarrantable  adj. Unjustifiable.  unwarrantably adv.
+Unwarrantable  adj. Unjustifiable. * unwarrantably adv.
 
 Unwarranted  adj. 1 unauthorized. 2 unjustified.
 
-Unwary  adj. (often foll. By of) not cautious.  unwarily adv. Unwariness n.
+Unwary  adj. (often foll. By of) not cautious. * unwarily adv. Unwariness n.
 
-Unwashed  adj. Not washed or clean.  the great unwashed colloq. The rabble.
+Unwashed  adj. Not washed or clean. * the great unwashed colloq. The rabble.
 
-Unwavering  adj. Not wavering.  unwaveringly adv.
+Unwavering  adj. Not wavering. * unwaveringly adv.
 
 Unweaned  adj. Not yet weaned.
 
@@ -1976,19 +1976,19 @@ Unwell  adj. Ill.
 
 Unwholesome  adj. 1 detrimental to physical or moral health. 2 unhealthy-looking.
 
-Unwieldy  adj. (-ier, -iest) cumbersome or hard to manage, owing to size, shape, etc.  unwieldily adv. Unwieldiness n. [wieldy active, from *wield]
+Unwieldy  adj. (-ier, -iest) cumbersome or hard to manage, owing to size, shape, etc. * unwieldily adv. Unwieldiness n. [wieldy active, from *wield]
 
-Unwilling  adj. Not willing or inclined; reluctant.  unwillingly adv. Unwillingness n.
+Unwilling  adj. Not willing or inclined; reluctant. * unwillingly adv. Unwillingness n.
 
 Unwind  v. (past and past part. Unwound) 1 draw out or become drawn out after having been wound. 2 colloq. Relax.
 
 Unwinking  adj. 1 not winking. 2 vigilant.
 
-Unwise  adj. Foolish, imprudent.  unwisely adv.
+Unwise  adj. Foolish, imprudent. * unwisely adv.
 
 Unwished  adj. (usu. Foll. By for) not wished for.
 
-Unwitting  adj. 1 not knowing or aware (an unwitting offender). 2 unintentional.  unwittingly adv. [old english: related to *wit]
+Unwitting  adj. 1 not knowing or aware (an unwitting offender). 2 unintentional. * unwittingly adv. [old english: related to *wit]
 
 Unwonted  adj. Not customary or usual.
 
@@ -1996,13 +1996,13 @@ Unworkable  adj. Not workable; impracticable.
 
 Unworkmanlike  adj. Badly done or made.
 
-Unworldly  adj. Spiritual; naïve.  unworldliness n.
+Unworldly  adj. Spiritual; naïve. * unworldliness n.
 
 Unworn  adj. Not worn or impaired by wear.
 
 Unworried  adj. Not worried; calm.
 
-Unworthy  adj. (-ier, -iest) 1 (often foll. By of) not worthy of or befitting a person etc. 2 discreditable, unseemly.  unworthily adv. Unworthiness n.
+Unworthy  adj. (-ier, -iest) 1 (often foll. By of) not worthy of or befitting a person etc. 2 discreditable, unseemly. * unworthily adv. Unworthiness n.
 
 Unwound  past and past part. Of *unwind.
 
@@ -2014,7 +2014,7 @@ Unyielding  adj. 1 not yielding. 2 firm, obstinate.
 
 Unzip  v. (-pp-) unfasten the zip of.
 
-Up  —adv. 1 at, in, or towards a higher place or a place regarded as higher, e.g. The north, a capital or a university (up in the air; up in scotland; went up to london; came up in 1989). 2 a to or in an erect or required position or condition (stood it up; wound up the watch). B in or into an active condition (stirred up trouble; the hunt is up). 3 in a stronger or leading position (three goals up; am £10 up; is well up in class). 4 to a specified place, person, or time (a child came up to me; fine up till now). 5 higher in price or value (our costs are up; shares are up). 6 a completely (burn up; eat up). B more loudly or clearly (speak up). 7 completed (time is up). 8 into a compact, accumulated, or secure state (pack up; save up; tie up). 9 out of bed, having risen (are you up yet?; sun is up). 10 happening, esp. Unusually (something is up). 11 (usu. Foll. By before) appearing for trial etc. (up before the magistrate). 12 (of a road etc.) Being repaired. 13 (of a jockey) in the saddle. —prep. 1 upwards and along, through, or into (climbed up the ladder; went up the road). 2 from the bottom to the top of. 3 a at or in a higher part of (is up the street). B towards the source of (a river). —adj. 1 directed upwards (up stroke). 2 of travel towards a capital or centre (the up train). —n. Spell of good fortune. —v. (-pp-) 1 colloq. Start, esp. Abruptly, to speak or act (upped and hit him). 2 raise (upped their prices).  be all up with be hopeless for (a person). On the up (or up and up) colloq. Steadily improving. Up against 1 close to. 2 in or into contact with. 3 colloq. Confronted with (a problem etc.).
+Up  —adv. 1 at, in, or towards a higher place or a place regarded as higher, e.g. The north, a capital or a university (up in the air; up in scotland; went up to london; came up in 1989). 2 a to or in an erect or required position or condition (stood it up; wound up the watch). B in or into an active condition (stirred up trouble; the hunt is up). 3 in a stronger or leading position (three goals up; am £10 up; is well up in class). 4 to a specified place, person, or time (a child came up to me; fine up till now). 5 higher in price or value (our costs are up; shares are up). 6 a completely (burn up; eat up). B more loudly or clearly (speak up). 7 completed (time is up). 8 into a compact, accumulated, or secure state (pack up; save up; tie up). 9 out of bed, having risen (are you up yet?; sun is up). 10 happening, esp. Unusually (something is up). 11 (usu. Foll. By before) appearing for trial etc. (up before the magistrate). 12 (of a road etc.) Being repaired. 13 (of a jockey) in the saddle. —prep. 1 upwards and along, through, or into (climbed up the ladder; went up the road). 2 from the bottom to the top of. 3 a at or in a higher part of (is up the street). B towards the source of (a river). —adj. 1 directed upwards (up stroke). 2 of travel towards a capital or centre (the up train). —n. Spell of good fortune. —v. (-pp-) 1 colloq. Start, esp. Abruptly, to speak or act (upped and hit him). 2 raise (upped their prices). * be all up with be hopeless for (a person). On the up (or up and up) colloq. Steadily improving. Up against 1 close to. 2 in or into contact with. 3 colloq. Confronted with (a problem etc.).
 
 Up-  prefix in senses of *up, added: 1 as an adverb to verbs and verbal derivations, = ‘upwards’ (upcurved; update). 2 as a preposition to nouns forming adverbs and adjectives (up-country; uphill). 3 as an adjective to nouns (upland; up-stroke).
 
@@ -2046,7 +2046,7 @@ Upheaval  n. Violent or sudden change or disruption. [from upheave, = heave or l
 
 Uphill  —adv. Up a slope. —adj. 1 sloping up; ascending. 2 arduous.
 
-Uphold  v. (past and past part. Upheld) 1 confirm (a decision etc.). 2 support, maintain (a custom etc.).  upholder n.
+Uphold  v. (past and past part. Upheld) 1 confirm (a decision etc.). 2 support, maintain (a custom etc.). * upholder n.
 
 Upholster  v. Provide (furniture) with upholstery. [back formation from *upholsterer]
 
@@ -2066,7 +2066,7 @@ Upmost  var. Of *uppermost.
 
 Upon  prep. = *on. [from up on]
 
-Upper1  —attrib. Adj. 1 higher in place; situated above another part. 2 higher in rank etc. (upper class). —n. Part of a boot or shoe above the sole.  on one's uppers colloq. Very short of money.
+Upper1  —attrib. Adj. 1 higher in place; situated above another part. 2 higher in rank etc. (upper class). —n. Part of a boot or shoe above the sole. * on one's uppers colloq. Very short of money.
 
 Upper2  n. Slang amphetamine or other stimulant.
 
@@ -2092,7 +2092,7 @@ Uprising  n. Insurrection.
 
 Uproar  n. Tumult; violent disturbance. [dutch, = commotion]
 
-Uproarious  adj. 1 very noisy. 2 provoking loud laughter; very funny.  uproariously adv.
+Uproarious  adj. 1 very noisy. 2 provoking loud laughter; very funny. * uproariously adv.
 
 Uproot  v. 1 pull (a plant etc.) Up from the ground. 2 displace (a person). 3 eradicate.
 
@@ -2142,7 +2142,7 @@ Uptown  us —attrib. Adj. Of the residential part of a town or city. —adv. In
 
 Upturn  —n. Upward trend; improvement. —v. Turn up or upside down.
 
-Upward  —adv. (also upwards) towards what is higher, more important, etc. —adj. Moving or extending upwards.  upwards of more than (upwards of forty).
+Upward  —adv. (also upwards) towards what is higher, more important, etc. —adj. Moving or extending upwards. * upwards of more than (upwards of forty).
 
 Upwardly  adv. In an upward direction.
 
@@ -2154,11 +2154,11 @@ Uranium  n. Radioactive grey dense metallic element, capable of nuclear fission 
 
 Urban  adj. Of, living in, or situated in a town or city. [latin urbs city]
 
-Urbane  adj. Suave; elegant.  urbanity n. [latin: related to *urban]
+Urbane  adj. Suave; elegant. * urbanity n. [latin: related to *urban]
 
 Urban guerrilla  n. Terrorist operating in an urban area.
 
-Urbanize  v. (also -ise) (-zing or -sing) make urban, esp. By destroying the rural quality of (a district).  urbanization n.
+Urbanize  v. (also -ise) (-zing or -sing) make urban, esp. By destroying the rural quality of (a district). * urbanization n.
 
 Urchin  n. 1 mischievous, esp. Ragged, child. 2 = *sea urchin. [latin ericius hedgehog]
 
@@ -2174,7 +2174,7 @@ Urethra  n. (pl. -s) duct conveying urine from the bladder. [greek: related to *
 
 Urge  —v. (-ging) 1 (often foll. By on) drive forcibly; hasten. 2 encourage or entreat earnestly or persistently. 3 (often foll. By on, upon) advocate (an action or argument etc.) Emphatically (to a person). —n. 1 urging impulse or tendency. 2 strong desire. [latin urgeo]
 
-Urgent  adj. 1 requiring immediate action or attention. 2 importunate.  urgency n. Urgently adv. [french: related to *urge]
+Urgent  adj. 1 requiring immediate action or attention. 2 importunate. * urgency n. Urgently adv. [french: related to *urge]
 
 Uric  adj. Of urine. [french urique: related to *urine]
 
@@ -2184,7 +2184,7 @@ Urinal  n. Place or receptacle for urination by men. [latin: related to *urine]
 
 Urinary  adj. Of or relating to urine.
 
-Urinate  v. (-ting) discharge urine.  urination n.
+Urinate  v. (-ting) discharge urine. * urination n.
 
 Urine  n. Waste fluid secreted by the kidneys and discharged from the bladder. [latin urina]
 
@@ -2192,7 +2192,7 @@ Urn  n. 1 vase with a foot and usu. A rounded body, used esp. For the ashes of t
 
 Urogenital  adj. Of the urinary and reproductive systems. [greek ouron urine]
 
-Urology  n. The study of the urinary system.  urological adj.
+Urology  n. The study of the urinary system. * urological adj.
 
 Ursa major  n. = great bear (see *bear2). [latin]
 
@@ -2212,11 +2212,11 @@ Usaf  abbr. United states air force.
 
 Usage  n. 1 use, treatment (damaged by rough usage). 2 customary practice, esp. In the use of a language or as creating a precedent in law.
 
-Use  —v. (using) 1 cause to act or serve for a purpose; bring into service. 2 treat in a specified manner (used him shamefully). 3 exploit for one's own ends. 4  did or had habitually (i used to drink; it used not (or did not use) to rain so often). 5 (as used adj.) Second-hand. 6 (as used predic. Adj.) (foll. By to) familiar by habit; accustomed (used to hard work). —n. 1 using or being used. 2 right or power of using (lost the use of his legs). 3 benefit, advantage (a torch would be of use; it's no use talking). 4 custom or usage (established by long use).  have no use for 1 not need. 2 dislike, be contemptuous of. In use being used. Make use of 1 use. 2 benefit from. Out of use not being used. Use up 1 consume completely. 2 find a use for (leftovers etc.). [french us, user, ultimately from latin utor us-]
+Use  —v. (using) 1 cause to act or serve for a purpose; bring into service. 2 treat in a specified manner (used him shamefully). 3 exploit for one's own ends. 4 did or had habitually (i used to drink; it used not (or did not use) to rain so often). 5 (as used adj.) Second-hand. 6 (as used predic. Adj.) (foll. By to) familiar by habit; accustomed (used to hard work). —n. 1 using or being used. 2 right or power of using (lost the use of his legs). 3 benefit, advantage (a torch would be of use; it's no use talking). 4 custom or usage (established by long use). * have no use for 1 not need. 2 dislike, be contemptuous of. In use being used. Make use of 1 use. 2 benefit from. Out of use not being used. Use up 1 consume completely. 2 find a use for (leftovers etc.). [french us, user, ultimately from latin utor us-]
 
-Useful  adj. 1 that can be used to advantage; helpful; beneficial. 2 colloq. Creditable, efficient (useful footballer).  make oneself useful help.  usefully adv. Usefulness n.
+Useful  adj. 1 that can be used to advantage; helpful; beneficial. 2 colloq. Creditable, efficient (useful footballer). * make oneself useful help. * usefully adv. Usefulness n.
 
-Useless  adj. 1 serving no purpose; unavailing. 2 colloq. Feeble or ineffectual (useless at swimming).  uselessly adv. Uselessness n.
+Useless  adj. 1 serving no purpose; unavailing. 2 colloq. Feeble or ineffectual (useless at swimming). * uselessly adv. Uselessness n.
 
 User  n. Person who uses a thing.
 
@@ -2228,13 +2228,13 @@ Usherette  n. Female usher, esp. In a cinema.
 
 Ussr  abbr. Hist. Union of soviet socialist republics.
 
-Usual  adj. 1 customary, habitual (the usual time). 2 (absol., prec. By the, my, etc.) Colloq. Person's usual drink etc.  as usual as (or was) usual.  usually adv. [latin: related to *use]
+Usual  adj. 1 customary, habitual (the usual time). 2 (absol., prec. By the, my, etc.) Colloq. Person's usual drink etc. * as usual as (or was) usual. * usually adv. [latin: related to *use]
 
 Usurer  n. Person who practises usury.
 
-Usurp  v. Seize (a throne or power etc.) Wrongfully.  usurpation n. Usurper n. [french from latin]
+Usurp  v. Seize (a throne or power etc.) Wrongfully. * usurpation n. Usurper n. [french from latin]
 
-Usury  n. 1 lending of money at interest, esp. At an exorbitant or illegal rate. 2 interest at this rate.  usurious adj. [anglo-french or medieval latin: related to *use]
+Usury  n. 1 lending of money at interest, esp. At an exorbitant or illegal rate. 2 interest at this rate. * usurious adj. [anglo-french or medieval latin: related to *use]
 
 Utensil  n. Implement or vessel, esp. For kitchen use. [medieval latin: related to *use]
 
@@ -2252,13 +2252,13 @@ Utility room  n. Room for domestic appliances, e.g. A washing-machine, boiler, e
 
 Utility vehicle  n. Vehicle serving various functions.
 
-Utilize  v. (also -ise) (-zing or -sing) use; turn to account.  utilization n. [italian: related to *utility]
+Utilize  v. (also -ise) (-zing or -sing) use; turn to account. * utilization n. [italian: related to *utility]
 
-Utmost  —attrib. Adj. Furthest, extreme, greatest. —n. Utmost point or degree etc.  do one's utmost do all that one can. [old english, = outmost]
+Utmost  —attrib. Adj. Furthest, extreme, greatest. —n. Utmost point or degree etc. * do one's utmost do all that one can. [old english, = outmost]
 
-Utopia  n. Imagined perfect place or state of things.  utopian adj. (also utopian). [title of a book by thomas more, from greek ou not, topos place]
+Utopia  n. Imagined perfect place or state of things. * utopian adj. (also utopian). [title of a book by thomas more, from greek ou not, topos place]
 
-Utter1  attrib. Adj. Complete, absolute.  utterly adv. [old english, comparative of *out]
+Utter1  attrib. Adj. Complete, absolute. * utterly adv. [old english, comparative of *out]
 
 Utter2  v. 1 emit audibly. 2 express in words. 3 law put (esp. Forged money) into circulation. [dutch]
 
@@ -2272,7 +2272,7 @@ Uv  abbr. Ultraviolet.
 
 Uvpc  abbr. Unplasticized polyvinyl chloride.
 
-Uvula  n. (pl. Uvulae) fleshy part of the soft palate hanging above the throat.  uvular adj. [latin diminutive of uva grape]
+Uvula  n. (pl. Uvulae) fleshy part of the soft palate hanging above the throat. * uvular adj. [latin diminutive of uva grape]
 
 Uxorial  adj. Of a wife. [latin uxor wife]
 

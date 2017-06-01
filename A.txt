@@ -998,9 +998,9 @@ Agave  n. Plant with rosettes of narrow spiny leaves and flowers on tall stem. [
 
 Age  n. 1 length of time that a person or thing has existed. 2 a colloq. (often in pl.) A long time (waited for ages). B distinct historical period (bronze age). 3 old age. —v. (ageing) 1 show or cause to show signs of advancing age. 2 grow old. 3 mature.  come of age reach adult status (esp. Law at 18, formerly 21). [latin aetas]
 
-Aged  adj. 1  (predic.) Of the age of (aged 3). 2  old.
+Aged  adj. 1 (predic.) Of the age of (aged 3). 2 old.
 
-Ageism  n. Prejudice or discrimination on grounds of age.  ageist adj. & n.
+Ageism  n. Prejudice or discrimination on grounds of age. ageist adj. & n.
 
 Ageless  adj. 1 never growing or appearing old. 2 eternal.
 
@@ -1020,7 +1020,7 @@ Age-old  adj. Very long-standing.
 
 Agglomerate  v. (-ting) collect into a mass. —n. Mass, esp. Of fused volcanic fragments. —adj. Collected into a mass.  agglomeration n. [latin glomus -meris ball]
 
-Agglutinate  v. (-ting) stick as with glue.  agglutination n. Agglutinative adj. [latin: related to *gluten]
+Agglutinate  v. (-ting) stick as with glue. agglutination n. Agglutinative adj. [latin: related to *gluten]
 
 Aggrandize  v. (also -ise) (-zing or -sing) 1 increase the power, rank or wealth of. 2 make seem greater.  aggrandizement n. [french: related to *grand]
 
@@ -1256,7 +1256,7 @@ Alacrity  n. Briskness; cheerful readiness. [latin alacer brisk]
 
 Alarm  n. 1 warning of danger etc. 2 a warning sound or device. B = *alarm clock. 3 apprehension (filled with alarm). —v. 1 frighten or disturb. 2 warn.  alarming adj. 
 
-Alarmingly adv. [italian all'arme! To arms]
+Alarmingly  adv. [italian all'arme! To arms]
 
 Alarm clock  n. Clock that rings at a set time.
 
@@ -1356,7 +1356,7 @@ Alive  adj. (usu. Predic.) 1 living. 2 lively, active. 3 (foll. By to) aware of;
 
 Alkali  n. (pl. -s) 1 a any of a class of substances that liberate hydroxide ions in water, usu. Form caustic or corrosive solutions, turn litmus blue, and have a ph of more than 7, e.g. Caustic soda.
 
-Alkalinity n. [arabic, = the calcined ashes]
+Alkalinity  n. [arabic, = the calcined ashes]
 
 Alkaloid  n. Nitrogenous organic compound of plant origin, e.g. Morphine, quinine.
 
@@ -1386,7 +1386,7 @@ Allegiance  n. 1 loyalty (to a person or cause etc.). 2 the duty of a subject. [
 
 Allegory  n. (pl. -ies) story whose moral is represented symbolically.  allegorical adj. 
 
-Allegorize v. (also -ise) (-zing or -sing). [greek allegoria other speaking]
+Allegorize  v. (also -ise) (-zing or -sing). [greek allegoria other speaking]
 
 Allegretto  mus. —adv. & adj. In a fairly brisk tempo. —n. (pl. -s) such a passage or movement. [italian, diminutive of *allegro]
 
@@ -1416,17 +1416,15 @@ All-in  attrib. Adj. Inclusive of all.
 
 All-in wrestling  n. Wrestling with few or no restrictions.
 
-Alliteration  n. Repetition of the same letter or sound at the beginning of adjacent or closely connected words (e.g. Cool, calm, and collected).  alliterate v. (-ting). 
+Alliteration  n. Repetition of the same letter or sound at the beginning of adjacent or closely connected words (e.g. Cool, calm, and collected). alliterate v. (-ting). 
 
-Alliterative adj. [latin: related to *letter]
-
-Allocate  v. (-ting) (usu. Foll. By to) assign or devote to (a purpose, person, or place).  allocation n. [latin: related to *local]
+Allocate  v. (-ting) (usu. Foll. By to) assign or devote to (a purpose, person, or place). allocation n. [latin: related to *local]
 
 Allot  v. (-tt-) apportion or distribute to (a person), esp. As a share or task (they were allotted equal sums). [french a to, *lot]
 
 Allotment  n. 1 small piece of land rented by a local authority for cultivation. 2 share. 3 allotting.
 
-Allotropy  n. Existence of two or more different physical forms of a chemical element.  allotropic adj. [greek allos different, tropos manner]
+Allotropy  n. Existence of two or more different physical forms of a chemical element. allotropic adj. [greek allos different, tropos manner]
 
 Allow  v. 1 (often foll. By to + infin.) Permit. 2 assign a limited amount etc. (was allowed £500). 3 (usu. Foll. By for) provide or set aside for a purpose; add or deduct in consideration (allow £50 for expenses; allow for wastage). [originally = commend, from french: related to *ad-, latin laudo praise, loco place]
 
@@ -1454,73 +1452,7 @@ Allude  v. (-ding) (foll. By to) refer to, esp. Indirectly or briefly. [latin: r
 
 Allure  —v. (-ring) attract, charm, or entice. —n. Attractiveness, personal charm, fascination.  allurement n. [french: related to *ad-, *lure]
 
-Allusion  n. (often foll. By to) passing or indirect reference.  allusive adj. [latin: related to *allude]
-
-Alluvial  —adj. Of alluvium. —n. Alluvium, esp. Containing a precious metal.
-
-Alleluia  (also hallelujah) —int. God be praised. —n. Song or shout of praise to god. [hebrew]
-
-Allen key  n. Propr. Spanner designed to turn an allen screw. [allen, name of the us manufacturer]
-
-Allen screw  n. Propr. Screw with a hexagonal socket in the head.
-
-Allergic  adj. 1 (foll. By to) a having an allergy to. B colloq. Having a strong dislike for. 2 caused by an allergy.
-
-Allergy  n. (pl. -ies) 1 adverse reaction to certain substances, esp. Particular foods, pollen, fur, or dust. 2 colloq. Antipathy. [greek allos other]
-
-Alleviate  v. (-ting) make (pain etc.) Less severe.  alleviation n. [latin levo raise]
-
-Alley  n. (pl. -s) 1 narrow street or passageway. 2 enclosure for skittles, bowling, etc. 3 walk or lane in a park etc. [french aller go]
-
-Alliance  n. 1 union or agreement to cooperate, esp. Of states by treaty or families by marriage. 2 (alliance) political coalition party. 3 relationship; friendship. [french: related to *ally]
-
-Allied  adj. 1 (also allied) associated in an alliance. 2 connected or related.
-
-Alligator  n. Large reptile of the crocodile family with a head broader and shorter than a crocodile's. [spanish el lagarto the lizard]
-
-All-in  attrib. Adj. Inclusive of all.
-
-All-in wrestling  n. Wrestling with few or no restrictions.
-
-Alliteration  n. Repetition of the same letter or sound at the beginning of adjacent or closely connected words (e.g. Cool, calm, and collected).  alliterate v. (-ting). 
-
-Alliterative adj. [latin: related to *letter]
-
-Allocate  v. (-ting) (usu. Foll. By to) assign or devote to (a purpose, person, or place).  allocation n. [latin: related to *local]
-
-Allot  v. (-tt-) apportion or distribute to (a person), esp. As a share or task (they were allotted equal sums). [french a to, *lot]
-
-Allotment  n. 1 small piece of land rented by a local authority for cultivation. 2 share. 3 allotting.
-
-Allotropy  n. Existence of two or more different physical forms of a chemical element.  allotropic adj. [greek allos different, tropos manner]
-
-Allow  v. 1 (often foll. By to + infin.) Permit. 2 assign a limited amount etc. (was allowed £500). 3 (usu. Foll. By for) provide or set aside for a purpose; add or deduct in consideration (allow £50 for expenses; allow for wastage). [originally = commend, from french: related to *ad-, latin laudo praise, loco place]
-
-Allowance  n. 1 amount or sum allowed, esp. Regularly for a stated purpose. 2 amount allowed in reckoning. 3 deduction or discount.  make allowances (often foll. By for) 1 consider (mitigating circumstances). 2 make excuses for (a person, bad behaviour, etc.).
-
-Alloy  —n. 1 mixture of two or more metals. 2 inferior metal mixed esp. With gold or silver. —v. 1 mix (metals). 2 debase by admixture. 3 moderate (pleasure alloyed with pain). [french: related to *ally]
-
-All-purpose  attrib. Adj. Having many uses.
-
-All-right  attrib. Adj. Colloq. Acceptable (an all-right guy).
-
-All-round  attrib. Adj. (of a person) versatile.
-
-All-rounder  n. Versatile person.
-
-All saints' day  n. 1 nov., christian festival in honour of saints.
-
-All souls' day  n. 2 nov., roman catholic festival with prayers for the souls of the dead.
-
-Allspice  n. 1 aromatic spice obtained from the berry of the pimento plant. 2 the berry.
-
-All-time  attrib. Adj. (of a record etc.) Unsurpassed.
-
-Allude  v. (-ding) (foll. By to) refer to, esp. Indirectly or briefly. [latin: related to *ad-, ludo play]
-
-Allure  —v. (-ring) attract, charm, or entice. —n. Attractiveness, personal charm, fascination.  allurement n. [french: related to *ad-, *lure]
-
-Allusion  n. (often foll. By to) passing or indirect reference.  allusive adj. [latin: related to *allude]
+Allusion  n. (often foll. By to) passing or indirect reference. allusive adj. [latin: related to *allude]
 
 Alluvial  —adj. Of alluvium. —n. Alluvium, esp. Containing a precious metal.
 
@@ -1598,7 +1530,7 @@ Alternate angles  n.pl. Two angles formed alternately on two sides of a line.
 
 Alternating current  n. Electric current reversing its direction at regular intervals.
 
-Alternative  —adj. 1 available as another choice (alternative route). 2 unconventional (alternative medicine). —n. 1 any of two or more possibilities. 2 choice (had no alternative but to go).  alternatively adv.
+Alternative  —adj. 1 available as another choice (alternative route). 2 unconventional (alternative medicine). —n. 1 any of two or more possibilities. 2 choice (had no alternative but to go). alternatively adv.
 
 Alternator  n. Dynamo that generates an alternating current.
 
@@ -1612,7 +1544,7 @@ Alto  n. (pl. -s) 1 = *contralto. 2 a highest adult male singing-voice, above te
 
 Altogether  adv. 1 totally, completely. 2 on the whole. 3 in total.  in the altogether colloq. Naked. [from *all, *together]
 
-Altruism  n. Unselfishness as a principle of action.  altruist n. Altruistic adj. [italian altrui somebody else]
+Altruism  n. Unselfishness as a principle of action. altruist n. Altruistic adj. [italian altrui somebody else]
 
 Alum  n. Double sulphate of aluminium and potassium. [latin alumen -min-]
 
@@ -1642,7 +1574,7 @@ A.m.  Abbr. Before noon. [latin ante meridiem]
 
 Amalgam  n. 1 mixture or blend. 2 alloy of mercury and another metal, used esp. In dentistry. [greek malagma an emollient]
 
-Amalgamate  v. (-ting) 1 mix, unite. 2 (of metals) alloy with mercury.  amalgamation n. [medieval latin: related to *amalgam]
+Amalgamate  v. (-ting) 1 mix, unite. 2 (of metals) alloy with mercury. amalgamation n. [medieval latin: related to *amalgam]
 
 Amanuensis  n. (pl. -enses) literary assistant, esp. Writing from dictation. [latin a manu ‘at hand’]
 
@@ -1652,15 +1584,15 @@ Amaryllis  n. Bulbous plant with lily-like flowers. [greek, a girl's name]
 
 Amass  v. Heap together; accumulate. [french: related to *ad-, *mass1]
 
-Amateur  n. Person who engages in a pursuit as a pastime rather than a profession, or performs with limited skill.  amateurish adj. Amateurism n. [latin amator lover: related to *amatory]
+Amateur  n. Person who engages in a pursuit as a pastime rather than a profession, or performs with limited skill. amateurish adj. Amateurism n. [latin amator lover: related to *amatory]
 
 Amatory  adj. Of sexual love. [latin amo love]
 
 Amaze  v. (-zing) surprise greatly, fill with wonder.  amazement n. Amazing adj. [earlier amase from old english amasod]
 
-Amazon  n. 1 female warrior of a mythical race in the black sea area. 2 (amazon) large, strong, or athletic woman.  amazonian adj. [latin from greek]
+Amazon  n. 1 female warrior of a mythical race in the black sea area. 2 (amazon) large, strong, or athletic woman. amazonian adj. [latin from greek]
 
-Ambassador  n. 1 diplomat sent to live abroad to represent his or her country's interests. 2 promoter (ambassador of peace).  ambassadorial adj. [latin ambactus servant]
+Ambassador  n. 1 diplomat sent to live abroad to represent his or her country's interests. 2 promoter (ambassador of peace). ambassadorial adj. [latin ambactus servant]
 
 Amber  —n. 1 a yellow translucent fossilized resin used in jewellery. B colour of this. 2 yellow traffic-light meaning caution. —adj. Of or like amber. [french from arabic]
 
@@ -1694,7 +1626,7 @@ Ambuscade  n. & v. (-ding) = *ambush.
 
 Ambush  —n. 1 surprise attack by persons hiding. 2 hiding-place for this. —v. Attack from an ambush; waylay. [french: related to *in-1, *bush1]
 
-Ameliorate  v. (-ting) make or become better.  amelioration n. Ameliorative adj. [from *ad-, latin melior better]
+Ameliorate  v. (-ting) make or become better. amelioration n. Ameliorative adj. [from *ad-, latin melior better]
 
 Amen  int. (esp. At the end of a prayer etc.) So be it. [church latin from hebrew, = certainly]
 
@@ -1726,9 +1658,9 @@ Amethyst  n. Semiprecious stone of a violet or purple variety of quartz. [greek,
 
 Amharic  —n. Official and commercial language of ethiopia. —adj. Of this language. [amhara, region of ethiopia]
 
-Amiable  adj. (esp. Of a person) friendly and pleasant, likeable.  amiably adv. [latin: related to *amicable]
+Amiable  adj. (esp. Of a person) friendly and pleasant, likeable. amiably adv. [latin: related to *amicable]
 
-Amicable  adj. (esp. Of an arrangement, relations, etc.) Friendly.  amicably adv. [latin amicus friend]
+Amicable  adj. (esp. Of an arrangement, relations, etc.) Friendly. amicably adv. [latin amicus friend]
 
 Amid  prep. In the middle of, among. [old english: related to *on, *mid]
 
@@ -1820,13 +1752,13 @@ Ampoule  n. Small sealed capsule holding a solution for injection. [french: rela
 
 Ampulla  n. (pl. -pullae) 1 roman globular flask with two handles. 2 ecclesiastical vessel. [latin]
 
-Amputate  v. (-ting) cut off surgically (a limb etc.).  amputation n. Amputee n. [latin amb- about, puto prune]
+Amputate  v. (-ting) cut off surgically (a limb etc.). amputation n. Amputee n. [latin amb- about, puto prune]
 
 Amuck  var. Of *amok.
 
 Amulet  n. Charm worn against evil. [latin]
 
-Amuse  v. (-sing) 1 cause to laugh or smile. 2 interest or occupy.  amusing adj. [french a cause to, muser stare]
+Amuse  v. (-sing) 1 cause to laugh or smile. 2 interest or occupy. amusing adj. [french a cause to, muser stare]
 
 Amusement  n. 1 thing that amuses. 2 being amused. 3 mechanical device (e.g. A roundabout) for entertainment at a fairground etc.
 
@@ -1922,7 +1854,7 @@ Ancient  adj. 1 of long ago, esp. Before the fall of the roman empire in the wes
 
 Ancillary  —adj. 1 (esp. Of health workers) providing essential support. 2 (often foll. By to) subordinate, subservient. —n. (pl. -ies) 1 ancillary worker. 2 auxiliary or accessory. [latin ancilla handmaid]
 
-And  conj. 1 a connecting words, clauses, or sentences, to be taken jointly (you and i). B implying progression (better and better). C implying causation (she hit him and he cried). D implying great duration (cried and cried). E implying a great number (miles and miles). F implying addition (two and two). G implying variety (there are books and books). 2 colloq. To (try and come). 3 in relation to (britain and the ec).  and/or either or both of two stated alternatives. [old english]
+And  conj. 1 a connecting words, clauses, or sentences, to be taken jointly (you and i). B implying progression (better and better). C implying causation (she hit him and he cried). D implying great duration (cried and cried). E implying a great number (miles and miles). F implying addition (two and two). G implying variety (there are books and books). 2 colloq. To (try and come). 3 in relation to (britain and the ec). and/or either or both of two stated alternatives. [old english]
 
 Andante  mus. —adv. & adj. In a moderately slow tempo. —n. Such a passage or movement. [italian, = going]
 
@@ -1952,7 +1884,7 @@ Aneurysm  n. (also aneurism) excessive localized enlargement of an artery. [gree
 
 Anew  adv. 1 again. 2 in a different way. [earlier of newe]
 
-Angel  n. 1  a attendant or messenger of god. B representation of this in human form with wings. 2 virtuous or obliging person. 3 slang financial backer of a play etc. [greek aggelos messenger]
+Angel  n. 1 a attendant or messenger of god. B representation of this in human form with wings. 2 virtuous or obliging person. 3 slang financial backer of a play etc. [greek aggelos messenger]
 
 Angel cake  n. Light sponge cake.
 
@@ -2211,6 +2143,7 @@ Anticlerical  adj. Opposed to clerical influence, esp. In politics.
 Anticlimax  n. Disappointingly trivial conclusion to something significant.
 
 Anticlockwise  adj. & adv. Moving in a curve opposite in direction to the hands of a clock.
+
 Anticyclone  n. System of winds rotating outwards from an area of high pressure, producing fine weather.
 
 Antidepressant  —n. Drug etc. That alleviates depression. —adj. Alleviating depression.
@@ -2291,73 +2224,6 @@ Antithesis  n. (pl. -theses) 1 (foll. By of, to) direct opposite. 2 contrast. 3 
 
 Antitoxin  n. Antibody counteracting a toxin.  antitoxic adj.
 
-Antitrades  n.pl. Winds blowing in the opposite direction to (and usu. Above) trade winds.
-
-Antiviral  adj. Effective against viruses.
-
-Antler  n. Branched horn of a stag or other deer.  antlered adj. [french]
-
-Antonym  n. Word opposite in meaning to another. [greek onoma name]
-
-Antrum  n. (pl. Antra) natural cavity in the body, esp. In a bone. [greek, = cave]
-
-Anus  n. (pl. Anuses) excretory opening at the end of the alimentary canal. [latin]
-
-Anvil  n. Iron block on which metals are worked. [old english]
-
-Anxiety  n. (pl. -ies) 1 being anxious. 2 worry or concern. 3 eagerness, troubled desire. [latin anxietas from ango choke]
-
-Anxious  adj. 1 mentally troubled. 2 causing or marked by anxiety (anxious moment). 3 eager, uneasily wanting (anxious to please).  anxiously adv. [latin anxius]
-
-Any  —adj. 1 a one, no matter which, of several (cannot find any answer). B some, no matter how much or many or of what sort (if any books arrive; have you any sugar?). 2 a minimal amount of (hardly any difference). 3 whichever is chosen (any fool knows). 4 an appreciable or significant (did not stay for any length of time; has any amount of money). —pron. 1 any one (did not know any of them). 2 any number or amount (are any of them yours?). —adv. (usu. With neg. Or interrog.) At all (is that any good?). [old english ænig: related to *one, *-y1]
-
-Anybody  n. & pron. 1 any person. 2 person of importance (is he anybody?).
-
-Anyhow  adv. 1 anyway. 2 in a disorderly manner or state (does his work anyhow).
-
-Anyone  pron. Anybody.
-
-Anything  pron. Any thing; thing of any sort.  anything but not at all.
-
-Anyway  adv. 1 in any way or manner. 2 at any rate. 3 to resume (anyway, as i was saying).
-
-Anywhere  —adv. In or to any place. —pron. Any place (anywhere will do).
-
-Aob  abbr. Any other business.
-
-Aorta  n. (pl. -s) main artery, giving rise to the arterial network carrying oxygenated blood to the body from the heart.  aortic adj. [greek aeiro raise]
-
-Apace  adv. Literary swiftly. [french à pas]
-
-Apache  n. Member of a n. American indian tribe. [mexican spanish]
-
-Apart  adv. 1 separately, not together (keep your feet apart). 2 into pieces (came apart). 3 to or on one side. 4 to or at a distance.  apart from 1 excepting, not considering. 2 in addition to (apart from roses we grow irises). [french à part to one side]
-
-Apartheid  n. (esp. In s. Africa) racial segregation or discrimination. [afrikaans]
-
-Apartment  n. 1 (in pl.) Suite of rooms. 2 single room. 3 us flat. [italian a parte, apart]
-
-Apathy  n. Lack of interest; indifference.  apathetic adj. [greek a- without, *pathos]
-
-Ape  —n. 1 tailless monkey-like primate, e.g. The gorilla, chimpanzee, orang-utan, or gibbon. 2 imitator. —v. (-ping) imitate, mimic. [old english]
-
-Apeman  n. Extinct primate held to be the forerunner of present-day man.
-
-Aperient  —adj. Laxative. —n. Laxative medicine. [latin aperio open]
-
-Aperitif  n. Alcoholic drink taken before a meal. [latin aperio open]
-
-Aperture  n. Opening or gap, esp. A variable opening in a camera for admitting light. [latin aperio open]
-
-Apex  n. (also apex) (often attrib.) System of reduced fares for scheduled flights. [advance purchase excursion]
-
-Apex  n. (pl. -es) 1 highest point. 2 tip or pointed end. [latin]
-
-Aphasia  n. Loss of verbal understanding or expression, owing to brain damage. [greek aphatos speechless]
-
-Aphelion  n. (pl. -lia) point in a celestial body's orbit where it is furthest from the sun. [greek aph'heliou from the sun]
-
-Aphid  n. Small insect infesting and damaging plants, e.g. The greenfly.
 Antitrades  n.pl. Winds blowing in the opposite direction to (and usu. Above) trade winds.
 
 Antiviral  adj. Effective against viruses.

@@ -1286,7 +1286,7 @@ Bisect  v. Divide into two (strictly, equal) parts.  bisection n. Bisector n. [
 
 Bisexual  —adj. 1 feeling or involving sexual attraction to people of both sexes. 2 hermaphrodite. —n. Bisexual person.  bisexuality n.
 
-Bishop  n. 1 senior clergyman in charge of a diocese. 2  mitre-shaped chess piece. [greek episkopos overseer]
+Bishop  n. 1 senior clergyman in charge of a diocese. 2 mitre-shaped chess piece. [greek episkopos overseer]
 
 Bishopric  n. Office or diocese of a bishop.
 
@@ -1400,7 +1400,7 @@ Black forest gateau  n. Chocolate sponge with cherries and whipped cream.
 
 Black friar  n. Dominican friar.
 
-Blackguard n. Villain, scoundrel.  blackguardly adj. [originally = menial]
+Blackguard  n. Villain, scoundrel. blackguardly adj. [originally = menial]
 
 Blackhead  n. Black-topped pimple on the skin.
 
@@ -1557,9 +1557,8 @@ Blessing  n. 1 invocation of (esp. Divine) favour. 2 grace said at a meal. 3 ben
 Blether  var. Of *blather.
 
 Blew  past of *blow1.
-Blether  var. Of *blather.
 
-Blew  past of *blow1.
+Blether  var. Of *blather.
 
 Blight  —n. 1 plant disease caused by insects etc. 2 such an insect etc. 3 harmful or destructive force. 4 ugly urban area. —v. 1 affect with blight. 2 harm, destroy. 3 spoil. [origin unknown]
 
@@ -1696,6 +1695,7 @@ Blood-vessel  n. Vein, artery, or capillary carrying blood.
 Bloody  —adj. (-ier, -iest) 1 of, like, running with, or smeared with blood. 2 a involving bloodshed. B bloodthirsty, cruel. 3 coarse slang expressing annoyance or antipathy, or as an intensifier (bloody fool; a bloody sight better). 4 red. —adv. Coarse slang as an intensifier (bloody awful). —v. (-ies, -ied) stain with blood.
 
 Bloody mary  n. Mixture of vodka and tomato juice.
+
 Bloody-minded  adj. Colloq. Deliberately uncooperative.
 
 Bloom  —n. 1 a flower, esp. Cultivated. B state of flowering (in bloom). 2 one's prime (in full bloom). 3 a healthy glow of the complexion. B fine powder on fresh fruit and leaves. —v. 1 bear flowers; be in flower. 2 be in one's prime; flourish. [old norse]
@@ -1910,7 +1910,7 @@ Bodily  —adj. Of the body. —adv. 1 as a whole body (threw them bodily). 2 in
 
 Bodkin  n. Blunt thick needle for drawing tape etc. Through a hem. [origin uncertain]
 
-Body  n. (pl. -ies) 1 whole physical structure, including the bones, flesh, and organs, of a person or an animal, whether dead or alive. 2 = *trunk 2. 3 main or central part; bulk or majority (body of opinion). 4 a group regarded as a unit. B (usu. Foll. By of) collection (body of facts). 5 quantity (body of water). 6 piece of matter (heavenly body). 7 colloq. Person. 8 full or substantial quality of flavour, tone, etc.  in a body all together. [old english]
+Body  n. (pl. -ies) 1 whole physical structure, including the bones, flesh, and organs, of a person or an animal, whether dead or alive. 2 = *trunk 2. 3 main or central part; bulk or majority (body of opinion). 4 a group regarded as a unit. B (usu. Foll. By of) collection (body of facts). 5 quantity (body of water). 6 piece of matter (heavenly body). 7 colloq. Person. 8 full or substantial quality of flavour, tone, etc. in a body all together. [old english]
 
 Body-blow  n. Severe setback.
 
@@ -1976,7 +1976,7 @@ Bold  adj. 1 confidently assertive; adventurous, brave. 2 impudent. 3 vivid (bol
 
 Bole  n. Trunk of a tree. [old norse]
 
-Bolero  n. (pl. -s) 1  spanish dance, or the music for it, in triple time. 2  woman's short open jacket. [spanish]
+Bolero  n. (pl. -s) 1 spanish dance, or the music for it, in triple time. 2 woman's short open jacket. [spanish]
 
 Boll  n. Round seed-vessel of cotton, flax, etc. [dutch]
 
@@ -2095,9 +2095,10 @@ Boodle  n. Slang money, esp. Gained or used dishonestly. [dutch boedel possessio
 Boogie  v. (-ies, -ied, -ieing) slang dance to pop music.
 
 Boogie-woogie  n. Style of playing blues or jazz on the piano. [origin unknown]
-Book  —n. 1 a written or printed work with pages bound along one side. B work intended for publication. 2 bound blank sheets for notes, records, etc. 3 bound set of tickets, stamps, matches, etc. 4 (in pl.) Set of records or accounts. 5 main division of a large literary work. 6 telephone directory. 7 colloq. Magazine. 8 libretto, script, etc. 9 record of bets. —v. 1 a (also absol.) Reserve (a seat etc.) In advance. B engage (an entertainer etc.). 2 a take the personal details of (an offender or rule-breaker). B enter in a book or list.  book in register at a hotel etc. Book up 1 buy tickets in advance. 2 (as booked up) with all places reserved. Bring to book call to account. Go by the book proceed by the rules. In a person's good (or bad) books in (or out of) favour with a person. [old english]
 
-Bookbinder  n. Person who binds books for a living.  bookbinding n.
+Book  —n. 1 a written or printed work with pages bound along one side. B work intended for publication. 2 bound blank sheets for notes, records, etc. 3 bound set of tickets, stamps, matches, etc. 4 (in pl.) Set of records or accounts. 5 main division of a large literary work. 6 telephone directory. 7 colloq. Magazine. 8 libretto, script, etc. 9 record of bets. —v. 1 a (also absol.) Reserve (a seat etc.) In advance. B engage (an entertainer etc.). 2 a take the personal details of (an offender or rule-breaker). B enter in a book or list. book in register at a hotel etc. Book up 1 buy tickets in advance. 2 (as booked up) with all places reserved. Bring to book call to account. Go by the book proceed by the rules. In a person's good (or bad) books in (or out of) favour with a person. [old english]
+
+Bookbinder  n. Person who binds books for a living. bookbinding n.
 
 Bookcase  n. Cabinet of shelves for books.
 
@@ -2113,7 +2114,7 @@ Booking-hall  n. (also booking-office) ticket office at a railway station etc.
 
 Bookish  adj. 1 studious; fond of reading. 2 having knowledge mainly from books.
 
-Bookkeeper  n. Person who keeps accounts, esp. For a living.  bookkeeping n.
+Bookkeeper  n. Person who keeps accounts, esp. For a living. bookkeeping n.
 
 Booklet  n. Small book usu. With a paper cover.
 
@@ -2171,11 +2172,11 @@ Bootlicker  n. Colloq. Toady.
 
 Boots  n. Hotel servant who cleans shoes etc.
 
-Bootstrap  n. Loop used to pull a boot on.  pull oneself up by one's bootstraps better oneself.
+Bootstrap  n. Loop used to pull a boot on. pull oneself up by one's bootstraps better oneself.
 
 Booty  n. 1 loot, spoil. 2 colloq. Prize or gain. [german]
 
-Booze  colloq. —n. Alcoholic drink. —v. (-zing) drink alcohol, esp. To excess.  boozy adj. (-ier, -iest). [dutch]
+Booze  colloq. —n. Alcoholic drink. —v. (-zing) drink alcohol, esp. To excess. boozy adj. (-ier, -iest). [dutch]
 
 Boozer  n. Colloq. 1 habitual drinker. 2 public house.
 
@@ -2229,7 +2230,7 @@ Boron  n. Non-metallic usu. Crystalline element. [from *borax, after carbon]
 
 Borough  n. 1 a town represented in the house of commons. B town or district granted the status of a borough. 2 hist. Town with a municipal corporation conferred by a royal charter. [old english]
 
-Borrow  v. 1 a acquire temporarily, promising or intending to return. B obtain money thus. 2 use (another's idea, invention, etc.); plagiarize.  borrower n. [old english]
+Borrow  v. 1 a acquire temporarily, promising or intending to return. B obtain money thus. 2 use (another's idea, invention, etc.); plagiarize. borrower n. [old english]
 
 Borstal  n. Hist. Residential institution for youth custody. [borstal in kent]
 
@@ -2251,7 +2252,7 @@ Bossa nova  n. 1 dance like the samba. 2 music for this. [portuguese, = new flai
 
 Boss-eyed  adj. Colloq. 1 cross-eyed; blind in one eye. 2 crooked. [boss = bad shot, origin unknown]
 
-Bossy  adj. (-ier, -iest) colloq. Domineering.  bossiness n.
+Bossy  adj. (-ier, -iest) colloq. Domineering. bossiness n.
 
 Bosun  (also bo'sun) var. Of *boatswain.
 
@@ -2267,7 +2268,7 @@ Botheration  n. & int. Colloq. = *bother n., int.
 
 Bothersome  adj. Causing bother.
 
-Bottle  —n. 1 container, esp. Glass or plastic, for storing liquid. 2 amount filling it. 3 baby's feeding-bottle. 4 = *hot-water bottle. 5 metal cylinder for liquefied gas. 6 slang courage. —v. (-ling) 1 put into, or preserve in, bottles or jars. 2 (foll. By up) conceal or restrain (esp. A feeling).  hit the bottle slang drink heavily. [medieval latin: related to *butt4]
+Bottle  —n. 1 container, esp. Glass or plastic, for storing liquid. 2 amount filling it. 3 baby's feeding-bottle. 4 = *hot-water bottle. 5 metal cylinder for liquefied gas. 6 slang courage. —v. (-ling) 1 put into, or preserve in, bottles or jars. 2 (foll. By up) conceal or restrain (esp. A feeling). hit the bottle slang drink heavily. [medieval latin: related to *butt4]
 
 Bottle bank  n. Place for depositing bottles for recycling.
 
@@ -2281,7 +2282,7 @@ Bottlenose dolphin  n. Dolphin with a bottle-shaped snout.
 
 Bottle party  n. Party to which guests bring bottles of drink.
 
-Bottom  —n. 1 a lowest point or part. B base. C underneath part. D furthest or inmost part. 2 colloq. A buttocks. B seat of a chair etc. 3 a less honourable end of a table, class, etc. B person occupying this (he's bottom of the class). 4 ground below water. 5 basis or origin. 6 essential character. —adj. Lowest, last. —v. 1 put a bottom to (a chair etc.). 2 find the extent of. 3 touch the bottom or lowest point (of).  at bottom basically. Be at the bottom of have caused. Bottom out reach the lowest level. Get to the bottom of fully investigate and explain. [old english]
+Bottom  —n. 1 a lowest point or part. B base. C underneath part. D furthest or inmost part. 2 colloq. A buttocks. B seat of a chair etc. 3 a less honourable end of a table, class, etc. B person occupying this (he's bottom of the class). 4 ground below water. 5 basis or origin. 6 essential character. —adj. Lowest, last. —v. 1 put a bottom to (a chair etc.). 2 find the extent of. 3 touch the bottom or lowest point (of). at bottom basically. Be at the bottom of have caused. Bottom out reach the lowest level. Get to the bottom of fully investigate and explain. [old english]
 
 Bottom drawer  n. Linen etc. Stored by a woman for marriage.
 
@@ -2312,9 +2313,8 @@ Boule  n. (also boules pronunc. Same) french form of bowls played on rough groun
 Boulevard  n. 1 broad tree-lined avenue. 2 esp. Us broad main road. [french from german]
 
 Boult  var. Of *bolt2.
-Boult  var. Of *bolt2.
 
-Bounce  —v. (-cing) 1 (cause to) rebound. 2 slang (of a cheque) be returned by a bank when there are no funds to meet it. 3 (foll. By about, up, in, out, etc.) Jump, move, or rush boisterously. —n. 1 a rebound. B power of rebounding. 2 colloq. A swagger, self-confidence. B liveliness.  bounce back recover well after a setback.  bouncy adj. (-ier, -iest). [imitative]
+Bounce  —v. (-cing) 1 (cause to) rebound. 2 slang (of a cheque) be returned by a bank when there are no funds to meet it. 3 (foll. By about, up, in, out, etc.) Jump, move, or rush boisterously. —n. 1 a rebound. B power of rebounding. 2 colloq. A swagger, self-confidence. B liveliness.  bounce back recover well after a setback. bouncy adj. (-ier, -iest). [imitative]
 
 Bouncer  n. 1 slang doorman ejecting troublemakers from a dancehall, club, etc. 2 = *bumper 3.
 
@@ -2326,7 +2326,7 @@ Bound2  —n. (usu. In pl.) 1 limitation; restriction. 2 border, boundary. —v.
 
 Bound3  adj. 1 (usu. Foll. By for) starting or having started (bound for stardom). 2 (in comb.) In a specified direction (northbound). [old norse, = ready]
 
-Bound4  past and past part. Of *bind.  bound to certain to (he's bound to come). Bound up with closely associated with.
+Bound4  past and past part. Of *bind. bound to certain to (he's bound to come). Bound up with closely associated with.
 
 Boundary  n. (pl. -ies) 1 line marking the limits of an area etc. 2 cricket hit crossing the limits of the field, scoring 4 or 6 runs. [related to *bound2]
 
@@ -2372,13 +2372,14 @@ Bow2  —v. 1 incline the head or body, esp. In greeting or acknowledgement. 2 s
 
 Bow3  n. 1 (often in pl.) Front end of a boat. 2 rower nearest this. [low german or dutch: related to *bough]
 
-Bowdlerize  v. (also -ise) (-zing or -sing) expurgate (a book etc.).  bowdlerization n. [bowdler, name of an expurgator of shakespeare]
+Bowdlerize  v. (also -ise) (-zing or -sing) expurgate (a book etc.). bowdlerization n. [bowdler, name of an expurgator of shakespeare]
 
 Bowel  n. 1 (often in pl.) = *intestine. 2 (in pl.) Innermost parts. [latin botulus sausage]
 
 Bower  n. 1 arbour; summer-house. 2 poet. Inner room. [old english, = dwelling]
 
 Bowerbird  n. Australasian bird, the male of which constructs elaborate runs.
+
 Bowie  n. (in full bowie knife) a kind of long hunting-knife. [bowie, name of an american soldier]
 
 Bowl1  n. 1 a usu. Round deep basin for food or liquid. B contents of a bowl. 2 hollow part of a tobacco-pipe, spoon, etc.  bowlful n. (pl. -s). [old english]
@@ -2531,7 +2532,7 @@ Brake1  —n. 1 (often in pl.) Device for stopping or slowing a wheel, vehicle, 
 
 Brake2  n. Large estate car. [var. Of *break]
 
-Brake3  —n. 1 toothed instrument for crushing flax and hemp. 2 (in full brake harrow) heavy harrow. —v. (-king)  crush (flax or hemp). [low german or dutch: related to *break]
+Brake3  —n. 1 toothed instrument for crushing flax and hemp. 2 (in full brake harrow) heavy harrow. —v. (-king) crush (flax or hemp). [low german or dutch: related to *break]
 
 Brake4  n. Thicket or clump of brushwood. [old english]
 
@@ -2729,13 +2730,13 @@ Brethren  see *brother.
 
 Breton  —n. 1 native of brittany. 2 celtic language of brittany. —adj. Of brittany, its people, or language. [french, = *briton]
 
-Breve  n. 1 mus. Note twice the length of a semibreve. 2 mark (  ) indicating a short or unstressed vowel. [var. Of *brief]
+Breve  n. 1 mus. Note twice the length of a semibreve. 2 mark () indicating a short or unstressed vowel. [var. Of *brief]
 
 Breviary  n. (pl. -ies) book containing the roman catholic daily office. [latin: related to *brief]
 
 Brevity  n. 1 economy of expression; conciseness. 2 shortness (of time etc.). [anglo-french: related to *brief]
 
-Brew  —v. 1 a make (beer etc.) By infusion, boiling, and fermentation. B make (tea etc.) By infusion. 2 undergo these processes. 3 gather force; threaten (storm is brewing). 4 concoct (a plan etc.). —n. 1 liquid or amount brewed; concoction. 2 process of brewing.  brew up make tea.  brewer n. [old english]
+Brew  —v. 1 a make (beer etc.) By infusion, boiling, and fermentation. B make (tea etc.) By infusion. 2 undergo these processes. 3 gather force; threaten (storm is brewing). 4 concoct (a plan etc.). —n. 1 liquid or amount brewed; concoction. 2 process of brewing. brew up make tea.  brewer n. [old english]
 
 Brewery  n. (pl. -ies) factory for brewing beer etc.
 
@@ -2745,7 +2746,7 @@ Briar1  var. Of *brier1.
 
 Briar2  var. Of *brier2.
 
-Bribe  —v. (-bing) (often foll. By to + infin.) Persuade to act improperly in one's favour by a gift of money etc. —n. Money or services offered in bribing.  bribery n. [french briber beg]
+Bribe  —v. (-bing) (often foll. By to + infin.) Persuade to act improperly in one's favour by a gift of money etc. —n. Money or services offered in bribing. bribery n. [french briber beg]
 
 Bric-à-brac  n. (also bric-a-brac) cheap ornaments, trinkets, etc. [french]
 
@@ -2769,7 +2770,7 @@ Bridegroom  n. Man on his wedding day and during the period just before and afte
 
 Bridesmaid  n. Girl or unmarried woman attending a bride at her wedding.
 
-Bridge1  —n. 1 a structure providing a way across a river, road, railway, etc. B thing joining or connecting. 2  operational superstructure on a ship. 3 upper bony part of the nose. 4 piece of wood on a violin etc. Over which the strings are stretched. 5 = *bridgework. —v. (-ging) 1 be or make a bridge over. 2 reduce (a gap, deficiency, etc.). [old english]
+Bridge1  —n. 1 a structure providing a way across a river, road, railway, etc. B thing joining or connecting. 2 operational superstructure on a ship. 3 upper bony part of the nose. 4 piece of wood on a violin etc. Over which the strings are stretched. 5 = *bridgework. —v. (-ging) 1 be or make a bridge over. 2 reduce (a gap, deficiency, etc.). [old english]
 
 Bridge2  n. Card-game derived from whist. [origin unknown]
 
@@ -2787,9 +2788,10 @@ Bridle-path  n. (also bridle-way) rough path for riders or walkers.
 
 Brie  n. A kind of soft cheese. [brie in n. France]
 
-Brief  —adj. 1 of short duration. 2 concise; abrupt, brusque. 3 scanty (brief skirt). —n. 1 (in pl.) Short pants. 2 a summary of a case drawn up for counsel. B piece of work for a barrister. 3 instructions for a task. 4 papal letter on discipline. —v. 1 instruct (a barrister) by brief. 2 inform or instruct in advance.  hold a brief for argue in favour of. In brief to sum up.  briefly adv. Briefness n. [latin brevis short]
+Brief  —adj. 1 of short duration. 2 concise; abrupt, brusque. 3 scanty (brief skirt). —n. 1 (in pl.) Short pants. 2 a summary of a case drawn up for counsel. B piece of work for a barrister. 3 instructions for a task. 4 papal letter on discipline. —v. 1 instruct (a barrister) by brief. 2 inform or instruct in advance. hold a brief for argue in favour of. In brief to sum up. briefly adv. Briefness n. [latin brevis short]
 
 Briefcase  n. Flat document case.
+
 Brier1  n. (also briar) wild rose or other prickly bush. [old english]
 
 Brier2  n. (also briar) 1 white heath of s. Europe. 2 tobacco pipe made from its root. [french bruyère]
@@ -2818,7 +2820,7 @@ Brill1  n. (pl. Same) european flat-fish. [origin unknown]
 
 Brill2  adj. Colloq. = *brilliant adj. 4. [abbreviation]
 
-Brilliant  —adj. 1 very bright; sparkling. 2 outstandingly talented. 3 showy. 4 colloq. Excellent. —n. Diamond of the finest cut with many facets.  brilliance n. Brilliantly adv. [french briller shine, from italian]
+Brilliant  —adj. 1 very bright; sparkling. 2 outstandingly talented. 3 showy. 4 colloq. Excellent. —n. Diamond of the finest cut with many facets. brilliance n. Brilliantly adv. [french briller shine, from italian]
 
 Brilliantine  n. Dressing for making the hair glossy. [french: related to *brilliant]
 
@@ -2844,12 +2846,13 @@ Briny  —adj. (-ier, -iest) of brine or the sea; salty. —n. (prec. By the) sl
 
 Briquette  n. Block of compressed coal-dust as fuel. [french diminutive: related to *brick]
 
-Brisk  —adj. 1 quick, lively, keen (brisk pace, trade). 2 enlivening (brisk wind). —v. (often foll. By up) make or grow brisk.  briskly adv. Briskness n. [probably french *brusque]
+Brisk  —adj. 1 quick, lively, keen (brisk pace, trade). 2 enlivening (brisk wind). —v. (often foll. By up) make or grow brisk. briskly adv. Briskness n. [probably french *brusque]
+
 Brisket  n. Animal's breast, esp. As a joint of meat. [french]
 
 Brisling  n. Small herring or sprat. [norwegian and danish]
 
-Bristle  —n. Short stiff hair, esp. One on an animal's back, used in brushes. —v. (-ling) 1 a (of hair) stand upright. B make (hair) do this. 2 show irritation. 3 (usu. Foll. By with) be covered or abundant (in).  bristly adj. (-ier, -iest). [old english]
+Bristle  —n. Short stiff hair, esp. One on an animal's back, used in brushes. —v. (-ling) 1 a (of hair) stand upright. B make (hair) do this. 2 show irritation. 3 (usu. Foll. By with) be covered or abundant (in). bristly adj. (-ier, -iest). [old english]
 
 Brit  n. Colloq. British person. [abbreviation]
 
@@ -2873,7 +2876,7 @@ British thermal unit  n. Amount of heat needed to raise 1 lb of water through on
 
 Briton  n. 1 inhabitant of s. Britain before the roman conquest. 2 native or inhabitant of great britain. [latin britto -onis]
 
-Brittle  adj. Hard and fragile; apt to break.  brittlely adv. (also brittly). [old english]
+Brittle  adj. Hard and fragile; apt to break. brittlely adv. (also brittly). [old english]
 
 Brittle-bone disease  n. = *osteoporosis.
 
@@ -2899,7 +2902,7 @@ Broad-minded  adj. Tolerant, liberal.
 
 Broadsheet  n. 1 large-sized newspaper. 2 large sheet of paper printed on one side only.
 
-Broadside  n. 1 vigorous verbal attack. 2 simultaneous firing of all guns from one side of a ship. 3 side of a ship above the water between the bow and quarter.  broadside on sideways on.
+Broadside  n. 1 vigorous verbal attack. 2 simultaneous firing of all guns from one side of a ship. 3 side of a ship above the water between the bow and quarter. broadside on sideways on.
 
 Broadsword  n. Broad-bladed sword, for cutting rather than thrusting.
 
@@ -2929,7 +2932,7 @@ Broken-hearted  adj. Overwhelmed with grief.
 
 Broken home  n. Family disrupted by divorce or separation.
 
-Broker  n. 1 agent; middleman. 2 member of the stock exchange dealing in stocks and shares. 3 official appointed to sell or appraise distrained goods.  broking n. [anglo-french]
+Broker  n. 1 agent; middleman. 2 member of the stock exchange dealing in stocks and shares. 3 official appointed to sell or appraise distrained goods. broking n. [anglo-french]
 
 Brokerage  n. Broker's fee or commission.
 
@@ -2975,7 +2978,7 @@ Broth  n. Thin soup of meat or fish stock. [old english]
 
 Brothel  n. Premises for prostitution. [originally = worthless fellow, from old english]
 
-Brother  n. 1 man or boy in relation to his siblings. 2 close male friend or associate. 3 (pl. Also brethren) a member of a male religious order, esp. A monk. B fellow christian etc. 4 fellow human being.  brotherly adj. [old english]
+Brother  n. 1 man or boy in relation to his siblings. 2 close male friend or associate. 3 (pl. Also brethren) a member of a male religious order, esp. A monk. B fellow christian etc. 4 fellow human being. brotherly adj. [old english]
 
 Brother german  see *german.
 
@@ -2991,7 +2994,7 @@ Brow  n. 1 forehead. 2 eyebrow. 3 summit of a hill etc. 4 edge of a cliff etc. [
 
 Browbeat  v. (past -beat; past part. -beaten) intimidate, bully.
 
-Brown  —adj. 1 having the colour of dark wood or rich soil. 2 dark-skinned or suntanned. 3 (of bread) made from wholemeal or wheatmeal flour. —n. 1 brown colour or pigment. 2 brown clothes or material. —v. Make or become brown.  browned off colloq. Fed up, disheartened.
+Brown  —adj. 1 having the colour of dark wood or rich soil. 2 dark-skinned or suntanned. 3 (of bread) made from wholemeal or wheatmeal flour. —n. 1 brown colour or pigment. 2 brown clothes or material. —v. Make or become brown. browned off colloq. Fed up, disheartened.
 
 Brown bear  n. Large n. American brown bear.
 
@@ -3035,17 +3038,17 @@ Brushwood  n. 1 undergrowth, thicket. 2 cut or broken twigs etc.
 
 Brushwork  n. 1 use of the brush in painting. 2 painter's style in this.
 
-Brusque  adj. Abrupt or offhand.  brusquely adv. Brusqueness n. [italian brusco sour]
+Brusque  adj. Abrupt or offhand. brusquely adv. Brusqueness n. [italian brusco sour]
 
 Brussels sprout  n. 1 brassica with small cabbage-like buds on a stem. 2 such a bud. [brussels in belgium]
 
-Brutal  adj. 1 savagely cruel. 2 harsh, merciless.  brutality n. (pl. -ies). Brutally adv. [french: related to *brute]
+Brutal  adj. 1 savagely cruel. 2 harsh, merciless. brutality n. (pl. -ies). Brutally adv. [french: related to *brute]
 
 Brutalize  v. (also -ise) (-zing or -sing) 1 make brutal. 2 treat brutally.
 
 Brute  —n. 1 a brutal or violent person. B colloq. Unpleasant person or difficult thing. 2 animal. —attrib. Adj. 1 unthinking (brute force). 2 cruel; stupid; sensual.  brutish adj. 
 
-Brutishly adv. Brutishness n. [latin brutus stupid]
+Brutishly  adv. Brutishness n. [latin brutus stupid]
 
 Bryony  n. (pl. -ies) climbing plant with red berries. [latin from greek]
 
@@ -3065,7 +3068,8 @@ Bt.  Abbr. Baronet.
 
 B.th.u.  Abbr. (also b.t.u., btu, b.th.u.) British thermal unit(s).
 
-Bubble  —n. 1 a thin sphere of liquid enclosing air etc. B air-filled cavity in a liquid or solidified liquid. 2 transparent domed canopy. 3 visionary or unrealistic project. —v. (-ling) 1 rise in or send up bubbles. 2 make the sound of boiling.  bubble over (often foll. By with) be exuberant. [imitative]
+Bubble  —n. 1 a thin sphere of liquid enclosing air etc. B air-filled cavity in a liquid or solidified liquid. 2 transparent domed canopy. 3 visionary or unrealistic project. —v. (-ling) 1 rise in or send up bubbles. 2 make the sound of boiling. bubble over (often foll. By with) be exuberant. [imitative]
+
 Bubble and squeak  n. Cooked cabbage etc. Fried with cooked potatoes.
 
 Bubble bath  n. Foaming preparation for adding to bath water.
@@ -3080,13 +3084,13 @@ Bubo  n. (pl. -es) inflamed swelling in the armpit or groin. [greek boubon groin
 
 Bubonic plague  n. Contagious disease with buboes.
 
-Buccaneer  n. 1 pirate. 2 unscrupulous adventurer.  buccaneering n. & adj. [french]
+Buccaneer  n. 1 pirate. 2 unscrupulous adventurer. buccaneering n. & adj. [french]
 
 Buck1  —n. 1 male deer, hare, rabbit, etc. 2 archaic dandy. 3 (attrib.) Slang male. —v. 1 (of a horse) jump upwards with its back arched. 2 (usu. Foll. By off) throw (a rider) in this way. 3 (usu. Foll. By up) colloq. A cheer up. B hurry up; make an effort. [old english]
 
 Buck2  n. Us slang dollar. [origin unknown]
 
-Buck3  n. Slang (in poker) article placed before the next dealer.  pass the buck colloq. Shift responsibility (to another). [origin unknown]
+Buck3  n. Slang (in poker) article placed before the next dealer. pass the buck colloq. Shift responsibility (to another). [origin unknown]
 
 Bucket  —n. 1 a round open container with a handle, for carrying or drawing water etc. B amount contained in this. 2 (in pl.) Colloq. Large quantities, esp. Of rain or tears. 3 scoop in a water wheel, dredger, etc. —v. (-t-) colloq. 1 (often foll. By down) (esp. Of rain) pour heavily. 2 (often foll. By along) move or drive fast or bumpily. [anglo-french]
 
@@ -3120,7 +3124,7 @@ Bud  —n. 1 a knoblike shoot from which a stem, leaf, or flower develops. B flo
 
 Buddha  n. 1 title of the indian philosopher gautama (5th c. Bc) and his successors. 2 sculpture etc. Of buddha. [sanskrit, = enlightened]
 
-Buddhism  n. Asian religion or philosophy founded by gautama buddha.  buddhist n. & adj.
+Buddhism  n. Asian religion or philosophy founded by gautama buddha. buddhist n. & adj.
 
 Buddleia  n. Shrub with fragrant flowers attractive to butterflies. [buddle, name of a botanist]
 
@@ -3134,7 +3138,7 @@ Budget  —n. 1 amount of money needed or available. 2 a (the budget) government
 
 Budgie  n. Colloq. = *budgerigar. [abbreviation]
 
-Buff  —adj. Of a yellowish beige colour (buff envelope). —n. 1 this colour. 2 (in comb.) Colloq. Enthusiast (railway buff). 3 velvety dull-yellow ox-leather. —v. 1 polish (metal etc.). 2 make (leather) velvety.  in the buff colloq. Naked. [originally = buffalo, from french buffle]
+Buff  —adj. Of a yellowish beige colour (buff envelope). —n. 1 this colour. 2 (in comb.) Colloq. Enthusiast (railway buff). 3 velvety dull-yellow ox-leather. —v. 1 polish (metal etc.). 2 make (leather) velvety. in the buff colloq. Naked. [originally = buffalo, from french buffle]
 
 Buffalo  n. (pl. Same or -es) 1 wild ox of africa or asia. 2 n. American bison. [greek boubalos ox]
 
@@ -3166,7 +3170,7 @@ Bugle  —n. Brass military instrument like a small trumpet. —v. (-ling) 1 sou
 
 Bugloss  n. Plant with bright blue tubular flowers, related to borage. [french buglosse from greek, = ox-tongued]
 
-Build  —v. (past and past part. Built) 1 construct or cause to be constructed. 2 a (often foll. By up) establish or develop (built the business up). B (often foll. By on) base (hopes, theories, etc.). 3 (as built adj.) Of specified build (sturdily built). —n. 1 physical proportions (slim build). 2 style of construction; make.  build in incorporate. Build on add (an extension etc.). Build up 1 increase in size or strength. 2 praise; boost. 3 gradually become established. [old english]
+Build  —v. (past and past part. Built) 1 construct or cause to be constructed. 2 a (often foll. By up) establish or develop (built the business up). B (often foll. By on) base (hopes, theories, etc.). 3 (as built adj.) Of specified build (sturdily built). —n. 1 physical proportions (slim build). 2 style of construction; make. build in incorporate. Build on add (an extension etc.). Build up 1 increase in size or strength. 2 praise; boost. 3 gradually become established. [old english]
 
 Builder  n. Person who builds, esp. A building contractor.
 
@@ -3196,7 +3200,7 @@ Bulk buying  n. Buying in quantity at a discount.
 
 Bulkhead  n. Upright partition in a ship, aircraft, etc.
 
-Bulky  adj. (-ier, -iest) awkwardly large.  bulkiness n.
+Bulky  adj. (-ier, -iest) awkwardly large. bulkiness n.
 
 Bull1  n. 1 a uncastrated male bovine animal. B male of the whale, elephant, etc. 2 (the bull) zodiacal sign or constellation taurus. 3 bull's-eye of a target. 4 person who buys shares hoping to sell them at a profit.  take the bull by the horns face danger or a challenge boldly.  bullish adj. [old norse]
 
@@ -3218,7 +3222,7 @@ Bulletin  n. 1 short official news report. 2 society's regular list of informati
 
 Bulletproof  adj. Designed to protect from bullets.
 
-Bullfight  n. Public baiting, and usu. Killing, of bulls.  bullfighter n. Bullfighting n.
+Bullfight  n. Public baiting, and usu. Killing, of bulls. bullfighter n. Bullfighting n.
 
 Bullfinch  n. Pink and black finch.
 
@@ -3234,7 +3238,7 @@ Bullring  n. Arena for bullfights.
 
 Bull's-eye  n. 1 centre of a target. 2 hard minty sweet. 3 hemispherical ship's window. 4 small circular window. 5 a hemispherical lens. B lantern with this. 6 boss of glass in a blown glass sheet.
 
-Bullshit  coarse slang —n. (often as int.) Nonsense; pretended knowledge. —v. (-tt-) talk nonsense or as if one has specialist knowledge (to).  bullshitter n. [from *bull3]
+Bullshit  coarse slang —n. (often as int.) Nonsense; pretended knowledge. —v. (-tt-) talk nonsense or as if one has specialist knowledge (to). bullshitter n. [from *bull3]
 
 Bull-terrier  n. Cross between a bulldog and a terrier.
 
@@ -3278,7 +3282,7 @@ Bundle  —n. 1 things tied or fastened together. 2 set of nerve fibres etc. 3 s
 
 Bun fight  n. Slang tea party.
 
-Bung  —n. Stopper, esp. For a cask. —v. 1 stop with a bung. 2 slang throw.  bunged up blocked up. [dutch]
+Bung  —n. Stopper, esp. For a cask. —v. 1 stop with a bung. 2 slang throw. bunged up blocked up. [dutch]
 
 Bungalow  n. One-storeyed house. [gujarati, = of bengal]
 
@@ -3322,7 +3326,7 @@ Burble  v. 1 talk ramblingly. 2 make a bubbling sound. [imitative]
 
 Burbot  n. (pl. Same) eel-like freshwater fish. [french]
 
-Burden  —n. 1 load, esp. A heavy one. 2 oppressive duty, expense, emotion, etc. 3 bearing of loads (beast of burden). 4 a refrain of a song. B chief theme of a speech, book, etc. —v. Load with a burden; oppress.  burdensome adj. [old english: related to *birth]
+Burden  —n. 1 load, esp. A heavy one. 2 oppressive duty, expense, emotion, etc. 3 bearing of loads (beast of burden). 4 a refrain of a song. B chief theme of a speech, book, etc. —v. Load with a burden; oppress. burdensome adj. [old english: related to *birth]
 
 Burden of proof  n. Obligation to prove one's case.
 
@@ -3332,7 +3336,7 @@ Bureau  n. (pl. -x or -s) 1 a desk with drawers and usu. An angled hinged top. B
 
 Bureaucracy  n. (pl. -ies) 1 a government by central administration. B state etc. So governed. 2 government officials, esp. Regarded as oppressive and inflexible. 3 conduct typical of these.
 
-Bureaucrat  n. 1 official in a bureaucracy. 2 inflexible administrator.  bureaucratic adj. Bureaucratically adv.
+Bureaucrat  n. 1 official in a bureaucracy. 2 inflexible administrator. bureaucratic adj. Bureaucratically adv.
 
 Buret  n. (brit. Burette) graduated glass tube with an end-tap for measuring liquid in chemical analysis. [french]
 
@@ -3365,6 +3369,7 @@ Burlesque  —n. 1 a comic imitation, parody. B this as a genre. 2 us variety sh
 Burly  adj. (-ier, -iest) large and sturdy. [old english]
 
 Burn1  —v. (past and past part. Burnt or burned) 1 (cause to) be consumed or destroyed by fire. 2 blaze or glow with fire. 3 (cause to) be injured or damaged by fire, heat, radiation, acid, etc. 4 use or be used as fuel etc. 5 char in cooking. 6 produce (a hole, mark, etc.) By fire or heat. 7 a heat (clay, chalk, etc.). B harden (bricks) by fire. 8 colour, tan, or parch with heat or light. 9 (be) put to death by fire. 10 cauterize, brand. 11 make, be, or feel hot, esp. Painfully. 12 (often foll. By with) (cause to) feel great emotion or passion (burn with shame). 13 slang drive fast. —n. Mark or injury caused by burning.  burn one's boats (or bridges) commit oneself irrevocably. Burn the candle at both ends work etc. Excessively.
+
 Burn2  n. Scot. Brook. [old english]
 
 Burner  n. Part of a gas cooker, lamp, etc. That emits the flame.
@@ -3399,7 +3404,7 @@ Burst  —v. (past and past part. Burst) 1 (cause to) break violently apart; ope
 
 Burton  n.  go for a burton slang be lost, destroyed, or killed. [origin uncertain]
 
-Bury  v. (-ies, -ied) 1 place (a corpse) in the earth, a tomb, or the sea. 2 lose by death (buried two sons). 3 a put or hide under ground. B cover up; conceal. 4 consign to obscurity; forget. 5 (refl. Or passive) involve deeply (buried in a book).  bury the hatchet cease to quarrel. [old english]
+Bury  v. (-ies, -ied) 1 place (a corpse) in the earth, a tomb, or the sea. 2 lose by death (buried two sons). 3 a put or hide under ground. B cover up; conceal. 4 consign to obscurity; forget. 5 (refl. Or passive) involve deeply (buried in a book). bury the hatchet cease to quarrel. [old english]
 
 Bus  —n. (pl. Buses or us busses) 1 large esp. Public passenger vehicle, usu. Travelling a fixed route. 2 colloq. Car, aeroplane, etc. —v. (buses or busses, bussed, bussing) 1 go by bus. 2 us transport by bus, esp. To aid racial integration. [abbreviation of *omnibus]
 
@@ -3433,7 +3438,7 @@ Business park  n. Area designed for commerce and light industry.
 
 Business person  n. Businessman or businesswoman.
 
-Busk  v. Perform esp. Music in the street etc. For tips.  busker n. [obsolete busk peddle]
+Busk  v. Perform esp. Music in the street etc. For tips. busker n. [obsolete busk peddle]
 
 Bus lane  n. Part of a road mainly for use by buses.
 
@@ -3449,7 +3454,7 @@ Bus-stop  n. 1 regular stopping-place of a bus. 2 sign marking this.
 
 Bust1  n. 1 human chest, esp. Of a woman; bosom. 2 sculpture of a person's head, shoulders, and chest.  busty adj. (-ier, -iest). [french from italian]
 
-Bust2  —v. (past and past part. Busted or bust) colloq. 1 break, burst. 2 a raid, search. B arrest. —adj. (also busted) 1 broken, burst. 2 bankrupt.  bust up 1 collapse. 2 (esp. Of a married couple) separate. [var. Of *burst]
+Bust2  —v. (past and past part. Busted or bust) colloq. 1 break, burst. 2 a raid, search. B arrest. —adj. (also busted) 1 broken, burst. 2 bankrupt. bust up 1 collapse. 2 (esp. Of a married couple) separate. [var. Of *burst]
 
 Bustard  n. Large land bird that can run very fast. [latin avis tarda slow bird (‘slow’ unexplained)]
 
@@ -3481,7 +3486,7 @@ Butchery  n. (pl. -ies) 1 needless or cruel slaughter (of people). 2 butcher's t
 
 Butler  n. Principal manservant of a household. [french bouteille bottle]
 
-Butt1  —v. 1 push or strike with the head or horns. 2 (cause to) meet edge to edge. —n. 1 push with the head. 2 join of two edges.  butt in interrupt, meddle. [french from germanic]
+Butt1  —v. 1 push or strike with the head or horns. 2 (cause to) meet edge to edge. —n. 1 push with the head. 2 join of two edges. butt in interrupt, meddle. [french from germanic]
 
 Butt2  n. 1 (often foll. By of) object of ridicule etc. 2 a mound behind a target. B (in pl.) Shooting-range. [french but goal]
 
@@ -3489,7 +3494,7 @@ Butt3  n. 1 thicker end, esp. Of a tool or weapon. 2 stub of a cigarette etc. 3 
 
 Butt4  n. Cask. [latin buttis]
 
-Butter  —n. 1 solidified churned cream, used as a spread and in cooking. 2 substance of similar texture (peanut butter). —v. Spread, cook, or serve with butter.  butter up colloq. Flatter. [greek bouturon]
+Butter  —n. 1 solidified churned cream, used as a spread and in cooking. 2 substance of similar texture (peanut butter). —v. Spread, cook, or serve with butter. butter up colloq. Flatter. [greek bouturon]
 
 Butter-bean  n. 1 flat, dried, white lima bean. 2 yellow-podded bean.
 
@@ -3532,6 +3537,7 @@ Buttress  —n. 1 projecting support built against a wall. 2 source of help etc.
 Butty  n. (pl. -ies) n.engl. Sandwich. [from *butter]
 
 Butyl  n. The univalent alkyl radical c4h9. [latin butyrum *butter]
+
 Buxom  adj. (esp. Of a woman) plump and rosy; busty. [earlier = pliant: related to *bow2]
 
 Buy  —v. (buys, buying; past and past part. Bought) 1 a obtain for money etc. B serve to obtain (money can't buy happiness; the best that money can buy). 2 a procure by bribery etc. B bribe. 3 get by sacrifice etc. 4 slang believe in, accept. 5 be a buyer for a store etc. —n. Colloq. Purchase.  buy in buy a stock of. Buy into pay for a share in (an enterprise). Buy off pay to get rid of. Buy oneself out obtain one's release (esp. From the armed services) by payment. Buy out pay (a person) for ownership, an interest, etc. Buy up 1 buy as much as possible of. 2 absorb (a firm etc.) By purchase. [old english]
@@ -3542,7 +3548,7 @@ Buyer's market  n. (also buyers' market) trading conditions favourable to buyers
 
 Buyout  n. Purchase of a controlling share in a company etc.
 
-Buzz  —n. 1 hum of a bee etc. 2 sound of a buzzer. 3 a low murmur as of conversation. B stir; hurried activity (buzz of excitement). 4 slang telephone call. 5 slang thrill. —v. 1 hum. 2 a summon with a buzzer. B slang telephone. 3 a (often foll. By about) move busily. B (of a place) appear busy or full of excitement.  buzz off slang go or hurry away. [imitative]
+Buzz  —n. 1 hum of a bee etc. 2 sound of a buzzer. 3 a low murmur as of conversation. B stir; hurried activity (buzz of excitement). 4 slang telephone call. 5 slang thrill. —v. 1 hum. 2 a summon with a buzzer. B slang telephone. 3 a (often foll. By about) move busily. B (of a place) appear busy or full of excitement. buzz off slang go or hurry away. [imitative]
 
 Buzzard  n. Large bird of the hawk family. [latin buteo falcon]
 
@@ -3577,7 +3583,6 @@ By-product  n. 1 incidental product made in the manufacture of something else. 2
 Byre  n. Cowshed. [old english]
 
 Byroad  n. Minor road.
-Byroad  n. Minor road.
 
 Byssinosis  n. Lung disease caused by textile fibre dust. [greek bussinos made of linen]
 
@@ -3589,4 +3594,4 @@ Byway  n. 1 byroad or secluded path. 2 minor activity.
 
 Byword  n. 1 person or thing as a notable example (is a byword for luxury). 2 familiar saying.
 
-Byzantine  —adj. 1 of byzantium or the e. Roman empire. 2 of its highly decorated style of architecture. 3 (of a political situation etc.) Complex, inflexible, or underhand. —n. Citizen of byzantium or the e. Roman empire.  byzantinism n. Byzantinist n. [latin byzantium, now istanbul]
+Byzantine  —adj. 1 of byzantium or the e. Roman empire. 2 of its highly decorated style of architecture. 3 (of a political situation etc.) Complex, inflexible, or underhand. —n. Citizen of byzantium or the e. Roman empire. byzantinism n. Byzantinist n. [latin byzantium, now istanbul]

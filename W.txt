@@ -16,7 +16,7 @@ Wadding  n. Soft fibrous material used in quilt-making etc., or to pack fragile 
 
 Waddle  —v. (-ling) walk with short steps and a swaying motion. —n. Waddling gait. [from *wade]
 
-Wade  —v. (-ding) 1 walk through water, mud, etc., esp. With difficulty. 2 (foll. By through) go through (a tedious task, book, etc.). 3 (foll. By into) colloq. Attack (a person or task) vigorously. —n. Spell of wading.  wade in colloq. Make a vigorous attack or intervention. [old english]
+Wade  —v. (-ding) 1 walk through water, mud, etc., esp. With difficulty. 2 (foll. By through) go through (a tedious task, book, etc.). 3 (foll. By into) colloq. Attack (a person or task) vigorously. —n. Spell of wading. * wade in colloq. Make a vigorous attack or intervention. [old english]
 
 Wader  n. 1 long-legged water-bird that wades. 2 (in pl.) High waterproof boots.
 
@@ -34,7 +34,7 @@ Waffle-iron  n. Utensil, usu. Of two shallow metal pans hinged together, for bak
 
 Waft  —v. Convey or travel easily and smoothly as through air or over water. —n. (usu. Foll. By of) whiff or scent. [originally ‘convoy (ship etc.)’ From dutch or low german wachter from wachten to guard]
 
-Wag1  —v. (-gg-) shake or wave to and fro. —n. Single wagging motion (with a wag of his tail).  tongues wag there is talk. [old english]
+Wag1  —v. (-gg-) shake or wave to and fro. —n. Single wagging motion (with a wag of his tail). * tongues wag there is talk. [old english]
 
 Wag2  n. Facetious person. [old english]
 
@@ -46,13 +46,13 @@ Wage-earner  n. Person who works for wages.
 
 Wager  n. & v. = *bet. [anglo-french: related to *wage]
 
-Waggish  adj. Playful, facetious.  waggishly adv. Waggishness n.
+Waggish  adj. Playful, facetious. * waggishly adv. Waggishness n.
 
 Waggle  v. (-ling) colloq. Wag.
 
 Waggly  adj. Unsteady; waggling.
 
-Wagon  n. (also waggon) 1 four-wheeled vehicle for heavy loads. 2 railway vehicle, esp. An open truck. 3 tea trolley.  on the wagon (or water-wagon) slang teetotal. [dutch: related to *wain]
+Wagon  n. (also waggon) 1 four-wheeled vehicle for heavy loads. 2 railway vehicle, esp. An open truck. 3 tea trolley. * on the wagon (or water-wagon) slang teetotal. [dutch: related to *wain]
 
 Wagoner  n. (also waggoner) driver of a wagon.
 
@@ -72,7 +72,7 @@ Wainscot  n. Boarding or wooden panelling on the lower part of a room-wall. [low
 
 Wainscoting  n. 1 wainscot. 2 material for this.
 
-Waist  n. 1 a part of the human body below the ribs and above the hips; narrower middle part of the normal human figure. B circumference of this. 2 narrow middle of a violin, wasp, etc. 3 a part of a garment encircling the waist. B us blouse, bodice. 4 part of a ship between the forecastle and the quarterdeck.  waisted adj. (also in comb.). [old english: related to *wax2]
+Waist  n. 1 a part of the human body below the ribs and above the hips; narrower middle part of the normal human figure. B circumference of this. 2 narrow middle of a violin, wasp, etc. 3 a part of a garment encircling the waist. B us blouse, bodice. 4 part of a ship between the forecastle and the quarterdeck. * waisted adj. (also in comb.). [old english: related to *wax2]
 
 Waistband  n. Strip of cloth forming the waist of a garment.
 
@@ -82,7 +82,7 @@ Waist-deep  adj. & adv. (also waist-high) up to the waist.
 
 Waistline  n. Outline or size of a person's body at the waist.
 
-Wait  —v. 1 a defer action or departure for a specified time or until some event occurs (wait a minute; wait till i come; wait for a fine day). B be expectant. 2 await (an opportunity, one's turn, etc.). 3 defer (a meal etc.) Until a person's arrival. 4 (usu. As waiting n.) Park a vehicle for a short time. 5 act as a waiter or attendant. 6 (foll. By on, upon) a await the convenience of. B serve as an attendant to. C pay a respectful visit to. —n. 1 period of waiting. 2 (usu. Foll. By for) watching for an enemy (lie in wait). 3 (in pl.) Archaic street singers of christmas carols.  wait and see await the progress of events. Wait up (often foll. By for) not go to bed until a person arrives or an event happens. You wait! Used to imply a threat, warning, etc. [germanic: related to *wake1]
+Wait  —v. 1 a defer action or departure for a specified time or until some event occurs (wait a minute; wait till i come; wait for a fine day). B be expectant. 2 await (an opportunity, one's turn, etc.). 3 defer (a meal etc.) Until a person's arrival. 4 (usu. As waiting n.) Park a vehicle for a short time. 5 act as a waiter or attendant. 6 (foll. By on, upon) a await the convenience of. B serve as an attendant to. C pay a respectful visit to. —n. 1 period of waiting. 2 (usu. Foll. By for) watching for an enemy (lie in wait). 3 (in pl.) Archaic street singers of christmas carols. * wait and see await the progress of events. Wait up (often foll. By for) not go to bed until a person arrives or an event happens. You wait! Used to imply a threat, warning, etc. [germanic: related to *wake1]
 
 Waiter  n. Man who serves at table in a hotel or restaurant etc.
 
@@ -100,15 +100,15 @@ Waiver  n. Law 1 waiving of a legal right etc. 2 document recording this.
 
 Wake1  —v. (-king; past woke or waked; past part. Woken or waked) 1 (often foll. By up) (cause to) cease to sleep. 2 (often foll. By up) (cause to) become alert or attentive. 3 archaic (except as waking adj. & n.) Be awake (waking hours). 4 disturb with noise. 5 evoke (an echo). —n. 1 watch beside a corpse before burial; attendant lamentation and (less often) merrymaking. 2 (usu. In pl.) Annual holiday in (industrial) northern england. [old english]
 
-Wake2  n. 1 track left on the water's surface by a moving ship. 2 turbulent air left behind a moving aircraft etc.  in the wake of following, as a result of. [low german from old norse]
+Wake2  n. 1 track left on the water's surface by a moving ship. 2 turbulent air left behind a moving aircraft etc. * in the wake of following, as a result of. [low german from old norse]
 
-Wakeful  adj. 1 unable to sleep. 2 (of a night etc.) Sleepless. 3 vigilant.  wakefully adv. Wakefulness n.
+Wakeful  adj. 1 unable to sleep. 2 (of a night etc.) Sleepless. 3 vigilant. * wakefully adv. Wakefulness n.
 
 Waken  v. Make or become awake. [old norse]
 
 Wale  n. 1 = *weal1. 2 ridge on corduroy etc. 3 naut. A broad thick timber along a ship's side. [old english]
 
-Walk  —v. 1 a progress by lifting and setting down each foot in turn, never having both feet off the ground at once. B (of a quadruped) go with the slowest gait. 2 a travel or go on foot. B take exercise in this way. 3 traverse on foot at walking speed, tread the floor or surface of. 4 cause to walk with one (walk the dog). —n. 1 a act of walking, the ordinary human gait. B slowest gait of an animal. C person's manner of walking. 2 a distance which can be walked in a (usu. Specified) time (ten minutes' walk from here). B excursion on foot. 3 place or track intended or suitable for walking.  walk all over colloq. 1 defeat easily. 2 take advantage of. Walk away from 1 easily outdistance. 2 refuse to become involved with. Walk away with colloq. = walk off with. Walk into colloq. 1 encounter through unwariness. 2 get (a job) easily. Walk off with colloq. 1 steal. 2 win easily. Walk on air feel elated.
+Walk  —v. 1 a progress by lifting and setting down each foot in turn, never having both feet off the ground at once. B (of a quadruped) go with the slowest gait. 2 a travel or go on foot. B take exercise in this way. 3 traverse on foot at walking speed, tread the floor or surface of. 4 cause to walk with one (walk the dog). —n. 1 a act of walking, the ordinary human gait. B slowest gait of an animal. C person's manner of walking. 2 a distance which can be walked in a (usu. Specified) time (ten minutes' walk from here). B excursion on foot. 3 place or track intended or suitable for walking. * walk all over colloq. 1 defeat easily. 2 take advantage of. Walk away from 1 easily outdistance. 2 refuse to become involved with. Walk away with colloq. = walk off with. Walk into colloq. 1 encounter through unwariness. 2 get (a job) easily. Walk off with colloq. 1 steal. 2 win easily. Walk on air feel elated.
 
 Walkabout  n. 1 informal stroll among a crowd by a visiting dignitary. 2 period of wandering in the bush by an australian aboriginal.
 
@@ -136,7 +136,7 @@ Walk-over  n. Easy victory.
 
 Walkway  n. Passage or path (esp. Raised) for walking along.
 
-Wall  —n. 1 continuous vertical narrow structure of usu. Brick or stone, esp. Enclosing or dividing a space or supporting a roof. 2 thing like a wall, esp.: a a steep side of a mountain. B anat. The outermost layer or enclosing membrane etc. Of an organ etc. —v. 1 (esp. As walled adj.) Surround with a wall. 2 a (usu. Foll. By up, off) block (a space etc.) With a wall. B (foll. By up) enclose within a sealed space.  go to the wall be defeated or pushed aside. Off the wall us slang unorthodox. Up the wall colloq. Crazy or furious. Walls have ears beware of eavesdroppers.  wall-less adj. [latin vallum rampart]
+Wall  —n. 1 continuous vertical narrow structure of usu. Brick or stone, esp. Enclosing or dividing a space or supporting a roof. 2 thing like a wall, esp.: a a steep side of a mountain. B anat. The outermost layer or enclosing membrane etc. Of an organ etc. —v. 1 (esp. As walled adj.) Surround with a wall. 2 a (usu. Foll. By up, off) block (a space etc.) With a wall. B (foll. By up) enclose within a sealed space. * go to the wall be defeated or pushed aside. Off the wall us slang unorthodox. Up the wall colloq. Crazy or furious. Walls have ears beware of eavesdroppers. * wall-less adj. [latin vallum rampart]
 
 Wallaby  n. (pl. -ies) marsupial similar to but smaller than a kangaroo. [aboriginal]
 
@@ -146,7 +146,7 @@ Wall bar  n. One of a set of parallel bars attached to the wall of a gymnasium, 
 
 Wallet  n. Small flat esp. Leather case for holding banknotes etc. [anglo-french]
 
-Wall-eye  n. 1 eye with a streaked or opaque white iris. 2 eye squinting outwards.  wall-eyed adj. [old norse]
+Wall-eye  n. 1 eye with a streaked or opaque white iris. 2 eye squinting outwards. * wall-eyed adj. [old norse]
 
 Wallflower  n. 1 fragrant spring garden plant. 2 colloq. Woman sitting out a dance for lack of partners.
 
@@ -170,21 +170,21 @@ Walrus  n. (pl. Same or -es) large amphibious long-tusked arctic mammal. [dutch]
 
 Walrus moustache  n. Long thick drooping moustache.
 
-Waltz  —n. 1 ballroom dance in triple time performed by couples revolving with sliding steps. 2 music for this. —v. 1 dance a waltz. 2 (often foll. By in, out, round, etc.) Colloq. Move easily, lightly, casually, etc.  waltz off with colloq. 1 steal. 2 win easily. [german walzer from walzen revolve]
+Waltz  —n. 1 ballroom dance in triple time performed by couples revolving with sliding steps. 2 music for this. —v. 1 dance a waltz. 2 (often foll. By in, out, round, etc.) Colloq. Move easily, lightly, casually, etc. * waltz off with colloq. 1 steal. 2 win easily. [german walzer from walzen revolve]
 
 Wampum  n. Beads made from shells and strung together for use as money, decoration, etc. By n. American indians. [algonquian]
 
-Wan  adj. (wanner, wannest) pale; exhausted-looking.  wanly adv. Wanness n. [old english, = dark]
+Wan  adj. (wanner, wannest) pale; exhausted-looking. * wanly adv. Wanness n. [old english, = dark]
 
 Wand  n. 1 supposedly magic stick used by a fairy, magician, etc. 2 staff as a symbol of office. 3 colloq. Conductor's baton. [old norse]
 
-Wander  v. 1 (often foll. By in, off, etc.) Go about from place to place aimlessly. 2 a wind about; meander. B stray from a path etc. 3 talk or think incoherently; be inattentive or delirious.  wanderer n. [old english: related to *wend]
+Wander  v. 1 (often foll. By in, off, etc.) Go about from place to place aimlessly. 2 a wind about; meander. B stray from a path etc. 3 talk or think incoherently; be inattentive or delirious. * wanderer n. [old english: related to *wend]
 
 Wandering jew  n. Person who never settles down.
 
 Wanderlust  n. Eagerness for travelling or wandering; restlessness. [german]
 
-Wane  —v. (-ning) 1 (of the moon) decrease in apparent size. 2 decrease in power, vigour, importance, size, etc. —n. Process of waning.  on the wane waning; declining. [old english]
+Wane  —v. (-ning) 1 (of the moon) decrease in apparent size. 2 decrease in power, vigour, importance, size, etc. —n. Process of waning. * on the wane waning; declining. [old english]
 
 Wangle  colloq. —v. (-ling) (often refl.) Contrive to obtain (a favour etc.). —n. Act of wangling. [origin unknown]
 
@@ -200,21 +200,21 @@ Want  —v. 1 a (often foll. By to + infin.) Desire; wish for possession of; nee
 
 Wanting  adj. 1 lacking (in quality or quantity); not equal to requirements. 2 absent, not supplied.
 
-Wanton  —adj. 1 licentious; sexually promiscuous. 2 capricious; arbitrary; motiveless (wanton wind; wanton destruction). 3 luxuriant; unrestrained (wanton profusion). —n. Literary licentious person.  wantonly adv. [from obsolete wantowen, = undisciplined]
+Wanton  —adj. 1 licentious; sexually promiscuous. 2 capricious; arbitrary; motiveless (wanton wind; wanton destruction). 3 luxuriant; unrestrained (wanton profusion). —n. Literary licentious person. * wantonly adv. [from obsolete wantowen, = undisciplined]
 
 Wapiti  n. (pl. -s) n. American deer. [a cree word]
 
-War  —n. 1 a armed hostilities between esp. Nations; conflict. B specific instance or period of this. C suspension of international law etc. During this. 2 hostility or contention between people, groups, etc. 3 (often foll. By on) sustained campaign against crime, poverty, etc. —v. (-rr-) 1 (as warring adj.) Rival; fighting. 2 make war.  at war (often foll. By with) engaged in a war. Go to war declare or begin a war.
+War  —n. 1 a armed hostilities between esp. Nations; conflict. B specific instance or period of this. C suspension of international law etc. During this. 2 hostility or contention between people, groups, etc. 3 (often foll. By on) sustained campaign against crime, poverty, etc. —v. (-rr-) 1 (as warring adj.) Rival; fighting. 2 make war. * at war (often foll. By with) engaged in a war. Go to war declare or begin a war.
 
 Warble  —v. (-ling) 1 sing in a gentle trilling manner. 2 speak in a warbling manner. —n. Warbled song or utterance. [french werble(r)]
 
 Warbler  n. Bird that warbles.
 
-War crime  n. Crime violating the international laws of war.  war criminal n.
+War crime  n. Crime violating the international laws of war. * war criminal n.
 
 War cry  n. 1 phrase or name shouted to rally one's troops. 2 party slogan etc.
 
-Ward  n. 1 separate part of a hospital or room for a particular group of patients. 2 administrative division of a constituency. 3 a minor under the care of a guardian or court. B (in full ward of court) minor or mentally deficient person placed under the protection of a court. 4 (in pl.) The corresponding notches and projections in a key and a lock. 5 archaic guardian's control.  ward off 1 parry (a blow). 2 avert (danger etc.). [old english]
+Ward  n. 1 separate part of a hospital or room for a particular group of patients. 2 administrative division of a constituency. 3 a minor under the care of a guardian or court. B (in full ward of court) minor or mentally deficient person placed under the protection of a court. 4 (in pl.) The corresponding notches and projections in a key and a lock. 5 archaic guardian's control. * ward off 1 parry (a blow). 2 avert (danger etc.). [old english]
 
 -ward  suffix (also -wards) added to nouns of place or destination and to adverbs of direction and forming: 1 adverbs (usu. -wards) meaning ‘towards’ (backwards; homewards). 2 adjectives (usu. -ward) meaning ‘turned or tending towards’ (downward; onward). 3 (less commonly) nouns meaning ‘the region towards or about’ (look to the eastward). [old english]
 
@@ -250,23 +250,23 @@ Warlock  n. Archaic sorcerer. [old english, = traitor]
 
 Warlord  n. Military commander or commander-in-chief.
 
-Warm  —adj. 1 of or at a fairly high temperature. 2 (of clothes etc.) Affording warmth. 3 a sympathetic, friendly, loving. B hearty, enthusiastic. 4 colloq. Iron. Dangerous, difficult, hostile. 5 colloq. A (in a game) close to the object etc. Sought. B near to guessing. 6 (of a colour etc.) Reddish or yellowish; suggestive of warmth. 7 hunting (of a scent) fresh and strong. —v. 1 make warm. 2 a (often foll. By up) warm oneself. B (often foll. By to) become animated or sympathetic. —n. 1 act of warming. 2 warmth of the atmosphere etc.  warm up 1 make or become warm. 2 prepare for a performance etc. By practising. 3 reach a temperature for efficient working. 4 reheat (food).  warmly adv. Warmth n. [old english]
+Warm  —adj. 1 of or at a fairly high temperature. 2 (of clothes etc.) Affording warmth. 3 a sympathetic, friendly, loving. B hearty, enthusiastic. 4 colloq. Iron. Dangerous, difficult, hostile. 5 colloq. A (in a game) close to the object etc. Sought. B near to guessing. 6 (of a colour etc.) Reddish or yellowish; suggestive of warmth. 7 hunting (of a scent) fresh and strong. —v. 1 make warm. 2 a (often foll. By up) warm oneself. B (often foll. By to) become animated or sympathetic. —n. 1 act of warming. 2 warmth of the atmosphere etc. * warm up 1 make or become warm. 2 prepare for a performance etc. By practising. 3 reach a temperature for efficient working. 4 reheat (food). * warmly adv. Warmth n. [old english]
 
 Warm-blooded  adj. 1 having blood temperature well above that of the environment. 2 ardent.
 
 War memorial  n. Monument to those killed in a war.
 
-Warm-hearted  adj. Kind, friendly.  warm-heartedness n.
+Warm-hearted  adj. Kind, friendly. * warm-heartedness n.
 
 Warming-pan  n. Hist. Container for live coals with a flat body and a long handle, used for warming a bed.
 
-Warmonger  n. Person who promotes war.  warmongering n. & adj.
+Warmonger  n. Person who promotes war. * warmongering n. & adj.
 
 Warm-up  n. Period of preparatory exercise.
 
 Warm work  n. 1 work etc. That makes one warm through exertion. 2 dangerous conflict etc.
 
-Warn  v. 1 (also absol.) A (often foll. By of or that) inform of danger, unknown circumstances, etc. B (foll. By to + infin.) Advise (a person) to take certain action. C (often foll. By against) inform (a person etc.) About a specific danger. 2 (usu. With neg.) Admonish.  warn off tell (a person) to keep away (from). [old english]
+Warn  v. 1 (also absol.) A (often foll. By of or that) inform of danger, unknown circumstances, etc. B (foll. By to + infin.) Advise (a person) to take certain action. C (often foll. By against) inform (a person etc.) About a specific danger. 2 (usu. With neg.) Admonish. * warn off tell (a person) to keep away (from). [old english]
 
 Warning  n. 1 in senses of *warn. 2 thing that warns. [old english]
 
@@ -276,9 +276,9 @@ Warp  —v. 1 a make or become distorted, esp. Through heat, damp, etc. B make o
 
 Warpaint  n. 1 paint used to adorn the body before battle, esp. By n. American indians. 2 colloq. Make-up.
 
-Warpath  n.  on the warpath 1 (of n. American indians) going to war. 2 colloq. Seeking a confrontation.
+Warpath  n. * on the warpath 1 (of n. American indians) going to war. 2 colloq. Seeking a confrontation.
 
-Warrant  —n. 1 thing that authorizes an action. 2 a written authorization, money voucher, etc. B written authorization allowing police to search premises, arrest a suspect, etc. 3 certificate of service rank held by a warrant-officer. —v. 1 serve as a warrant for; justify. 2 guarantee or attest to esp. The genuineness of.  i (or i'll) warrant i am certain; no doubt. [french warant, from germanic]
+Warrant  —n. 1 thing that authorizes an action. 2 a written authorization, money voucher, etc. B written authorization allowing police to search premises, arrest a suspect, etc. 3 certificate of service rank held by a warrant-officer. —v. 1 serve as a warrant for; justify. 2 guarantee or attest to esp. The genuineness of. * i (or i'll) warrant i am certain; no doubt. [french warant, from germanic]
 
 Warrant-officer  n. Officer ranking between commissioned officers and ncos.
 
@@ -292,17 +292,17 @@ Warrior  n. 1 person experienced or distinguished in fighting. 2 fighting man, e
 
 Warship  n. Ship used in war.
 
-Wart  n. 1 small hard round growth on the skin. 2 protuberance on the skin of an animal, surface of a plant, etc.  warts and all colloq. With no attempt to conceal blemishes.  warty adj. [old english]
+Wart  n. 1 small hard round growth on the skin. 2 protuberance on the skin of an animal, surface of a plant, etc. * warts and all colloq. With no attempt to conceal blemishes. * warty adj. [old english]
 
 Wart-hog  n. African wild pig.
 
 Wartime  n. Period during which a war is being waged.
 
-Wary  adj. (-ier, -iest) 1 on one's guard; circumspect. 2 (foll. By of) cautious. 3 showing caution.  warily adv. Wariness n. [ware look out for, avoid]
+Wary  adj. (-ier, -iest) 1 on one's guard; circumspect. 2 (foll. By of) cautious. 3 showing caution. * warily adv. Wariness n. [ware look out for, avoid]
 
 Was  1st & 3rd sing. Past of *be.
 
-Wash  —v. 1 cleanse with liquid, esp. Water. 2 (foll. By out, off, away, etc.) A remove (a stain) in this way. B (of a stain etc.) Be removed by washing. 3 wash oneself or one's hands and face. 4 wash clothes, dishes, etc. 5 (of fabric or dye) bear washing without damage. 6 (of an argument etc.) Stand scrutiny; be believed or acceptable. 7  (of a river, waters, etc.) Touch. 8 (of liquid) carry along in a specified direction (was washed overboard; washed up on the shore). 9 (foll. By over, along, etc.) Sweep, move, or splash. 10 (foll. By over) occur all around without greatly affecting (a person). 11 sift (ore) by the action of water. 12 brush watery paint or ink over. 13 poet. Moisten, water. —n. 1 a washing or being washed. B (prec. By the) a laundry etc. (sent them to the wash). 2 clothes etc. For washing or just washed. 3 motion of agitated water or air, esp.
+Wash  —v. 1 cleanse with liquid, esp. Water. 2 (foll. By out, off, away, etc.) A remove (a stain) in this way. B (of a stain etc.) Be removed by washing. 3 wash oneself or one's hands and face. 4 wash clothes, dishes, etc. 5 (of fabric or dye) bear washing without damage. 6 (of an argument etc.) Stand scrutiny; be believed or acceptable. 7 (of a river, waters, etc.) Touch. 8 (of liquid) carry along in a specified direction (was washed overboard; washed up on the shore). 9 (foll. By over, along, etc.) Sweep, move, or splash. 10 (foll. By over) occur all around without greatly affecting (a person). 11 sift (ore) by the action of water. 12 brush watery paint or ink over. 13 poet. Moisten, water. —n. 1 a washing or being washed. B (prec. By the) a laundry etc. (sent them to the wash). 2 clothes etc. For washing or just washed. 3 motion of agitated water or air, esp.
 
 Wash-basin  n. Plumbed-in basin for washing one's hands etc.
 
@@ -334,7 +334,7 @@ Washroom  n. Esp. Us public toilet.
 
 Washstand  n. Piece of furniture to hold a basin, jug, soap, etc.
 
-Washy  adj. (-ier, -iest) 1 too watery or weak. 2 lacking vigour or intensity.  washily adv. Washiness n.
+Washy  adj. (-ier, -iest) 1 too watery or weak. 2 lacking vigour or intensity. * washily adv. Washiness n.
 
 Wasn't  contr. Was not.
 
@@ -354,7 +354,7 @@ Waste  —v. (-ting) 1 use to no purpose or with inadequate result or extravagan
 
 Waste disposal unit  n. Device fitted to a sink etc. For disposing of household waste.
 
-Wasteful  adj. 1 extravagant. 2 causing or showing waste.  wastefully adv.
+Wasteful  adj. 1 extravagant. 2 causing or showing waste. * wastefully adv.
 
 Wasteland  n. 1 unproductive or useless area of land. 2 place or time considered spiritually or intellectually barren.
 
@@ -370,11 +370,11 @@ Waster  n. 1 wasteful person. 2 colloq. Wastrel.
 
 Wastrel  n. Good-for-nothing person.
 
-Watch  —v. 1 keep the eyes fixed on. 2 keep under observation; follow observantly. 3 (often foll. By for) be in an alert state; be vigilant. 4 (foll. By over) look after; take care of. —n. 1 small portable timepiece for carrying on the wrist or in a pocket. 2 state of alert or constant observation or attention. 3 naut. A usu. Four-hour spell of duty. B (in full starboard or port watch) each of the halves into which a ship's crew is divided to take alternate watches. 4 hist. Watchman or watchmen.  on the watch for waiting for (an anticipated occurrence). Watch it (or oneself) colloq. Be careful. Watch out (often foll. By for) be on one's guard.  watcher n. (also in comb.). [old english: related to *wake1]
+Watch  —v. 1 keep the eyes fixed on. 2 keep under observation; follow observantly. 3 (often foll. By for) be in an alert state; be vigilant. 4 (foll. By over) look after; take care of. —n. 1 small portable timepiece for carrying on the wrist or in a pocket. 2 state of alert or constant observation or attention. 3 naut. A usu. Four-hour spell of duty. B (in full starboard or port watch) each of the halves into which a ship's crew is divided to take alternate watches. 4 hist. Watchman or watchmen. * on the watch for waiting for (an anticipated occurrence). Watch it (or oneself) colloq. Be careful. Watch out (often foll. By for) be on one's guard. * watcher n. (also in comb.). [old english: related to *wake1]
 
 Watchdog  n. 1 dog guarding property etc. 2 person or body monitoring others' rights etc.
 
-Watchful  adj. 1 accustomed to watching, alert. 2 on the watch.  watchfully adv. Watchfulness n.
+Watchful  adj. 1 accustomed to watching, alert. 2 on the watch. * watchfully adv. Watchfulness n.
 
 Watching brief  n. Brief of a barrister who follows a case for a client not directly concerned.
 
@@ -388,7 +388,7 @@ Watch-tower  n. Tower for keeping watch from.
 
 Watchword  n. Phrase summarizing a guiding principle.
 
-Water  —n. 1 colourless transparent liquid compound of oxygen and hydrogen. 2 liquid consisting chiefly of this and found in seas and rivers, in rain, and in secretions of organisms. 3 expanse of water; a sea, lake, river, etc. 4 (in pl.) Part of a sea or river. 5 (often as the waters) mineral water at a spa etc. 6 state of a tide. 7 solution of a specified substance in water (lavender-water). 8 transparency and brilliance of a gem. 9 (attrib.) A found in or near water. B of, for, or worked by water. C involving, using, or yielding water. 10 (usu. In pl.) Amniotic fluid, released during labour. —v. 1 sprinkle or soak with water. 2 supply (a plant) with water. 3 give water to (an animal). 4 secrete water. 5 (as watered adj.) (of silk etc.) Having irregular wavy glossy markings. 6 take in a supply of water.  by water using a ship etc. For transport. Like water in great quantity, profusely. Make one's mouth water cause one's saliva to flow, stimulate one's appetite or anticipation. Of the first water of the finest quality or extreme degree. Water down 1 dilute. 2 make less forceful or horrifying. Water under the bridge past events accepted as irrevocable. [old english]
+Water  —n. 1 colourless transparent liquid compound of oxygen and hydrogen. 2 liquid consisting chiefly of this and found in seas and rivers, in rain, and in secretions of organisms. 3 expanse of water; a sea, lake, river, etc. 4 (in pl.) Part of a sea or river. 5 (often as the waters) mineral water at a spa etc. 6 state of a tide. 7 solution of a specified substance in water (lavender-water). 8 transparency and brilliance of a gem. 9 (attrib.) A found in or near water. B of, for, or worked by water. C involving, using, or yielding water. 10 (usu. In pl.) Amniotic fluid, released during labour. —v. 1 sprinkle or soak with water. 2 supply (a plant) with water. 3 give water to (an animal). 4 secrete water. 5 (as watered adj.) (of silk etc.) Having irregular wavy glossy markings. 6 take in a supply of water. * by water using a ship etc. For transport. Like water in great quantity, profusely. Make one's mouth water cause one's saliva to flow, stimulate one's appetite or anticipation. Of the first water of the finest quality or extreme degree. Water down 1 dilute. 2 make less forceful or horrifying. Water under the bridge past events accepted as irrevocable. [old english]
 
 Water-bearer  var. Of *water-carrier.
 
@@ -410,9 +410,9 @@ Water-clock  n. Clock measuring time by the flow of water.
 
 Water-closet  n. Lavatory that can be flushed.
 
-Water-color  n. (brit. Water-colour) 1 artists' paint made of pigment to be diluted with water and not oil. 2 picture painted with this. 3 art of painting with water-colours.  water-colourist n.
+Water-color  n. (brit. Water-colour) 1 artists' paint made of pigment to be diluted with water and not oil. 2 picture painted with this. 3 art of painting with water-colours. * water-colourist n.
 
-Water-colour  n. (us water-color) 1 artists' paint made of pigment to be diluted with water and not oil. 2 picture painted with this. 3 art of painting with water-colours.  water-colourist n.
+Water-colour  n. (us water-color) 1 artists' paint made of pigment to be diluted with water and not oil. 2 picture painted with this. 3 art of painting with water-colours. * water-colourist n.
 
 Water-cooled  adj. Cooled by the circulation of water.
 
@@ -482,7 +482,7 @@ Watershed  n. 1 line of separation between waters flowing to different rivers, b
 
 Waterside  n. Edge of a sea, lake, or river.
 
-Water-ski  —n. Each of a pair of skis for skimming the surface of the water when towed by a motor boat. —v. Travel on water-skis.  water-skier n.
+Water-ski  —n. Each of a pair of skis for skimming the surface of the water when towed by a motor boat. —v. Travel on water-skis. * water-skier n.
 
 Water-softener  n. Apparatus for softening hard water.
 
@@ -504,7 +504,7 @@ Water-wings  n.pl. Inflated floats fixed on the arms of a person learning to swi
 
 Waterworks  n. 1 establishment for managing a water-supply. 2 colloq. Shedding of tears. 3 colloq. Urinary system.
 
-Watery  adj. 1 containing too much water. 2 too thin in consistency. 3 of or consisting of water. 4 vapid, uninteresting. 5 (of colour) pale. 6 (of the sun, moon, or sky) rainy-looking. 7 (of eyes) moist; tearful. wateriness n.
+Watery  adj. 1 containing too much water. 2 too thin in consistency. 3 of or consisting of water. 4 vapid, uninteresting. 5 (of colour) pale. 6 (of the sun, moon, or sky) rainy-looking. 7 (of eyes) moist; tearful.* wateriness n.
 
 Watt  n. Si unit of power, equivalent to one joule per second, corresponding to the rate of energy in an electric circuit where the potential difference is one volt and the current one ampere. [watt, name of an engineer]
 
@@ -518,7 +518,7 @@ Wattle2  n. Fleshy appendage on the head or throat of a turkey or other birds. [
 
 Wattle and daub  n. Network of rods and twigs plastered with clay or mud as a building material.
 
-Wave  —v. (-ving) 1 a (often foll. By to) move a hand etc. To and fro in greeting or as a signal. B move (a hand etc.) In this way. 2 a show a sinuous or sweeping motion as of a flag, tree, corn, etc. In the wind. B impart a waving motion to. 3 direct (a person) by waving (waved them away; waved them to follow). 4 express (a greeting etc.) By waving. 5 give an undulating form to (hair etc.). 6 (of hair etc.) Have such a form. —n. 1 ridge of water between two depressions. 2 long body of water curling into an arch and breaking on the shore. 3 thing compared to this, e.g. A body of persons in one of successive advancing groups. 4 gesture of waving. 5 a process of waving the hair. B undulating form produced by this. 6 temporary occurrence or increase of a condition or influence (wave of enthusiasm; heat wave). 7 physics a disturbance of the particles of esp. A fluid medium for the propagation or direction of motion, heat, light, sound, etc. B single curve in this motion. 8 undulating line or outline.  make waves colloq. Cause trouble. Wave aside dismiss as intrusive or irrelevant. Wave down wave to (a vehicle or driver) to stop. [old english]
+Wave  —v. (-ving) 1 a (often foll. By to) move a hand etc. To and fro in greeting or as a signal. B move (a hand etc.) In this way. 2 a show a sinuous or sweeping motion as of a flag, tree, corn, etc. In the wind. B impart a waving motion to. 3 direct (a person) by waving (waved them away; waved them to follow). 4 express (a greeting etc.) By waving. 5 give an undulating form to (hair etc.). 6 (of hair etc.) Have such a form. —n. 1 ridge of water between two depressions. 2 long body of water curling into an arch and breaking on the shore. 3 thing compared to this, e.g. A body of persons in one of successive advancing groups. 4 gesture of waving. 5 a process of waving the hair. B undulating form produced by this. 6 temporary occurrence or increase of a condition or influence (wave of enthusiasm; heat wave). 7 physics a disturbance of the particles of esp. A fluid medium for the propagation or direction of motion, heat, light, sound, etc. B single curve in this motion. 8 undulating line or outline. * make waves colloq. Cause trouble. Wave aside dismiss as intrusive or irrelevant. Wave down wave to (a vehicle or driver) to stop. [old english]
 
 Waveband  n. Range of radio wavelengths between certain limits.
 
@@ -532,11 +532,11 @@ Wave machine  n. Device at a swimming-pool producing waves.
 
 Waver  v. 1 be or become unsteady; begin to give way. 2 be irresolute. 3 (of a light) flicker. [old norse: related to *wave]
 
-Wavy  adj. (-ier, -iest) having waves or alternate contrary curves.  waviness n.
+Wavy  adj. (-ier, -iest) having waves or alternate contrary curves. * waviness n.
 
-Wax1  —n. 1 sticky plastic yellowish substance secreted by bees as the material of honeycomb. 2 this bleached and purified, used for candles, modelling, etc. 3 any similar substance, e.g. The yellow substance secreted by the ear. —v. 1 cover or treat with wax. 2 remove unwanted hair from (legs etc.) Using wax.  waxy adj. (-ier, -iest). [old english]
+Wax1  —n. 1 sticky plastic yellowish substance secreted by bees as the material of honeycomb. 2 this bleached and purified, used for candles, modelling, etc. 3 any similar substance, e.g. The yellow substance secreted by the ear. —v. 1 cover or treat with wax. 2 remove unwanted hair from (legs etc.) Using wax. * waxy adj. (-ier, -iest). [old english]
 
-Wax2  v. 1 (of the moon) increase in apparent size. 2 become larger or stronger. 3 pass into a specified state or mood (wax lyrical).  wax and wane undergo alternate increases and decreases. [old english]
+Wax2  v. 1 (of the moon) increase in apparent size. 2 become larger or stronger. 3 pass into a specified state or mood (wax lyrical). * wax and wane undergo alternate increases and decreases. [old english]
 
 Waxen  adj. 1 smooth or pale like wax. 2 archaic made of wax.
 
@@ -544,13 +544,13 @@ Waxwing  n. Any of various birds with tips like red sealing-wax to some wing-fea
 
 Waxwork  n. 1 object, esp. A lifelike dummy, modelled in wax. 2 (in pl.) Exhibition of wax dummies.
 
-Way  —n. 1 road, track, path, etc., for passing along. 2 course or route for reaching a place (asked the way to london; the way out). 3 method or plan for attaining an object. 4 style, manner (i like the way you dress). 5 person's chosen or habitual course of action. 6 normal course of events (that is always the way). 7 travelling distance; length traversed or to be traversed. 8 unimpeded opportunity or space to advance (make way). 9 advance in some direction; impetus, progress (under way). 10 being engaged in movement from place to place; time spent in this (on the way home). 11 specified direction (step this way). 12 colloq. Scope or range. 13 line of occupation or business. 14 specified condition or state (things are in a bad way). 15 respect (is useful in some ways). 16 (in pl.) Part into which a thing is divided (split it three ways). 17 (in pl.) Structure of timber etc. Down which a new ship is launched. —adv. Colloq. Far (way off).  by the way incidentally. By way of 1 by means of. 2 as a form of. 3 passing through. Come one's way become available to one. Get out of the (or my etc.) Way stop obstructing a person. Go out of one's way make a special effort. In a way to some extent. In the (or one's) way forming an obstruction. Lead the way act as guide or leader. Look the other way ignore what one should notice. On the (or one's) way 1 in the course of a journey etc. 2 having progressed. 3 colloq. (of a child) conceived but not yet born. On the way out colloq. Going out of fashion or favour. Out of the way 1 no longer an obstacle. 2 disposed of. 3 unusual. 4 (of a place) remote. [old english]
+Way  —n. 1 road, track, path, etc., for passing along. 2 course or route for reaching a place (asked the way to london; the way out). 3 method or plan for attaining an object. 4 style, manner (i like the way you dress). 5 person's chosen or habitual course of action. 6 normal course of events (that is always the way). 7 travelling distance; length traversed or to be traversed. 8 unimpeded opportunity or space to advance (make way). 9 advance in some direction; impetus, progress (under way). 10 being engaged in movement from place to place; time spent in this (on the way home). 11 specified direction (step this way). 12 colloq. Scope or range. 13 line of occupation or business. 14 specified condition or state (things are in a bad way). 15 respect (is useful in some ways). 16 (in pl.) Part into which a thing is divided (split it three ways). 17 (in pl.) Structure of timber etc. Down which a new ship is launched. —adv. Colloq. Far (way off). * by the way incidentally. By way of 1 by means of. 2 as a form of. 3 passing through. Come one's way become available to one. Get out of the (or my etc.) Way stop obstructing a person. Go out of one's way make a special effort. In a way to some extent. In the (or one's) way forming an obstruction. Lead the way act as guide or leader. Look the other way ignore what one should notice. On the (or one's) way 1 in the course of a journey etc. 2 having progressed. 3 colloq. (of a child) conceived but not yet born. On the way out colloq. Going out of fashion or favour. Out of the way 1 no longer an obstacle. 2 disposed of. 3 unusual. 4 (of a place) remote. [old english]
 
 Way back  adv. Colloq. Long ago.
 
 Waybill  n. List of passengers or parcels on a vehicle.
 
-Wayfarer  n. Traveller, esp. On foot.  wayfaring n. & adj.
+Wayfarer  n. Traveller, esp. On foot. * wayfaring n. & adj.
 
 Waylay  v. (past and past part. Waylaid) 1 lie in wait for. 2 stop to talk to or rob.
 
@@ -564,7 +564,7 @@ Ways and means  n.pl. 1 methods of achieving something. 2 methods of raising gov
 
 Wayside  n. 1 side of a road. 2 land at the side of a road.
 
-Wayward  adj. Childishly self-willed; capricious.  waywardness n. [from *away, *-ward]
+Wayward  adj. Childishly self-willed; capricious. * waywardness n. [from *away, *-ward]
 
 Wb  abbr. Weber(s).
 
@@ -576,7 +576,7 @@ We  pron. (obj. Us; poss. Our, ours) 1 pl. Of *i2. 2 used for or by a royal pers
 
 Wea  abbr. Workers' educational association.
 
-Weak  adj. 1 deficient in strength, power, vigour, resolution, or number. 2 unconvincing. 3 gram. (of a verb) forming inflections by the addition of a suffix to the stem.  weakish adj. [old norse]
+Weak  adj. 1 deficient in strength, power, vigour, resolution, or number. 2 unconvincing. 3 gram. (of a verb) forming inflections by the addition of a suffix to the stem. * weakish adj. [old norse]
 
 Weaken  v. Make or become weak or weaker.
 
@@ -608,21 +608,21 @@ Weapon  n. 1 thing designed, used, or usable for inflicting bodily harm. 2 means
 
 Weaponry  n. Weapons collectively.
 
-Wear  —v. (past wore; past part. Worn) 1 have on one's person as clothing or an ornament etc. 2 exhibit or present (a facial expression etc.) (wore a frown). 3 colloq. (usu. With neg.) Tolerate. 4 (often foll. By away, down) a injure the surface of, or partly obliterate or alter, by rubbing, stress, or use. B undergo such injury or change. 5 (foll. By off, away) rub or be rubbed off. 6 make (a hole etc.) By constant rubbing or dripping etc. 7 (often foll. By out) exhaust. 8 (foll. By down) overcome by persistence. 9 (foll. By well etc.) Endure continued use or life. 10 (of time) pass, esp. Tediously. 11 (of a ship) fly (a flag). —n. 1 wearing or being worn. 2 things worn; fashionable or suitable clothing (sportswear; footwear). 3 (in full wear and tear) damage from continuous use.  wear one's heart on one's sleeve show one's feelings openly. Wear off lose effectiveness or intensity. Wear out 1 use or be used until useless. 2 tire or be tired out. Wear thin (of patience, excuses, etc.) Begin to fail. Wear the trousers see *trousers.  wearer n. [old english]
+Wear  —v. (past wore; past part. Worn) 1 have on one's person as clothing or an ornament etc. 2 exhibit or present (a facial expression etc.) (wore a frown). 3 colloq. (usu. With neg.) Tolerate. 4 (often foll. By away, down) a injure the surface of, or partly obliterate or alter, by rubbing, stress, or use. B undergo such injury or change. 5 (foll. By off, away) rub or be rubbed off. 6 make (a hole etc.) By constant rubbing or dripping etc. 7 (often foll. By out) exhaust. 8 (foll. By down) overcome by persistence. 9 (foll. By well etc.) Endure continued use or life. 10 (of time) pass, esp. Tediously. 11 (of a ship) fly (a flag). —n. 1 wearing or being worn. 2 things worn; fashionable or suitable clothing (sportswear; footwear). 3 (in full wear and tear) damage from continuous use. * wear one's heart on one's sleeve show one's feelings openly. Wear off lose effectiveness or intensity. Wear out 1 use or be used until useless. 2 tire or be tired out. Wear thin (of patience, excuses, etc.) Begin to fail. Wear the trousers see *trousers. * wearer n. [old english]
 
 Wearisome  adj. Tedious; tiring by monotony or length.
 
-Weary  —adj. (-ier, -iest) 1 very tired after exertion or endurance. 2 (foll. By of) no longer interested in, tired of. 3 tiring, tedious. —v. (-ies, -ied) make or grow weary.  wearily adv. Weariness n. [old english]
+Weary  —adj. (-ier, -iest) 1 very tired after exertion or endurance. 2 (foll. By of) no longer interested in, tired of. 3 tiring, tedious. —v. (-ies, -ied) make or grow weary. * wearily adv. Weariness n. [old english]
 
 Weasel  n. Small flesh-eating mammal related to the stoat and ferret. [old english]
 
 Weasel word  n. (usu. In pl.) Word that is intentionally ambiguous or misleading.
 
-Weather  —n. 1 state of the atmosphere at a place and time as regards heat, cloudiness, dryness, sunshine, wind, and rain etc. 2 (attrib.) Naut. Windward. —v. 1 expose to or affect by atmospheric changes; season (wood). 2 be discoloured or worn in this way. 3 a come safely through (a storm). B survive (a difficult period etc.). 4 get to the windward of (a cape etc.).  keep a weather eye open be watchful. Make heavy weather of colloq. Exaggerate the difficulty presented by. Under the weather colloq. Indisposed. [old english]
+Weather  —n. 1 state of the atmosphere at a place and time as regards heat, cloudiness, dryness, sunshine, wind, and rain etc. 2 (attrib.) Naut. Windward. —v. 1 expose to or affect by atmospheric changes; season (wood). 2 be discoloured or worn in this way. 3 a come safely through (a storm). B survive (a difficult period etc.). 4 get to the windward of (a cape etc.). * keep a weather eye open be watchful. Make heavy weather of colloq. Exaggerate the difficulty presented by. Under the weather colloq. Indisposed. [old english]
 
 Weather-beaten  adj. Affected by exposure to the weather.
 
-Weatherboard  n. 1 sloping board attached to the bottom of an outside door to keep out the rain etc. 2 each of a series of overlapping horizontal boards on a wall.  weatherboarding n. (in sense 2 of n.).
+Weatherboard  n. 1 sloping board attached to the bottom of an outside door to keep out the rain etc. 2 each of a series of overlapping horizontal boards on a wall. * weatherboarding n. (in sense 2 of n.).
 
 Weathercock  n. 1 weather-vane in the form of a cock. 2 inconstant person.
 
@@ -636,11 +636,11 @@ Weather-vane  n. 1 revolving pointer on a church spire etc. To show the directio
 
 Weave1  —v. (-ving; past wove; past part. Woven or wove) 1 a form (fabric) by interlacing long threads in two directions. B form (thread) into fabric in this way. 2 make fabric in this way. 3 a (foll. By into) make (facts etc.) Into a story or connected whole. B make (a story) in this way. —n. Style of weaving. [old english]
 
-Weave2  v. (-ving) move repeatedly from side to side; take an intricate course to avoid obstructions.  get weaving slang begin action; hurry. [old norse: related to *wave]
+Weave2  v. (-ving) move repeatedly from side to side; take an intricate course to avoid obstructions. * get weaving slang begin action; hurry. [old norse: related to *wave]
 
 Weaver  n. 1 person who weaves fabric. 2 (in full weaver-bird) tropical bird building elaborately woven nests.
 
-Web  n. 1 a woven fabric. B amount woven in one piece. 2 complex series (web of lies). 3 cobweb, gossamer, or a similar product of a spinning creature. 4 membrane between the toes of a swimming animal or bird. 5 large roll of paper used in printing. 6 thin flat connecting part in machinery etc.  webbed adj. [old english]
+Web  n. 1 a woven fabric. B amount woven in one piece. 2 complex series (web of lies). 3 cobweb, gossamer, or a similar product of a spinning creature. 4 membrane between the toes of a swimming animal or bird. 5 large roll of paper used in printing. 6 thin flat connecting part in machinery etc. * webbed adj. [old english]
 
 Webbing  n. Strong narrow closely-woven fabric used for belts etc.
 
@@ -662,11 +662,11 @@ Wedding cake  n. Rich iced cake served at a wedding reception.
 
 Wedding ring  n. Ring worn by a married person.
 
-Wedge  —n. 1 piece of tapering wood or metal etc. Driven between two objects or parts to secure or separate them. 2 anything resembling a wedge. 3 golf club with a wedge-shaped head. —v. (-ging) 1 secure or fasten with a wedge. 2 force open or apart with a wedge. 3 (foll. By in, into) pack or thrust (a thing or oneself) tightly in or into.  thin end of the wedge colloq. Thing of little importance in itself, but likely to lead to more serious developments. [old english]
+Wedge  —n. 1 piece of tapering wood or metal etc. Driven between two objects or parts to secure or separate them. 2 anything resembling a wedge. 3 golf club with a wedge-shaped head. —v. (-ging) 1 secure or fasten with a wedge. 2 force open or apart with a wedge. 3 (foll. By in, into) pack or thrust (a thing or oneself) tightly in or into. * thin end of the wedge colloq. Thing of little importance in itself, but likely to lead to more serious developments. [old english]
 
 Wedgwood  n. Propr. 1 a kind of fine stoneware usu. With a white cameo design. 2 its characteristic blue colour. [wedgwood, name of a potter]
 
-Wedlock  n. The married state.  born in (or out of) wedlock born of married (or unmarried) parents. [old english, = marriage vow]
+Wedlock  n. The married state. * born in (or out of) wedlock born of married (or unmarried) parents. [old english, = marriage vow]
 
 Wednesday  —n. Day of the week following tuesday. —adv. Colloq. 1 on wednesday. 2 (wednesdays) on wednesdays; each wednesday. [old english]
 
@@ -708,35 +708,35 @@ Wee-wee  colloq. —n. 1 act of urinating. 2 urine. —v. (-wees, -weed) urinate
 
 Weft  n. 1 threads woven across a warp to make fabric. 2 yarn for these. 3 thing woven. [old english: related to *weave1]
 
-Weigh  v. 1 find the weight of. 2 balance in the hands to guess or as if to guess the weight of. 3 (often foll. By out) take a definite weight of (a substance); measure out (a specified weight) (weigh out the flour; weigh out 6 oz). 4 a estimate the relative value, importance, or desirability of. B (foll. By with, against) compare. 5 be equal to (a specified weight). 6 have (esp. A specified) importance; exert an influence. 7 (often foll. By on) be heavy or burdensome (to); be depressing (to).  weigh down 1 bring down by exerting weight. 2 be oppressive to. Weigh in (of a boxer before a contest, or a jockey after a race) be weighed. Weigh in with colloq. Advance (an argument etc.) Boldly. Weigh out (of a jockey) be weighed before a race. Weigh up colloq. Form an estimate of. Weigh one's words carefully choose the way one expresses something. [old english, = carry]
+Weigh  v. 1 find the weight of. 2 balance in the hands to guess or as if to guess the weight of. 3 (often foll. By out) take a definite weight of (a substance); measure out (a specified weight) (weigh out the flour; weigh out 6 oz). 4 a estimate the relative value, importance, or desirability of. B (foll. By with, against) compare. 5 be equal to (a specified weight). 6 have (esp. A specified) importance; exert an influence. 7 (often foll. By on) be heavy or burdensome (to); be depressing (to). * weigh down 1 bring down by exerting weight. 2 be oppressive to. Weigh in (of a boxer before a contest, or a jockey after a race) be weighed. Weigh in with colloq. Advance (an argument etc.) Boldly. Weigh out (of a jockey) be weighed before a race. Weigh up colloq. Form an estimate of. Weigh one's words carefully choose the way one expresses something. [old english, = carry]
 
 Weighbridge  n. Weighing-machine for vehicles.
 
 Weigh-in  n. Weighing of a boxer before a fight.
 
-Weight  —n. 1 force experienced by a body as a result of the earth's gravitation. 2 heaviness of a body regarded as a property of it. 3 a quantitative expression of a body's weight. B scale of such weights (troy weight). 4 body of a known weight for use in weighing or weight training. 5 heavy body, esp. As used in a mechanism etc. 6 load or burden. 7 influence, importance. 8 athletics = *shot1 7. —v. 1 a attach a weight to. B hold down with a weight. 2 (foll. By with) impede or burden.  throw one's weight about (or around) colloq. Be unpleasantly self-assertive. Worth one's weight in gold very useful or helpful. [old english]
+Weight  —n. 1 force experienced by a body as a result of the earth's gravitation. 2 heaviness of a body regarded as a property of it. 3 a quantitative expression of a body's weight. B scale of such weights (troy weight). 4 body of a known weight for use in weighing or weight training. 5 heavy body, esp. As used in a mechanism etc. 6 load or burden. 7 influence, importance. 8 athletics = *shot1 7. —v. 1 a attach a weight to. B hold down with a weight. 2 (foll. By with) impede or burden. * throw one's weight about (or around) colloq. Be unpleasantly self-assertive. Worth one's weight in gold very useful or helpful. [old english]
 
 Weighting  n. Extra allowance paid in special cases.
 
-Weightless  adj. (of a body, esp. In an orbiting spacecraft etc.) Not apparently acted on by gravity.  weightlessness n.
+Weightless  adj. (of a body, esp. In an orbiting spacecraft etc.) Not apparently acted on by gravity. * weightlessness n.
 
-Weightlifting  n. Sport of lifting heavy weights.  weightlifter n.
+Weightlifting  n. Sport of lifting heavy weights. * weightlifter n.
 
 Weight training  n. Physical training using weights.
 
-Weighty  adj. (-ier, -iest) 1 heavy. 2 momentous. 3 (of utterances etc.) Deserving consideration. 4 influential, authoritative.  weightily adv. Weightiness n.
+Weighty  adj. (-ier, -iest) 1 heavy. 2 momentous. 3 (of utterances etc.) Deserving consideration. 4 influential, authoritative. * weightily adv. Weightiness n.
 
 Weir  n. Dam across a river to raise the level of water upstream or regulate its flow. [old english]
 
-Weird  adj. 1 uncanny, supernatural. 2 colloq. Queer, incomprehensible.  weirdly adv. Weirdness n. [old english wyrd destiny]
+Weird  adj. 1 uncanny, supernatural. 2 colloq. Queer, incomprehensible. * weirdly adv. Weirdness n. [old english wyrd destiny]
 
 Weirdo  n. (pl. -s) colloq. Odd or eccentric person.
 
 Welch  var. Of *welsh.
 
-Welcome  —n. Act of greeting or receiving gladly; kind or glad reception. —int. Expressing such a greeting. —v. (-ming) receive with a welcome. —adj. 1 that one receives with pleasure (welcome guest; welcome news). 2 (foll. By to, or to + infin.) Cordially allowed or invited (you are welcome to use my car).  make welcome receive hospitably. Outstay one's welcome stay too long as a visitor etc. You are welcome there is no need for thanks. [old english]
+Welcome  —n. Act of greeting or receiving gladly; kind or glad reception. —int. Expressing such a greeting. —v. (-ming) receive with a welcome. —adj. 1 that one receives with pleasure (welcome guest; welcome news). 2 (foll. By to, or to + infin.) Cordially allowed or invited (you are welcome to use my car). * make welcome receive hospitably. Outstay one's welcome stay too long as a visitor etc. You are welcome there is no need for thanks. [old english]
 
-Weld  —v. 1 a hammer or press (pieces of iron or other metal usu. Heated but not melted) into one piece. B join by fusion with an electric arc etc. C form by welding into some article. 2 fashion into an effectual or homogeneous whole. —n. Welded joint.  welder n. [alteration of *well2, probably influenced by the form welled]
+Weld  —v. 1 a hammer or press (pieces of iron or other metal usu. Heated but not melted) into one piece. B join by fusion with an electric arc etc. C form by welding into some article. 2 fashion into an effectual or homogeneous whole. —n. Welded joint. * welder n. [alteration of *well2, probably influenced by the form welled]
 
 Welfare  n. 1 well-being, happiness; health and prosperity (of a person or community etc.). 2 (welfare) a welfare centre or office. B financial support given by the state. [from *well1, *fare]
 
@@ -746,7 +746,7 @@ Welfare work  n. Organized effort for the welfare of the poor, disabled, etc.
 
 Welkin  n. Poet. Sky. [old english, = cloud]
 
-Well1  —adv. (better, best) 1 in a satisfactory way (works well). 2 with some distinction (plays the piano well). 3 in a kind way (treated me well). 4 thoroughly, carefully (polish it well). 5 with heartiness or approval (speak well of). 6 probably, reasonably (you may well be right). 7 to a considerable extent (is well over forty). —adj. (better, best) 1 (usu. Predic.) In good health. 2 (predic.) A in a satisfactory state or position. B advisable (it would be well to enquire). —int. Expressing surprise, resignation, etc., or used to introduce speech.  leave well alone avoid needless change or disturbance. Well and truly decisively, completely. Well away 1 having made considerable progress. 2 colloq. Fast asleep or drunk. Well done! Expressing praise for something done. Well worth certainly worth. [old english]
+Well1  —adv. (better, best) 1 in a satisfactory way (works well). 2 with some distinction (plays the piano well). 3 in a kind way (treated me well). 4 thoroughly, carefully (polish it well). 5 with heartiness or approval (speak well of). 6 probably, reasonably (you may well be right). 7 to a considerable extent (is well over forty). —adj. (better, best) 1 (usu. Predic.) In good health. 2 (predic.) A in a satisfactory state or position. B advisable (it would be well to enquire). —int. Expressing surprise, resignation, etc., or used to introduce speech. * leave well alone avoid needless change or disturbance. Well and truly decisively, completely. Well away 1 having made considerable progress. 2 colloq. Fast asleep or drunk. Well done! Expressing praise for something done. Well worth certainly worth. [old english]
 
 Well2  —n. 1 shaft sunk into the ground to obtain water, oil, etc. 2 enclosed space like a well-shaft, e.g. In the middle of a building for stairs or a lift, or for light or ventilation. 3 (foll. By of) source. 4 (in pl.) Spa. 5 = *ink-well. 6 archaic water-spring. 7 railed space in a lawcourt. —v. (foll. By out, up) spring as from a fountain. [old english]
 
@@ -860,7 +860,7 @@ Wen  n. Benign tumour on the skin, esp. On the scalp. [old english]
 
 Wench  n. Joc. Girl or young woman. [abbreviation of wenchel, from old english, = child]
 
-Wend  v.  wend one's way make one's way. [old english, = turn]
+Wend  v. * wend one's way make one's way. [old english, = turn]
 
 Wendy house  n. Children's small houselike tent or structure for playing in. [wendy, name of a character in barrie's peter pan]
 
@@ -878,7 +878,7 @@ Werewolf  n. (pl. -wolves) mythical being who at times changes from a person to 
 
 Wesleyan  —adj. Of or relating to a protestant denomination founded by john wesley. —n. Member of this denomination.
 
-West  —n. 1 a point of the horizon where the sun sets at the equinoxes. B compass point corresponding to this. C direction in which this lies. 2 (usu. The west) a european civilization. B states of western europe and n. America. C western part of a country, town, etc. —adj. 1 towards, at, near, or facing the west. 2 from the west (west wind). —adv. 1 towards, at, or near the west. 2 (foll. By of) further west than.  go west slang be killed or destroyed etc. To the west (often followed by of) in a westerly direction. [old english]
+West  —n. 1 a point of the horizon where the sun sets at the equinoxes. B compass point corresponding to this. C direction in which this lies. 2 (usu. The west) a european civilization. B states of western europe and n. America. C western part of a country, town, etc. —adj. 1 towards, at, near, or facing the west. 2 from the west (west wind). —adv. 1 towards, at, or near the west. 2 (foll. By of) further west than. * go west slang be killed or destroyed etc. To the west (often followed by of) in a westerly direction. [old english]
 
 Westbound  adj. Travelling or leading westwards.
 
@@ -890,7 +890,7 @@ Westering  adj. (of the sun) nearing the west.
 
 Westerly  —adj. & adv. 1 in a western position or direction. 2 (of a wind) from the west. —n. (pl. -ies) such a wind.
 
-Western  —adj. Of or in the west. —n. Film or novel about cowboys in western north america.  westernmost adj.
+Western  —adj. Of or in the west. —n. Film or novel about cowboys in western north america. * westernmost adj.
 
 Westerner  n. Native or inhabitant of the west.
 
@@ -924,11 +924,11 @@ We've  contr. We have.
 
 Wg. Cdr.  Abbr. Wing commander.
 
-Whack  colloq. —v. 1 strike or beat forcefully. 2 (as whacked adj.) Tired out. —n. 1 sharp or resounding blow. 2 slang share.  have a whack at slang attempt. [imitative]
+Whack  colloq. —v. 1 strike or beat forcefully. 2 (as whacked adj.) Tired out. —n. 1 sharp or resounding blow. 2 slang share. * have a whack at slang attempt. [imitative]
 
 Whacking  colloq. —adj. Very large. —adv. Very.
 
-Whale  —n. (pl. Same or -s) very large marine mammal with a streamlined body and horizontal tail. —v. (-ling) hunt whales.  a whale of a colloq. An exceedingly good or fine etc. [old english]
+Whale  —n. (pl. Same or -s) very large marine mammal with a streamlined body and horizontal tail. —v. (-ling) hunt whales. * a whale of a colloq. An exceedingly good or fine etc. [old english]
 
 Whalebone  n. Elastic horny substance in the upper jaw of some whales.
 
@@ -942,7 +942,7 @@ Wharf  —n. (pl. Wharves or -s) quayside area to which a ship may be moored to 
 
 Wharfage  n. 1 accommodation at a wharf. 2 fee for this.
 
-What  —interrog. Adj. 1 asking for a choice from an indefinite number or for a statement of amount, number, or kind (what books have you read?). 2 colloq. = *which interrog.adj. (what book have you chosen?). —adj. (usu. In an exclamation) how great or remarkable (what luck!). —rel. Adj. The or any … that (will give you what help i can). —pron. (corresponding to the functions of the adj.) 1 what thing or things? (what is your name?; i don't know what you mean). 2 (asking for a remark to be repeated) = what did you say? 3 how much (what you must have suffered!). 4 (as rel. Pron.) That or those which; a or the or any thing which (what followed was worse; tell me what you think). —adv. To what extent (what does it matter?).  what about what is the news or your opinion of. What-d'you-call-it colloq. Substitute for a name not recalled. What ever what at all or in any way (what ever do you mean?) (see also *whatever). What for colloq. 1 for what reason? 2 severe reprimand (esp. Give a person what for). What have you (prec. By or or and) colloq. Anything else similar. What not (prec. By and) other similar things. What's-his (or -her or -its) -name colloq. Substitute for a name not recalled. What's what colloq. What is useful or important etc. What with colloq. Because of (usu. Several things). [old english]
+What  —interrog. Adj. 1 asking for a choice from an indefinite number or for a statement of amount, number, or kind (what books have you read?). 2 colloq. = *which interrog.adj. (what book have you chosen?). —adj. (usu. In an exclamation) how great or remarkable (what luck!). —rel. Adj. The or any … that (will give you what help i can). —pron. (corresponding to the functions of the adj.) 1 what thing or things? (what is your name?; i don't know what you mean). 2 (asking for a remark to be repeated) = what did you say? 3 how much (what you must have suffered!). 4 (as rel. Pron.) That or those which; a or the or any thing which (what followed was worse; tell me what you think). —adv. To what extent (what does it matter?). * what about what is the news or your opinion of. What-d'you-call-it colloq. Substitute for a name not recalled. What ever what at all or in any way (what ever do you mean?) (see also *whatever). What for colloq. 1 for what reason? 2 severe reprimand (esp. Give a person what for). What have you (prec. By or or and) colloq. Anything else similar. What not (prec. By and) other similar things. What's-his (or -her or -its) -name colloq. Substitute for a name not recalled. What's what colloq. What is useful or important etc. What with colloq. Because of (usu. Several things). [old english]
 
 Whatever  adj. & pron. 1 = *what (in relative uses) with the emphasis on indefiniteness (lend me whatever you can; whatever money you have). 2 though anything (we are safe whatever happens). 3 (with neg. Or interrog.) At all; of any kind (there is no doubt whatever).
 
@@ -962,7 +962,7 @@ Wheatmeal  n. Flour made from wheat with some of the bran and germ removed.
 
 Wheedle  v. (-ling) 1 coax by flattery or endearments. 2 (foll. By out) get (a thing) out of a person or cheat (a person) out of a thing by wheedling. [origin uncertain]
 
-Wheel  —n. 1 circular frame or disc which revolves on an axle and is used for vehicular or other mechanical motion. 2 wheel-like thing. 3 motion as of a wheel, esp. The movement of a line of soldiers with one end as a pivot. 4 (in pl.) Slang car. 5 = *steering-wheel. —v. 1 a turn on an axis or pivot. B swing round in line with one end as a pivot. 2 a (often foll. By about, round) change direction or face another way. B cause to do this. 3 push or pull (a wheeled thing, or its load or occupant). 4 go in circles or curves.  at the wheel 1 driving a vehicle. 2 directing a ship. 3 in control. On wheels (or oiled wheels) smoothly. Wheel and deal engage in political or commercial scheming. Wheels within wheels 1 intricate machinery. 2 colloq. Indirect or secret agencies.  wheeled adj. (also in comb.). [old english]
+Wheel  —n. 1 circular frame or disc which revolves on an axle and is used for vehicular or other mechanical motion. 2 wheel-like thing. 3 motion as of a wheel, esp. The movement of a line of soldiers with one end as a pivot. 4 (in pl.) Slang car. 5 = *steering-wheel. —v. 1 a turn on an axis or pivot. B swing round in line with one end as a pivot. 2 a (often foll. By about, round) change direction or face another way. B cause to do this. 3 push or pull (a wheeled thing, or its load or occupant). 4 go in circles or curves. * at the wheel 1 driving a vehicle. 2 directing a ship. 3 in control. On wheels (or oiled wheels) smoothly. Wheel and deal engage in political or commercial scheming. Wheels within wheels 1 intricate machinery. 2 colloq. Indirect or secret agencies. * wheeled adj. (also in comb.). [old english]
 
 Wheelbarrow  n. Small handcart with one wheel and two shafts.
 
@@ -984,7 +984,7 @@ Wheel-spin  n. Rotation of a vehicle's wheels without traction.
 
 Wheelwright  n. Person who makes or repairs wheels.
 
-Wheeze  —v. (-zing) 1 breathe with an audible whistling sound. 2 utter with this sound. —n. 1 sound of wheezing. 2 colloq. Clever scheme.  wheezy adj. (-ier, -iest). Wheezily adv. Wheeziness n. [probably from old norse, = hiss]
+Wheeze  —v. (-zing) 1 breathe with an audible whistling sound. 2 utter with this sound. —n. 1 sound of wheezing. 2 colloq. Clever scheme. * wheezy adj. (-ier, -iest). Wheezily adv. Wheeziness n. [probably from old norse, = hiss]
 
 Whelk  n. Marine mollusc with a spiral shell. [old english]
 
@@ -1024,7 +1024,7 @@ Wherry  n. (pl. -ies) 1 light rowing-boat usu. For carrying passengers. 2 large 
 
 Whet  v. (-tt-) 1 sharpen (a tool). 2 stimulate (the appetite or a desire etc.). [old english]
 
-Whether  conj. Introducing the first or both of alternative possibilities (i doubt whether it matters; i do not know whether they have arrived or not).  whether or no whether it is so or not. [old english]
+Whether  conj. Introducing the first or both of alternative possibilities (i doubt whether it matters; i do not know whether they have arrived or not). * whether or no whether it is so or not. [old english]
 
 Whetstone  n. Tapered stone used with water to sharpen tools.
 
@@ -1038,9 +1038,9 @@ Whichever  adj. & pron. Any which (take whichever you like).
 
 Whiff  n. 1 puff or breath of air, smoke, etc. 2 smell. 3 (foll. By of) trace of scandal etc. 4 small cigar. [imitative]
 
-Whig  n. Hist. Member of the british reforming and constitutional party succeeded in the 19th c. By the liberal party.  whiggery n. Whiggish adj. Whiggism n. [whiggamer, -more, nickname of 17th-c. Scots rebels]
+Whig  n. Hist. Member of the british reforming and constitutional party succeeded in the 19th c. By the liberal party. * whiggery n. Whiggish adj. Whiggism n. [whiggamer, -more, nickname of 17th-c. Scots rebels]
 
-While  —n. Period of time (a long while ago; waited a while; all this while). —conj. 1 during the time that; for as long as; at the same time as (while i was away, the house was burgled; fell asleep while reading). 2 in spite of the fact that; whereas (while i want to believe it, i cannot). —v. (-ling) (foll. By away) pass (time etc.) In a leisurely or interesting way. —rel. Adv. (prec. By time etc.) During which (the summer while i was abroad).  between whiles in the intervals. For a while for some time. In a while soon. The while in the meantime. Worth while (or worth one's while) worth the time or effort spent. [old english]
+While  —n. Period of time (a long while ago; waited a while; all this while). —conj. 1 during the time that; for as long as; at the same time as (while i was away, the house was burgled; fell asleep while reading). 2 in spite of the fact that; whereas (while i want to believe it, i cannot). —v. (-ling) (foll. By away) pass (time etc.) In a leisurely or interesting way. —rel. Adv. (prec. By time etc.) During which (the summer while i was abroad). * between whiles in the intervals. For a while for some time. In a while soon. The while in the meantime. Worth while (or worth one's while) worth the time or effort spent. [old english]
 
 Whilst  adv. & conj. While. [from *while]
 
@@ -1048,7 +1048,7 @@ Whim  n. 1 sudden fancy; caprice. 2 capriciousness. [origin unknown]
 
 Whimper  —v. Make feeble, querulous, or frightened sounds. —n. Such a sound. [imitative]
 
-Whimsical  adj. Capricious, fantastic.  whimsicality n. Whimsically adv.
+Whimsical  adj. Capricious, fantastic. * whimsicality n. Whimsically adv.
 
 Whimsy  n. (pl. -ies) = *whim. [origin uncertain]
 
@@ -1062,7 +1062,7 @@ Whinge  v. (-geing or -ging) colloq. Whine; grumble peevishly. [old english]
 
 Whinny  —n. (pl. -ies) gentle or joyful neigh. —v. (-ies, -ied) give a whinny. [imitative]
 
-Whip  —n. 1 lash attached to a stick for urging on animals or punishing etc. 2 a member of a political party in parliament appointed to control its discipline and tactics. B whips' written notice requesting or requiring attendance for voting at a division etc., variously underlined according to the degree of urgency (three-line whip). C (prec. By the) party discipline and instructions (asked for the labour whip). 3 dessert made with whipped cream etc. 4 = *whipper-in. —v. (-pp-) 1 beat or urge on with a whip. 2 beat (cream or eggs etc.) Into a froth. 3 take or move suddenly, unexpectedly, or rapidly (whipped out a knife; whipped behind the door). 4 slang steal. 5 slang a excel. B defeat. 6 bind with spirally wound twine. 7 sew with overcast stitches.  whip in bring (hounds) together. Whip on urge into action. Whip up excite or stir up. [low german or dutch]
+Whip  —n. 1 lash attached to a stick for urging on animals or punishing etc. 2 a member of a political party in parliament appointed to control its discipline and tactics. B whips' written notice requesting or requiring attendance for voting at a division etc., variously underlined according to the degree of urgency (three-line whip). C (prec. By the) party discipline and instructions (asked for the labour whip). 3 dessert made with whipped cream etc. 4 = *whipper-in. —v. (-pp-) 1 beat or urge on with a whip. 2 beat (cream or eggs etc.) Into a froth. 3 take or move suddenly, unexpectedly, or rapidly (whipped out a knife; whipped behind the door). 4 slang steal. 5 slang a excel. B defeat. 6 bind with spirally wound twine. 7 sew with overcast stitches. * whip in bring (hounds) together. Whip on urge into action. Whip up excite or stir up. [low german or dutch]
 
 Whipcord  n. Tightly twisted cord.
 
@@ -1088,7 +1088,7 @@ Whip-round  n. Colloq. Informal collection of money among a group of people.
 
 Whipstock  n. Handle of a whip.
 
-Whirl  —v. 1 swing round and round; revolve rapidly. 2 (foll. By away) convey or go rapidly in a vehicle etc. 3 send or travel swiftly in an orbit or a curve. 4 (of the brain etc.) Seem to spin round. —n. 1 whirling movement. 2 state of intense activity (the social whirl). 3 state of confusion (in a whirl).  give it a whirl colloq. Attempt it. [old norse, and low german or dutch]
+Whirl  —v. 1 swing round and round; revolve rapidly. 2 (foll. By away) convey or go rapidly in a vehicle etc. 3 send or travel swiftly in an orbit or a curve. 4 (of the brain etc.) Seem to spin round. —n. 1 whirling movement. 2 state of intense activity (the social whirl). 3 state of confusion (in a whirl). * give it a whirl colloq. Attempt it. [old norse, and low german or dutch]
 
 Whirligig  n. 1 spinning or whirling toy. 2 merry-go-round. 3 revolving motion.
 
@@ -1100,13 +1100,13 @@ Whirr  —n. Continuous rapid buzz or soft clicking sound. —v. (-rr-) make thi
 
 Whisk  —v. 1 (foll. By away, off) a brush with a sweeping movement. B take suddenly. 2 whip (cream, eggs, etc.). 3 convey or go (esp. Out of sight) lightly or quickly. 4 wave or lightly brandish. —n. 1 whisking action or motion. 2 utensil for whisking eggs or cream etc. 3 bunch of grass, twigs, bristles, etc., for removing dust or flies. [scandinavian]
 
-Whisker  n. 1 (usu. In pl.) Hair growing on a man's face, esp. On the cheek. 2 each of the bristles on the face of a cat etc. 3 colloq. Small distance (within a whisker of).  whiskered adj. Whiskery adj. [from *whisk]
+Whisker  n. 1 (usu. In pl.) Hair growing on a man's face, esp. On the cheek. 2 each of the bristles on the face of a cat etc. 3 colloq. Small distance (within a whisker of). * whiskered adj. Whiskery adj. [from *whisk]
 
 Whiskey  n. (brit. Whisky) (pl. -eys) spirit distilled esp. From malted grain, esp. Barley or rye. [abbreviation of usquebaugh from gaelic, = water of life]
 
 Whisky  n. (ir. & us whiskey) (pl. -ies or -eys) spirit distilled esp. From malted grain, esp. Barley or rye. [abbreviation of usquebaugh from gaelic, = water of life]
 
-Whisper  —v. 1 a speak very softly without vibration of the vocal cords. B talk or say in a barely audible tone or in a secret or confidential way. 2 rustle or murmur. —n. 1 whispering speech or sound. 2 thing whispered.  it is whispered there is a rumour. [old english]
+Whisper  —v. 1 a speak very softly without vibration of the vocal cords. B talk or say in a barely audible tone or in a secret or confidential way. 2 rustle or murmur. —n. 1 whispering speech or sound. 2 thing whispered. * it is whispered there is a rumour. [old english]
 
 Whist  n. Card-game usu. For two pairs of players. [earlier whisk, perhaps from *whisk (with ref. To whisking away the tricks): perhaps associated with whist! (= silence)]
 
@@ -1120,7 +1120,7 @@ Whit  —n. = *whitsuntide. —attrib. Adj. Of whitsuntide or whit sunday. [old 
 
 Whit  n. Particle; least possible amount (not a whit better). [apparently = *wight]
 
-White  —adj. 1 resembling a surface reflecting sunlight without absorbing any of the visible rays; of the colour of milk or snow. 2 nearly this colour; pale, esp. In the face. 3 (white) a of the human group having light-coloured skin. B of or relating to white people. 4 albino (white mouse). 5 (of hair) having lost its colour, esp. In old age. 6 (of coffee) with milk or cream. —n. 1 white colour or pigment. 2 a white clothes or material. B (in pl.) White garments as worn in cricket, tennis, etc. 3 a (in a game or sport) white piece, ball, etc. B player using these. 4 = *egg-white. 5 whitish part of the eyeball round the iris. 6 (white) member of a light-skinned race.  bleed white drain of wealth etc.  whiteness n. Whitish adj. [old english]
+White  —adj. 1 resembling a surface reflecting sunlight without absorbing any of the visible rays; of the colour of milk or snow. 2 nearly this colour; pale, esp. In the face. 3 (white) a of the human group having light-coloured skin. B of or relating to white people. 4 albino (white mouse). 5 (of hair) having lost its colour, esp. In old age. 6 (of coffee) with milk or cream. —n. 1 white colour or pigment. 2 a white clothes or material. B (in pl.) White garments as worn in cricket, tennis, etc. 3 a (in a game or sport) white piece, ball, etc. B player using these. 4 = *egg-white. 5 whitish part of the eyeball round the iris. 6 (white) member of a light-skinned race. * bleed white drain of wealth etc. * whiteness n. Whitish adj. [old english]
 
 White ant  n. Termite.
 
@@ -1144,7 +1144,7 @@ White goods  n.pl. Large domestic electrical equipment.
 
 Whitehead  n. Colloq. White or white-topped skin-pustule.
 
-White heat  n. 1 temperature at which metal emits white light. 2 state of intense passion or activity.  white-hot adj.
+White heat  n. 1 temperature at which metal emits white light. 2 state of intense passion or activity. * white-hot adj.
 
 White hope  n. Person expected to achieve much.
 
@@ -1160,7 +1160,7 @@ White magic  n. Magic used for beneficent purposes.
 
 White meat  n. Poultry, veal, rabbit, and pork.
 
-Whiten  v. Make or become white.  whitener n.
+Whiten  v. Make or become white. * whitener n.
 
 White noise  n. Noise containing many frequencies with equal intensities.
 
@@ -1222,19 +1222,19 @@ Whodunit  n. (also whodunnit) colloq. Detective story, play, or film. [= who don
 
 Whoever  pron. (obj. Whoever or formal whomever; poss. Whosever) 1 the or any person or persons who (whoever comes is welcome). 2 though anyone (whoever else objects, i do not).
 
-Whole  —adj. 1 uninjured, unbroken, intact, or undiminished. 2 not less than; all there is of. 3 (of blood or milk etc.) With no part removed. —n. 1 thing complete in itself. 2 all there is of a thing. 3 (foll. By of) all members etc. Of (the whole of london knows it).  as a whole as a unity; not as separate parts. On the whole taking everything relevant into account. Whole lot see *lot.  wholeness n. [old english]
+Whole  —adj. 1 uninjured, unbroken, intact, or undiminished. 2 not less than; all there is of. 3 (of blood or milk etc.) With no part removed. —n. 1 thing complete in itself. 2 all there is of a thing. 3 (foll. By of) all members etc. Of (the whole of london knows it). * as a whole as a unity; not as separate parts. On the whole taking everything relevant into account. Whole lot see *lot. * wholeness n. [old english]
 
 Wholefood  n. Food which has not been unnecessarily processed or refined.
 
 Wholegrain  attrib. Adj. Made with or containing whole grains (wholegrain rice).
 
-Wholehearted  adj. 1 completely devoted. 2 done with all possible effort or sincerity.  wholeheartedly adv.
+Wholehearted  adj. 1 completely devoted. 2 done with all possible effort or sincerity. * wholeheartedly adv.
 
 Wholemeal  n. (usu. Attrib.) Meal or flour with none of the bran or germ removed.
 
 Whole number  n. Number without fractions; integer.
 
-Wholesale  —n. Selling of goods in large quantities to be retailed by others. —adj. & adv. 1 by wholesale. 2 on a large scale. —v. (-ling) sell wholesale.  wholesaler n. [by whole sale]
+Wholesale  —n. Selling of goods in large quantities to be retailed by others. —adj. & adv. 1 by wholesale. 2 on a large scale. —v. (-ling) sell wholesale. * wholesaler n. [by whole sale]
 
 Wholesome  adj. 1 promoting physical, mental, or moral health. 2 prudent (wholesome respect). [old english: related to *whole]
 
@@ -1250,9 +1250,9 @@ Whomever  objective case of *whoever.
 
 Whomsoever  objective case of *whosoever.
 
-Whoop  —n. 1 loud cry of or as of excitement etc. 2 long rasping indrawn breath in whooping cough. —v. Utter a whoop.  whoop it up colloq. 1 engage in revelry. 2 us make a stir. [imitative]
+Whoop  —n. 1 loud cry of or as of excitement etc. 2 long rasping indrawn breath in whooping cough. —v. Utter a whoop. * whoop it up colloq. 1 engage in revelry. 2 us make a stir. [imitative]
 
-Whoopee  int. Expressing exuberant joy.  make whoopee colloq. 1 have fun, make merry. 2 make love. [imitative]
+Whoopee  int. Expressing exuberant joy. * make whoopee colloq. 1 have fun, make merry. 2 make love. [imitative]
 
 Whooping cough  n. Infectious bacterial disease, esp. Of children, with a series of short violent coughs followed by a whoop.
 
@@ -1278,13 +1278,13 @@ Whosoever  pron. (obj. Whomsoever; poss. Whosesoever) archaic = *whoever.
 
 Who's who  n. 1 who or what each person is (know who's who). 2 list with facts about notable persons.
 
-Why  —adv. 1 for what reason or purpose (why did you do it?; i do not know why you came). 2 (prec. By reason etc.) For which (the reasons why i did it). —int. Expressing: 1 surprised discovery or recognition (why, it's you!). 2 impatience (why, of course i do!). 3 reflection (why, yes, i think so). 4 objection (why, what is wrong with it?).  whys and wherefores reasons; explanation. [old english: related to *what]
+Why  —adv. 1 for what reason or purpose (why did you do it?; i do not know why you came). 2 (prec. By reason etc.) For which (the reasons why i did it). —int. Expressing: 1 surprised discovery or recognition (why, it's you!). 2 impatience (why, of course i do!). 3 reflection (why, yes, i think so). 4 objection (why, what is wrong with it?). * whys and wherefores reasons; explanation. [old english: related to *what]
 
-Wi  abbr. 1 west indies. 2  women's institute.
+Wi  abbr. 1 west indies. 2 women's institute.
 
-Wick  n. Strip or thread feeding a flame with fuel.  get on a person's wick colloq. Annoy a person. [old english]
+Wick  n. Strip or thread feeding a flame with fuel. * get on a person's wick colloq. Annoy a person. [old english]
 
-Wicked  adj. (-er, -est) 1 sinful, iniquitous, immoral. 2 spiteful. 3 playfully malicious. 4 colloq. Very bad. 5 slang excellent.  wickedly adv. Wickedness n. [origin uncertain]
+Wicked  adj. (-er, -est) 1 sinful, iniquitous, immoral. 2 spiteful. 3 playfully malicious. 4 colloq. Very bad. 5 slang excellent. * wickedly adv. Wickedness n. [origin uncertain]
 
 Wicker  n. Plaited osiers etc. As material for baskets etc. [scandinavian]
 
@@ -1296,7 +1296,7 @@ Wicket-keeper  n. Fieldsman stationed close behind a batsman's wicket.
 
 Widdershins  adv. (also withershins) esp. Scot. 1 in a direction contrary to the sun's course (considered unlucky). 2 anticlockwise. [german, = contrary]
 
-Wide  —adj. 1 having sides far apart, broad, not narrow (wide river; wide sleeve; wide angle). 2 (following a measurement) in width (a metre wide). 3 a extending far (wide range; wide experience). B considerable (wide margin). 4 not restricted (a wide public). 5 a liberal; unprejudiced (takes wide views). B not specialized; general. 6 open to the full extent (wide eyes). 7 (foll. By of) not within a reasonable distance of, far from (wide shot; wide of the target). 8 (in comb.) Extending over the whole of (nationwide). —adv. 1 widely. 2 to the full extent. 3 far from the target etc. (shooting wide). —n. = *wide ball.  give a wide berth to see *berth. Wide of the mark see *mark1. Wide open (often foll. By to) exposed (to attack etc.). The wide world all the world, great as it is. [old english]
+Wide  —adj. 1 having sides far apart, broad, not narrow (wide river; wide sleeve; wide angle). 2 (following a measurement) in width (a metre wide). 3 a extending far (wide range; wide experience). B considerable (wide margin). 4 not restricted (a wide public). 5 a liberal; unprejudiced (takes wide views). B not specialized; general. 6 open to the full extent (wide eyes). 7 (foll. By of) not within a reasonable distance of, far from (wide shot; wide of the target). 8 (in comb.) Extending over the whole of (nationwide). —adv. 1 widely. 2 to the full extent. 3 far from the target etc. (shooting wide). —n. = *wide ball. * give a wide berth to see *berth. Wide of the mark see *mark1. Wide open (often foll. By to) exposed (to attack etc.). The wide world all the world, great as it is. [old english]
 
 Wide awake  adj. 1 fully awake. 2 colloq. Wary, knowing.
 
@@ -1312,19 +1312,19 @@ Widespread  adj. Widely distributed.
 
 Widgeon  n. (also wigeon) a kind of wild duck. [origin uncertain]
 
-Widow  —n. 1 woman who has lost her husband by death and not married again. 2 woman whose husband is often away on a specified activity (golf widow). —v. 1 make into a widow or widower. 2 (as widowed adj.) Bereft by the death of a spouse.  widowhood n. [old english]
+Widow  —n. 1 woman who has lost her husband by death and not married again. 2 woman whose husband is often away on a specified activity (golf widow). —v. 1 make into a widow or widower. 2 (as widowed adj.) Bereft by the death of a spouse. * widowhood n. [old english]
 
 Widower  n. Man who has lost his wife by death and not married again.
 
 Widow's peak  n. V-shaped growth of hair towards the centre of the forehead.
 
-Width  n. 1 measurement from side to side. 2 large extent. 3 liberality of views etc. 4 strip of material of full width.  widthways adv. [from *wide]
+Width  n. 1 measurement from side to side. 2 large extent. 3 liberality of views etc. 4 strip of material of full width. * widthways adv. [from *wide]
 
 Wield  v. Hold and use; command, exert (a weapon, tool, power, etc.). [old english]
 
 Wiener schnitzel  n. Veal cutlet breaded, fried, and garnished. [german]
 
-Wife  n. (pl. Wives) 1 married woman, esp. In relation to her husband. 2 archaic woman.  wifely adj. [old english, = woman]
+Wife  n. (pl. Wives) 1 married woman, esp. In relation to her husband. 2 archaic woman. * wifely adj. [old english, = woman]
 
 Wig  n. Artificial head of hair. [abbreviation of *periwig]
 
@@ -1332,7 +1332,7 @@ Wigeon  var. Of *widgeon.
 
 Wigging  n. Colloq. Reprimand. [origin uncertain]
 
-Wiggle  colloq. —v. (-ling) move from side to side etc. —n. Act of wiggling; kink in a line etc.  wiggly adj. (-ier, -iest). [low german or dutch wiggelen]
+Wiggle  colloq. —v. (-ling) move from side to side etc. —n. Act of wiggling; kink in a line etc. * wiggly adj. (-ier, -iest). [low german or dutch wiggelen]
 
 Wight  n. Archaic person. [old english, = thing, creature]
 
@@ -1340,7 +1340,7 @@ Wigwam  n. N. American indian's hut or tent. [ojibwa]
 
 Wilco  int. Colloq. Expressing compliance or agreement. [abbreviation of will comply]
 
-Wild  —adj. 1 in its original natural state; not domesticated, cultivated, or civilized (wild cat; wild strawberry). 2 unrestrained, disorderly, uncontrolled (wild youth; wild hair). 3 tempestuous (wild night). 4 intensely eager, frantic (wild excitement; wild delight). 5 (foll. By about) colloq. Enthusiastically devoted to. 6 colloq. Infuriated. 7 haphazard, ill-aimed, rash (wild guess; wild venture). 8 colloq. Exciting, delightful. —adv. In a wild manner. —n. 1 wild tract of land. 2 desert.  in the wild in an uncultivated etc. State. In the wilds colloq. Far from towns etc. Run wild grow or stray unchecked or undisciplined.  wildly adv. Wildness n. [old english]
+Wild  —adj. 1 in its original natural state; not domesticated, cultivated, or civilized (wild cat; wild strawberry). 2 unrestrained, disorderly, uncontrolled (wild youth; wild hair). 3 tempestuous (wild night). 4 intensely eager, frantic (wild excitement; wild delight). 5 (foll. By about) colloq. Enthusiastically devoted to. 6 colloq. Infuriated. 7 haphazard, ill-aimed, rash (wild guess; wild venture). 8 colloq. Exciting, delightful. —adv. In a wild manner. —n. 1 wild tract of land. 2 desert. * in the wild in an uncultivated etc. State. In the wilds colloq. Far from towns etc. Run wild grow or stray unchecked or undisciplined. * wildly adv. Wildness n. [old english]
 
 Wild card  n. 1 card having any rank chosen by the player holding it. 2 computing character that will match any character or combination of characters. 3 person or thing that can be used in several different ways.
 
@@ -1350,9 +1350,9 @@ Wildebeest  n. (pl. Same or -s) = *gnu. [afrikaans: related to *wild, *beast]
 
 Wilderness  n. 1 desert; uncultivated region or garden area. 2 (foll. By of) confused assemblage. [old english: related to *wild, *deer]
 
-Wildfire  n. Hist. Combustible liquid used in war.  spread like wildfire spread with great speed.
+Wildfire  n. Hist. Combustible liquid used in war. * spread like wildfire spread with great speed.
 
-Wildfowl  n. (pl. Same)  game-bird.
+Wildfowl  n. (pl. Same) game-bird.
 
 Wild-goose chase  n. Foolish or hopeless quest.
 
@@ -1364,19 +1364,19 @@ Wild west  n. Western us before the establishment of law and order.
 
 Wile  —n. (usu. In pl.) Stratagem, trick. —v. (-ling) (foll. By away, into, etc.) Lure. [perhaps from scandinavian]
 
-Wilful  adj. (us willful) 1 intentional, deliberate (wilful murder; wilful neglect). 2 obstinate.  wilfully adv. [from *will2]
+Wilful  adj. (us willful) 1 intentional, deliberate (wilful murder; wilful neglect). 2 obstinate. * wilfully adv. [from *will2]
 
 Will1  v.aux. (3rd sing. Present will; past would) 1 (strictly only in the 2nd and 3rd persons: see *shall) expressing a future statement, command, etc. (you will regret this; they will leave at once). 2 expressing the speaker's intention (i will return soon). 3 wish or desire (will you have a drink?; come when you will). 4 expressing a request as a question (will you please open the window?). 5 be able to (the jar will hold a kilo). 6 have a habit or tendency to (accidents will happen; will sit there for hours). 7 expressing probability or expectation (that will be my wife). [old english]
 
-Will2  —n. 1 faculty by which a person decides what to do. 2 strong desire or intention (will to live). 3 determination, will-power (has a strong will). 4 legal written directions for the disposal of one's property after death. 5 disposition towards others (good will). 6 archaic what one desires or ordains. —v. 1 try to cause by will-power (willed her to win). 2 intend; desire. 3 bequeath by a will.  at will whenever one wishes. With a will energetically or resolutely. [old english]
+Will2  —n. 1 faculty by which a person decides what to do. 2 strong desire or intention (will to live). 3 determination, will-power (has a strong will). 4 legal written directions for the disposal of one's property after death. 5 disposition towards others (good will). 6 archaic what one desires or ordains. —v. 1 try to cause by will-power (willed her to win). 2 intend; desire. 3 bequeath by a will. * at will whenever one wishes. With a will energetically or resolutely. [old english]
 
-Willful  adj. (brit. Wilful) 1 intentional, deliberate (wilful murder; wilful neglect). 2 obstinate.  wilfully adv. [from *will2]
+Willful  adj. (brit. Wilful) 1 intentional, deliberate (wilful murder; wilful neglect). 2 obstinate. * wilfully adv. [from *will2]
 
 Willie  var. Of *willy.
 
 Willies  n.pl. Colloq. Nervous discomfort (gives me the willies). [origin unknown]
 
-Willing  adj. 1 ready to consent or undertake. 2 given or done etc. By a willing person.  willingly adv. Willingness n.
+Willing  adj. 1 ready to consent or undertake. 2 given or done etc. By a willing person. * willingly adv. Willingness n.
 
 Will-o'-the-wisp  n. 1 phosphorescent light seen on marshy ground. 2 elusive person. [= william of the torch]
 
@@ -1398,13 +1398,13 @@ Willy-nilly  adv. Whether one likes it or not. [later spelling of will i, nill i
 
 Wilt  —v. 1 wither, droop. 2 lose energy, flag. —n. Plant-disease causing wilting. [originally dial.]
 
-Wily  adj. (-ier, -iest) crafty, cunning.  wiliness n.
+Wily  adj. (-ier, -iest) crafty, cunning. * wiliness n.
 
-Wimp  n. Colloq. Feeble or ineffectual person.  wimpish adj. [origin uncertain]
+Wimp  n. Colloq. Feeble or ineffectual person. * wimpish adj. [origin uncertain]
 
 Wimple  n. Headdress also covering the neck and the sides of the face, worn by some nuns. [old english]
 
-Win  —v. (-nn-; past and past part. Won) 1 secure as a result of a fight, contest, bet, effort, etc. 2 be the victor; be victorious in. —n. Victory in a game etc.  win the day be victorious in battle, argument, etc. Win over persuade, gain the support of. Win one's spurs colloq. Gain distinction or fame.  Win through (or out) overcome obstacles. You can't win colloq. There is no way to succeed or to please.  winnable adj. [old english, = toil]
+Win  —v. (-nn-; past and past part. Won) 1 secure as a result of a fight, contest, bet, effort, etc. 2 be the victor; be victorious in. —n. Victory in a game etc. * win the day be victorious in battle, argument, etc. Win over persuade, gain the support of. Win one's spurs colloq. Gain distinction or fame. Win through (or out) overcome obstacles. You can't win colloq. There is no way to succeed or to please. * winnable adj. [old english, = toil]
 
 Wince  —n. Start or involuntary shrinking movement of the face, showing pain or distress. —v. (-cing) give a wince. [germanic: related to *wink]
 
@@ -1416,7 +1416,7 @@ Winch  —n. 1 crank of a wheel or axle. 2 windlass. —v. Lift with a winch. [o
 
 Wind1  —n. 1 air in natural motion, esp. A current of this. 2 a breath, esp. As needed in exercise or playing a wind instrument. B power of breathing easily. 3 empty talk. 4 gas generated in the bowels etc. 5 wind instruments of an orchestra etc. 6 scent carried by the wind. —v. 1 cause to be out of breath by exertion or a blow. 2 make (a baby) bring up wind after feeding. 3 detect the presence of by a scent.
 
-Wind2  —v. (past and past part. Wound) 1 (often as winding adj.) Go in a spiral, curved, or crooked course. 2 make (one's way) thus. 3 wrap closely; coil. 4 a provide with a coiled thread etc. B surround with or as with a coil. 5 wind up (a clock etc.). —n. 1 bend or turn in a course. 2 single turn when winding.  wind down 1 lower by winding. 2 unwind. 3 draw gradually to a close. Wind off unwind. Wind up 1 coil the whole of. 2 tighten the coiling or coiled spring of (esp. A clock). 3 colloq. A increase the intensity of (feelings etc.), excite. B provoke (a person) to anger etc. 4 bring to a conclusion; end. 5 a arrange the affairs of and dissolve (a company). B cease business and go into liquidation. 6 colloq. Arrive finally. [old english]
+Wind2  —v. (past and past part. Wound) 1 (often as winding adj.) Go in a spiral, curved, or crooked course. 2 make (one's way) thus. 3 wrap closely; coil. 4 a provide with a coiled thread etc. B surround with or as with a coil. 5 wind up (a clock etc.). —n. 1 bend or turn in a course. 2 single turn when winding. * wind down 1 lower by winding. 2 unwind. 3 draw gradually to a close. Wind off unwind. Wind up 1 coil the whole of. 2 tighten the coiling or coiled spring of (esp. A clock). 3 colloq. A increase the intensity of (feelings etc.), excite. B provoke (a person) to anger etc. 4 bring to a conclusion; end. 5 a arrange the affairs of and dissolve (a company). B cease business and go into liquidation. 6 colloq. Arrive finally. [old english]
 
 Windbag  n. Colloq. Person who talks a lot but says little of any value.
 
@@ -1442,9 +1442,9 @@ Wind-jammer  n. Merchant sailing-ship.
 
 Windlass  n. Machine with a horizontal axle for hauling or hoisting. [old norse, = winding-pole]
 
-Windmill  n. 1 mill worked by the wind acting on its sails. 2 toy consisting of a stick with curved vanes that revolve in a wind.  tilt at windmills attack an imaginary enemy.
+Windmill  n. 1 mill worked by the wind acting on its sails. 2 toy consisting of a stick with curved vanes that revolve in a wind. * tilt at windmills attack an imaginary enemy.
 
-Window  n. 1 a opening in a wall etc., usu. With glass to admit light etc. B the glass itself. 2 space for display behind the window of a shop. 3 window-like opening. 4 opportunity to learn from observation. 5 transparent part in an envelope showing an address. 6 vdu display showing a particular part of the data.  windowless adj. [old norse, = wind-eye]
+Window  n. 1 a opening in a wall etc., usu. With glass to admit light etc. B the glass itself. 2 space for display behind the window of a shop. 3 window-like opening. 4 opportunity to learn from observation. 5 transparent part in an envelope showing an address. 6 vdu display showing a particular part of the data. * windowless adj. [old norse, = wind-eye]
 
 Window-box  n. Box placed outside a window for growing flowers.
 
@@ -1468,7 +1468,7 @@ Windshield  n. Us = *windscreen.
 
 Wind-sock  n. Canvas cylinder or cone on a mast to show the direction of the wind at an airfield etc.
 
-Windsurfing  n. Sport of riding on water on a sailboard.  windsurf v. Windsurfer n.
+Windsurfing  n. Sport of riding on water on a sailboard. * windsurf v. Windsurfer n.
 
 Windswept  adj. Exposed to or swept back by the wind.
 
@@ -1478,7 +1478,7 @@ Wind-up  —n. 1 conclusion; finish. 2 colloq. Attempt to provoke. —attrib. Ad
 
 Windward  —adj. & adv. On the side from which the wind is blowing. —n. Windward direction.
 
-Windy  adj. (-ier, -iest) 1 stormy with or exposed to wind. 2 generating or characterized by flatulence. 3 colloq. Wordy. 4 colloq. Nervous, frightened.   windiness n. [old english: related to *wind1]
+Windy  adj. (-ier, -iest) 1 stormy with or exposed to wind. 2 generating or characterized by flatulence. 3 colloq. Wordy. 4 colloq. Nervous, frightened. * windiness n. [old english: related to *wind1]
 
 Wine  —n. 1 fermented grape juice as an alcoholic drink. 2 fermented drink resembling this made from other fruits etc. 3 dark-red colour of red wine. —v. (-ning) (esp. In phr. Wine and dine) 1 drink wine. 2 entertain with wine. [old english]
 
@@ -1498,7 +1498,7 @@ Wine vinegar  n. Vinegar made from wine as distinct from malt etc.
 
 Wine waiter  n. Waiter responsible for serving wine.
 
-Wing  —n. 1 each of the limbs or organs by which a bird etc. Is able to fly. 2 winglike structure supporting an aircraft. 3 part of a building etc. Extended in a certain direction. 4 a forward player at either end of a line in football, hockey, etc. B side part of a playing-area. 5 (in pl.) Sides of a theatre stage. 6 polarized section of a political party in terms of its views. 7 flank of a battle array. 8 the part of a vehicle over a wheel. 9 air-force unit of several squadrons or groups. —v. 1 travel or traverse on wings. 2 wound in a wing or an arm. 3 equip with wings. 4 enable to fly; send in flight.  on the wing flying, in flight. Take under one's wing treat as a protégé. Take wing fly away.  winged adj. Winglike adj. [old norse]
+Wing  —n. 1 each of the limbs or organs by which a bird etc. Is able to fly. 2 winglike structure supporting an aircraft. 3 part of a building etc. Extended in a certain direction. 4 a forward player at either end of a line in football, hockey, etc. B side part of a playing-area. 5 (in pl.) Sides of a theatre stage. 6 polarized section of a political party in terms of its views. 7 flank of a battle array. 8 the part of a vehicle over a wheel. 9 air-force unit of several squadrons or groups. —v. 1 travel or traverse on wings. 2 wound in a wing or an arm. 3 equip with wings. 4 enable to fly; send in flight. * on the wing flying, in flight. Take under one's wing treat as a protégé. Take wing fly away. * winged adj. Winglike adj. [old norse]
 
 Wing-case  n. Horny cover of an insect's wing.
 
@@ -1514,7 +1514,7 @@ Wing-nut  n. Nut with projections for the fingers to turn it.
 
 Wing-span  n. (also wing-spread) measurement right across the wings.
 
-Wink  —v. 1 (often foll. By at) close and open one eye quickly, esp. As a signal. 2 close and open (one or both eyes) quickly. 3 (of a light etc.) Twinkle; (of an indicator) flash on and off. —n. 1 act of winking. 2 colloq. Short sleep.  in a wink very quickly. Wink at purposely avoid seeing; pretend not to notice.  winker n. (in sense 3 of v.). [old english]
+Wink  —v. 1 (often foll. By at) close and open one eye quickly, esp. As a signal. 2 close and open (one or both eyes) quickly. 3 (of a light etc.) Twinkle; (of an indicator) flash on and off. —n. 1 act of winking. 2 colloq. Short sleep. * in a wink very quickly. Wink at purposely avoid seeing; pretend not to notice. * winker n. (in sense 3 of v.). [old english]
 
 Winkle  —n. Small edible sea snail. —v. (-ling) (foll. By out) extract with difficulty. [abbreviation of *periwinkle2]
 
@@ -1522,7 +1522,7 @@ Winkle-picker  n. Slang long pointed shoe.
 
 Winner  n. 1 person etc. That wins. 2 colloq. Successful or highly promising idea etc.
 
-Winning  —adj. 1 having or bringing victory. 2 attractive (winning smile). —n. (in pl.) Money won.  winningly adv.
+Winning  —adj. 1 having or bringing victory. 2 attractive (winning smile). —n. (in pl.) Money won. * winningly adv.
 
 Winning-post  n. Post marking the end of a race.
 
@@ -1530,7 +1530,7 @@ Winnow  v. 1 blow (grain) free of chaff etc. By an air-current. 2 (foll. By out,
 
 Wino  n. (pl. -s) slang alcoholic.
 
-Winsome  adj. Attractive, engaging.  winsomely adv. Winsomeness n. [old english, = joyous]
+Winsome  adj. Attractive, engaging. * winsomely adv. Winsomeness n. [old english, = joyous]
 
 Winter  —n. 1 coldest and last season of the year. 2 (attrib.) Characteristic of or fit for winter. —v. (usu. Foll. By at, in) pass the winter. [old english]
 
@@ -1546,15 +1546,15 @@ Winter sports  n.pl. Sports performed on snow or ice.
 
 Wintertime  n. Season or period of winter.
 
-Wintry  adj. (-ier, -iest) 1 characteristic of winter. 2 lacking warmth; unfriendly.  wintriness n.
+Wintry  adj. (-ier, -iest) 1 characteristic of winter. 2 lacking warmth; unfriendly. * wintriness n.
 
 Winy  adj. (-ier, -iest) wine-flavoured.
 
-Wipe  —v. (-ping) 1 clean or dry the surface of by rubbing. 2 rub (a cloth) over a surface. 3 spread (a liquid etc.) Over a surface by rubbing. 4 (often foll. By away, off, etc.) A clear or remove by wiping. B erase or eliminate completely. —n. 1 act of wiping. 2 piece of specially treated material for wiping (antiseptic wipes).  wipe down clean (a wall etc.) By wiping. Wipe the floor with colloq. Inflict a humiliating defeat on. Wipe off annul (a debt etc.). Wipe out 1 destroy, annihilate, obliterate. 2 clean the inside of. Wipe up 1 dry (dishes etc.). 2 take up (a liquid etc.) By wiping. [old english]
+Wipe  —v. (-ping) 1 clean or dry the surface of by rubbing. 2 rub (a cloth) over a surface. 3 spread (a liquid etc.) Over a surface by rubbing. 4 (often foll. By away, off, etc.) A clear or remove by wiping. B erase or eliminate completely. —n. 1 act of wiping. 2 piece of specially treated material for wiping (antiseptic wipes). * wipe down clean (a wall etc.) By wiping. Wipe the floor with colloq. Inflict a humiliating defeat on. Wipe off annul (a debt etc.). Wipe out 1 destroy, annihilate, obliterate. 2 clean the inside of. Wipe up 1 dry (dishes etc.). 2 take up (a liquid etc.) By wiping. [old english]
 
 Wiper  n. = *windscreen wiper.
 
-Wire  —n. 1 a metal drawn out into a thread or thin flexible rod. B piece of this. C (attrib.) Made of wire. 2 length of this for fencing or to carry an electric current etc. 3 colloq. Telegram. —v. (-ring) 1 provide, fasten, strengthen, etc., with wire. 2 (often foll. By up) install electrical circuits in (a building, equipment, etc.). 3 colloq. Telegraph.  get one's wires crossed become confused and misunderstood. [old english]
+Wire  —n. 1 a metal drawn out into a thread or thin flexible rod. B piece of this. C (attrib.) Made of wire. 2 length of this for fencing or to carry an electric current etc. 3 colloq. Telegram. —v. (-ring) 1 provide, fasten, strengthen, etc., with wire. 2 (often foll. By up) install electrical circuits in (a building, equipment, etc.). 3 colloq. Telegraph. * get one's wires crossed become confused and misunderstood. [old english]
 
 Wire-haired  adj. (esp. Of a dog) with stiff or wiry hair.
 
@@ -1570,15 +1570,15 @@ Wireworm  n. Destructive larva of a kind of beetle.
 
 Wiring  n. System or installation of wires providing electrical circuits.
 
-Wiry  adj. (-ier, -iest) 1 sinewy, untiring. 2 like wire; tough, coarse.  wiriness n.
+Wiry  adj. (-ier, -iest) 1 sinewy, untiring. 2 like wire; tough, coarse. * wiriness n.
 
 Wisdom  n. 1 experience and knowledge together with the power of applying them. 2 prudence; common sense. 3 wise sayings. [old english: related to *wise1]
 
 Wisdom tooth  n. Hindmost molar usu. Cut at about 20 years of age.
 
-Wise1  adj. 1 having, showing, or dictated by wisdom. 2 prudent, sensible. 3 having knowledge (often in comb.: streetwise; worldly-wise). 4 suggestive of wisdom. 5 us colloq. Alert, crafty.  be (or get) wise to colloq. Be (or become) aware of. None the wiser knowing no more than before. Put wise (often foll. By to) colloq. Inform (of). Wise up esp. Us colloq. Put or get wise.  wisely adv. [old english]
+Wise1  adj. 1 having, showing, or dictated by wisdom. 2 prudent, sensible. 3 having knowledge (often in comb.: streetwise; worldly-wise). 4 suggestive of wisdom. 5 us colloq. Alert, crafty. * be (or get) wise to colloq. Be (or become) aware of. None the wiser knowing no more than before. Put wise (often foll. By to) colloq. Inform (of). Wise up esp. Us colloq. Put or get wise. * wisely adv. [old english]
 
-Wise2  n. Archaic way, manner, or degree.  in no wise not at all. [old english]
+Wise2  n. Archaic way, manner, or degree. * in no wise not at all. [old english]
 
 -wise  suffix forming adjectives and adverbs of manner (clockwise; lengthwise) or respect (moneywise).
 
@@ -1592,11 +1592,11 @@ Wise man  n. Wizard, esp. One of the magi.
 
 Wisent  n. European bison. [german: cf. *bison]
 
-Wish  —v. 1 (often foll. By for) have or express a desire or aspiration for (wish for happiness). 2 have as a desire or aspiration (i wish i could sing). 3 want or demand (i wish to go; i wish you to do it). 4 express one's hopes for (wish you success). 5 (foll. By on, upon) colloq. Foist on. —n. 1 a desire, request. B expression of this. 2 thing desired.  best (or good) wishes hopes felt or expressed for another's happiness etc. [old english]
+Wish  —v. 1 (often foll. By for) have or express a desire or aspiration for (wish for happiness). 2 have as a desire or aspiration (i wish i could sing). 3 want or demand (i wish to go; i wish you to do it). 4 express one's hopes for (wish you success). 5 (foll. By on, upon) colloq. Foist on. —n. 1 a desire, request. B expression of this. 2 thing desired. * best (or good) wishes hopes felt or expressed for another's happiness etc. [old english]
 
 Wishbone  n. Forked bone between the neck and breast of a fowl often broken between two people, the longer portion entitling the holder to make a wish.
 
-Wishful  adj. (often foll. By to + infin.) Desiring.  wishfully adv.
+Wishful  adj. (often foll. By to + infin.) Desiring. * wishfully adv.
 
 Wish-fulfilment  n. Tendency for subconscious desire to be satisfied in fantasy.
 
@@ -1606,13 +1606,13 @@ Wishing-well  n. Well into which coins are dropped and a wish is made.
 
 Wishy-washy  adj. Colloq. 1 feeble in quality or character. 2 weak, watery. [from *wash]
 
-Wisp  n. 1 small bundle or twist of straw etc. 2 small separate quantity of smoke, hair, etc. 3 small thin person etc.  wispy adj. (-ier, -iest). [origin uncertain]
+Wisp  n. 1 small bundle or twist of straw etc. 2 small separate quantity of smoke, hair, etc. 3 small thin person etc. * wispy adj. (-ier, -iest). [origin uncertain]
 
 Wisteria  n. (also wistaria) climbing plant with blue, purple, or white hanging flowers. [wistar, name of an anatomist]
 
-Wistful  adj. Yearning, mournfully expectant or wishful.  wistfully adv. Wistfulness n. [apparently an assimilation of obsolete wistly ‘intently’ to wishful]
+Wistful  adj. Yearning, mournfully expectant or wishful. * wistfully adv. Wistfulness n. [apparently an assimilation of obsolete wistly ‘intently’ to wishful]
 
-Wit  n. 1 (in sing. Or pl.) Intelligence; quick understanding. 2 a unexpected combining or contrasting of ideas or expressions. B power of giving pleasure by this. 3 person possessing such power.  at one's wit's (or wits') end utterly at a loss or in despair. Have (or keep) one's wits about one be alert. Live by one's wits live by ingenious or crafty expedients, without a settled occupation. Out of one's wits mad. To wit that is to say, namely. [old english]
+Wit  n. 1 (in sing. Or pl.) Intelligence; quick understanding. 2 a unexpected combining or contrasting of ideas or expressions. B power of giving pleasure by this. 3 person possessing such power. * at one's wit's (or wits') end utterly at a loss or in despair. Have (or keep) one's wits about one be alert. Live by one's wits live by ingenious or crafty expedients, without a settled occupation. Out of one's wits mad. To wit that is to say, namely. [old english]
 
 Witch  n. 1 sorceress, woman supposed to have dealings with the devil or evil spirits. 2 old hag. 3 fascinating girl or woman. [old english]
 
@@ -1628,7 +1628,7 @@ Witch-hazel  n. (also wych-hazel) 1 american shrub with bark yielding an astring
 
 Witch-hunt  n. Campaign against persons suspected of unpopular or unorthodox views, esp. Communists.
 
-With  prep. Expressing: 1 instrument or means used (cut with a knife). 2 a association or company (lives with his mother; works with shell). B parting of company (dispense with). 3 cause (shiver with fear). 4 possession (man with dark hair; filled with water). 5 circumstances (sleep with the window open). 6 manner (handle with care). 7 agreement (sympathize with). 8 disagreement, antagonism (incompatible with; quarrel with). 9 understanding (are you with me?). 10 reference or regard (be patient with them; how are things with you?).  away (or in or out etc.) With (as int.) Take, send, or put (a person or thing) away (or in or out etc.). With it colloq. 1 up to date. 2 alert and comprehending. With that thereupon. [old english]
+With  prep. Expressing: 1 instrument or means used (cut with a knife). 2 a association or company (lives with his mother; works with shell). B parting of company (dispense with). 3 cause (shiver with fear). 4 possession (man with dark hair; filled with water). 5 circumstances (sleep with the window open). 6 manner (handle with care). 7 agreement (sympathize with). 8 disagreement, antagonism (incompatible with; quarrel with). 9 understanding (are you with me?). 10 reference or regard (be patient with them; how are things with you?). * away (or in or out etc.) With (as int.) Take, send, or put (a person or thing) away (or in or out etc.). With it colloq. 1 up to date. 2 alert and comprehending. With that thereupon. [old english]
 
 Withdraw  v. (past withdrew; past part. Withdrawn) 1 pull or take aside or back. 2 discontinue, cancel, retract. 3 remove; take away. 4 take (money) out of an account. 5 retire or move apart. 6 (as withdrawn adj.) Abnormally shy and unsociable; mentally detached. [from *with = away]
 
@@ -1636,7 +1636,7 @@ Withdrawal  n. 1 withdrawing or being withdrawn. 2 process of ceasing to take an
 
 Withe  n. (also withy) (pl. Withes or withies) tough flexible shoot, esp. Of willow, used for binding, basketwork, etc. [old english]
 
-Wither  v. 1 (often foll. By up) make or become dry and shrivelled. 2 (often foll. By away) deprive of or lose vigour or freshness. 3 (esp. As withering adj.) Blight with scorn etc.  witheringly adv. [apparently var. Of *weather]
+Wither  v. 1 (often foll. By up) make or become dry and shrivelled. 2 (often foll. By away) deprive of or lose vigour or freshness. 3 (esp. As withering adj.) Blight with scorn etc. * witheringly adv. [apparently var. Of *weather]
 
 Withers  n.pl. Ridge between a horse's shoulder-blades. [obsolete wither against (the collar)]
 
@@ -1644,7 +1644,7 @@ Withershins  var. Of *widdershins.
 
 Withhold  v. (past and past part. -held) 1 hold back; restrain. 2 refuse to give, grant, or allow. [from *with = away]
 
-Within  —adv. 1 inside. 2 indoors. 3 in spirit (pure within). —prep. 1 inside. 2 a not beyond or out of. B not transgressing or exceeding. 3 not further off than (within three miles; within ten days).  within one's grasp close enough to be obtained.
+Within  —adv. 1 inside. 2 indoors. 3 in spirit (pure within). —prep. 1 inside. 2 a not beyond or out of. B not transgressing or exceeding. 3 not further off than (within three miles; within ten days). * within one's grasp close enough to be obtained.
 
 Without  —prep. 1 not having or feeling or showing. 2 with freedom from. 3 in the absence of. 4 with neglect or avoidance of. 5 archaic outside. —adv. Archaic or literary 1 outside. 2 out of doors. [old english: related to *with, *out]
 
@@ -1654,7 +1654,7 @@ Withy  var. Of *withe.
 
 Witless  adj. Foolish, crazy. [old english: related to *wit]
 
-Witness  —n. 1 = *eyewitness. 2 a person giving sworn testimony. B person attesting another's signature to a document. 3 (foll. By to, of) person or thing whose existence etc. Attests or proves something. 4 testimony, evidence, confirmation. —v. 1 be an eye-witness of. 2 be witness to the authenticity of (a signature etc.). 3 serve as evidence or an indication of. 4 (foll. By against, for, to) give or serve as evidence.  bear witness to (or of) 1 attest the truth of. 2 state one's belief in. Call to witness appeal to for confirmation etc. [old english: related to *wit]
+Witness  —n. 1 = *eyewitness. 2 a person giving sworn testimony. B person attesting another's signature to a document. 3 (foll. By to, of) person or thing whose existence etc. Attests or proves something. 4 testimony, evidence, confirmation. —v. 1 be an eye-witness of. 2 be witness to the authenticity of (a signature etc.). 3 serve as evidence or an indication of. 4 (foll. By against, for, to) give or serve as evidence. * bear witness to (or of) 1 attest the truth of. 2 state one's belief in. Call to witness appeal to for confirmation etc. [old english: related to *wit]
 
 Witness-box  n. (us witness-stand) enclosure in a lawcourt from which witnesses give evidence.
 
@@ -1664,11 +1664,11 @@ Witticism  n. Witty remark. [from *witty]
 
 Wittingly  adv. Aware of what one is doing; intentionally. [from *wit]
 
-Witty  adj. (-ier, -iest) showing esp. Verbal wit.  wittily adv. Wittiness n. [old english: related to *wit]
+Witty  adj. (-ier, -iest) showing esp. Verbal wit. * wittily adv. Wittiness n. [old english: related to *wit]
 
 Wives  pl. Of *wife.
 
-Wizard  —n. 1 sorcerer; magician. 2 person of remarkable powers, genius. —adj. Slang wonderful.  wizardry n. [from *wise1]
+Wizard  —n. 1 sorcerer; magician. 2 person of remarkable powers, genius. —adj. Slang wonderful. * wizardry n. [from *wise1]
 
 Wizened  adj. Shrivelled-looking. [old english]
 
@@ -1680,15 +1680,15 @@ Woad  n. 1 plant yielding a blue dye. 2 dye from this. [old english]
 
 Wobble  —v. (-ling) 1 sway from side to side. 2 stand or go unsteadily; stagger. 3 waver, vacillate. —n. State or instance of wobbling. [cf. Low german wabbeln]
 
-Wobbly  adj. (-ier, -iest) 1 tending to wobble. 2 wavy (wobbly line). 3 weak after illness. 4 wavering, insecure (the economy was wobbly).  throw a wobbly slang have a tantrum or fit of nerves.
+Wobbly  adj. (-ier, -iest) 1 tending to wobble. 2 wavy (wobbly line). 3 weak after illness. 4 wavering, insecure (the economy was wobbly). * throw a wobbly slang have a tantrum or fit of nerves.
 
 Wodge  n. Colloq. Chunk, lump. [alteration of *wedge]
 
-Woe  n. 1 affliction; bitter grief. 2 (in pl.) Calamities.  woe betide see *betide. Woe is me alas. [old english]
+Woe  n. 1 affliction; bitter grief. 2 (in pl.) Calamities. * woe betide see *betide. Woe is me alas. [old english]
 
 Woebegone  adj. Dismal-looking. [from *woe, begone = surrounded]
 
-Woeful  adj. 1 sorrowful. 2 causing or feeling affliction. 3 very bad.  woefully adv.
+Woeful  adj. 1 sorrowful. 2 causing or feeling affliction. 3 very bad. * woefully adv.
 
 Wog  n. Slang offens. Foreigner, esp. A non-white one. [origin unknown]
 
@@ -1702,7 +1702,7 @@ Woken  past part. Of *wake1.
 
 Wold  n. High open uncultivated land or moor. [old english]
 
-Wolf  —n. (pl. Wolves) 1 wild animal related to the dog, usu. Hunting in packs. 2 slang man who seduces women. —v. (often foll. By down) devour greedily.  cry wolf raise false alarms. Keep the wolf from the door avert starvation.  wolfish adj. [old english]
+Wolf  —n. (pl. Wolves) 1 wild animal related to the dog, usu. Hunting in packs. 2 slang man who seduces women. —v. (often foll. By down) devour greedily. * cry wolf raise false alarms. Keep the wolf from the door avert starvation. * wolfish adj. [old english]
 
 Wolfhound  n. Dog of a kind used orig. To hunt wolves.
 
@@ -1724,11 +1724,11 @@ Womanhood  n. 1 female maturity. 2 womanly instinct. 3 womankind.
 
 Womanish  adj. Derog. Effeminate, unmanly.
 
-Womanize  v. (also -ise) (-zing or -sing) chase after women; philander.  womanizer n.
+Womanize  v. (also -ise) (-zing or -sing) chase after women; philander. * womanizer n.
 
 Womankind  n. (also womenkind) women in general.
 
-Womanly  adj. Having or showing qualities associated with women.  womanliness n.
+Womanly  adj. Having or showing qualities associated with women. * womanliness n.
 
 Womb  n. Organ of conception and gestation in a woman and other female mammals. [old english]
 
@@ -1748,9 +1748,9 @@ Women's rights  n.pl. Position of legal and social equality with men.
 
 Won  past and past part. Of *win.
 
-Wonder  —n. 1 emotion, esp. Admiration, excited by what is unexpected, unfamiliar, or inexplicable. 2 strange or remarkable thing, specimen, event, etc. 3 (attrib.) Having marvellous or amazing properties etc. (wonder drug; wonder woman). —v. 1 be filled with wonder or great surprise. 2 (foll. By that) be surprised to find. 3 desire or be curious to know (i wonder what the time is).  i shouldn't wonder colloq. I think it likely. No (or small) wonder one cannot be surprised. Work (or do) wonders 1 do miracles. 2 be remarkably effective. [old english]
+Wonder  —n. 1 emotion, esp. Admiration, excited by what is unexpected, unfamiliar, or inexplicable. 2 strange or remarkable thing, specimen, event, etc. 3 (attrib.) Having marvellous or amazing properties etc. (wonder drug; wonder woman). —v. 1 be filled with wonder or great surprise. 2 (foll. By that) be surprised to find. 3 desire or be curious to know (i wonder what the time is). * i shouldn't wonder colloq. I think it likely. No (or small) wonder one cannot be surprised. Work (or do) wonders 1 do miracles. 2 be remarkably effective. [old english]
 
-Wonderful  adj. Very remarkable or admirable.  wonderfully adv. [old english]
+Wonderful  adj. Very remarkable or admirable. * wonderfully adv. [old english]
 
 Wonderland  n. 1 fairyland. 2 land of surprises or marvels.
 
@@ -1766,9 +1766,9 @@ Won't  contr. Will not.
 
 Wonted  attrib. Adj. Habitual, usual.
 
-Woo  v. (woos, wooed) 1 court; seek the hand or love of. 2 try to win (fame, fortune, etc.). 3 seek the favour or support of. 4 coax or importune.  wooer n. [old english]
+Woo  v. (woos, wooed) 1 court; seek the hand or love of. 2 try to win (fame, fortune, etc.). 3 seek the favour or support of. 4 coax or importune. * wooer n. [old english]
 
-Wood  n. 1 a hard fibrous substance of the trunk or branches of a tree or shrub. B this for timber or fuel. 2 (in sing. Or pl.) Growing trees densely occupying a tract of land. 3 wooden cask for wine etc. 4 wooden-headed golf club. 5 = *bowl2 n. 1.  not see the wood for the trees fail to grasp the main issue from over-attention to details. Out of the wood (or woods) out of danger or difficulty. [old english]
+Wood  n. 1 a hard fibrous substance of the trunk or branches of a tree or shrub. B this for timber or fuel. 2 (in sing. Or pl.) Growing trees densely occupying a tract of land. 3 wooden cask for wine etc. 4 wooden-headed golf club. 5 = *bowl2 n. 1. * not see the wood for the trees fail to grasp the main issue from over-attention to details. Out of the wood (or woods) out of danger or difficulty. [old english]
 
 Wood anemone  n. A wild spring-flowering anemone.
 
@@ -1786,7 +1786,7 @@ Woodcutter  n. Person who cuts timber.
 
 Wooded  adj. Having woods or many trees.
 
-Wooden  adj. 1 made of wood. 2 like wood. 3 a stiff, clumsy. B expressionless.  woodenly adv. Woodenness n.
+Wooden  adj. 1 made of wood. 2 like wood. 3 a stiff, clumsy. B expressionless. * woodenly adv. Woodenness n.
 
 Woodland  n. (often attrib.) Wooded country, woods.
 
@@ -1804,15 +1804,15 @@ Wood pulp  n. Wood-fibre prepared for paper-making.
 
 Woodruff  n. White-flowered plant with fragrant leaves.
 
-Woodshed  n. Shed where wood for fuel is stored.  something nasty in the woodshed colloq. Shocking thing kept secret.
+Woodshed  n. Shed where wood for fuel is stored. * something nasty in the woodshed colloq. Shocking thing kept secret.
 
 Woodwind  n. 1 wind instruments that were (mostly) orig. Made of wood, e.g. The flute, clarinet, oboe, and saxophone. 2 one such instrument.
 
-Woodwork  n. 1 making of things in wood. 2 things made of wood.  crawl out of the woodwork colloq. (of something distasteful) appear.
+Woodwork  n. 1 making of things in wood. 2 things made of wood. * crawl out of the woodwork colloq. (of something distasteful) appear.
 
 Woodworm  n. 1 wood-boring larva of a kind of beetle. 2 condition of wood affected by this.
 
-Woody  adj. (-ier, -iest) 1 wooded. 2 like or of wood.  woodiness n.
+Woody  adj. (-ier, -iest) 1 wooded. 2 like or of wood. * woodiness n.
 
 Woodyard  n. Yard where wood is used or stored.
 
@@ -1824,7 +1824,7 @@ Woof2  n. = *weft 1. [old english: related to *web]
 
 Woofer  n. Loudspeaker for low frequencies. [from *woof1]
 
-Wool  n. 1 fine soft wavy hair from the fleece of sheep etc. 2 woollen yarn or cloth or clothing. 3 wool-like substance (steel wool).  pull the wool over a person's eyes deceive a person. [old english]
+Wool  n. 1 fine soft wavy hair from the fleece of sheep etc. 2 woollen yarn or cloth or clothing. 3 wool-like substance (steel wool). * pull the wool over a person's eyes deceive a person. [old english]
 
 Woolen  (brit. Woollen) —adj. Made wholly or partly of wool. —n. 1 woollen fabric. 2 (in pl.) Woollen garments. [old english]
 
@@ -1832,17 +1832,17 @@ Wool-gathering  n. Absent-mindedness.
 
 Woollen  (us woolen) —adj. Made wholly or partly of wool. —n. 1 woollen fabric. 2 (in pl.) Woollen garments. [old english]
 
-Woolly  —adj. (-ier, -iest) 1 bearing wool. 2 like wool. 3 woollen (a woolly cardigan). 4 (of a sound) indistinct. 5 (of thought) vague or confused. —n. (pl. -ies) colloq. Woollen garment, esp. A pullover.  woolliness n.
+Woolly  —adj. (-ier, -iest) 1 bearing wool. 2 like wool. 3 woollen (a woolly cardigan). 4 (of a sound) indistinct. 5 (of thought) vague or confused. —n. (pl. -ies) colloq. Woollen garment, esp. A pullover. * woolliness n.
 
 Woolsack  n. 1 lord chancellor's wool-stuffed seat in the house of lords. 2 his position.
 
-Woozy  adj. (-ier, -iest) colloq. 1 dizzy or unsteady. 2 slightly drunk.  woozily adv. Wooziness n. [origin unknown]
+Woozy  adj. (-ier, -iest) colloq. 1 dizzy or unsteady. 2 slightly drunk. * woozily adv. Wooziness n. [origin unknown]
 
 Wop  n. Slang offens. Italian or other s. European. [origin uncertain]
 
 Worcester sauce  n. A pungent sauce. [worcester in england]
 
-Word  —n. 1 meaningful element of speech, usu. Shown with a space on either side of it when written or printed. 2 speech, esp. As distinct from action. 3 one's promise or assurance. 4 (in sing. Or pl.) Thing said, remark, conversation. 5 (in pl.) Text of a song or an actor's part. 6 (in pl.) Angry talk (have words). 7 news, message (send word). 8 command (gave the word to begin). —v. Put into words; select words to express.  in other words expressing the same thing differently. In so many words in those very words; explicitly. In a (or one) word briefly. My (or upon my) word exclamation of surprise etc. Take a person at his or her word interpret a person's words literally. Take a person's word for it believe a person's statement without investigation etc. The word (or word of god) the bible. Word for word in exactly the same or (of translation) corresponding words.  wordless adj. [old english]
+Word  —n. 1 meaningful element of speech, usu. Shown with a space on either side of it when written or printed. 2 speech, esp. As distinct from action. 3 one's promise or assurance. 4 (in sing. Or pl.) Thing said, remark, conversation. 5 (in pl.) Text of a song or an actor's part. 6 (in pl.) Angry talk (have words). 7 news, message (send word). 8 command (gave the word to begin). —v. Put into words; select words to express. * in other words expressing the same thing differently. In so many words in those very words; explicitly. In a (or one) word briefly. My (or upon my) word exclamation of surprise etc. Take a person at his or her word interpret a person's words literally. Take a person's word for it believe a person's statement without investigation etc. The word (or word of god) the bible. Word for word in exactly the same or (of translation) corresponding words. * wordless adj. [old english]
 
 Word-blindness  n. = *dyslexia.
 
@@ -1856,15 +1856,15 @@ Word-perfect  adj. Knowing one's part etc. By heart.
 
 Wordplay  n. Witty use of words, esp. Punning.
 
-Word processor  n. Computer program, or device incorporating a computer, used for storing text entered from a keyboard, making corrections, and providing a printout.  word-process v. Word processing n.
+Word processor  n. Computer program, or device incorporating a computer, used for storing text entered from a keyboard, making corrections, and providing a printout. * word-process v. Word processing n.
 
-Wordy  adj. (-ier, -iest) using or expressed in too many words.  wordily adv. Wordiness n.
+Wordy  adj. (-ier, -iest) using or expressed in too many words. * wordily adv. Wordiness n.
 
 Wore  past of *wear.
 
 Work  —n. 1 application of mental or physical effort to a purpose; use of energy. 2 task to be undertaken. 3 thing done or made by work; result of an action. 4 employment or occupation etc., esp. As a means of earning income. 5 literary or musical composition. 6 actions or experiences of a specified kind (nice work!). 7 (in comb.) Things made of a specified material or with specified tools etc. (ironwork; needlework).
 
-Workable  adj. That can be worked, will work, or is worth working.  workability n.
+Workable  adj. That can be worked, will work, or is worth working. * workability n.
 
 Workaday  adj. Ordinary, everyday, practical.
 
@@ -1894,7 +1894,7 @@ Working  —attrib. Adj. 1 a engaged in work (working mother; working man). B wh
 
 Working capital  n. Capital actually used in a business.
 
-Working class  n. Social class employed, esp. In manual or industrial work, for wages.  working-class adj.
+Working class  n. Social class employed, esp. In manual or industrial work, for wages. * working-class adj.
 
 Working day  n. 1 workday. 2 part of the day devoted to work.
 
@@ -1944,7 +1944,7 @@ Worktop  n. Flat surface for working on, esp. In a kitchen.
 
 Work-to-rule  n. Working to rule.
 
-World  n. 1 a the earth, or a planetary body like it. B its countries and people. 2 the universe, all that exists. 3 a the time, state, or scene of human existence. B (prec. By the, this) mortal life. 4 secular interests and affairs. 5 human affairs; active life. 6 average, respectable, or fashionable people or their customs or opinions. 7 all that concerns or all who belong to a specified class or sphere of activity (the world of sport). 8 (foll. By of) vast amount. 9 (attrib.) Affecting many nations, of all nations (world politics; world champion).  bring (or come) into the world give birth (or be born). For all the world (foll. By like, as if) precisely. In the world of all; at all (what in the world is it?). Man (or woman) of the world person experienced and practical in human affairs. Out of this world colloq. Extremely good etc. Think the world of have a very high regard for. [old english]
+World  n. 1 a the earth, or a planetary body like it. B its countries and people. 2 the universe, all that exists. 3 a the time, state, or scene of human existence. B (prec. By the, this) mortal life. 4 secular interests and affairs. 5 human affairs; active life. 6 average, respectable, or fashionable people or their customs or opinions. 7 all that concerns or all who belong to a specified class or sphere of activity (the world of sport). 8 (foll. By of) vast amount. 9 (attrib.) Affecting many nations, of all nations (world politics; world champion). * bring (or come) into the world give birth (or be born). For all the world (foll. By like, as if) precisely. In the world of all; at all (what in the world is it?). Man (or woman) of the world person experienced and practical in human affairs. Out of this world colloq. Extremely good etc. Think the world of have a very high regard for. [old english]
 
 World-beater  n. Person or thing surpassing all others.
 
@@ -1954,7 +1954,7 @@ World cup  n. Competition between football teams from various countries.
 
 World-famous  adj. Known throughout the world.
 
-Worldly  adj. (-ier, -iest) 1 of the affairs of the world, temporal, earthly (worldly goods). 2 experienced in life, sophisticated, practical.  worldliness n.
+Worldly  adj. (-ier, -iest) 1 of the affairs of the world, temporal, earthly (worldly goods). 2 experienced in life, sophisticated, practical. * worldliness n.
 
 Worldly-wise  adj. Prudent or shrewd in one's dealings with the world.
 
@@ -1962,7 +1962,7 @@ World music  n. Pop music that incorporates local or ethnic elements (esp. From 
 
 World war  n. War involving many major nations.
 
-World-weary  adj. Bored with human affairs.  world-weariness n.
+World-weary  adj. Bored with human affairs. * world-weariness n.
 
 Worldwide  —adj. Occurring in or known in all parts of the world. —adv. Throughout the world.
 
@@ -1978,37 +1978,37 @@ Worm's-eye view  n. View from below or from a humble position.
 
 Wormwood  n. 1 plant with a bitter aromatic taste. 2 bitter mortification; source of this. [old english: cf. *vermouth]
 
-Wormy  adj. (-ier, -iest) 1 full of worms. 2 wormeaten.  worminess n.
+Wormy  adj. (-ier, -iest) 1 full of worms. 2 wormeaten. * worminess n.
 
 Worn  past part. Of *wear. —adj. 1 damaged by use or wear. 2 looking tired and exhausted.
 
 Worrisome  adj. Causing worry.
 
-Worry  —v. (-ies, -ied) 1 give way to anxiety. 2 harass, importune; be a trouble or anxiety to. 3 (of a dog etc.) Shake or pull about with the teeth. 4 (as worried adj.) Uneasy. —n. (pl. -ies) 1 thing that causes anxiety or disturbs tranquility. 2 disturbed state of mind; anxiety.  worrier n. [old english, = strangle]
+Worry  —v. (-ies, -ied) 1 give way to anxiety. 2 harass, importune; be a trouble or anxiety to. 3 (of a dog etc.) Shake or pull about with the teeth. 4 (as worried adj.) Uneasy. —n. (pl. -ies) 1 thing that causes anxiety or disturbs tranquility. 2 disturbed state of mind; anxiety. * worrier n. [old english, = strangle]
 
 Worry beads  n.pl. String of beads manipulated with the fingers to occupy or calm oneself.
 
-Worse  —adj. 1 more bad. 2 (predic.) In or into worse health or a worse condition (is getting worse). —adv. More badly; more ill. —n. 1 worse thing or things (you might do worse than accept). 2 (prec. By the) worse condition (a change for the worse).  none the worse (often foll. By for) not adversely affected (by). The worse for wear 1 damaged by use. 2 injured. Worse luck unfortunately. Worse off in a worse (esp. Financial) position. [old english]
+Worse  —adj. 1 more bad. 2 (predic.) In or into worse health or a worse condition (is getting worse). —adv. More badly; more ill. —n. 1 worse thing or things (you might do worse than accept). 2 (prec. By the) worse condition (a change for the worse). * none the worse (often foll. By for) not adversely affected (by). The worse for wear 1 damaged by use. 2 injured. Worse luck unfortunately. Worse off in a worse (esp. Financial) position. [old english]
 
 Worsen  v. Make or become worse.
 
-Worship  —n. 1 a homage or service to a deity. B acts, rites, or ceremonies of this. 2 adoration, devotion. 3 (worship) (prec. By his, her, your) forms of description or address for a mayor, certain magistrates, etc. —v. (-pp-; us -p-) 1 adore as divine; honour with religious rites. 2 idolize or regard with adoration. 3 attend public worship. 4 be full of adoration.  worshipper n. [old english: related to *worth, *-ship]
+Worship  —n. 1 a homage or service to a deity. B acts, rites, or ceremonies of this. 2 adoration, devotion. 3 (worship) (prec. By his, her, your) forms of description or address for a mayor, certain magistrates, etc. —v. (-pp-; us -p-) 1 adore as divine; honour with religious rites. 2 idolize or regard with adoration. 3 attend public worship. 4 be full of adoration. * worshipper n. [old english: related to *worth, *-ship]
 
 Worshipful  adj. (also worshipful) archaic (esp. In old titles of companies or officers) honourable, distinguished.
 
-Worst  —adj. Most bad. —adv. Most badly. —n. Worst part or possibility (prepare for the worst). —v. Get the better of; defeat.  at its etc. Worst in the worst state. At worst (or the worst) in the worst possible case. Do your worst expression of defiance. Get the worst of it be defeated. If the worst comes to the worst if the worst happens. [old english: related to *worse]
+Worst  —adj. Most bad. —adv. Most badly. —n. Worst part or possibility (prepare for the worst). —v. Get the better of; defeat. * at its etc. Worst in the worst state. At worst (or the worst) in the worst possible case. Do your worst expression of defiance. Get the worst of it be defeated. If the worst comes to the worst if the worst happens. [old english: related to *worse]
 
 Worsted  n. 1 fine woollen yarn. 2 fabric made from this. [worste(a)d in norfolk]
 
 Wort  n. 1 archaic (except in names) plant (liverwort). 2 infusion of malt before it is fermented into beer. [old english]
 
-Worth  —predic. Adj. (used like a preposition) 1 of a value equivalent to (is worth £50; is worth very little). 2 such as to justify or repay (worth doing; not worth the trouble). 3 possessing or having property amounting to (is worth a million pounds). —n. 1 what a person or thing is worth; the (usu. High) merit of (of great worth). 2 equivalent of money in a commodity (ten pounds' worth of petrol).  for all one is worth colloq. With one's utmost efforts. For what it is worth without a guarantee of its truth or value. Worth it colloq. Worth while. Worth one's salt see *salt. Worth one's weight in gold see *weight. Worth while (or one's while) see *while. [old english]
+Worth  —predic. Adj. (used like a preposition) 1 of a value equivalent to (is worth £50; is worth very little). 2 such as to justify or repay (worth doing; not worth the trouble). 3 possessing or having property amounting to (is worth a million pounds). —n. 1 what a person or thing is worth; the (usu. High) merit of (of great worth). 2 equivalent of money in a commodity (ten pounds' worth of petrol). * for all one is worth colloq. With one's utmost efforts. For what it is worth without a guarantee of its truth or value. Worth it colloq. Worth while. Worth one's salt see *salt. Worth one's weight in gold see *weight. Worth while (or one's while) see *while. [old english]
 
-Worthless  adj. Without value or merit.  worthlessness n.
+Worthless  adj. Without value or merit. * worthlessness n.
 
 Worthwhile  adj. That is worth the time, effort, or money spent.
 
-Worthy  —adj. (-ier, -iest) 1 deserving respect, estimable (lived a worthy life). 2 entitled to (esp. Condescending) recognition (a worthy old couple). 3 a (foll. By of or to + infin.) Deserving (worthy of a mention). B (foll. By of) adequate or suitable to the dignity etc. Of (words worthy of the occasion). —n. (pl. -ies) 1 worthy person. 2 person of some distinction.  worthily adv. Worthiness n.
+Worthy  —adj. (-ier, -iest) 1 deserving respect, estimable (lived a worthy life). 2 entitled to (esp. Condescending) recognition (a worthy old couple). 3 a (foll. By of or to + infin.) Deserving (worthy of a mention). B (foll. By of) adequate or suitable to the dignity etc. Of (words worthy of the occasion). —n. (pl. -ies) 1 worthy person. 2 person of some distinction. * worthily adv. Worthiness n.
 
 -worthy  comb. Form forming adjectives meaning: 1 deserving of (noteworthy). 2 suitable for (roadworthy).
 
@@ -2048,7 +2048,7 @@ Wraith  n. 1 ghost. 2 spectral appearance of a living person supposed to portend
 
 Wrangle  —n. Noisy argument or dispute. —v. (-ling) engage in a wrangle. [low german or dutch]
 
-Wrap  —v. (-pp-) 1 (often foll. By up) envelop in folded or soft encircling material. 2 (foll. By round, about) arrange or draw (a pliant covering) round (a person). 3 (foll. By round) slang crash (a vehicle) into (a stationary object). —n. 1 shawl, scarf, etc. 2 esp. Us wrapping material.  take the wraps off disclose. Under wraps in secrecy. Wrapped up in engrossed or absorbed in. Wrap up 1 colloq. Finish off (a matter). 2 put on warm clothes (wrap up well). 3 (in imper.) Slang be quiet. [origin unknown] 
+Wrap  —v. (-pp-) 1 (often foll. By up) envelop in folded or soft encircling material. 2 (foll. By round, about) arrange or draw (a pliant covering) round (a person). 3 (foll. By round) slang crash (a vehicle) into (a stationary object). —n. 1 shawl, scarf, etc. 2 esp. Us wrapping material. * take the wraps off disclose. Under wraps in secrecy. Wrapped up in engrossed or absorbed in. Wrap up 1 colloq. Finish off (a matter). 2 put on warm clothes (wrap up well). 3 (in imper.) Slang be quiet. [origin unknown] 
 
 Wraparound  adj. (also wrapround) 1 (esp. Of clothing) designed to wrap round. 2 curving or extending round at the edges.
 
@@ -2066,7 +2066,7 @@ Wrasse  n. Bright-coloured marine fish. [cornish wrach]
 
 Wrath  n. Literary extreme anger. [old english: related to *wroth]
 
-Wrathful  adj. Literary extremely angry.  wrathfully adv.
+Wrathful  adj. Literary extremely angry. * wrathfully adv.
 
 Wreak  v. 1 (usu. Foll. By upon) give play to (vengeance or one's anger etc.). 2 cause (damage etc.) (wreak havoc). [old english, = avenge]
 
@@ -2088,19 +2088,19 @@ Wrench  —n. 1 violent twist or oblique pull or tearing off. 2 tool like a span
 
 Wrest  v. 1 wrench away from a person's grasp. 2 (foll. By from) obtain by effort or with difficulty. [old english]
 
-Wrestle  —n. 1 contest in which two opponents grapple and try to throw each other to the ground, esp. As an athletic sport. 2 hard struggle. —v. (-ling) 1 (often foll. By with) take part or fight in a wrestle. 2 a (foll. By with, against) struggle. B (foll. By with) do one's utmost to deal with (a task, difficulty, etc.).  wrestler n. Wrestling n. [old english]
+Wrestle  —n. 1 contest in which two opponents grapple and try to throw each other to the ground, esp. As an athletic sport. 2 hard struggle. —v. (-ling) 1 (often foll. By with) take part or fight in a wrestle. 2 a (foll. By with, against) struggle. B (foll. By with) do one's utmost to deal with (a task, difficulty, etc.). * wrestler n. Wrestling n. [old english]
 
 Wretch  n. 1 unfortunate or pitiable person. 2 (often as a playful term of depreciation) reprehensible person. [old english, = outcast]
 
-Wretched  adj. (wretcheder, wretchedest) 1 unhappy, miserable; unwell. 2 of bad quality; contemptible. 3 displeasing, hateful.  wretchedly adv. Wretchedness n.
+Wretched  adj. (wretcheder, wretchedest) 1 unhappy, miserable; unwell. 2 of bad quality; contemptible. 3 displeasing, hateful. * wretchedly adv. Wretchedness n.
 
 Wrick  var. Of *rick2.
 
-Wriggle  —v. (-ling) 1 (of a worm etc.) Twist or turn its body with short writhing movements. 2 make wriggling motions. 3 (foll. By along, through, etc.) Go thus (wriggled through the gap). 4 be evasive. —n. Act of wriggling.  wriggle out of colloq. Avoid on a pretext.  wriggly adj. [low german wriggelen]
+Wriggle  —v. (-ling) 1 (of a worm etc.) Twist or turn its body with short writhing movements. 2 make wriggling motions. 3 (foll. By along, through, etc.) Go thus (wriggled through the gap). 4 be evasive. —n. Act of wriggling. * wriggle out of colloq. Avoid on a pretext. * wriggly adj. [low german wriggelen]
 
 Wright  n. Maker or builder (usu. In comb.: playwright; shipwright). [old english: related to *work]
 
-Wring  —v. (past and past part. Wrung) 1 a squeeze tightly. B (often foll. By out) squeeze and twist, esp. To remove liquid. 2 break by twisting. 3 distress, torture. 4 extract by squeezing. 5 (foll. By out, from) obtain by pressure or importunity; extort. —n. Act of wringing.  wring one's hands clasp them as a gesture of distress. Wring the neck of kill (a chicken etc.) By twisting its neck. [old english]
+Wring  —v. (past and past part. Wrung) 1 a squeeze tightly. B (often foll. By out) squeeze and twist, esp. To remove liquid. 2 break by twisting. 3 distress, torture. 4 extract by squeezing. 5 (foll. By out, from) obtain by pressure or importunity; extort. —n. Act of wringing. * wring one's hands clasp them as a gesture of distress. Wring the neck of kill (a chicken etc.) By twisting its neck. [old english]
 
 Wringer  n. Device for wringing water from washed clothes etc.
 
@@ -2118,9 +2118,8 @@ Wrist-watch  n. Small watch worn on a strap etc. Round the wrist.
 
 Writ1  n. Form of written command to act or not act in some way. [old english: related to *write]
 
-Writ2  archaic past part. Of *write.  writ large in magnified or emphasized form.
+Writ2  archaic past part. Of *write. * writ large in magnified or emphasized form.
 
-C  v. (-ting; past wrote; past part. Written) 1 mark paper or some other surface with symbols, letters, or words. 2 form or mark (such symbols etc.).
 Wreckage  n. 1 wrecked material. 2 remnants of a wreck. 3 act of wrecking.
 
 Wrecker  n. 1 person or thing that wrecks or destroys. 2 esp. Us person employed in demolition or breaking up damaged vehicles. 3 esp. Hist. Person on the shore who tries to bring about a shipwreck for plunder or profit.
@@ -2133,19 +2132,19 @@ Wrench  —n. 1 violent twist or oblique pull or tearing off. 2 tool like a span
 
 Wrest  v. 1 wrench away from a person's grasp. 2 (foll. By from) obtain by effort or with difficulty. [old english]
 
-Wrestle  —n. 1 contest in which two opponents grapple and try to throw each other to the ground, esp. As an athletic sport. 2 hard struggle. —v. (-ling) 1 (often foll. By with) take part or fight in a wrestle. 2 a (foll. By with, against) struggle. B (foll. By with) do one's utmost to deal with (a task, difficulty, etc.).  wrestler n. Wrestling n. [old english]
+Wrestle  —n. 1 contest in which two opponents grapple and try to throw each other to the ground, esp. As an athletic sport. 2 hard struggle. —v. (-ling) 1 (often foll. By with) take part or fight in a wrestle. 2 a (foll. By with, against) struggle. B (foll. By with) do one's utmost to deal with (a task, difficulty, etc.). * wrestler n. Wrestling n. [old english]
 
 Wretch  n. 1 unfortunate or pitiable person. 2 (often as a playful term of depreciation) reprehensible person. [old english, = outcast]
 
-Wretched  adj. (wretcheder, wretchedest) 1 unhappy, miserable; unwell. 2 of bad quality; contemptible. 3 displeasing, hateful.  wretchedly adv. Wretchedness n.
+Wretched  adj. (wretcheder, wretchedest) 1 unhappy, miserable; unwell. 2 of bad quality; contemptible. 3 displeasing, hateful. * wretchedly adv. Wretchedness n.
 
 Wrick  var. Of *rick2.
 
-Wriggle  —v. (-ling) 1 (of a worm etc.) Twist or turn its body with short writhing movements. 2 make wriggling motions. 3 (foll. By along, through, etc.) Go thus (wriggled through the gap). 4 be evasive. —n. Act of wriggling.  wriggle out of colloq. Avoid on a pretext.  wriggly adj. [low german wriggelen]
+Wriggle  —v. (-ling) 1 (of a worm etc.) Twist or turn its body with short writhing movements. 2 make wriggling motions. 3 (foll. By along, through, etc.) Go thus (wriggled through the gap). 4 be evasive. —n. Act of wriggling. * wriggle out of colloq. Avoid on a pretext. * wriggly adj. [low german wriggelen]
 
 Wright  n. Maker or builder (usu. In comb.: playwright; shipwright). [old english: related to *work]
 
-Wring  —v. (past and past part. Wrung) 1 a squeeze tightly. B (often foll. By out) squeeze and twist, esp. To remove liquid. 2 break by twisting. 3 distress, torture. 4 extract by squeezing. 5 (foll. By out, from) obtain by pressure or importunity; extort. —n. Act of wringing.  wring one's hands clasp them as a gesture of distress. Wring the neck of kill (a chicken etc.) By twisting its neck. [old english]
+Wring  —v. (past and past part. Wrung) 1 a squeeze tightly. B (often foll. By out) squeeze and twist, esp. To remove liquid. 2 break by twisting. 3 distress, torture. 4 extract by squeezing. 5 (foll. By out, from) obtain by pressure or importunity; extort. —n. Act of wringing. * wring one's hands clasp them as a gesture of distress. Wring the neck of kill (a chicken etc.) By twisting its neck. [old english]
 
 Wringer  n. Device for wringing water from washed clothes etc.
 
@@ -2163,7 +2162,7 @@ Wrist-watch  n. Small watch worn on a strap etc. Round the wrist.
 
 Writ1  n. Form of written command to act or not act in some way. [old english: related to *write]
 
-Writ2  archaic past part. Of *write.  writ large in magnified or emphasized form.
+Writ2  archaic past part. Of *write. * writ large in magnified or emphasized form.
 
 Write  v. (-ting; past wrote; past part. Written) 1 mark paper or some other surface with symbols, letters, or words. 2 form or mark (such symbols etc.). 3 form or mark the symbols of (a word or sentence, or document etc.). 4 fill or complete (a sheet, cheque, etc.) With writing. 5 transfer (data) into a computer store. 
 
@@ -2177,7 +2176,7 @@ Write-up  n. Written or published account, review.
 
 Writhe  v. (-thing) 1 twist or roll oneself about in or as in acute pain. 2 suffer mental torture or embarrassment (writhed with shame). [old english]
 
-Writing  n. 1 written words etc. 2 handwriting. 3 (usu. In pl.) Author's works.  in writing in written form. The writing on the wall ominously significant event etc.
+Writing  n. 1 written words etc. 2 handwriting. 3 (usu. In pl.) Author's works. * in writing in written form. The writing on the wall ominously significant event etc.
 
 Writing-desk  n. Desk for writing at, esp. With compartments for papers etc.
 
@@ -2187,13 +2186,13 @@ Written  past part. Of *write.
 
 Wrns  abbr. Women's royal naval service.
 
-Wrong  —adj. 1 mistaken; not true; in error. 2 unsuitable; less or least desirable (the wrong road; a wrong decision). 3 contrary to law or morality (it is wrong to steal). 4 amiss; out of order, in a bad or abnormal condition (something wrong with my heart; has gone wrong). —adv. (usually placed last) in a wrong manner or direction; with an incorrect result (guessed wrong). —n. 1 what is morally wrong. 2 unjust action (suffer a wrong). —v. 1 treat unjustly. 2 mistakenly attribute bad motives to.  do wrong sin. Do wrong to malign or mistreat (a person). Get wrong 1 misunderstand (a person etc.). 2 obtain an incorrect answer to. Get (or get hold of) the wrong end of the stick misunderstand completely. Go wrong 1 take the wrong path. 2 stop functioning properly. 3 depart from virtuous behaviour. In the wrong responsible for a quarrel, mistake, or offence. On the wrong side of 1 out of favour with (a person). 2 somewhat more than (a stated age). Wrong side out inside out. Wrong way round in the opposite or reverse of the normal or desirable orientation or sequence etc.  wrongly adv. Wrongness n. [old english]
+Wrong  —adj. 1 mistaken; not true; in error. 2 unsuitable; less or least desirable (the wrong road; a wrong decision). 3 contrary to law or morality (it is wrong to steal). 4 amiss; out of order, in a bad or abnormal condition (something wrong with my heart; has gone wrong). —adv. (usually placed last) in a wrong manner or direction; with an incorrect result (guessed wrong). —n. 1 what is morally wrong. 2 unjust action (suffer a wrong). —v. 1 treat unjustly. 2 mistakenly attribute bad motives to. * do wrong sin. Do wrong to malign or mistreat (a person). Get wrong 1 misunderstand (a person etc.). 2 obtain an incorrect answer to. Get (or get hold of) the wrong end of the stick misunderstand completely. Go wrong 1 take the wrong path. 2 stop functioning properly. 3 depart from virtuous behaviour. In the wrong responsible for a quarrel, mistake, or offence. On the wrong side of 1 out of favour with (a person). 2 somewhat more than (a stated age). Wrong side out inside out. Wrong way round in the opposite or reverse of the normal or desirable orientation or sequence etc. * wrongly adv. Wrongness n. [old english]
 
-Wrongdoer  n. Person who behaves immorally or illegally.  wrongdoing n.
+Wrongdoer  n. Person who behaves immorally or illegally. * wrongdoing n.
 
 Wrong-foot  v. Colloq. 1 (in tennis, football, etc.) Catch (an opponent) off balance. 2 disconcert; catch unprepared.
 
-Wrongful  adj. Unwarranted, unjustified (wrongful arrest).  wrongfully adv.
+Wrongful  adj. Unwarranted, unjustified (wrongful arrest). * wrongfully adv.
 
 Wrong-headed  adj. Perverse and obstinate.
 
@@ -2211,7 +2210,7 @@ Wrung  past and past part. Of *wring.
 
 Wrvs  abbr. Women's royal voluntary service.
 
-Wry  adj. (wryer, wryest or wrier, wriest) 1 distorted or turned to one side. 2 (of a face, smile, etc.) Contorted in disgust, disappointment, or mockery. 3 (of humour) dry and mocking.  wryly adv. Wryness n. [old english]
+Wry  adj. (wryer, wryest or wrier, wriest) 1 distorted or turned to one side. 2 (of a face, smile, etc.) Contorted in disgust, disappointment, or mockery. 3 (of humour) dry and mocking. * wryly adv. Wryness n. [old english]
 
 Wryneck  n. Small woodpecker able to turn its head over its shoulder.
 

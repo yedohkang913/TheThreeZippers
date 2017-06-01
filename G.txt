@@ -16,7 +16,7 @@ Gabble  —v. (-ling) talk or utter unintelligibly or too fast. —n. Fast unint
 
 Gaberdine  var. Of *gabardine.
 
-Gable  n. 1 triangular upper part of a wall at the end of a ridged roof. 2 gable-topped wall.  gabled adj. [old norse and french]
+Gable  n. 1 triangular upper part of a wall at the end of a ridged roof. 2 gable-topped wall. * gabled adj. [old norse and french]
 
 Gad  v. (-dd-) (foll. By about) go about idly or in search of pleasure. [obsolete gadling companion]
 
@@ -24,7 +24,7 @@ Gadabout  n. Person who gads about.
 
 Gadfly  n. 1 fly that bites cattle and horses. 2 irritating person. [obsolete gad spike]
 
-Gadget  n. Small mechanical device or tool.  gadgetry n. [origin unknown]
+Gadget  n. Small mechanical device or tool. * gadgetry n. [origin unknown]
 
 Gadolinium  n. Metallic element of the lanthanide series. [gadolin, name of a mineralogist]
 
@@ -36,7 +36,7 @@ Gaelic  —n. Celtic language of ireland and scotland. —adj. Of the celts or t
 
 Gaff1  —n. 1 a stick with an iron hook for landing large fish. B barbed fishing-spear. 2 spar to which the head of a fore-and-aft sail is bent. —v. Seize (a fish) with a gaff. [provençal gaf hook]
 
-Gaff2  n. Slang  blow the gaff reveal a plot or secret. [origin unknown]
+Gaff2  n. Slang * blow the gaff reveal a plot or secret. [origin unknown]
 
 Gaffe  n. Blunder; indiscreet act or remark. [french]
 
@@ -56,9 +56,9 @@ Gaiety  n. (us gayety) 1 being gay; mirth. 2 merrymaking. 3 bright appearance. [
 
 Gaily  adv. In a gay or careless manner (gaily decorated; gaily announced their departure).
 
-Gain  —v. 1 obtain or win (gain advantage; gain recognition). 2 acquire as profits etc., earn. 3 (often foll. By in) get more of, improve (gain momentum; gain in experience). 4 benefit, profit. 5 (of a clock etc.) Become fast; become fast by (a specified amount of time). 6 (often foll. By on, upon) come closer to a person or thing pursued. 7 a reclaim (land from the sea). B win (a battle). 8 reach (a desired place). —n. 1 increase of wealth etc.; profit, improvement. 2 (in pl.) Sums of money got by trade etc. 3 increase in amount.  gain ground 1 advance. 2 (foll. By on) catch up (a person pursued). [french from germanic]
+Gain  —v. 1 obtain or win (gain advantage; gain recognition). 2 acquire as profits etc., earn. 3 (often foll. By in) get more of, improve (gain momentum; gain in experience). 4 benefit, profit. 5 (of a clock etc.) Become fast; become fast by (a specified amount of time). 6 (often foll. By on, upon) come closer to a person or thing pursued. 7 a reclaim (land from the sea). B win (a battle). 8 reach (a desired place). —n. 1 increase of wealth etc.; profit, improvement. 2 (in pl.) Sums of money got by trade etc. 3 increase in amount. * gain ground 1 advance. 2 (foll. By on) catch up (a person pursued). [french from germanic]
 
-Gainful  adj. 1 (of employment) paid. 2 lucrative.  gainfully adv.
+Gainful  adj. 1 (of employment) paid. 2 lucrative. * gainfully adv.
 
 Gainsay  v. Deny, contradict. [old norse: related to *against, *say]
 
@@ -86,7 +86,7 @@ Galleon  n. Hist. Warship (usu. Spanish). [french or spanish: related to *galley
 
 Galleria  n. Collection of small shops under a single roof. [italian]
 
-Gallery  n. (pl. -ies) 1 room or building for showing works of art. 2 balcony, esp. In a church, hall, etc. (minstrels' gallery). 3 highest balcony in a theatre. 4 a covered walk partly open at the side; colonnade. B narrow passage in the thickness of a wall or on corbels, open towards the interior of the building. 5 long narrow room or passage (shooting-gallery). 6 horizontal underground passage in a mine etc. 7 group of spectators at a golf-match etc.  play to the gallery seek to win approval by appealing to popular taste. [french galerie]
+Gallery  n. (pl. -ies) 1 room or building for showing works of art. 2 balcony, esp. In a church, hall, etc. (minstrels' gallery). 3 highest balcony in a theatre. 4 a covered walk partly open at the side; colonnade. B narrow passage in the thickness of a wall or on corbels, open towards the interior of the building. 5 long narrow room or passage (shooting-gallery). 6 horizontal underground passage in a mine etc. 7 group of spectators at a golf-match etc. * play to the gallery seek to win approval by appealing to popular taste. [french galerie]
 
 Galley  n. (pl. -s) 1 hist. A long flat single-decked vessel usu. Rowed by slaves or criminals. B ancient greek or roman warship. 2 ship's or aircraft's kitchen. 3 printing (in full galley proof) proof in continuous form before division into pages. [latin galea]
 
@@ -120,21 +120,21 @@ Galosh  n. (also golosh) (usu. In pl.) Overshoe, usu. Of rubber. [french]
 
 Galumph  v. (esp. As galumphing adj.) Colloq. Move noisily or clumsily. [coined by lewis carroll, perhaps from *gallop, *triumph]
 
-Galvanic  adj. 1 a producing an electric current by chemical action. B (of electricity) produced by chemical action. 2 a sudden and remarkable (had a galvanic effect). B stimulating; full of energy.  galvanically adv.
+Galvanic  adj. 1 a producing an electric current by chemical action. B (of electricity) produced by chemical action. 2 a sudden and remarkable (had a galvanic effect). B stimulating; full of energy. * galvanically adv.
 
-Galvanize  v. (also -ise) (-zing or -sing) 1 (often foll. By into) rouse forcefully, esp. By shock or excitement (was galvanized into action). 2 stimulate by or as by electricity. 3 coat (iron) with zinc to protect against rust.  galvanization n. [galvani, name of a physiologist]
+Galvanize  v. (also -ise) (-zing or -sing) 1 (often foll. By into) rouse forcefully, esp. By shock or excitement (was galvanized into action). 2 stimulate by or as by electricity. 3 coat (iron) with zinc to protect against rust. * galvanization n. [galvani, name of a physiologist]
 
-Galvanometer  n. Instrument for detecting and measuring small electric currents.  galvanometric adj.
+Galvanometer  n. Instrument for detecting and measuring small electric currents. * galvanometric adj.
 
 Gambit  n. 1 chess opening in which a player sacrifices a piece or pawn to secure an advantage. 2 opening move in a discussion etc. 3 trick or device. [italian gambetto tripping up]
 
-Gamble  —v. (-ling) 1 play games of chance for money. 2 a bet (a sum of money) in gambling. B (often foll. By away) lose by gambling. 3 risk much in the hope of great gain. 4 (foll. By on) act in the hope of. —n. 1 risky undertaking. 2 spell of gambling.  gambler n.
+Gamble  —v. (-ling) 1 play games of chance for money. 2 a bet (a sum of money) in gambling. B (often foll. By away) lose by gambling. 3 risk much in the hope of great gain. 4 (foll. By on) act in the hope of. —n. 1 risky undertaking. 2 spell of gambling. * gambler n.
 
 Gamboge  n. Gum resin used as a yellow pigment and as a purgative. [cambodia in se asia]
 
 Gambol  —v. (-ll-; us -l-) skip or jump about playfully. —n. Frolic, caper. [french gambade leap, from italian gamba leg]
 
-Game1  —n. 1 form of play or sport, esp. A competitive one with rules. 2 portion of play forming a scoring unit, e.g. In bridge or tennis. 3 (in pl.) Series of athletic etc. Contests (olympic games). 4 a piece of fun, jest (didn't mean to upset you; it was only a game). B (in pl.) Dodges, tricks (none of your games!). 5 colloq. A scheme (so that's your game). B type of activity or business (have been in the antiques game a long time). 6 a wild animals or birds hunted for sport or food. B their flesh as food. —adj. Spirited; eager and willing (are you game for a walk?). —v. (-ming) gamble for money stakes.  the game is up scheme is revealed or foiled. On the game slang involved in prostitution.  gamely adv. [old english]
+Game1  —n. 1 form of play or sport, esp. A competitive one with rules. 2 portion of play forming a scoring unit, e.g. In bridge or tennis. 3 (in pl.) Series of athletic etc. Contests (olympic games). 4 a piece of fun, jest (didn't mean to upset you; it was only a game). B (in pl.) Dodges, tricks (none of your games!). 5 colloq. A scheme (so that's your game). B type of activity or business (have been in the antiques game a long time). 6 a wild animals or birds hunted for sport or food. B their flesh as food. —adj. Spirited; eager and willing (are you game for a walk?). —v. (-ming) gamble for money stakes. * the game is up scheme is revealed or foiled. On the game slang involved in prostitution. * gamely adv. [old english]
 
 Game2  adj. Colloq. (of a leg, arm, etc.) Crippled. [origin unknown]
 
@@ -148,7 +148,7 @@ Gamesmanship  n. Art of winning games by gaining psychological advantage.
 
 Gamester  n. Gambler.
 
-Gamete  n. Mature germ cell able to unite with another in sexual reproduction.  gametic adj. [greek, = wife]
+Gamete  n. Mature germ cell able to unite with another in sexual reproduction. * gametic adj. [greek, = wife]
 
 Gamin  n. 1 street urchin. 2 impudent child. [french]
 
@@ -162,25 +162,25 @@ Gammon  n. 1 bottom piece of a flitch of bacon including a hind leg. 2 ham of a 
 
 Gammy  adj. (-ier, -iest) slang = *game2. [dial. Form of *game2]
 
-Gamut  n. Entire range or scope.  run the gamut of experience or perform the complete range of. [latin gamma ut, words arbitrarily taken as names of notes]
+Gamut  n. Entire range or scope. * run the gamut of experience or perform the complete range of. [latin gamma ut, words arbitrarily taken as names of notes]
 
 Gamy  adj. (-ier, -iest) smelling or tasting like high game.
 
 Gander  n. 1 male goose. 2 slang look, glance (take a gander). [old english]
 
-Gang  n. 1 band of persons associating for some (usu. Antisocial or criminal) purpose. 2 set of workers, slaves, or prisoners.  gang up colloq. 1 (often foll. By with) act together. 2 (foll. By on) combine against. [old norse]
+Gang  n. 1 band of persons associating for some (usu. Antisocial or criminal) purpose. 2 set of workers, slaves, or prisoners. * gang up colloq. 1 (often foll. By with) act together. 2 (foll. By on) combine against. [old norse]
 
 Ganger  n. Foreman of a gang of workers.
 
 Gangling  adj. (of a person) loosely built; lanky. [frequentative of old english gang go]
 
-Ganglion  n. (pl. -lia or -s) structure containing an assemblage of nerve cells.  ganglionic adj. [greek]
+Ganglion  n. (pl. -lia or -s) structure containing an assemblage of nerve cells. * ganglionic adj. [greek]
 
 Gangly  adj. (-ier, -iest) = *gangling.
 
 Gangplank  n. Movable plank for boarding or disembarking from a ship etc.
 
-Gangrene  n. Death of body tissue, usu. Resulting from obstructed circulation.  gangrenous adj. [greek gaggraina]
+Gangrene  n. Death of body tissue, usu. Resulting from obstructed circulation. * gangrenous adj. [greek gaggraina]
 
 Gangster  n. Member of a gang of violent criminals.
 
@@ -200,7 +200,7 @@ Gaolbreak  var. Of *jailbreak.
 
 Gaoler  var. Of *jailer.
 
-Gap  n. 1 empty space, interval; deficiency. 2 breach in a hedge, fence, etc. 3 wide divergence in views etc.  gappy adj. [old norse]
+Gap  n. 1 empty space, interval; deficiency. 2 breach in a hedge, fence, etc. 3 wide divergence in views etc. * gappy adj. [old norse]
 
 Gape  —v. (-ping) 1 a open one's mouth wide. B be or become wide open; split. 2 (foll. By at) stare at. —n. 1 open-mouthed stare; open mouth. 2 rent, opening. [old norse]
 
@@ -212,7 +212,7 @@ Garbage  n. 1 esp. Us refuse. 2 colloq. Nonsense. [anglo-french]
 
 Garble  v. (-ling) 1 (esp. As garbled adj.) Unintentionally distort or confuse (facts, messages, etc.). 2 make a (usu. Unfair) selection from (facts, statements, etc.). [italian from arabic]
 
-Garden  —n. 1 piece of ground for growing flowers, fruit, or vegetables, and as a place of recreation. 2 (esp. In pl.) Grounds laid out for public enjoyment. 3 (attrib.) Cultivated (garden plants). —v. Cultivate or tend a garden.  gardening n. [germanic: related to *yard2]
+Garden  —n. 1 piece of ground for growing flowers, fruit, or vegetables, and as a place of recreation. 2 (esp. In pl.) Grounds laid out for public enjoyment. 3 (attrib.) Cultivated (garden plants). —v. Cultivate or tend a garden. * gardening n. [germanic: related to *yard2]
 
 Garden centre  n. Place where plants and garden equipment are sold.
 
@@ -234,11 +234,11 @@ Gargoyle  n. Grotesque carved face or figure, esp. As a spout from the gutter of
 
 Garibaldi  n. (pl. -s) biscuit containing a layer of currants. [garibaldi, name of an italian patriot]
 
-Garish  adj. Obtrusively bright; showy; gaudy.  garishly adv. Garishness n. [obsolete gaure stare]
+Garish  adj. Obtrusively bright; showy; gaudy. * garishly adv. Garishness n. [obsolete gaure stare]
 
 Garland  —n. Wreath of flowers etc., worn on the head or hung as a decoration. —v. Adorn or crown with a garland or garlands. [french]
 
-Garlic  n. Plant of the onion family with a pungent bulb used in cookery.  garlicky adj. [old english, = spear-leek]
+Garlic  n. Plant of the onion family with a pungent bulb used in cookery. * garlicky adj. [old english, = spear-leek]
 
 Garment  n. 1 article of dress. 2 outward covering. [french: related to *garnish]
 
@@ -258,7 +258,7 @@ Garrote  (brit. Garrotte) —v. (-ting) execute or kill by strangulation, esp. W
 
 Garrotte  (also garotte; us garrote) —v. (-ting) execute or kill by strangulation, esp. With a wire collar. —n. Device used for this. [french or spanish]
 
-Garrulous  adj. Talkative.  garrulity n. Garrulousness n. [latin]
+Garrulous  adj. Talkative. * garrulity n. Garrulousness n. [latin]
 
 Garter  n. 1 band worn to keep a sock or stocking up. 2 (the garter) a highest order of english knighthood. B badge or membership of this. [french]
 
@@ -282,7 +282,7 @@ Gash  —n. Long deep slash, cut, or wound. —v. Make a gash in; cut. [french]
 
 Gasholder  n. Large receptacle for storing gas; gasometer.
 
-Gasify  v. (-ies, -ied) convert into gas.  gasification n.
+Gasify  v. (-ies, -ied) convert into gas. * gasification n.
 
 Gasket  n. Sheet or ring of rubber etc., shaped to seal the junction of metal surfaces. [french garcette]
 
@@ -318,21 +318,21 @@ Gastro-enteritis  n. Inflammation of the stomach and intestines.
 
 Gastronome  n. Gourmet. [greek gaster stomach, nomos law]
 
-Gastronomy  n. Science or art of good eating and drinking.  gastronomic adj. Gastronomical adj. Gastronomically adv.
+Gastronomy  n. Science or art of good eating and drinking. * gastronomic adj. Gastronomical adj. Gastronomically adv.
 
 Gastropod  n. (also gasteropod) mollusc that moves by means of a ventral muscular organ, e.g. A snail. [from *gastro-, greek pous pod- foot]
 
 Gasworks  n. Place where gas is manufactured for lighting and heating.
 
-Gate  —n. 1 barrier, usu. Hinged, used to close an opening made for entrance and exit through a wall, fence, etc. 2 such an opening. 3 means of entrance or exit. 4 numbered place of access to aircraft at an airport. 5 device regulating the passage of water in a lock etc. 6 a number of people entering by payment at the gates of a sports ground etc. B amount of money taken thus. 7  a electrical signal that causes or controls the passage of other signals. B electrical circuit with an output that depends on the combination of several inputs. —v. (-ting) confine to college or school as a punishment.  gated adj. [old english]
+Gate  —n. 1 barrier, usu. Hinged, used to close an opening made for entrance and exit through a wall, fence, etc. 2 such an opening. 3 means of entrance or exit. 4 numbered place of access to aircraft at an airport. 5 device regulating the passage of water in a lock etc. 6 a number of people entering by payment at the gates of a sports ground etc. B amount of money taken thus. 7 a electrical signal that causes or controls the passage of other signals. B electrical circuit with an output that depends on the combination of several inputs. —v. (-ting) confine to college or school as a punishment. * gated adj. [old english]
 
 Gateau  n. (pl. -s or -x) large rich cake filled with cream etc. [french]
 
-Gatecrasher  n. Uninvited guest at a party etc.  gatecrash v.
+Gatecrasher  n. Uninvited guest at a party etc. * gatecrash v.
 
 Gatehouse  n. House standing by or over a gateway, esp. To a large house or park.
 
-Gateleg  n. (in full gateleg table) table with folding flaps supported by legs swung open like a gate.  gatelegged adj.
+Gateleg  n. (in full gateleg table) table with folding flaps supported by legs swung open like a gate. * gatelegged adj.
 
 Gatepost  n. Post at either side of a gate.
 
@@ -346,7 +346,7 @@ Gall3  n. Growth produced by insects etc. On plants and trees, esp. On oak. [lat
 
 Gall.  Abbr. Var. Of *gal.
 
-Gallant  —adj. 1 brave. 2 fine, stately. 3  very attentive to women. —n. Ladies' man.  gallantly adv. [french galer make merry]
+Gallant  —adj. 1 brave. 2 fine, stately. 3 very attentive to women. —n. Ladies' man. * gallantly adv. [french galer make merry]
 
 Gallantry  n. (pl. -ies) 1 bravery. 2 devotion to women. 3 polite act or speech.
 
@@ -354,13 +354,13 @@ Gathering  n. 1 assembly. 2 purulent swelling. 3 group of leaves taken together 
 
 Gatt  abbr. General agreement on tariffs and trade.
 
-Gauche  adj. 1 socially awkward. 2 tactless.  gauchely adv. Gaucheness n. [french]
+Gauche  adj. 1 socially awkward. 2 tactless. * gauchely adv. Gaucheness n. [french]
 
 Gaucherie  n. Gauche manners or act. [french: related to *gauche]
 
 Gaucho  n. (pl. -s) cowboy from the s. American pampas. [spanish from quechua]
 
-Gaudy  adj. (-ier, -iest) tastelessly showy.  gaudily adv. Gaudiness n. [obsolete gaud ornament, from latin gaudeo rejoice]
+Gaudy  adj. (-ier, -iest) tastelessly showy. * gaudily adv. Gaudiness n. [obsolete gaud ornament, from latin gaudeo rejoice]
 
 Gauge  (us gage: see also sense 6) —n. 1 standard measure, esp. Of the capacity or contents of a barrel, fineness of a textile, diameter of a bullet, or thickness of sheet metal. 2 instrument for measuring pressure, width, length, thickness, etc. 3 distance between rails or opposite wheels. 4 capacity, extent. 5 criterion, test. 6 (usu. Gage) naut. Position relative to the wind. —v. (-ging) 1 measure exactly. 2 measure the capacity or content of. 3 estimate (a person, situation, etc.). [french]
 
@@ -368,15 +368,15 @@ Gaul  n. Inhabitant of ancient gaul. [french from germanic]
 
 Gaulish  —adj. Of the gauls. —n. Their language.
 
-Gaunt  adj. 1 lean, haggard. 2 grim, desolate.  gauntness n. [origin unknown]
+Gaunt  adj. 1 lean, haggard. 2 grim, desolate. * gauntness n. [origin unknown]
 
-Gauntlet1  n. 1 stout glove with a long loose wrist. 2 hist. Armoured glove.  pick up (or take up) the gauntlet accept a challenge. Throw down the gauntlet issue a challenge. [french diminutive of gant glove]
+Gauntlet1  n. 1 stout glove with a long loose wrist. 2 hist. Armoured glove. * pick up (or take up) the gauntlet accept a challenge. Throw down the gauntlet issue a challenge. [french diminutive of gant glove]
 
-Gauntlet2  n.  run the gauntlet 1 undergo harsh criticism. 2 pass between two rows of people and receive blows from them, as a punishment or ordeal. [swedish gatlopp from gata lane, lopp course]
+Gauntlet2  n. * run the gauntlet 1 undergo harsh criticism. 2 pass between two rows of people and receive blows from them, as a punishment or ordeal. [swedish gatlopp from gata lane, lopp course]
 
 Gauss  n. (pl. Same) unit of magnetic flux density. [gauss, name of a mathematician]
 
-Gauze  n. 1 thin transparent fabric of silk, cotton, etc. 2 fine mesh of wire etc.  gauzy adj. (-ier, -iest). [french from gaza in palestine]
+Gauze  n. 1 thin transparent fabric of silk, cotton, etc. 2 fine mesh of wire etc. * gauzy adj. (-ier, -iest). [french from gaza in palestine]
 
 Gave  past of *give.
 
@@ -386,11 +386,11 @@ Gavotte  n. 1 old french dance. 2 music for this. [french from provençal]
 
 Gawk  —v. Colloq. Gawp. —n. Awkward or bashful person. [obsolete gaw *gaze]
 
-Gawky  adj. (-ier, -iest) awkward or ungainly.  gawkily adv. Gawkiness n.
+Gawky  adj. (-ier, -iest) awkward or ungainly. * gawkily adv. Gawkiness n.
 
 Gawp  v. Colloq. Stare stupidly or obtrusively. [related to *yelp]
 
-Gay  —adj. 1 light-hearted, cheerful. 2 brightly coloured. 3 colloq. Homosexual. 4 colloq. Careless, thoughtless (gay abandon). —n. Colloq. (esp. Male) homosexual.  gayness n. [french]
+Gay  —adj. 1 light-hearted, cheerful. 2 brightly coloured. 3 colloq. Homosexual. 4 colloq. Careless, thoughtless (gay abandon). —n. Colloq. (esp. Male) homosexual. * gayness n. [french]
 
 Gayety  n. (brit. Gaiety) 1 being gay; mirth. 2 merrymaking. 3 bright appearance. [french: related to *gay]
 
@@ -430,7 +430,7 @@ Gdr  abbr. Hist. German democratic republic.
 
 Ge  symb. Germanium.
 
-Gear  —n. 1 (often in pl.) A set of toothed wheels that work together, esp. Those connecting the engine of a vehicle to the road wheels. B particular setting of these (first gear). 2 equipment, apparatus, or tackle. 3 colloq. Clothing. —v. 1 (foll. By to) adjust or adapt to. 2 (often foll. By up) equip with gears. 3 (foll. By up) make ready or prepared. 4 put in gear.  in gear with a gear engaged. Out of gear with no gear engaged. [old norse]
+Gear  —n. 1 (often in pl.) A set of toothed wheels that work together, esp. Those connecting the engine of a vehicle to the road wheels. B particular setting of these (first gear). 2 equipment, apparatus, or tackle. 3 colloq. Clothing. —v. 1 (foll. By to) adjust or adapt to. 2 (often foll. By up) equip with gears. 3 (foll. By up) make ready or prepared. 4 put in gear. * in gear with a gear engaged. Out of gear with no gear engaged. [old norse]
 
 Gearbox  n. 1 set of gears with its casing, esp. In a vehicle. 2 the casing itself.
 
@@ -458,7 +458,7 @@ Geisha  n. (pl. Same or -s) japanese woman trained to entertain men. [japanese]
 
 Gel  —n. 1 semi-solid jelly-like colloid. 2 jelly-like substance used for setting the hair. —v. (-ll-) 1 form a gel. 2 = *jell 2. [from *gelatin]
 
-Gelatin  n. (also gelatine) transparent tasteless substance from skin, tendons, etc., used in cookery, photography, etc.  gelatinize v. (also -ise) (-zing or -sing). [italian: related to *jelly]
+Gelatin  n. (also gelatine) transparent tasteless substance from skin, tendons, etc., used in cookery, photography, etc. * gelatinize v. (also -ise) (-zing or -sing). [italian: related to *jelly]
 
 Gelatinous  adj. Of a jelly-like consistency.
 
@@ -470,11 +470,11 @@ Gelignite  n. Explosive made from nitroglycerine. [from *gelatin, *igneous]
 
 Gem  —n. 1 precious stone, esp. Cut and polished or engraved. 2 thing or person of great beauty or worth. —v. (-mm-) adorn with or as with gems. [latin gemma bud, jewel]
 
-Geminate  —adj. Combined in pairs. —v. (-ting) 1 double, repeat. 2 arrange in pairs.  gemination n. [latin: related to *gemini]
+Geminate  —adj. Combined in pairs. —v. (-ting) 1 double, repeat. 2 arrange in pairs. * gemination n. [latin: related to *gemini]
 
 Gemini  n. (pl. -s) 1 constellation and third sign of the zodiac (the twins). 2 person born when the sun is in this sign. [latin, = twins]
 
-Gemma  n. (pl. Gemmae) small cellular body in plants such as mosses, that separates from the mother-plant and starts a new one.  gemmation n. [latin, see *gem]
+Gemma  n. (pl. Gemmae) small cellular body in plants such as mosses, that separates from the mother-plant and starts a new one. * gemmation n. [latin, see *gem]
 
 Gemstone  n. Precious stone used as a gem.
 
@@ -490,11 +490,11 @@ Gender  n. 1 a classification roughly corresponding to the two sexes and sexless
 
 Gene  n. Unit in a chromosome determining heredity. [german]
 
-Genealogy  n. (pl. -ies) 1 descent traced continuously from an ancestor, pedigree. 2 study of pedigrees. 3 organism's line of development from earlier forms.  genealogical adj. Genealogically adv. Genealogist n. [greek genea race]
+Genealogy  n. (pl. -ies) 1 descent traced continuously from an ancestor, pedigree. 2 study of pedigrees. 3 organism's line of development from earlier forms. * genealogical adj. Genealogically adv. Genealogist n. [greek genea race]
 
 Genera  pl. Of *genus.
 
-General  —adj. 1 including or affecting all or most parts or cases of things. 2 prevalent, usual (the general feeling). 3 not partial or particular or local. 4 not limited in application, true of all or nearly all cases (as a general rule). 5 not restricted or specialized (general knowledge; general hospital). 6 not detailed (general idea). 7 vague (spoke only in general terms). 8 chief, head; having overall authority (general manager; secretary-general). —n. 1 a army officer next below field marshal. B = lieutenant general (see *lieutenant colonel), *major-general. 2 commander of an army. 3 strategist (a great general). 4 head of a religious order, e.g. Of jesuits etc.  in general 1 as a normal rule; usually. 2 for the most part. [latin generalis]
+General  —adj. 1 including or affecting all or most parts or cases of things. 2 prevalent, usual (the general feeling). 3 not partial or particular or local. 4 not limited in application, true of all or nearly all cases (as a general rule). 5 not restricted or specialized (general knowledge; general hospital). 6 not detailed (general idea). 7 vague (spoke only in general terms). 8 chief, head; having overall authority (general manager; secretary-general). —n. 1 a army officer next below field marshal. B = lieutenant general (see *lieutenant colonel), *major-general. 2 commander of an army. 3 strategist (a great general). 4 head of a religious order, e.g. Of jesuits etc. * in general 1 as a normal rule; usually. 2 for the most part. [latin generalis]
 
 General anaesthetic  n. Anaesthetic affecting the whole body, usu. With loss of consciousness.
 
@@ -508,7 +508,7 @@ Generalissimo  n. (pl. -s) commander of a combined military and naval and air fo
 
 Generality  n. (pl. -ies) 1 general statement or rule. 2 general applicability. 3 lack of detail. 4 (foll. By of) main body or majority.
 
-Generalize  v. (also -ise) (-zing or -sing) 1 a speak in general or indefinite terms. B form general notions. 2 reduce to a general statement. 3 infer (a rule etc.) From particular cases. 4 bring into general use.  generalization n.
+Generalize  v. (also -ise) (-zing or -sing) 1 a speak in general or indefinite terms. B form general notions. 2 reduce to a general statement. 3 infer (a rule etc.) From particular cases. 4 bring into general use. * generalization n.
 
 Generally  adv. 1 usually; in most respects or cases (generally get up early; was generally well-behaved). 2 in a general sense; without regard to particulars or exceptions (generally speaking). 3 for the most part (not generally known).
 
@@ -524,7 +524,7 @@ General strike  n. Simultaneous strike of workers in all or most trades.
 
 Generate  v. (-ting) bring into existence; produce. [latin: related to *genus]
 
-Generation  n. 1 all the people born at about the same time. 2 single stage in a family history (three generations were present in the photograph). 3 stage in (esp. Technological) development (fourth-generation computers). 4 average time in which children are ready to take the place of their parents (about 30 years). 5 production, esp. Of electricity. 6 procreation.  first- (or second-, third-, etc.) Generation (attrib.) Designating a person who emigrated to a place (or whose parents or grandparents etc. Emigrated). [latin: related to *generate]
+Generation  n. 1 all the people born at about the same time. 2 single stage in a family history (three generations were present in the photograph). 3 stage in (esp. Technological) development (fourth-generation computers). 4 average time in which children are ready to take the place of their parents (about 30 years). 5 production, esp. Of electricity. 6 procreation. * first- (or second-, third-, etc.) Generation (attrib.) Designating a person who emigrated to a place (or whose parents or grandparents etc. Emigrated). [latin: related to *generate]
 
 Generation gap  n. Differences of outlook between different generations.
 
@@ -532,15 +532,15 @@ Generative  adj. 1 of procreation. 2 productive.
 
 Generator  n. 1 machine for converting mechanical into electrical energy. 2 apparatus for producing gas, steam, etc.
 
-Generic  adj. 1 characteristic of or relating to a class; general, not specific or special. 2 biol. Characteristic of or belonging to a genus.  generically adv. [latin: related to *genus]
+Generic  adj. 1 characteristic of or relating to a class; general, not specific or special. 2 biol. Characteristic of or belonging to a genus. * generically adv. [latin: related to *genus]
 
-Generous  adj. 1 giving or given freely. 2 magnanimous, unprejudiced. 3 abundant, copious.  generosity n. Generously adv. [latin: related to *genus]
+Generous  adj. 1 giving or given freely. 2 magnanimous, unprejudiced. 3 abundant, copious. * generosity n. Generously adv. [latin: related to *genus]
 
 Genesis  n. 1 origin; mode of formation. 2 (genesis) first book of the old testament, with an account of the creation. [greek gen- be produced]
 
 Gene therapy  n. Introduction of normal genes into cells in place of defective or missing ones in order to correct genetic disorders.
 
-Genetic  adj. 1 of genetics or genes. 2 of or in origin.  genetically adv. [from *genesis]
+Genetic  adj. 1 of genetics or genes. 2 of or in origin. * genetically adv. [from *genesis]
 
 Genetic code  n. Arrangement of genetic information in chromosomes.
 
@@ -548,9 +548,9 @@ Genetic engineering  n. Manipulation of dna to modify hereditary features.
 
 Genetic fingerprinting  n. (also genetic profiling) identifying individuals by dna patterns.
 
-Genetics  n.pl. (treated as sing.) The study of heredity and the variation of inherited characteristics.  geneticist n.
+Genetics  n.pl. (treated as sing.) The study of heredity and the variation of inherited characteristics. * geneticist n.
 
-Genial  adj. 1 jovial, sociable, kindly. 2 (of the climate) mild and warm; conducive to growth. 3 cheering.  geniality n. Genially adv. [latin: related to *genius]
+Genial  adj. 1 jovial, sociable, kindly. 2 (of the climate) mild and warm; conducive to growth. 3 cheering. * geniality n. Genially adv. [latin: related to *genius]
 
 Genie  n. (pl. Genii) (in arabian tales) spirit or goblin with magical powers. [french génie *genius: cf. *jinnee]
 
@@ -562,7 +562,7 @@ Genitive  gram. —n. Case expressing possession or close association, correspon
 
 Genius  n. (pl. Geniuses) 1 a exceptional intellectual or creative power or other natural ability or tendency. B person with this. 2 tutelary spirit of a person, place, etc. 3 person or spirit powerfully influencing a person for good or evil. 4 prevalent feeling or association etc. Of a people or place. [latin]
 
-Genocide  n. Deliberate extermination of a people or nation.  genocidal adj. [greek genos race, *-cide]
+Genocide  n. Deliberate extermination of a people or nation. * genocidal adj. [greek genos race, *-cide]
 
 Genome  n. 1 the haploid set of chromosomes of an organism. 2 the genetic material of an organism.
 
@@ -572,7 +572,7 @@ Genre  n. 1 kind or style of art etc. 2 painting of scenes from ordinary life. [
 
 Gent  n. Colloq. 1 gentleman. 2 (the gents) colloq. Men's public lavatory. [shortening of *gentleman]
 
-Genteel  adj. 1 affectedly refined or stylish. 2 upper-class.  genteelly adv. [french gentil: related to *gentle]
+Genteel  adj. 1 affectedly refined or stylish. 2 upper-class. * genteelly adv. [french gentil: related to *gentle]
 
 Gentian  n. Mountain plant usu. With blue flowers. [latin gentiana from gentius, king of illyria]
 
@@ -580,7 +580,7 @@ Gentile  —adj. Not jewish; heathen. —n. Person who is not jewish. [latin gen
 
 Gentility  n. 1 social superiority. 2 genteel manners or behaviour. [french: related to *gentle]
 
-Gentle  adj. (gentler, gentlest) 1 not rough or severe; mild, kind (a gentle nature). 2 moderate (gentle breeze). 3 (of birth, pursuits, etc.) Honourable, of or fit for gentlefolk. 4 quiet; requiring patience (gentle art).  gentleness n. Gently adv. [latin: related to *gentile]
+Gentle  adj. (gentler, gentlest) 1 not rough or severe; mild, kind (a gentle nature). 2 moderate (gentle breeze). 3 (of birth, pursuits, etc.) Honourable, of or fit for gentlefolk. 4 quiet; requiring patience (gentle art). * gentleness n. Gently adv. [latin: related to *gentile]
 
 Gentlefolk  n.pl. People of good family.
 
@@ -592,19 +592,19 @@ Gentleman's agreement  n. (also gentlemen's agreement) agreement binding in hono
 
 Gentlewoman  n. Archaic woman of good birth or breeding.
 
-Gentrification  n. Upgrading of a working-class urban area by the arrival of more affluent residents.  gentrify v. (-ies, -ied).
+Gentrification  n. Upgrading of a working-class urban area by the arrival of more affluent residents. * gentrify v. (-ies, -ied).
 
 Gentry  n.pl. 1 people next below the nobility. 2 derog. People (these gentry). [french: related to *gentle]
 
-Genuflect  v. Bend the knee, esp. In worship.  genuflection n. (also genuflexion). [latin genu knee, flecto bend]
+Genuflect  v. Bend the knee, esp. In worship. * genuflection n. (also genuflexion). [latin genu knee, flecto bend]
 
-Genuine  adj. 1 really coming from its reputed source etc. 2 properly so called; not sham; sincere.   genuinely adv. Genuineness n. [latin]
+Genuine  adj. 1 really coming from its reputed source etc. 2 properly so called; not sham; sincere. * genuinely adv. Genuineness n. [latin]
 
 Genus  n. (pl. Genera) 1 taxonomic category of animals or plants with common structural characteristics, usu. Containing several species. 2 (in logic) kind of things including subordinate kinds or species. 3 colloq. Kind, class. [latin genus -eris]
 
 Geo-  comb. Form earth. [greek ge]
 
-Geocentric  adj. 1 considered as viewed from the earth's centre. 2 having the earth as the centre.  geocentrically adv.
+Geocentric  adj. 1 considered as viewed from the earth's centre. 2 having the earth as the centre. * geocentrically adv.
 
 Geode  n. 1 cavity lined with crystals. 2 rock containing this. [greek geodes earthy]
 
@@ -614,19 +614,19 @@ Geodesic line  n. Shortest possible line between two points on a curved surface.
 
 Geodesy  n. The study of the shape and area of the earth. [greek geodaisia]
 
-Geographical  adj. (also geographic) of geography.  geographically adv.
+Geographical  adj. (also geographic) of geography. * geographically adv.
 
 Geographical mile  n. Distance of one minute of longitude or latitude at the equator (about 1.85 km).
 
-Geography  n. 1 science of the earth's physical features, resources, climate, population, etc. 2 features or arrangement of an area, rooms, etc.  geographer n. [latin from greek]
+Geography  n. 1 science of the earth's physical features, resources, climate, population, etc. 2 features or arrangement of an area, rooms, etc. * geographer n. [latin from greek]
 
-Geology  n. 1 science of the earth's crust, strata, origin of its rocks, etc. 2 geological features of a district.  geological adj. Geologically adv. Geologist n.
+Geology  n. 1 science of the earth's crust, strata, origin of its rocks, etc. 2 geological features of a district. * geological adj. Geologically adv. Geologist n.
 
-Geometric  adj. (also geometrical) 1 of geometry. 2 (of a design etc.) With regular lines and shapes.  geometrically adv.
+Geometric  adj. (also geometrical) 1 of geometry. 2 (of a design etc.) With regular lines and shapes. * geometrically adv.
 
 Geometric progression  n. Progression with a constant ratio between successive quantities (as 1, 3, 9, 27).
 
-Geometry  n. Science of the properties and relations of lines, surfaces, and solids.   geometrician n. [from *geo-, *-metry]
+Geometry  n. Science of the properties and relations of lines, surfaces, and solids. * geometrician n. [from *geo-, *-metry]
 
 Geophysics  n.pl. (treated as sing.) Physics of the earth.
 
@@ -646,9 +646,9 @@ Gerbil  n. (also jerbil) mouselike desert rodent with long hind legs. [french: r
 
 Geriatric  —adj. 1 of old people. 2 colloq. Old, outdated. —n. Old person. [greek geras old age, iatros doctor]
 
-Geriatrics  n.pl. (usu. Treated as sing.) Branch of medicine or social science dealing with the health and care of old people.  geriatrician n.
+Geriatrics  n.pl. (usu. Treated as sing.) Branch of medicine or social science dealing with the health and care of old people. * geriatrician n.
 
-Germ  n. 1 micro-organism, esp. One causing disease. 2 portion of an organism capable of developing into a new one; rudiment of an animal or plant in seed (wheat germ). 3 thing that may develop; elementary principle.  germy adj. (-ier, -iest). [latin germen sprout]
+Germ  n. 1 micro-organism, esp. One causing disease. 2 portion of an organism capable of developing into a new one; rudiment of an animal or plant in seed (wheat germ). 3 thing that may develop; elementary principle. * germy adj. (-ier, -iest). [latin germen sprout]
 
 German  —n. 1 a native or national of germany. B person of german descent. 2 language of germany. —adj. Of germany or its people or language. [latin germanus]
 
@@ -670,11 +670,11 @@ German shepherd  n. (also german shepherd dog) = *alsatian.
 
 German silver  n. White alloy of nickel, zinc, and copper.
 
-Germicide  n. Substance that destroys germs.  germicidal adj.
+Germicide  n. Substance that destroys germs. * germicidal adj.
 
-Germinal  adj. 1 of germs. 2 in the earliest stage of development. 3 productive of new ideas.  germinally adv. [related to *germ]
+Germinal  adj. 1 of germs. 2 in the earliest stage of development. 3 productive of new ideas. * germinally adv. [related to *germ]
 
-Germinate  v. (-ting) 1 sprout, bud, or develop. 2 cause to do this.  germination n. Germinative adj. [latin: related to *germ]
+Germinate  v. (-ting) 1 sprout, bud, or develop. 2 cause to do this. * germination n. Germinative adj. [latin: related to *germ]
 
 Germ warfare  n. Use of germs to spread disease in war.
 
@@ -688,13 +688,13 @@ Gesso  n. (pl. -es) gypsum as used in painting or sculpture. [italian: related t
 
 Gestapo  n. Hist. Nazi secret police. [german, from geheime staatspolizei]
 
-Gestation  n. 1 a process of carrying or being carried in the uterus between conception and birth. B this period. 2 development of a plan, idea, etc.  gestate v. (-ting). [latin gesto carry]
+Gestation  n. 1 a process of carrying or being carried in the uterus between conception and birth. B this period. 2 development of a plan, idea, etc. * gestate v. (-ting). [latin gesto carry]
 
-Gesticulate  v. (-ting) 1 use gestures instead of, or to reinforce, speech. 2 express thus.  gesticulation n. [latin: related to *gesture]
+Gesticulate  v. (-ting) 1 use gestures instead of, or to reinforce, speech. 2 express thus. * gesticulation n. [latin: related to *gesture]
 
 Gesture  —n. 1 significant movement of a limb or the body. 2 use of such movements, esp. As a rhetorical device. 3 action to evoke a response or convey intention, usu. Friendly. —v. (-ring) gesticulate. [latin gestura from gero wield]
 
-Get  v. (getting; past got; past part. Got or us gotten) (and in comb.) 1 come into possession of; receive or earn (get a job; got £200 a week; got first prize). 2 fetch or procure (get my book for me; got a new car). 3 go to reach or catch (a bus, train, etc.). 4 prepare (a meal etc.). 5 (cause to) reach some state or become (get rich; get married; get to be famous; got them ready; got him into trouble). 6 obtain as a result of calculation. 7 contract (a disease etc.). 8 establish contact by telephone etc. With; receive (a broadcast signal). 9 experience or suffer; have inflicted on one; receive as one's lot or penalty (got four years in prison). 10 a succeed in bringing, placing, etc. (get it round the corner; get it on to the agenda). B (cause to) succeed in coming or going (will get you there somehow; got absolutely nowhere; got home). 11 (prec. By have) a possess (have not got a penny). B (foll. By to + infin.) Be bound or obliged (have got to see you). 12 (foll. By to + infin.) Induce; prevail upon (got them to help me). 13 colloq. Understand (a person or an argument) (have you got that?; i get your point; do you get me?). 14 colloq. Harm, injure, kill, esp. In retaliation (i'll get you for that). 15 colloq. A annoy. B affect emotionally. C attract. 16 (foll. By to + infin.) Develop an inclination (am getting to like it). 17 (foll. By verbal noun) begin (get going). 18 establish (an idea etc.) In one's mind. 19 archaic beget.  get about 1 travel extensively or fast; go from place to place. 2 begin walking etc. (esp. After illness). Get across 1 communicate (an idea etc.). 2 (of an idea etc.) Be communicated. Get ahead make progress (esp. In a career etc.). Get along (or on) (foll. By together, with) live harmoniously. Get around = get about. Get at 1 reach; get hold of. 2 colloq. Imply. 3 colloq. Nag, criticize. Get away 1 escape, start. 2 (as int.) Colloq. Expressing disbelief or scepticism. 3 (foll. By with) escape blame or punishment for. Get back at colloq. Retaliate against. Get by colloq. Manage, even if with difficulty. Get cracking see *crack. Get down 1 alight, descend (from a vehicle, ladder, etc.). 2 record in writing.
+Get  v. (getting; past got; past part. Got or us gotten) (and in comb.) 1 come into possession of; receive or earn (get a job; got £200 a week; got first prize). 2 fetch or procure (get my book for me; got a new car). 3 go to reach or catch (a bus, train, etc.). 4 prepare (a meal etc.). 5 (cause to) reach some state or become (get rich; get married; get to be famous; got them ready; got him into trouble). 6 obtain as a result of calculation. 7 contract (a disease etc.). 8 establish contact by telephone etc. With; receive (a broadcast signal). 9 experience or suffer; have inflicted on one; receive as one's lot or penalty (got four years in prison). 10 a succeed in bringing, placing, etc. (get it round the corner; get it on to the agenda). B (cause to) succeed in coming or going (will get you there somehow; got absolutely nowhere; got home). 11 (prec. By have) a possess (have not got a penny). B (foll. By to + infin.) Be bound or obliged (have got to see you). 12 (foll. By to + infin.) Induce; prevail upon (got them to help me). 13 colloq. Understand (a person or an argument) (have you got that?; i get your point; do you get me?). 14 colloq. Harm, injure, kill, esp. In retaliation (i'll get you for that). 15 colloq. A annoy. B affect emotionally. C attract. 16 (foll. By to + infin.) Develop an inclination (am getting to like it). 17 (foll. By verbal noun) begin (get going). 18 establish (an idea etc.) In one's mind. 19 archaic beget. * get about 1 travel extensively or fast; go from place to place. 2 begin walking etc. (esp. After illness). Get across 1 communicate (an idea etc.). 2 (of an idea etc.) Be communicated. Get ahead make progress (esp. In a career etc.). Get along (or on) (foll. By together, with) live harmoniously. Get around = get about. Get at 1 reach; get hold of. 2 colloq. Imply. 3 colloq. Nag, criticize. Get away 1 escape, start. 2 (as int.) Colloq. Expressing disbelief or scepticism. 3 (foll. By with) escape blame or punishment for. Get back at colloq. Retaliate against. Get by colloq. Manage, even if with difficulty. Get cracking see *crack. Get down 1 alight, descend (from a vehicle, ladder, etc.). 2 record in writing.
 
 Get-at-able  adj. Colloq. Accessible.
 
@@ -710,7 +710,7 @@ Get-up-and-go  n. Colloq. Energy, enthusiasm.
 
 Geyser  n. 1 intermittent hot spring. 2 apparatus for heating water. [icelandic geysir from geysa to gush]
 
-Ghastly  adj. (-ier, -iest) 1 horrible, frightful. 2 colloq. Unpleasant. 3 deathlike, pallid.   ghastliness n. [obsolete gast terrify]
+Ghastly  adj. (-ier, -iest) 1 horrible, frightful. 2 colloq. Unpleasant. 3 deathlike, pallid. * ghastliness n. [obsolete gast terrify]
 
 Ghee  n. Indian clarified butter. [hindi from sanskrit]
 
@@ -722,7 +722,7 @@ Ghetto-blaster  n. Slang large portable radio, esp. For playing loud pop music.
 
 Ghillie  var. Of *gillie.
 
-Ghost  —n. 1 supposed apparition of a dead person or animal; disembodied spirit. 2 shadow or semblance (not a ghost of a chance). 3 secondary image in a defective telescope or television picture. —v. (often foll. By for) act as ghost-writer of (a work).  ghostliness n. Ghostly adj. (-ier, -iest). [old english]
+Ghost  —n. 1 supposed apparition of a dead person or animal; disembodied spirit. 2 shadow or semblance (not a ghost of a chance). 3 secondary image in a defective telescope or television picture. —v. (often foll. By for) act as ghost-writer of (a work). * ghostliness n. Ghostly adj. (-ier, -iest). [old english]
 
 Ghosting  n. Appearance of a ‘ghost’ image in a television picture.
 
@@ -732,7 +732,7 @@ Ghost train  n. (at a funfair) open-topped miniature railway in which the rider 
 
 Ghost-writer  n. Person who writes on behalf of the credited author.
 
-Ghoul  n. 1 person morbidly interested in death etc. 2 evil spirit or phantom. 3 spirit in muslim folklore preying on corpses.  ghoulish adj. Ghoulishly adv. [arabic]
+Ghoul  n. 1 person morbidly interested in death etc. 2 evil spirit or phantom. 3 spirit in muslim folklore preying on corpses. * ghoulish adj. Ghoulishly adv. [arabic]
 
 Ghq  abbr. General headquarters.
 
@@ -756,7 +756,7 @@ Gibe  (also jibe) —v. (-bing) (often foll. By at) jeer, mock. —n. Jeering re
 
 Giblets  n.pl. Edible organs etc. Of a bird, removed and usu. Cooked separately. [french gibelet game stew]
 
-Giddy  adj. (-ier, -iest) 1 dizzy, tending to fall or stagger. 2 a mentally intoxicated (giddy with success). B excitable, frivolous, flighty. 3 making dizzy (giddy heights).  giddily adv. Giddiness n. [old english]
+Giddy  adj. (-ier, -iest) 1 dizzy, tending to fall or stagger. 2 a mentally intoxicated (giddy with success). B excitable, frivolous, flighty. 3 making dizzy (giddy heights). * giddily adv. Giddiness n. [old english]
 
 Gift  n. 1 thing given; present. 2 natural ability or talent. 3 the power to give (in his gift). 4 giving. 5 colloq. Easy task. [old norse: related to *give]
 
@@ -774,13 +774,13 @@ Gig2  colloq. —n. Engagement to play music etc., usu. For one night. —v. (-g
 
 Giga-  comb. Form one thousand million (109). [greek: related to *giant]
 
-Gigantic  adj. Huge, giant-like.  gigantically adv. [latin: related to *giant]
+Gigantic  adj. Huge, giant-like. * gigantically adv. [latin: related to *giant]
 
-Giggle  —v. (-ling) laugh in half-suppressed spasms. —n. 1 such a laugh. 2 colloq. Amusing person or thing; joke (did it for a giggle).  giggly adj. (-ier, -iest). [imitative]
+Giggle  —v. (-ling) laugh in half-suppressed spasms. —n. 1 such a laugh. 2 colloq. Amusing person or thing; joke (did it for a giggle). * giggly adj. (-ier, -iest). [imitative]
 
 Gigolo  n. (pl. -s) young man paid by an older woman to be her escort or lover. [french]
 
-Gild1  v. (past part. Gilded or as adj. In sense 1 gilt) 1 cover thinly with gold. 2 tinge with a golden colour. 3 give a false brilliance to.  gild the lily try to improve what is already satisfactory. [old english: related to *gold]
+Gild1  v. (past part. Gilded or as adj. In sense 1 gilt) 1 cover thinly with gold. 2 tinge with a golden colour. 3 give a false brilliance to. * gild the lily try to improve what is already satisfactory. [old english: related to *gold]
 
 Gild2  var. Of *guild.
 
@@ -808,7 +808,7 @@ Gimlet  n. Small tool with a screw-tip for boring holes. [french]
 
 Gimlet eye  n. Eye with a piercing glance.
 
-Gimmick  n. Trick or device, esp. To attract attention or publicity.  gimmickry n. Gimmicky adj. [origin unknown]
+Gimmick  n. Trick or device, esp. To attract attention or publicity. * gimmickry n. Gimmicky adj. [origin unknown]
 
 Gimp  n. (also gymp) 1 twist of silk etc. With cord or wire running through it. 2 fishing-line of silk etc. Bound with wire. [dutch]
 
@@ -816,7 +816,7 @@ Gin1  n. Spirit made from grain or malt and flavoured with juniper berries. [dut
 
 Gin2  —n. 1 snare, trap. 2 machine separating cotton from its seeds. 3 a kind of crane and windlass. —v. (-nn-) 1 treat (cotton) in a gin. 2 trap. [french: related to *engine]
 
-Ginger  —n. 1 a hot spicy root usu. Powdered for use in cooking, or preserved in syrup, or candied. B plant having this root. 2 light reddish-yellow. 3 spirit, mettle. —adj. Of a ginger colour. —v. 1 flavour with ginger. 2 (foll. By up) enliven.  gingery adj. [old english and french, ultimately from sanskrit]
+Ginger  —n. 1 a hot spicy root usu. Powdered for use in cooking, or preserved in syrup, or candied. B plant having this root. 2 light reddish-yellow. 3 spirit, mettle. —adj. Of a ginger colour. —v. 1 flavour with ginger. 2 (foll. By up) enliven. * gingery adj. [old english and french, ultimately from sanskrit]
 
 Ginger ale  n. Ginger-flavoured non-alcoholic drink.
 
@@ -848,7 +848,7 @@ Gipsy  var. Of *gypsy.
 
 Giraffe  n. (pl. Same or -s) large four-legged african animal with a long neck and forelegs. [french, ultimately from arabic]
 
-Gird  v. (past and past part. Girded or girt) 1 encircle, attach, or secure, with a belt or band. 2 enclose or encircle. 3 (foll. By round) place (a cord etc.) Round.  gird (or gird up) one's loins prepare for action. [old english]
+Gird  v. (past and past part. Girded or girt) 1 encircle, attach, or secure, with a belt or band. 2 enclose or encircle. 3 (foll. By round) place (a cord etc.) Round. * gird (or gird up) one's loins prepare for action. [old english]
 
 Girder  n. Iron or steel beam or compound structure for bridge-building etc.
 
@@ -856,7 +856,7 @@ Girdle1  —n. 1 belt or cord worn round the waist. 2 corset. 3 thing that surro
 
 Girdle2  n. Scot. & n.engl. Var. Of *griddle.
 
-Girl  n. 1 female child, daughter. 2 colloq. Young woman. 3 colloq. Girlfriend. 4 female servant.  girlhood n. Girlish adj. Girly adj. [origin uncertain]
+Girl  n. 1 female child, daughter. 2 colloq. Young woman. 3 colloq. Girlfriend. 4 female servant. * girlhood n. Girlish adj. Girly adj. [origin uncertain]
 
 Girl friday  n. Female helper or follower.
 
@@ -880,7 +880,7 @@ Git  n. Slang silly or contemptible person. [get (noun), = fool]
 
 Gîte  n. Furnished holiday house in the french countryside. [french]
 
-Give  —v. (-ving; past gave; past part. Given) 1 transfer the possession of freely; hand over as a present; donate. 2 a transfer temporarily; provide with (gave him the dog to hold; gave her a new hip). B administer (medicine). C deliver (a message). 3 (usu. Foll. By for) make over in exchange or payment. 4 a confer; grant (a benefit, honour, etc.). B accord; bestow (love, time, etc.). C pledge (gave his word). 5 a perform (an action etc.) (gave a jump; gave a performance; gave an interview). B utter; declare (gave a shriek; gave the batsman out). 6 (in passive; foll. By to) be inclined to or fond of (is given to boasting; is given to strong drink). 7 yield to pressure; collapse. 8 yield as a product or result (gives an average of 7). 9 a consign, put (gave him into custody). B sanction the marriage of (a daughter etc.). 10 devote; dedicate (gave his life to the cause). 11 present; offer; show; hold out (gives no sign of life; gave her his arm; give me an example). 12 impart; be a source of; cause (gave me a cold; gave me trouble; gave much pain). 13 concede (i give you the benefit of the doubt). 14 deliver (a judgement etc.) Authoritatively. 15 provide (a party, meal, etc.) As host. 16 (in past part.) Assume or grant or specify (given the circumstances; in a given situation; given that we earn so little). 17 (absol.) Colloq. Tell what one knows. —n. Capacity to yield or comply; elasticity.  give and take 1 exchange of words, ideas, blows, etc. 2 ability to compromise. Give away 1 transfer as a gift. 2 hand over (a bride) to a bridegroom. 3 reveal (a secret etc.). Give the game (or show) away reveal a secret or intention. Give in 1 yield; acknowledge defeat. 2 hand in (a document etc.) To an official etc. Give it to a person colloq. Scold or punish. Give me i prefer (give me greece any day). Give off emit (fumes etc.). Give oneself up to 1 abandon oneself to (despair etc.). 2 addict oneself to. Give on to (or into) (of a window, corridor, etc.) Overlook or lead into. Give or take colloq. Accepting as a margin of error in estimating. Give out 1 announce; emit; distribute. 2 be exhausted. 3 run short. Give over 1 colloq. Stop or desist. 2 hand over. 3 devote. Give rise to cause. Give a person to understand inform or assure. Give up 1 resign; surrender. 2 part with.
+Give  —v. (-ving; past gave; past part. Given) 1 transfer the possession of freely; hand over as a present; donate. 2 a transfer temporarily; provide with (gave him the dog to hold; gave her a new hip). B administer (medicine). C deliver (a message). 3 (usu. Foll. By for) make over in exchange or payment. 4 a confer; grant (a benefit, honour, etc.). B accord; bestow (love, time, etc.). C pledge (gave his word). 5 a perform (an action etc.) (gave a jump; gave a performance; gave an interview). B utter; declare (gave a shriek; gave the batsman out). 6 (in passive; foll. By to) be inclined to or fond of (is given to boasting; is given to strong drink). 7 yield to pressure; collapse. 8 yield as a product or result (gives an average of 7). 9 a consign, put (gave him into custody). B sanction the marriage of (a daughter etc.). 10 devote; dedicate (gave his life to the cause). 11 present; offer; show; hold out (gives no sign of life; gave her his arm; give me an example). 12 impart; be a source of; cause (gave me a cold; gave me trouble; gave much pain). 13 concede (i give you the benefit of the doubt). 14 deliver (a judgement etc.) Authoritatively. 15 provide (a party, meal, etc.) As host. 16 (in past part.) Assume or grant or specify (given the circumstances; in a given situation; given that we earn so little). 17 (absol.) Colloq. Tell what one knows. —n. Capacity to yield or comply; elasticity. * give and take 1 exchange of words, ideas, blows, etc. 2 ability to compromise. Give away 1 transfer as a gift. 2 hand over (a bride) to a bridegroom. 3 reveal (a secret etc.). Give the game (or show) away reveal a secret or intention. Give in 1 yield; acknowledge defeat. 2 hand in (a document etc.) To an official etc. Give it to a person colloq. Scold or punish. Give me i prefer (give me greece any day). Give off emit (fumes etc.). Give oneself up to 1 abandon oneself to (despair etc.). 2 addict oneself to. Give on to (or into) (of a window, corridor, etc.) Overlook or lead into. Give or take colloq. Accepting as a margin of error in estimating. Give out 1 announce; emit; distribute. 2 be exhausted. 3 run short. Give over 1 colloq. Stop or desist. 2 hand over. 3 devote. Give rise to cause. Give a person to understand inform or assure. Give up 1 resign; surrender. 2 part with.
 
 Give-away  n. Colloq. 1 unintentional revelation. 2 thing given as a gift or at a low price.
 
@@ -896,11 +896,11 @@ Glacial  adj. 1 of ice. 2 geol. Characterized or produced by ice. [latin glacies
 
 Glacial period  n. Period when an exceptionally large area was covered by ice.
 
-Glaciated  adj. 1 marked or polished by the action of ice. 2 covered by glaciers or ice sheets.  glaciation n. [glaciate freeze, from latin: related to *glacial]
+Glaciated  adj. 1 marked or polished by the action of ice. 2 covered by glaciers or ice sheets. * glaciation n. [glaciate freeze, from latin: related to *glacial]
 
 Glacier  n. Mass of land ice formed by the accumulation of snow on high ground. [french: related to *glacial]
 
-Glad  adj. (gladder, gladdest) 1 (predic.) Pleased. 2 expressing or causing pleasure (glad cry; glad news). 3 ready and willing (am glad to help).  be glad of find useful.  gladly adv. Gladness n. [old english]
+Glad  adj. (gladder, gladdest) 1 (predic.) Pleased. 2 expressing or causing pleasure (glad cry; glad news). 3 ready and willing (am glad to help). * be glad of find useful. * gladly adv. Gladness n. [old english]
 
 Gladden  v. Make or become glad.
 
@@ -910,7 +910,7 @@ Glad eye  n. (prec. By the) colloq. Amorous glance.
 
 Glad hand  n. Colloq. Hearty welcome.
 
-Gladiator  n. Hist. Trained fighter in ancient roman shows.  gladiatorial adj. [latin gladius sword]
+Gladiator  n. Hist. Trained fighter in ancient roman shows. * gladiatorial adj. [latin gladius sword]
 
 Gladiolus  n. (pl. -li) plant of the lily family with sword-shaped leaves and flower-spikes. [latin, diminutive of gladius sword]
 
@@ -924,13 +924,13 @@ Glair  n. 1 white of egg. 2 adhesive preparation made from this. [french]
 
 Glam  adj. Colloq. Glamorous. [abbreviation]
 
-Glamor  n. (brit. Glamour) 1 physical, esp. Cosmetic, attractiveness. 2 alluring or exciting beauty or charm.  glamorous adj. Glamorously adv. [var. Of *grammar in obsolete sense ‘magic’]
+Glamor  n. (brit. Glamour) 1 physical, esp. Cosmetic, attractiveness. 2 alluring or exciting beauty or charm. * glamorous adj. Glamorously adv. [var. Of *grammar in obsolete sense ‘magic’]
 
 Glamorize  v. (also -ise) (-zing or -sing) make glamorous or attractive.
 
-Glamour  n. (us glamor) 1 physical, esp. Cosmetic, attractiveness. 2 alluring or exciting beauty or charm.  glamorous adj. Glamorously adv. [var. Of *grammar in obsolete sense ‘magic’]
+Glamour  n. (us glamor) 1 physical, esp. Cosmetic, attractiveness. 2 alluring or exciting beauty or charm. * glamorous adj. Glamorously adv. [var. Of *grammar in obsolete sense ‘magic’]
 
-Glance  —v. (-cing) 1 (often foll. By down, up, over, etc.) Look briefly, direct one's eye. 2 strike at an angle and glide off an object (glancing blow; ball glanced off his bat). 3 (usu. Foll. By over) refer briefly or indirectly to a subject or subjects. 4 (of light etc.) Flash or dart. —n. 1 brief look. 2 flash or gleam. 3 glancing stroke in cricket.  at a glance immediately upon looking. [origin uncertain]
+Glance  —v. (-cing) 1 (often foll. By down, up, over, etc.) Look briefly, direct one's eye. 2 strike at an angle and glide off an object (glancing blow; ball glanced off his bat). 3 (usu. Foll. By over) refer briefly or indirectly to a subject or subjects. 4 (of light etc.) Flash or dart. —n. 1 brief look. 2 flash or gleam. 3 glancing stroke in cricket. * at a glance immediately upon looking. [origin uncertain]
 
 Gland  n. 1 organ or similar structure secreting substances for use in the body or for ejection. 2 bot. Similar organ in a plant. [latin glandulae pl.]
 
@@ -942,11 +942,11 @@ Glandular fever  n. Infectious disease with swelling of the lymph glands.
 
 Glare  —v. (-ring) 1 look fiercely or fixedly. 2 shine dazzlingly or oppressively. —n. 1 a strong fierce light, esp. Sunshine. B oppressive public attention (glare of publicity). 2 fierce or fixed look. 3 tawdry brilliance. [low german or dutch]
 
-Glaring  adj. 1 obvious, conspicuous (glaring error). 2 shining oppressively.  glaringly adv.
+Glaring  adj. 1 obvious, conspicuous (glaring error). 2 shining oppressively. * glaringly adv.
 
 Glasnost  n. (in the former soviet union) policy of more open government and access to information. [russian, = openness]
 
-Glass  —n. 1 a (often attrib.) Hard, brittle, usu. Transparent substance, made by fusing sand with soda and lime etc. B substance of similar properties. 2 glass objects collectively. 3 a glass drinking vessel. B its contents. 4 mirror. 5 glazed frame for plants. 6 barometer. 7 covering of a watch-face. 8 lens. 9 (in pl.) A spectacles. B binoculars. —v. (usu. As glassed adj.) Fit with glass.  glassful n. (pl. -s). [old english]
+Glass  —n. 1 a (often attrib.) Hard, brittle, usu. Transparent substance, made by fusing sand with soda and lime etc. B substance of similar properties. 2 glass objects collectively. 3 a glass drinking vessel. B its contents. 4 mirror. 5 glazed frame for plants. 6 barometer. 7 covering of a watch-face. 8 lens. 9 (in pl.) A spectacles. B binoculars. —v. (usu. As glassed adj.) Fit with glass. * glassful n. (pl. -s). [old english]
 
 Glass-blowing  n. Blowing semi-molten glass to make glassware.
 
@@ -964,7 +964,7 @@ Glassy  adj. (-ier, -iest) 1 like glass. 2 (of the eye, expression, etc.) Abstra
 
 Glaswegian  —adj. Of glasgow. —n. Native of glasgow. [after norwegian]
 
-Glaucoma  n. Eye-condition with increased pressure in the eyeball and gradual loss of sight.  glaucomatous adj. [greek glaukos greyish blue]
+Glaucoma  n. Eye-condition with increased pressure in the eyeball and gradual loss of sight. * glaucomatous adj. [greek glaukos greyish blue]
 
 Glaze  —v. (-zing) 1 fit (a window etc.) With glass or (a building) with windows. 2 a cover (pottery etc.) With a glaze. B fix (paint) on pottery thus. 3 cover (pastry, cloth, etc.) With a glaze. 4 (often foll. By over) (of the eyes) become glassy. 5 give a glassy surface to. —n. 1 vitreous substance for glazing pottery. 2 smooth shiny coating on food etc. 3 thin coat of transparent paint to modify underlying tone. 4 surface formed by glazing. [from *glass]
 
@@ -980,13 +980,13 @@ Glebe  n. Piece of land as part of a clergyman's benefice and providing income. 
 
 Glee  n. 1 mirth; delight. 2 part-song for three or more (esp. Male) voices. [old english]
 
-Gleeful  adj. Joyful.  gleefully adv. Gleefulness n.
+Gleeful  adj. Joyful. * gleefully adv. Gleefulness n.
 
 Glen  n. Narrow valley. [gaelic]
 
 Glengarry  n. (pl. -ies) brimless scottish hat cleft down the centre and with ribbons at the back. [glengarry in scotland]
 
-Glib  adj. (glibber, glibbest) speaking or spoken quickly or fluently but without sincerity.  glibly adv. Glibness n. [obsolete glibbery slippery, perhaps imitative]
+Glib  adj. (glibber, glibbest) speaking or spoken quickly or fluently but without sincerity. * glibly adv. Glibness n. [obsolete glibbery slippery, perhaps imitative]
 
 Glide  —v. (-ding) 1 move smoothly and continuously. 2 (of an aircraft or pilot) fly without engine-power. 3 pass gradually or imperceptibly. 4 go stealthily. 5 cause to glide. —n. Gliding movement. [old english]
 
@@ -1008,11 +1008,11 @@ Glisten  —v. Shine like a wet or polished surface. —n. Glitter; sparkle. [ol
 
 Glitch  n. Colloq. Sudden irregularity or malfunction (of equipment etc.). [origin unknown]
 
-Glitter  —v. 1 shine with a bright reflected light; sparkle. 2 (usu. Foll. By with) be showy or splendid. —n. 1 sparkle. 2 showiness. 3 tiny pieces of sparkling material as decoration etc.  glittery adj. [old norse]
+Glitter  —v. 1 shine with a bright reflected light; sparkle. 2 (usu. Foll. By with) be showy or splendid. —n. 1 sparkle. 2 showiness. 3 tiny pieces of sparkling material as decoration etc. * glittery adj. [old norse]
 
 Glitterati  n.pl. Slang rich fashionable people. [from *glitter, *literati]
 
-Glitz  n. Slang showy glamour.  glitzy adj. (-ier, -iest). [from *glitter, *ritzy]
+Glitz  n. Slang showy glamour. * glitzy adj. (-ier, -iest). [from *glitter, *ritzy]
 
 Gloaming  n. Scot. Or poet. Twilight. [old english]
 
@@ -1020,7 +1020,7 @@ Gloat  —v. (often foll. By over etc.) Look or consider with greed, malice, etc
 
 Glob  n. Colloq. Mass or lump of semi-liquid substance, e.g. Mud. [perhaps from *blob, *gob2]
 
-Global  adj. 1 worldwide (global conflict). 2 all-embracing.  globally adv. [french: related to *globe]
+Global  adj. 1 worldwide (global conflict). 2 all-embracing. * globally adv. [french: related to *globe]
 
 Global warming  n. Increase in the temperature of the earth's atmosphere caused by the greenhouse effect.
 
@@ -1028,7 +1028,7 @@ Globe  n. 1 a (prec. By the) the earth. B spherical representation of it with a 
 
 Globe artichoke  n. The partly edible head of the artichoke plant.
 
-Globe-trotter  n. Colloq. Person who travels widely.  globe-trotting n. & attrib. Adj.
+Globe-trotter  n. Colloq. Person who travels widely. * globe-trotting n. & attrib. Adj.
 
 Globular  adj. 1 globe-shaped. 2 composed of globules.
 
@@ -1040,23 +1040,23 @@ Glockenspiel  n. Musical instrument with bells or metal bars or tubes struck by 
 
 Gloom  n. 1 darkness; obscurity. 2 melancholy; despondency. [origin unknown]
 
-Gloomy  adj. (-ier, -iest) 1 dark; unlit. 2 depressed or depressing.  gloomily adv. Gloominess n.
+Gloomy  adj. (-ier, -iest) 1 dark; unlit. 2 depressed or depressing. * gloomily adv. Gloominess n.
 
-Glorify  v. (-ies, -ied) 1 make glorious. 2 make seem better or more splendid than it is. 3 (as glorified adj.) Invested with more attractiveness, importance, etc. Than it has in reality (glorified waitress). 4 extol.  glorification n. [latin: related to *glory]
+Glorify  v. (-ies, -ied) 1 make glorious. 2 make seem better or more splendid than it is. 3 (as glorified adj.) Invested with more attractiveness, importance, etc. Than it has in reality (glorified waitress). 4 extol. * glorification n. [latin: related to *glory]
 
-Glorious  adj. 1 possessing or conferring glory; illustrious. 2 colloq. Often iron. Splendid, excellent (glorious day; glorious muddle).  gloriously adv.
+Glorious  adj. 1 possessing or conferring glory; illustrious. 2 colloq. Often iron. Splendid, excellent (glorious day; glorious muddle). * gloriously adv.
 
 Glory  —n. (pl. -ies) 1 renown, fame; honour. 2 adoring praise. 3 resplendent majesty, beauty, etc. 4 thing that brings renown, distinction, or pride. 5 heavenly bliss and splendour. 6 colloq. State of exaltation, prosperity, etc. 7 halo of a saint etc. —v. (-ies, -ied) (often foll. By in) pride oneself. [latin gloria]
 
 Glory-hole  n. Colloq. Untidy room, cupboard, etc.
 
-Gloss1  —n. 1 surface shine or lustre. 2 deceptively attractive appearance. 3 (in full gloss paint) paint giving a glossy finish. —v. Make glossy.  gloss over seek to conceal, esp. By mentioning only briefly. [origin unknown]
+Gloss1  —n. 1 surface shine or lustre. 2 deceptively attractive appearance. 3 (in full gloss paint) paint giving a glossy finish. —v. Make glossy. * gloss over seek to conceal, esp. By mentioning only briefly. [origin unknown]
 
 Gloss2  —n. 1 explanatory comment added to a text, e.g. In the margin. 2 interpretation or paraphrase. —v. Add a gloss to (a text, word, etc.). [latin glossa tongue]
 
 Glossary  n. (pl. -ies) 1 list or dictionary of technical or special words. 2 collection of glosses. [latin: related to *gloss2]
 
-Glossy  —adj. (-ier, -iest) 1 smooth and shiny (glossy paper). 2 printed on such paper. —n. (pl. -ies) colloq. Glossy magazine or photograph.  glossily adv. Glossiness n.
+Glossy  —adj. (-ier, -iest) 1 smooth and shiny (glossy paper). 2 printed on such paper. —n. (pl. -ies) colloq. Glossy magazine or photograph. * glossily adv. Glossiness n.
 
 Glottal  adj. Of the glottis.
 
@@ -1074,7 +1074,7 @@ Glove puppet  n. Small puppet fitted on the hand and worked by the fingers.
 
 Glover  n. Glove-maker.
 
-Glow  —v. 1 a emit light and heat without flame. B shine as if heated in this way.  2 (often foll. By with) a (of the body) be heated. B show or feel strong emotion (glowed with pride). 3 show a warm colour. 4 (as glowing adj.) Expressing pride or satisfaction (glowing report). —n. 1 glowing state. 2 bright warm colour. 3 feeling of satisfaction or well-being. [old english]
+Glow  —v. 1 a emit light and heat without flame. B shine as if heated in this way. 2 (often foll. By with) a (of the body) be heated. B show or feel strong emotion (glowed with pride). 3 show a warm colour. 4 (as glowing adj.) Expressing pride or satisfaction (glowing report). —n. 1 glowing state. 2 bright warm colour. 3 feeling of satisfaction or well-being. [old english]
 
 Glower  —v. 1 (often foll. By at) look angrily. 2 look dark or threatening. —n. Glowering look. [origin uncertain]
 
@@ -1084,13 +1084,13 @@ Gloxinia  n. American tropical plant with large bell-shaped flowers. [gloxin, na
 
 Glucose  n. Sugar found in the blood or in fruit juice etc., and as a constituent of starch, cellulose, etc. [greek gleukos sweet wine]
 
-Glue  —n. Adhesive substance. —v. (glues, glued, gluing or glueing) 1 fasten or join with glue. 2 keep or put very close (eye glued to the keyhole).  gluey adj. (gluier, gluiest). [latin glus: related to *gluten]
+Glue  —n. Adhesive substance. —v. (glues, glued, gluing or glueing) 1 fasten or join with glue. 2 keep or put very close (eye glued to the keyhole). * gluey adj. (gluier, gluiest). [latin glus: related to *gluten]
 
 Glue ear  n. Blocking of the eustachian tube, esp. In children.
 
-Glue-sniffing  n. Inhalation of fumes from adhesives as an intoxicant.  glue-sniffer n.
+Glue-sniffing  n. Inhalation of fumes from adhesives as an intoxicant. * glue-sniffer n.
 
-Glum  adj. (glummer, glummest) dejected; sullen.  glumly adv. Glumness n. [var. Of *gloom]
+Glum  adj. (glummer, glummest) dejected; sullen. * glumly adv. Glumness n. [var. Of *gloom]
 
 Glut  —v. (-tt-) 1 feed (a person, one's stomach, etc.) Or indulge (a desire etc.) To the full; satiate. 2 fill to excess. 3 overstock (a market). —n. 1 supply exceeding demand. 2 full indulgence; surfeit. [french gloutir swallow: related to *glutton]
 
@@ -1102,7 +1102,7 @@ Gluten  n. Mixture of proteins present in cereal grains; sticky protein substanc
 
 Glutinous  adj. Sticky; like glue. [latin: related to *gluten]
 
-Glutton  n. 1 greedy eater. 2 (often foll. By for) colloq. Person insatiably eager (glutton for work). 3 voracious animal of the weasel family.  gluttonous adj. Gluttonously adv. [latin gluttio *swallow1]
+Glutton  n. 1 greedy eater. 2 (often foll. By for) colloq. Person insatiably eager (glutton for work). 3 voracious animal of the weasel family. * gluttonous adj. Gluttonously adv. [latin gluttio *swallow1]
 
 Glutton for punishment  n. Person eager to take on hard or unpleasant tasks.
 
@@ -1138,19 +1138,19 @@ Gnaw  v. 1 a (usu. Foll. By away etc.) Wear away by biting. B (often foll. By at
 
 Gneiss  n. Coarse-grained metamorphic rock of feldspar, quartz, and mica. [german]
 
-Gnome  n. 1 a dwarfish legendary spirit or goblin living underground. B figure of this as a garden ornament. 2 (esp. In pl.) Colloq. Person with sinister influence, esp. Financial (gnomes of zurich).  gnomish adj. [french]
+Gnome  n. 1 a dwarfish legendary spirit or goblin living underground. B figure of this as a garden ornament. 2 (esp. In pl.) Colloq. Person with sinister influence, esp. Financial (gnomes of zurich). * gnomish adj. [french]
 
 Gnomic  adj. Of aphorisms; sententious. [greek gnome opinion]
 
 Gnomon  n. Rod or pin etc. On a sundial, showing the time by its shadow. [greek, = indicator]
 
-Gnostic  —adj. 1 of knowledge; having special mystical knowledge. 2 (gnostic) concerning the gnostics. —n. (gnostic) (usu. In pl.) Early christian heretic claiming mystical knowledge.  gnosticism n. [greek gnosis knowledge]
+Gnostic  —adj. 1 of knowledge; having special mystical knowledge. 2 (gnostic) concerning the gnostics. —n. (gnostic) (usu. In pl.) Early christian heretic claiming mystical knowledge. * gnosticism n. [greek gnosis knowledge]
 
 Gnp  abbr. Gross national product.
 
 Gnu  n. (pl. Same or -s) oxlike antelope. [bushman nqu]
 
-Go1  —v. (3rd sing. Present goes; past went; past part. Gone) 1 a start moving or be moving from one place or point in time to another; travel, proceed. B (foll. By and + verb) colloq. Expressing annoyance (you went and told him). 2 (foll. By verbal noun) make a special trip for; participate in (went skiing; goes running). 3 lie or extend in a certain direction (the road goes to london). 4 leave; depart (they had to go). 5 move, act, work, etc. (clock doesn't go). 6 a make a specified movement (go like this with your foot). B make a sound (often of a specified kind) (gun went bang; door bell went). C (of an animal) make (its characteristic cry) (the cow went ‘moo’). D colloq. Say (so he goes to me ‘why didn't you like it?’). 7 be in a specified state (go hungry; went in fear of his life). 8 a pass into a specified condition (gone bad; went to sleep). B colloq. Die. C proceed or escape in a specified condition (poet went unrecognized). 9 (of time or distance) pass, elapse; be traversed (ten days to go before easter; the last mile went quickly). 10 a (of a document, verse, song, etc.) Have a specified content or wording (the tune goes like this). B be current or accepted (so the story goes). C be suitable; fit; match (the shoes don't go with the hat; those pinks don't go). D be regularly kept or put (the forks go here). E find room; fit (this won't go into the cupboard). 11 a turn out, proceed; take a course or view (things went well; liverpool went labour). B be successful (make the party go). 12 a be sold (went for £1; went cheap). B (of money) be spent. 13 a be relinquished or abolished (the car will have to go). B fail, decline; give way, collapse (his sight is going; the bulb has gone). 14 be acceptable or permitted; be accepted without question (anything goes; what i say goes). 15 (often foll. By by, with, on, upon) be guided by; judge or act on or in harmony with (have nothing to go on; a good rule to go by). 16 attend regularly (goes to school). 17 (foll. By pres. Part.) Colloq. Proceed (often foolishly) to do (went running to the police; don't go making him angry). 18 act or proceed to a certain point (will go so far and no further; went as high as £100). 19 (of a number) be capable of being contained in another (6 into 5 won't go). 20 (usu. Foll. By to) be allotted or awarded; pass (first prize went to the girl). 21 (foll. By to, towards) amount to; contribute to (12 inches go to make a foot; this will go towards your holiday). 22 (in imper.) Begin motion (a starter's order in a race) (ready, steady, go!). 23 (usu. Foll. By by, under) be known or called (goes by the name of droopy). 24 colloq. Proceed to (go jump in the lake). 25 (foll. By for) apply to (that goes for me too). —n. (pl. Goes) 1 mettle; animation (has a lot of go in her). 2 vigorous activity (it's all go). 3 colloq. Success (made a go of it). 4 colloq. Turn; attempt (i'll have a go; it's my go). —adj. Colloq. Functioning properly (all systems are go).  go about 1 set to work at. 2 be socially active. 3 (foll. By pres. Part.) Make a habit of doing. Go ahead proceed without hesitation. Go along with agree to or with. Go back on fail to keep (a promise etc.). Go begging see *beg. Go down 1 a (of an amount) become less through use (coffee has gone down). B subside (the flood went down). C decrease in price. 2 a (of a ship) sink. B (of the sun) set. C (of a curtain) fall. 3 deteriorate; (of a computer system etc.) Cease to function. 4 be recorded in writing. 5 be swallowed. 6 (often foll. By with) find acceptance. 7 colloq. Leave university.
+Go1  —v. (3rd sing. Present goes; past went; past part. Gone) 1 a start moving or be moving from one place or point in time to another; travel, proceed. B (foll. By and + verb) colloq. Expressing annoyance (you went and told him). 2 (foll. By verbal noun) make a special trip for; participate in (went skiing; goes running). 3 lie or extend in a certain direction (the road goes to london). 4 leave; depart (they had to go). 5 move, act, work, etc. (clock doesn't go). 6 a make a specified movement (go like this with your foot). B make a sound (often of a specified kind) (gun went bang; door bell went). C (of an animal) make (its characteristic cry) (the cow went ‘moo’). D colloq. Say (so he goes to me ‘why didn't you like it?’). 7 be in a specified state (go hungry; went in fear of his life). 8 a pass into a specified condition (gone bad; went to sleep). B colloq. Die. C proceed or escape in a specified condition (poet went unrecognized). 9 (of time or distance) pass, elapse; be traversed (ten days to go before easter; the last mile went quickly). 10 a (of a document, verse, song, etc.) Have a specified content or wording (the tune goes like this). B be current or accepted (so the story goes). C be suitable; fit; match (the shoes don't go with the hat; those pinks don't go). D be regularly kept or put (the forks go here). E find room; fit (this won't go into the cupboard). 11 a turn out, proceed; take a course or view (things went well; liverpool went labour). B be successful (make the party go). 12 a be sold (went for £1; went cheap). B (of money) be spent. 13 a be relinquished or abolished (the car will have to go). B fail, decline; give way, collapse (his sight is going; the bulb has gone). 14 be acceptable or permitted; be accepted without question (anything goes; what i say goes). 15 (often foll. By by, with, on, upon) be guided by; judge or act on or in harmony with (have nothing to go on; a good rule to go by). 16 attend regularly (goes to school). 17 (foll. By pres. Part.) Colloq. Proceed (often foolishly) to do (went running to the police; don't go making him angry). 18 act or proceed to a certain point (will go so far and no further; went as high as £100). 19 (of a number) be capable of being contained in another (6 into 5 won't go). 20 (usu. Foll. By to) be allotted or awarded; pass (first prize went to the girl). 21 (foll. By to, towards) amount to; contribute to (12 inches go to make a foot; this will go towards your holiday). 22 (in imper.) Begin motion (a starter's order in a race) (ready, steady, go!). 23 (usu. Foll. By by, under) be known or called (goes by the name of droopy). 24 colloq. Proceed to (go jump in the lake). 25 (foll. By for) apply to (that goes for me too). —n. (pl. Goes) 1 mettle; animation (has a lot of go in her). 2 vigorous activity (it's all go). 3 colloq. Success (made a go of it). 4 colloq. Turn; attempt (i'll have a go; it's my go). —adj. Colloq. Functioning properly (all systems are go). * go about 1 set to work at. 2 be socially active. 3 (foll. By pres. Part.) Make a habit of doing. Go ahead proceed without hesitation. Go along with agree to or with. Go back on fail to keep (a promise etc.). Go begging see *beg. Go down 1 a (of an amount) become less through use (coffee has gone down). B subside (the flood went down). C decrease in price. 2 a (of a ship) sink. B (of the sun) set. C (of a curtain) fall. 3 deteriorate; (of a computer system etc.) Cease to function. 4 be recorded in writing. 5 be swallowed. 6 (often foll. By with) find acceptance. 7 colloq. Leave university.
 
 Goad  —v. 1 urge on with a goad. 2 (usu. Foll. By on, into) irritate; stimulate. —n. 1 spiked stick used for urging cattle forward. 2 anything that torments or incites. [old english]
 
@@ -1164,7 +1164,7 @@ Goalkeeper  n. Player defending a goal.
 
 Goalpost  n. Either of the two upright posts of a goal.
 
-Goat  n. 1 hardy domesticated mammal, with horns and (in the male) a beard. 2 lecherous man. 3 colloq. Foolish person. 4 (the goat) zodiacal sign or constellation capricorn.  get a person's goat colloq. Irritate a person. [old english]
+Goat  n. 1 hardy domesticated mammal, with horns and (in the male) a beard. 2 lecherous man. 3 colloq. Foolish person. 4 (the goat) zodiacal sign or constellation capricorn. * get a person's goat colloq. Irritate a person. [old english]
 
 Goatee  n. Small pointed beard.
 
@@ -1198,7 +1198,7 @@ Goby  n. (pl. -ies) small fish with ventral fins joined to form a disc or sucker
 
 Go-cart  n. Var. Of *go-kart.
 
-God  n. 1 a (in many religions) superhuman being or spirit worshipped as having power over nature, human fortunes, etc. B image, idol, etc., symbolizing a god. 2 (god) (in christian and other monotheistic religions) creator and ruler of the universe. 3 adored or greatly admired person. 4 (in pl.) Theatr. Gallery.  god forbid may it not happen! God knows 1 it is beyond all knowledge. 2 i call god to witness that. God willing if providence allows. [old english]
+God  n. 1 a (in many religions) superhuman being or spirit worshipped as having power over nature, human fortunes, etc. B image, idol, etc., symbolizing a god. 2 (god) (in christian and other monotheistic religions) creator and ruler of the universe. 3 adored or greatly admired person. 4 (in pl.) Theatr. Gallery. * god forbid may it not happen! God knows 1 it is beyond all knowledge. 2 i call god to witness that. God willing if providence allows. [old english]
 
 Godchild  n. Person in relation to his or her godparent.
 
@@ -1214,11 +1214,11 @@ God-forsaken  adj. Dismal.
 
 Godhead  n. (also godhead) 1 a state of being god or a god. B divine nature. 2 deity. 3 (the godhead) god.
 
-Godless  adj. 1 impious; wicked. 2 without a god. 3 not recognizing god.  godlessness n.
+Godless  adj. 1 impious; wicked. 2 without a god. 3 not recognizing god. * godlessness n.
 
 Godlike  adj. Resembling god or a god.
 
-Godly  adj. (-ier, -iest) pious, devout.  godliness n.
+Godly  adj. (-ier, -iest) pious, devout. * godliness n.
 
 Godmother  n. Female godparent.
 
@@ -1237,9 +1237,10 @@ Go-getter  n. Colloq. Aggressively enterprising person.
 Goggle  —v. (-ling) 1 a (often foll. By at) look with wide-open eyes. B (of the eyes) be rolled about; protrude. 2 roll (the eyes). —adj. (usu. Attrib.) (of the eyes) protuberant or rolling. —n. (in pl.) Spectacles for protecting the eyes. [probably imitative]
 
 Goggle-box  n. Colloq. Television set.
+
 Go-go  adj. Colloq. (of a dancer, music, etc.) In modern style; lively, erotic, and rhythmic.
 
-Going  —n. 1 act or process of going. 2 a condition of the ground for walking, riding, etc. B progress affected by this. —adj. 1 in or into action (set the clock going). 2 existing, available (there's cold beef going). 3 current, prevalent (the going rate).  get going start steadily talking, working, etc. Going on fifteen etc. Esp. Us approaching one's fifteenth etc. Birthday. Going on for approaching (a time, age, etc.). Going strong continuing vigorously. Going to intending to; about to. To be going on with to start with; for the time being. While the going is good while conditions are favourable.
+Going  —n. 1 act or process of going. 2 a condition of the ground for walking, riding, etc. B progress affected by this. —adj. 1 in or into action (set the clock going). 2 existing, available (there's cold beef going). 3 current, prevalent (the going rate). * get going start steadily talking, working, etc. Going on fifteen etc. Esp. Us approaching one's fifteenth etc. Birthday. Going on for approaching (a time, age, etc.). Going strong continuing vigorously. Going to intending to; about to. To be going on with to start with; for the time being. While the going is good while conditions are favourable.
 
 Going concern  n. Thriving business.
 
@@ -1305,7 +1306,7 @@ Goldsmith  n. Worker in gold.
 
 Gold standard  n. System by which the value of a currency is defined in terms of gold.
 
-Golf  —n. Game in which a small hard ball is driven with clubs into a series of 18 or 9 holes with the fewest possible strokes. —v. Play golf.  golfer n. [origin unknown]
+Golf  —n. Game in which a small hard ball is driven with clubs into a series of 18 or 9 holes with the fewest possible strokes. —v. Play golf. * golfer n. [origin unknown]
 
 Golf ball  n. 1 ball used in golf. 2 colloq. Small ball used in some electric typewriters to carry the type.
 
@@ -1327,7 +1328,7 @@ Gondola  n. 1 light flat-bottomed boat used on venetian canals. 2 car suspended 
 
 Gondolier  n. Oarsman on a gondola. [italian: related to *gondola]
 
-Gone  adj. 1 (of time) past (not until gone nine). 2 a lost; hopeless. B dead. 3 colloq. Pregnant for a specified time (already three months gone). 4 slang completely enthralled or entranced, esp. By rhythmic music, drugs, etc.  be gone depart; leave temporarily (cf. *begone). Gone on slang infatuated with. [past part. Of *go1]
+Gone  adj. 1 (of time) past (not until gone nine). 2 a lost; hopeless. B dead. 3 colloq. Pregnant for a specified time (already three months gone). 4 slang completely enthralled or entranced, esp. By rhythmic music, drugs, etc. * be gone depart; leave temporarily (cf. *begone). Gone on slang infatuated with. [past part. Of *go1]
 
 Goner  n. Slang person or thing that is doomed or irrevocably lost.
 
@@ -1339,7 +1340,7 @@ Gonorrhoea  n. (us gonorrhea) venereal disease with inflammatory discharge from 
 
 Goo  n. Colloq. 1 sticky or slimy substance. 2 sickly sentiment. [origin unknown]
 
-Good  —adj. (better, best) 1 having the right or desired qualities; adequate. 2 a (of a person) efficient, competent (good at french; good driver). B effective, reliable (good brakes). 3 a kind. B morally excellent; virtuous (good deed). C well-behaved (good child). 4 enjoyable, agreeable (good party; good news). 5 thorough, considerable (a good wash). 6 a not less than (waited a good hour). B considerable in number, quality, etc. (a good many people). 7 beneficial (milk is good for you). 8 a valid, sound (good reason). B financially sound (his credit is good). 9 in exclamations of surprise (good heavens!). 10 (sometimes patronizing) commendable, worthy (good old george; my good man). 11 in courteous greetings and farewells (good morning). —n. 1 (only in sing.) That which is good; what is beneficial or morally right (only good can come of it; what good will it do?). 2 (in pl.) A movable property or merchandise. B things to be transported. C (prec. By the) colloq. What one has undertaken to supply (esp. Deliver the goods). —adv. Us colloq. Well (doing pretty good).  as good as practically. Be (a certain amount) to the good have as net profit or advantage. For good (and all) finally, permanently. Good for 1 beneficial to; having a good effect on. 2 able to perform. 3 able to be trusted to pay. Good riddance see *riddance. Have the goods on a person slang have information about a person giving one an advantage over him or her. In good faith with honest or sincere intentions. In good time 1 with no risk of being late. 2 (also all in good time) in due course but without haste. To the good having as profit or benefit. [old english]
+Good  —adj. (better, best) 1 having the right or desired qualities; adequate. 2 a (of a person) efficient, competent (good at french; good driver). B effective, reliable (good brakes). 3 a kind. B morally excellent; virtuous (good deed). C well-behaved (good child). 4 enjoyable, agreeable (good party; good news). 5 thorough, considerable (a good wash). 6 a not less than (waited a good hour). B considerable in number, quality, etc. (a good many people). 7 beneficial (milk is good for you). 8 a valid, sound (good reason). B financially sound (his credit is good). 9 in exclamations of surprise (good heavens!). 10 (sometimes patronizing) commendable, worthy (good old george; my good man). 11 in courteous greetings and farewells (good morning). —n. 1 (only in sing.) That which is good; what is beneficial or morally right (only good can come of it; what good will it do?). 2 (in pl.) A movable property or merchandise. B things to be transported. C (prec. By the) colloq. What one has undertaken to supply (esp. Deliver the goods). —adv. Us colloq. Well (doing pretty good). * as good as practically. Be (a certain amount) to the good have as net profit or advantage. For good (and all) finally, permanently. Good for 1 beneficial to; having a good effect on. 2 able to perform. 3 able to be trusted to pay. Good riddance see *riddance. Have the goods on a person slang have information about a person giving one an advantage over him or her. In good faith with honest or sincere intentions. In good time 1 with no risk of being late. 2 (also all in good time) in due course but without haste. To the good having as profit or benefit. [old english]
 
 Good book  n. (prec. By the) the bible.
 
@@ -1357,7 +1358,7 @@ Good-hearted  adj. Kindly, well-meaning.
 
 Good humour  n. Genial mood.
 
-Good-humoured  adj. Cheerful, amiable.  good-humouredly adv.
+Good-humoured  adj. Cheerful, amiable. * good-humouredly adv.
 
 Goodie  var. Of *goody n.
 
@@ -1365,11 +1366,11 @@ Good job  n. Fortunate state of affairs.
 
 Good-looking  adj. Handsome.
 
-Goodly  adj. (-ier, -iest) 1 handsome. 2 of imposing size etc.  goodliness n. [old english]
+Goodly  adj. (-ier, -iest) 1 handsome. 2 of imposing size etc. * goodliness n. [old english]
 
 Good nature  n. Friendly disposition.
 
-Good-natured  adj. Kind, patient; easygoing.  good-naturedly adv.
+Good-natured  adj. Kind, patient; easygoing. * good-naturedly adv.
 
 Goodness  —n. 1 virtue; excellence. 2 kindness (had the goodness to wait). 3 what is beneficial in a thing. —int. (esp. As a substitution for ‘god’) expressing surprise, anger, etc. (goodness me!; goodness knows).
 
@@ -1397,7 +1398,7 @@ Goon  n. Slang 1 stupid person. 2 esp. Us ruffian hired by racketeers etc. [orig
 
 Goose  n. (pl. Geese) 1 a large water-bird with webbed feet and a broad bill. B female of this (opp. *gander 1). C flesh of a goose as food. 2 colloq. Simpleton. [old english]
 
-Gooseberry  n. (pl. -ies) 1 yellowish-green berry with juicy flesh. 2 thorny shrub bearing this.  play gooseberry colloq. Be an unwanted extra person. [origin uncertain]
+Gooseberry  n. (pl. -ies) 1 yellowish-green berry with juicy flesh. 2 thorny shrub bearing this. * play gooseberry colloq. Be an unwanted extra person. [origin uncertain]
 
 Goose-flesh  n. (also goose-pimples; us goose-bumps) bristling state of the skin produced by cold, fright, etc.
 
@@ -1405,7 +1406,7 @@ Goose-step  n. Military marching step in which the knees are kept stiff.
 
 Gopher  n. American burrowing rodent, ground-squirrel, or burrowing tortoise. [origin uncertain]
 
-Gordian  adj.  cut the gordian knot solve a problem by force or by evasion. [gordius king of phrygia, who tied a knot later cut by alexander the great]
+Gordian  adj. * cut the gordian knot solve a problem by force or by evasion. [gordius king of phrygia, who tied a knot later cut by alexander the great]
 
 Gore1  n. Blood shed and clotted. [old english, = dirt]
 
@@ -1413,9 +1414,9 @@ Gore2  v. (-ring) pierce with a horn, tusk, etc. [origin unknown]
 
 Gore3  —n. 1 wedge-shaped piece in a garment. 2 triangular or tapering piece in an umbrella etc. —v. (-ring) shape (a garment) with a gore. [old english, = triangle of land]
 
-Gorge  —n. 1 narrow opening between hills. 2 act of gorging. 3 contents of the stomach. —v. (-ging) 1 feed greedily. 2 a (often refl.) Satiate. B devour greedily.  one's gorge rises at one is sickened by. [french, = throat]
+Gorge  —n. 1 narrow opening between hills. 2 act of gorging. 3 contents of the stomach. —v. (-ging) 1 feed greedily. 2 a (often refl.) Satiate. B devour greedily. * one's gorge rises at one is sickened by. [french, = throat]
 
-Gorgeous  adj. 1 richly coloured, sumptuous. 2 colloq. Very pleasant, splendid (gorgeous weather). 3 colloq. Strikingly beautiful.  gorgeously adv. [french]
+Gorgeous  adj. 1 richly coloured, sumptuous. 2 colloq. Very pleasant, splendid (gorgeous weather). 3 colloq. Strikingly beautiful. * gorgeously adv. [french]
 
 Gorgon  n. 1 (in greek mythology) each of three snake-haired sisters (esp. Medusa) with the power to turn anyone who looked at them to stone. 2 frightening or repulsive woman. [greek gorgos terrible]
 
@@ -1423,13 +1424,13 @@ Gorgonzola  n. Type of rich cheese with bluish-green veins. [gorgonzola in italy
 
 Gorilla  n. Largest anthropoid ape, native to africa. [greek, perhaps from african = wild man]
 
-Gormless  adj. Colloq. Foolish, lacking sense.  gormlessly adv. [originally gaumless from dial. Gaum understanding]
+Gormless  adj. Colloq. Foolish, lacking sense. * gormlessly adv. [originally gaumless from dial. Gaum understanding]
 
-Gorse  n. Spiny yellow-flowered shrub; furze.  gorsy adj. [old english]
+Gorse  n. Spiny yellow-flowered shrub; furze. * gorsy adj. [old english]
 
 Gorsedd  n. Druidic order, meeting before the eisteddfod. [welsh, literally ‘throne’]
 
-Gory  adj. (-ier, -iest) 1 involving bloodshed; bloodthirsty. 2 covered in gore.  gorily adv. Goriness n.
+Gory  adj. (-ier, -iest) 1 involving bloodshed; bloodthirsty. 2 covered in gore. * gorily adv. Goriness n.
 
 Gosh  int. Expressing surprise. [euphemism for *god]
 
@@ -1443,9 +1444,9 @@ Gospel  n. 1 teaching or revelation of christ. 2 (gospel) a record of christ's l
 
 Gossamer  —n. 1 filmy substance of small spiders' webs. 2 delicate filmy material. —adj. Light and flimsy as gossamer. [origin uncertain]
 
-Gossip  —n. 1 a unconstrained talk or writing, esp. About persons or social incidents. B idle talk. 2 person who indulges in gossip. —v. (-p-) talk or write gossip.  gossipy adj. [old english, originally ‘godparent’, hence ‘familiar acquaintance’]
+Gossip  —n. 1 a unconstrained talk or writing, esp. About persons or social incidents. B idle talk. 2 person who indulges in gossip. —v. (-p-) talk or write gossip. * gossipy adj. [old english, originally ‘godparent’, hence ‘familiar acquaintance’]
 
-Gossip column  n. Section of a newspaper devoted to gossip about well-known people.  gossip columnist n.
+Gossip column  n. Section of a newspaper devoted to gossip about well-known people. * gossip columnist n.
 
 Got  past and past part. Of *get.
 
@@ -1473,7 +1474,7 @@ Gourmandise  n. Gluttony.
 
 Gourmet  n. Connoisseur of good food. [french]
 
-Gout  n. Disease with inflammation of the smaller joints, esp. Of the toe.  gouty adj. [latin gutta drop]
+Gout  n. Disease with inflammation of the smaller joints, esp. Of the toe. * gouty adj. [latin gutta drop]
 
 Govern  v. 1 rule or control with authority; conduct the policy and affairs of. 2 influence or determine (a person or course of action). 3 be a standard or principle for. 4 check or control (esp. Passions). 5 gram. (esp. Of a verb or preposition) have (a noun or pronoun or its case) depending on it. [greek kubernao steer]
 
@@ -1481,9 +1482,9 @@ Governance  n. 1 act or manner of governing. 2 function of governing. [french: r
 
 Governess  n. Woman employed to teach children in a private household.
 
-Government  n. 1 act or manner of governing. 2 system by which a state is governed. 3 a body of persons governing a state. B (usu. Government) particular ministry in office. 4 the state as an agent.  governmental adj.
+Government  n. 1 act or manner of governing. 2 system by which a state is governed. 3 a body of persons governing a state. B (usu. Government) particular ministry in office. 4 the state as an agent. * governmental adj.
 
-Governor  n. 1 ruler. 2 a official governing a province, town, etc. B representative of the crown in a colony. 3 executive head of each state of the us. 4 officer commanding a fortress etc. 5 head or member of the governing body of an institution. 6 official in charge of a prison. 7 a slang one's employer. B slang one's father. 8 mech. Automatic regulator controlling the speed of an engine etc.  governorship n.
+Governor  n. 1 ruler. 2 a official governing a province, town, etc. B representative of the crown in a colony. 3 executive head of each state of the us. 4 officer commanding a fortress etc. 5 head or member of the governing body of an institution. 6 official in charge of a prison. 7 a slang one's employer. B slang one's father. 8 mech. Automatic regulator controlling the speed of an engine etc. * governorship n.
 
 Governor-general  n. Representative of the crown in a commonwealth country that regards the queen as head of state.
 
@@ -1499,31 +1500,31 @@ Gr  abbr. (also gr.) 1 gram(s). 2 grains. 3 gross.
 
 Grab  —v. (-bb-) 1 seize suddenly. 2 take greedily or unfairly. 3 slang attract the attention of, impress. 4 (foll. By at) snatch at. 5 (of brakes) act harshly or jerkily. —n. 1 sudden clutch or attempt to seize. 2 mechanical device for clutching. [low german or dutch]
 
-Grace  —n. 1 attractiveness, esp. In elegance of proportion or manner or movement. 2 courteous good will (had the grace to apologize). 3 attractive feature; accomplishment (social graces). 4 a (in christian belief) the unmerited favour of god. B state of receiving this. 5 goodwill, favour. 6 delay granted as a favour (a year's grace). 7 short thanksgiving before or after a meal. 8 (grace) (in greek mythology) each of three beautiful sister goddesses, bestowers of beauty and charm. 9 (grace) (prec. By his, her, your) forms of description or address for a duke, duchess, or archbishop. —v. (-cing) (often foll. By with) add grace to; confer honour on (graced us with his presence).  with good (or bad) grace as if willingly (or reluctantly). [latin gratia]
+Grace  —n. 1 attractiveness, esp. In elegance of proportion or manner or movement. 2 courteous good will (had the grace to apologize). 3 attractive feature; accomplishment (social graces). 4 a (in christian belief) the unmerited favour of god. B state of receiving this. 5 goodwill, favour. 6 delay granted as a favour (a year's grace). 7 short thanksgiving before or after a meal. 8 (grace) (in greek mythology) each of three beautiful sister goddesses, bestowers of beauty and charm. 9 (grace) (prec. By his, her, your) forms of description or address for a duke, duchess, or archbishop. —v. (-cing) (often foll. By with) add grace to; confer honour on (graced us with his presence). * with good (or bad) grace as if willingly (or reluctantly). [latin gratia]
 
-Graceful  adj. Having or showing grace or elegance.  gracefully adv. Gracefulness n.
+Graceful  adj. Having or showing grace or elegance. * gracefully adv. Gracefulness n.
 
 Graceless  adj. Lacking grace, elegance, or charm.
 
 Grace-note  n. Mus. Extra note as an embellishment.
 
-Gracious  —adj. 1 kind; indulgent and beneficent to inferiors. 2 (of god) merciful, benign. —int. Expressing surprise.  graciously adv. Graciousness n. [latin: related to *grace]
+Gracious  —adj. 1 kind; indulgent and beneficent to inferiors. 2 (of god) merciful, benign. —int. Expressing surprise. * graciously adv. Graciousness n. [latin: related to *grace]
 
 Gracious living  n. Elegant way of life.
 
 Gradate  v. (-ting) 1 (cause to) pass gradually from one shade to another. 2 arrange in steps or grades of size etc.
 
-Gradation  n. (usu. In pl.) 1 stage of transition or advance. 2 a certain degree in rank, intensity, etc. B arrangement in such degrees.  gradational adj. [latin: related to *grade]
+Gradation  n. (usu. In pl.) 1 stage of transition or advance. 2 a certain degree in rank, intensity, etc. B arrangement in such degrees. * gradational adj. [latin: related to *grade]
 
 Grade  —n. 1 a certain degree in rank, merit, proficiency, etc. B class of persons or things of the same grade. 2 mark indicating the quality of a student's work. 3 us class in school. 4 gradient, slope. —v. (-ding) 1 arrange in grades. 2 (foll. By up, down, off, into, etc.) Pass gradually between grades, or into a grade. 3 give a grade to (a student). 4 reduce (a road etc.) To easy gradients. [latin gradus step]
 
 Gradient  n. 1 stretch of road, railway, etc., that slopes. 2 amount of such a slope. [probably from *grade after salient]
 
-Gradual  adj. 1 progressing by degrees. 2 not rapid, steep, or abrupt.  gradually adv. [latin: related to *grade]
+Gradual  adj. 1 progressing by degrees. 2 not rapid, steep, or abrupt. * gradually adv. [latin: related to *grade]
 
 Gradualism  n. Policy of gradual reform.
 
-Graduate  —n. Person holding an academic degree. —v. (-ting) 1 obtain an academic degree. 2 (foll. By to) move up to (a higher grade of activity etc.). 3 mark out in degrees or parts. 4 arrange in gradations; apportion (e.g. Tax) according to a scale.  graduation n. [medieval latin graduor take a degree: related to *grade]
+Graduate  —n. Person holding an academic degree. —v. (-ting) 1 obtain an academic degree. 2 (foll. By to) move up to (a higher grade of activity etc.). 3 mark out in degrees or parts. 4 arrange in gradations; apportion (e.g. Tax) according to a scale. * graduation n. [medieval latin graduor take a degree: related to *grade]
 
 Graeco-roman  adj. Of the greeks and romans.
 
@@ -1535,7 +1536,7 @@ Graft2  colloq. —n. 1 practices, esp. Bribery, used to secure illicit gains in
 
 Grail  n. (in full holy grail) (in medieval legend) cup or platter used by christ at the last supper. [medieval latin gradalis dish]
 
-Grain  —n. 1 fruit or seed of a cereal. 2 (collect.) Wheat or any allied grass used as food; corn. 3 small hard particle of salt, sand, etc. 4 unit of weight, 0.0648 gram. 5 smallest possible quantity (not a grain of truth in it). 6 roughness of surface. 7 texture of skin, wood, stone, etc. 8 a pattern of lines of fibre in wood or paper. B lamination in stone etc. —v. 1 paint in imitation of the grain of wood etc. 2 give a granular surface to. 3 form into grains.  against the grain contrary to one's natural inclination or feeling.  grainy adj. (-ier, -iest). [latin granum]
+Grain  —n. 1 fruit or seed of a cereal. 2 (collect.) Wheat or any allied grass used as food; corn. 3 small hard particle of salt, sand, etc. 4 unit of weight, 0.0648 gram. 5 smallest possible quantity (not a grain of truth in it). 6 roughness of surface. 7 texture of skin, wood, stone, etc. 8 a pattern of lines of fibre in wood or paper. B lamination in stone etc. —v. 1 paint in imitation of the grain of wood etc. 2 give a granular surface to. 3 form into grains. * against the grain contrary to one's natural inclination or feeling. * grainy adj. (-ier, -iest). [latin granum]
 
 Gram  n. (also gramme) metric unit of mass equal to one-thousandth of a kilogram. [greek gramma small weight]
 
@@ -1551,7 +1552,7 @@ Grammarian  n. Expert in grammar or linguistics.
 
 Grammar school  n. Esp. Hist. Selective state secondary school with a mainly academic curriculum.
 
-Grammatical  adj. Of or conforming to the rules of grammar.  grammatically adv.
+Grammatical  adj. Of or conforming to the rules of grammar. * grammatically adv.
 
 Gramme  var. Of *gram.
 
@@ -1567,7 +1568,7 @@ Granadilla  n. Passion-fruit. [spanish, diminutive of granada pomegranate]
 
 Granary  n. (pl. -ies) 1 storehouse for threshed grain. 2 region producing, and esp. Exporting, much corn. [latin: related to *grain]
 
-Grand  —adj. 1 splendid, magnificent, imposing, dignified. 2 main; of chief importance. 3 (grand) of the highest rank (grand duke). 4 colloq. Excellent, enjoyable. 5 belonging to high society. 6 (in comb.) (in names of family relationships) denoting the second degree of ascent or descent (granddaughter). —n. 1 = *grand piano. 2 (pl. Same) (usu. In pl.) Esp. Us slang a thousand dollars or pounds.  grandly adv. Grandness n. [latin grandis full-grown]
+Grand  —adj. 1 splendid, magnificent, imposing, dignified. 2 main; of chief importance. 3 (grand) of the highest rank (grand duke). 4 colloq. Excellent, enjoyable. 5 belonging to high society. 6 (in comb.) (in names of family relationships) denoting the second degree of ascent or descent (granddaughter). —n. 1 = *grand piano. 2 (pl. Same) (usu. In pl.) Esp. Us slang a thousand dollars or pounds. * grandly adv. Grandness n. [latin grandis full-grown]
 
 Grandad  n. (also grand-dad) colloq. 1 grandfather. 2 elderly man.
 
@@ -1583,9 +1584,9 @@ Grandfather  n. Male grandparent.
 
 Grandfather clock  n. Clock in a tall wooden case, driven by weights.
 
-Grandiloquent  adj. Pompous or inflated in language.  grandiloquence n. [latin: related to *grand, -loquus from loquor speak]
+Grandiloquent  adj. Pompous or inflated in language. * grandiloquence n. [latin: related to *grand, -loquus from loquor speak]
 
-Grandiose  adj. 1 producing or meant to produce an imposing effect. 2 planned on an ambitious scale.  grandiosity n. [italian: related to *grand]
+Grandiose  adj. 1 producing or meant to produce an imposing effect. 2 planned on an ambitious scale. * grandiosity n. [italian: related to *grand]
 
 Grand jury  n. Esp. Us jury selected to examine the validity of an accusation prior to trial.
 
@@ -1635,13 +1636,13 @@ Granny flat  n. Part of a house made into self-contained accommodation for an el
 
 Granny knot  n. Reef-knot crossed the wrong way and therefore insecure.
 
-Grant  —v. 1 a consent to fulfil (a request etc.). B allow (a person) to have (a thing). 2 give formally; transfer legally. 3 (often foll. By that) admit as true; concede. —n. 1 process of granting. 2 sum of money given by the state. 3 legal conveyance by written instrument.  take for granted 1 assume something to be true or valid. 2 cease to appreciate through familiarity.  grantor n. (esp. In sense 2 of v.). [french gr(e)anter var. Of creanter from latin credo entrust]
+Grant  —v. 1 a consent to fulfil (a request etc.). B allow (a person) to have (a thing). 2 give formally; transfer legally. 3 (often foll. By that) admit as true; concede. —n. 1 process of granting. 2 sum of money given by the state. 3 legal conveyance by written instrument. * take for granted 1 assume something to be true or valid. 2 cease to appreciate through familiarity. * grantor n. (esp. In sense 2 of v.). [french gr(e)anter var. Of creanter from latin credo entrust]
 
 Grant-maintained  adj. (of a school) funded by central rather than local government.
 
-Granular  adj. Of or like grains or granules.  granularity n. [latin: related to *granule]
+Granular  adj. Of or like grains or granules. * granularity n. [latin: related to *granule]
 
-Granulate  v. (-ting) 1 form into grains. 2 roughen the surface of.  granulation n.
+Granulate  v. (-ting) 1 form into grains. 2 roughen the surface of. * granulation n.
 
 Granule  n. Small grain. [latin diminutive of granum: related to *grain]
 
@@ -1660,19 +1661,8 @@ Graph  —n. Diagram showing the relation between variable quantities, usu. Of t
 -graph  comb. Form forming nouns and verbs meaning: 1 thing written or drawn etc. In a specified way (photograph). 2 instrument that records (seismograph).
 
 -grapher  comb. Form forming nouns denoting a person concerned with a subject (geographer; radiographer). [greek -grapho write]
-Grape hyacinth  n. Plant of the lily family with clusters of usu. Blue flowers.
 
-Grapeshot  n. Hist. Small balls used as charge in a cannon and scattering when fired.
-
-Grapevine  n. 1 vine. 2 colloq. The means of transmission of a rumour.
-
-Graph  —n. Diagram showing the relation between variable quantities, usu. Of two variables, each measured along one of a pair of axes. —v. Plot or trace on a graph. [abbreviation of graphic formula]
-
--graph  comb. Form forming nouns and verbs meaning: 1 thing written or drawn etc. In a specified way (photograph). 2 instrument that records (seismograph).
-
--grapher  comb. Form forming nouns denoting a person concerned with a subject (geographer; radiographer). [greek -grapho write]
-
-Graphic  adj. 1 of or relating to the visual or descriptive arts, esp. Writing and drawing. 2 vividly descriptive.  graphically adv. [greek graphe writing]
+Graphic  adj. 1 of or relating to the visual or descriptive arts, esp. Writing and drawing. 2 vividly descriptive. * graphically adv. [greek graphe writing]
 
 -graphic  comb. Form (also -graphical) forming adjectives corresponding to nouns in -graphy.
 
@@ -1682,9 +1672,9 @@ Graphic novel  n. Novel in comic-strip format.
 
 Graphics  n.pl. (usu. Treated as sing.) 1 products of the graphic arts. 2 use of diagrams in calculation and design.
 
-Graphite  n. Crystalline allotropic form of carbon used as a lubricant, in pencils, etc.  graphitic adj. [german graphit from greek grapho write]
+Graphite  n. Crystalline allotropic form of carbon used as a lubricant, in pencils, etc. * graphitic adj. [german graphit from greek grapho write]
 
-Graphology  n. The study of handwriting, esp. As a supposed guide to character.  graphologist n. [greek: related to *graphic]
+Graphology  n. The study of handwriting, esp. As a supposed guide to character. * graphologist n. [greek: related to *graphic]
 
 Graph paper  n. Paper printed with a network of lines as a basis for drawing graphs.
 
@@ -1696,11 +1686,11 @@ Grapple  —v. (-ling) 1 (often foll. By with) fight in close combat. 2 (foll. B
 
 Grappling-iron  n. (also grappling-hook) = *grapnel.
 
-Grasp  —v. 1 a clutch at; seize greedily. B hold firmly. 2 (foll. By at) try to seize; accept avidly. 3 understand or realize (a fact or meaning). —n. 1 firm hold; grip. 2 (foll. By of) a mastery (a grasp of the situation). B mental hold.  grasp the nettle tackle a difficulty boldly. [earlier grapse: related to *grope]
+Grasp  —v. 1 a clutch at; seize greedily. B hold firmly. 2 (foll. By at) try to seize; accept avidly. 3 understand or realize (a fact or meaning). —n. 1 firm hold; grip. 2 (foll. By of) a mastery (a grasp of the situation). B mental hold. * grasp the nettle tackle a difficulty boldly. [earlier grapse: related to *grope]
 
 Grasping  adj. Avaricious.
 
-Grass  —n. 1 a any of a group of wild plants with green blades that are eaten by ruminants. B plant of the family which includes cereals, reeds, and bamboos. 2 pasture land. 3 grass-covered ground, lawn. 4 grazing (out to grass). 5 slang marijuana. 6 slang informer. —v. 1 cover with turf. 2 us provide with pasture. 3 slang a betray, esp. To the police. B inform the police.  grassy adj. (-ier, -iest). [old english]
+Grass  —n. 1 a any of a group of wild plants with green blades that are eaten by ruminants. B plant of the family which includes cereals, reeds, and bamboos. 2 pasture land. 3 grass-covered ground, lawn. 4 grazing (out to grass). 5 slang marijuana. 6 slang informer. —v. 1 cover with turf. 2 us provide with pasture. 3 slang a betray, esp. To the police. B inform the police. * grassy adj. (-ier, -iest). [old english]
 
 Grasshopper  n. Jumping and chirping insect.
 
@@ -1716,9 +1706,9 @@ Grate1  v. (-ting) 1 reduce to small particles by rubbing on a serrated surface.
 
 Grate2  n. 1 fireplace or furnace. 2 metal frame confining fuel in this. [latin cratis hurdle]
 
-Grateful  adj. 1 thankful; feeling or showing gratitude. 2 pleasant, acceptable.  gratefully adv. [obsolete grate from latin gratus]
+Grateful  adj. 1 thankful; feeling or showing gratitude. 2 pleasant, acceptable. * gratefully adv. [obsolete grate from latin gratus]
 
-Gratify  v. (-ies, -ied) 1 a please, delight. B please by compliance. 2 yield to (a feeling or desire).  gratification n. [latin: related to *grateful]
+Gratify  v. (-ies, -ied) 1 a please, delight. B please by compliance. 2 yield to (a feeling or desire). * gratification n. [latin: related to *grateful]
 
 Grating  n. 1 framework of parallel or crossed metal bars. 2 optics set of parallel wires, lines ruled on glass, etc.
 
@@ -1726,13 +1716,13 @@ Gratis  adv. & adj. Free; without charge. [latin]
 
 Gratitude  n. Being thankful; readiness to return kindness. [latin: related to *grateful]
 
-Gratuitous  adj. 1 given or done free of charge. 2 uncalled-for; lacking good reason.  gratuitously adv. Gratuitousness n. [latin, = spontaneous]
+Gratuitous  adj. 1 given or done free of charge. 2 uncalled-for; lacking good reason. * gratuitously adv. Gratuitousness n. [latin, = spontaneous]
 
 Gratuity  n. (pl. -ies) = *tip3 n. 1. [latin: related to *grateful]
 
 Grave1  n. 1 trench dug in the ground for the burial of a corpse; mound or memorial stone placed over this. 2 (prec. By the) death. [old english]
 
-Grave2  —adj. 1 a serious, weighty, important. B dignified, solemn, sombre. 2 extremely serious or threatening. —n. = *grave accent.  gravely adv. [latin gravis heavy]
+Grave2  —adj. 1 a serious, weighty, important. B dignified, solemn, sombre. 2 extremely serious or threatening. —n. = *grave accent. * gravely adv. [latin gravis heavy]
 
 Grave3  v. (-ving; past part. Graven or graved) 1 (foll. By in, on) fix indelibly (on one's memory). 2 archaic engrave, carve. [old english]
 
@@ -1758,11 +1748,11 @@ Gravid  adj. Pregnant. [latin gravidus: related to *grave2]
 
 Gravimeter  n. Instrument measuring the difference in the force of gravity between two places. [latin: related to *grave2]
 
-Gravimetry  n. Measurement of weight.  gravimetric adj.
+Gravimetry  n. Measurement of weight. * gravimetric adj.
 
 Gravitate  v. (-ting) 1 (foll. By to, towards) move or be attracted to. 2 a move or tend by force of gravity towards. B sink by or as if by gravity. [related to *grave2]
 
-Gravitation  n. Physics 1 force of attraction between any particle of matter in the universe and any other. 2 effect of this, esp. The falling of bodies to the earth.  gravitational adj.
+Gravitation  n. Physics 1 force of attraction between any particle of matter in the universe and any other. 2 effect of this, esp. The falling of bodies to the earth. * gravitational adj.
 
 Gravity  n. 1 a force that attracts a body to the centre of the earth etc. B degree of intensity of this. C gravitational force. 2 property of having weight. 3 a importance, seriousness. B solemnity. [latin: related to *grave2]
 
@@ -1772,7 +1762,7 @@ Gravy-boat  n. Boat-shaped vessel for serving gravy.
 
 Gravy train  n. Slang source of easy financial benefit.
 
-Gray  (brit. Grey) —adj. 1 of a colour intermediate between black and white. 2 dull, dismal. 3 a (of hair) turning white with age etc. B having grey hair. 4 anonymous, unidentifiable. —n. 1 a grey colour or pigment. B grey clothes or material (dressed in grey). 2 grey or white horse. —v. Make or become grey.  greyish adj. Greyness n. [old english]
+Gray  (brit. Grey) —adj. 1 of a colour intermediate between black and white. 2 dull, dismal. 3 a (of hair) turning white with age etc. B having grey hair. 4 anonymous, unidentifiable. —n. 1 a grey colour or pigment. B grey clothes or material (dressed in grey). 2 grey or white horse. —v. Make or become grey. * greyish adj. Greyness n. [old english]
 
 Grayling  n. (pl. Same) silver-grey freshwater fish. [from *grey, *-ling]
 
@@ -1784,7 +1774,7 @@ Grazier  n. 1 person who feeds cattle for market. 2 austral. Large-scale sheep-f
 
 Grazing  n. Grassland suitable for pasturage.
 
-Grease  —n. 1 oily or fatty matter, esp. As a lubricant. 2 melted fat of a dead animal. —v. (-sing) smear or lubricate with grease.  grease the palm of colloq. Bribe. [latin crassus (adj.) Fat]
+Grease  —n. 1 oily or fatty matter, esp. As a lubricant. 2 melted fat of a dead animal. —v. (-sing) smear or lubricate with grease. * grease the palm of colloq. Bribe. [latin crassus (adj.) Fat]
 
 Greasepaint  n. Make-up used by actors.
 
@@ -1792,9 +1782,9 @@ Greaseproof  adj. Impervious to grease.
 
 Greaser  n. Slang member of a gang of youths with long hair and motor cycles.
 
-Greasy  adj. (-ier, -iest) 1 a of or like grease. B smeared or covered with grease. C containing or having too much grease. 2 a slippery. B (of a person or manner) unpleasantly unctuous.  greasily adv. Greasiness n.
+Greasy  adj. (-ier, -iest) 1 a of or like grease. B smeared or covered with grease. C containing or having too much grease. 2 a slippery. B (of a person or manner) unpleasantly unctuous. * greasily adv. Greasiness n.
 
-Great  —adj. 1 a of a size, amount, extent, or intensity considerably above the normal or average (a great hole; great fun). B also with implied admiration, contempt, etc., esp. In exclamations (you great idiot!; great stuff!). C reinforcing other words denoting size, quantity, etc. (great big hole). 2 important, pre-eminent (the great thing is not to get caught). 3 grand, imposing (great occasion). 4 distinguished. 5 remarkable in ability, character, etc. (great men; great thinker). 6 (foll. By at, on) competent, well-informed. 7 fully deserving the name of; doing a thing extensively (great reader; great believer in tolerance). 8 (also greater) the larger of the name, species, etc. (great auk; greater celandine). 9 colloq. Very enjoyable or satisfactory (had a great time). 10 (in comb.) (in names of family relationships) denoting one degree further removed upwards or downwards (great-uncle; great-great-grandmother). —n. 1 great or outstanding person or thing. 2 (in pl.) (greats) colloq. (at oxford university) honours course or final examinations in classics and philosophy.  greatness n. [old english]
+Great  —adj. 1 a of a size, amount, extent, or intensity considerably above the normal or average (a great hole; great fun). B also with implied admiration, contempt, etc., esp. In exclamations (you great idiot!; great stuff!). C reinforcing other words denoting size, quantity, etc. (great big hole). 2 important, pre-eminent (the great thing is not to get caught). 3 grand, imposing (great occasion). 4 distinguished. 5 remarkable in ability, character, etc. (great men; great thinker). 6 (foll. By at, on) competent, well-informed. 7 fully deserving the name of; doing a thing extensively (great reader; great believer in tolerance). 8 (also greater) the larger of the name, species, etc. (great auk; greater celandine). 9 colloq. Very enjoyable or satisfactory (had a great time). 10 (in comb.) (in names of family relationships) denoting one degree further removed upwards or downwards (great-uncle; great-great-grandmother). —n. 1 great or outstanding person or thing. 2 (in pl.) (greats) colloq. (at oxford university) honours course or final examinations in classics and philosophy. * greatness n. [old english]
 
 Great bear  see *bear2.
 
@@ -1822,9 +1812,9 @@ Grecian nose  n. Straight nose that continues the line of the forehead without a
 
 Greed  n. Excessive desire, esp. For food or wealth. [from *greedy]
 
-Greedy  adj. (-ier, -iest) 1 having or showing greed. 2 (foll. By for, or to + infin.) Very eager.  greedily adv. Greediness n. [old english]
+Greedy  adj. (-ier, -iest) 1 having or showing greed. 2 (foll. By for, or to + infin.) Very eager. * greedily adv. Greediness n. [old english]
 
-Greek  —n. 1 a native or national of greece. B person of greek descent. 2 language of greece. —adj. Of greece or its people or language; hellenic.  greek to me colloq. Incomprehensible to me. [old english ultimately from greek graikoi]
+Greek  —n. 1 a native or national of greece. B person of greek descent. 2 language of greece. —adj. Of greece or its people or language; hellenic. * greek to me colloq. Incomprehensible to me. [old english ultimately from greek graikoi]
 
 Greek cross  n. Cross with four equal arms.
 
@@ -1890,7 +1880,7 @@ Greeting  n. 1 act or instance of welcoming etc. 2 words, gestures, etc., used t
 
 Greetings card  n. Decorative card sent to convey greetings.
 
-Gregarious  adj. 1 fond of company. 2 living in flocks or communities.  gregariousness n. [latin grex gregis flock]
+Gregarious  adj. 1 fond of company. 2 living in flocks or communities. * gregariousness n. [latin grex gregis flock]
 
 Gregorian calendar  n. Calendar introduced in 1582 by pope gregory xiii.
 
@@ -1902,7 +1892,7 @@ Grenade  n. Small bomb thrown by hand (hand-grenade) or shot from a rifle. [fren
 
 Grenadier  n. 1 (grenadiers or grenadier guards) first regiment of the royal household infantry. 2 hist. Soldier armed with grenades.
 
-Grey  (us gray) —adj. 1 of a colour intermediate between black and white. 2 dull, dismal. 3 a (of hair) turning white with age etc. B having grey hair. 4 anonymous, unidentifiable. —n. 1 a grey colour or pigment. B grey clothes or material (dressed in grey). 2 grey or white horse. —v. Make or become grey.  greyish adj. Greyness n. [old english]
+Grey  (us gray) —adj. 1 of a colour intermediate between black and white. 2 dull, dismal. 3 a (of hair) turning white with age etc. B having grey hair. 4 anonymous, unidentifiable. —n. 1 a grey colour or pigment. B grey clothes or material (dressed in grey). 2 grey or white horse. —v. Make or become grey. * greyish adj. Greyness n. [old english]
 
 Grey area  n. Situation or topic not clearly defined.
 
@@ -1922,13 +1912,13 @@ Griddle  n. Circular iron plate placed over a source of heat for baking etc. [la
 
 Gridiron  n. Cooking utensil of metal bars for broiling or grilling. [related to *griddle]
 
-Grief  n. 1 intense sorrow. 2 cause of this.  come to grief meet with disaster. [french: related to *grieve]
+Grief  n. 1 intense sorrow. 2 cause of this. * come to grief meet with disaster. [french: related to *grieve]
 
 Grievance  n. Real or fancied cause for complaint. [french: related to *grief]
 
 Grieve  v. (-ving) 1 cause grief to. 2 suffer grief. [latin: related to *grave2]
 
-Grievous  adj. 1 (of pain etc.) Severe. 2 causing grief. 3 injurious. 4 flagrant, heinous.  grievously adv. [french: related to *grieve]
+Grievous  adj. 1 (of pain etc.) Severe. 2 causing grief. 3 injurious. 4 flagrant, heinous. * grievously adv. [french: related to *grieve]
 
 Grievous bodily harm  n. Law serious injury inflicted intentionally.
 
@@ -1942,37 +1932,37 @@ Grille  n. (also grill) 1 grating or latticed screen, used as a partition etc. 2
 
 Grilse  n. (pl. Same or -s) young salmon that has returned to fresh water from the sea for the first time. [origin unknown]
 
-Grim  adj. (grimmer, grimmest) 1 of stern or forbidding appearance. 2 harsh, merciless. 3 ghastly, joyless (has a grim truth in it). 4 unpleasant, unattractive.  grimly adv. Grimness n. [old english]
+Grim  adj. (grimmer, grimmest) 1 of stern or forbidding appearance. 2 harsh, merciless. 3 ghastly, joyless (has a grim truth in it). 4 unpleasant, unattractive. * grimly adv. Grimness n. [old english]
 
 Grimace  —n. Distortion of the face made in disgust etc. Or to amuse. —v. (-cing) make a grimace. [french from spanish]
 
-Grime  —n. Soot or dirt ingrained in a surface. —v. (-ming) blacken with grime; befoul.  griminess n. Grimy adj. (-ier, -iest). [low german or dutch]
+Grime  —n. Soot or dirt ingrained in a surface. —v. (-ming) blacken with grime; befoul. * griminess n. Grimy adj. (-ier, -iest). [low german or dutch]
 
-Grin  —v. (-nn-) 1 a smile broadly, showing the teeth. B make a forced, unrestrained, or stupid smile. 2 express by grinning. —n. Act of grinning.  grin and bear it take pain etc. Stoically. [old english]
+Grin  —v. (-nn-) 1 a smile broadly, showing the teeth. B make a forced, unrestrained, or stupid smile. 2 express by grinning. —n. Act of grinning. * grin and bear it take pain etc. Stoically. [old english]
 
-Grind  —v. (past and past part. Ground) 1 reduce to small particles or powder by crushing. 2 a sharpen or smooth by friction. B rub or rub together gratingly. 3 (often foll. By down) oppress; harass with exactions. 4 a (often foll. By away) work or study hard. B (foll. By out) produce with effort. —n. 1 act or instance of grinding. 2 colloq. Hard dull work (the daily grind). 3 size of ground particles.  grind to a halt stop laboriously.
+Grind  —v. (past and past part. Ground) 1 reduce to small particles or powder by crushing. 2 a sharpen or smooth by friction. B rub or rub together gratingly. 3 (often foll. By down) oppress; harass with exactions. 4 a (often foll. By away) work or study hard. B (foll. By out) produce with effort. —n. 1 act or instance of grinding. 2 colloq. Hard dull work (the daily grind). 3 size of ground particles. * grind to a halt stop laboriously.
 
 Grinder  n. 1 person or thing that grinds, esp. A machine. 2 molar tooth.
 
-Grindstone  n. 1 thick revolving disc used for grinding, sharpening, and polishing. 2 a kind of stone used for this.  keep one's nose to the grindstone work hard and continuously.
+Grindstone  n. 1 thick revolving disc used for grinding, sharpening, and polishing. 2 a kind of stone used for this. * keep one's nose to the grindstone work hard and continuously.
 
-Grip  —v. (-pp-) 1 a grasp tightly. B take a firm hold, esp. By friction. 2 compel the attention of. —n. 1 a firm hold; tight grasp. B manner of grasping or holding. 2 power of holding attention. 3 a intellectual mastery. B effective control of one's behaviour etc. (lose one's grip). 4 a part of a machine that grips. B part by which a weapon etc. Is held. 5 = *hairgrip. 6 travelling bag.  come (or get) to grips with approach purposefully; begin to deal with. [old english]
+Grip  —v. (-pp-) 1 a grasp tightly. B take a firm hold, esp. By friction. 2 compel the attention of. —n. 1 a firm hold; tight grasp. B manner of grasping or holding. 2 power of holding attention. 3 a intellectual mastery. B effective control of one's behaviour etc. (lose one's grip). 4 a part of a machine that grips. B part by which a weapon etc. Is held. 5 = *hairgrip. 6 travelling bag. * come (or get) to grips with approach purposefully; begin to deal with. [old english]
 
 Gripe  —v. (-ping) 1 colloq. Complain. 2 affect with gastric pain. —n. 1 (usu. In pl.) Colic. 2 colloq. Complaint. 3 grip, clutch. [old english]
 
 Gripe water  n. Propr. Preparation to relieve colic in infants.
 
-Grisly  adj. (-ier, -iest) causing horror, disgust, or fear.  grisliness n. [old english]
+Grisly  adj. (-ier, -iest) causing horror, disgust, or fear. * grisliness n. [old english]
 
-Grist  n. Corn to grind.  grist to the (or a person's) mill source of profit or advantage. [old english: related to *grind]
+Grist  n. Corn to grind. * grist to the (or a person's) mill source of profit or advantage. [old english: related to *grind]
 
-Gristle  n. Tough flexible animal tissue; cartilage.  gristly adj. [old english]
+Gristle  n. Tough flexible animal tissue; cartilage. * gristly adj. [old english]
 
-Grit  —n. 1 particles of stone or sand, esp. As irritating or hindering. 2 coarse sandstone. 3 colloq. Pluck, endurance. —v. (-tt-) 1 spread grit on (icy roads etc.). 2 clench (the teeth). 3 make a grating sound.  gritter n. Gritty adj. (-ier, -iest). [old english]
+Grit  —n. 1 particles of stone or sand, esp. As irritating or hindering. 2 coarse sandstone. 3 colloq. Pluck, endurance. —v. (-tt-) 1 spread grit on (icy roads etc.). 2 clench (the teeth). 3 make a grating sound. * gritter n. Gritty adj. (-ier, -iest). [old english]
 
 Grits  n.pl. 1 coarsely ground grain, esp. Oatmeal. 2 oats that have been husked but not ground. [old english]
 
-Grizzle  v. (-ling) colloq. 1 (esp. Of a child) cry fretfully. 2 complain whiningly.  grizzly adj. [origin unknown]
+Grizzle  v. (-ling) colloq. 1 (esp. Of a child) cry fretfully. 2 complain whiningly. * grizzly adj. [origin unknown]
 
 Grizzled  adj. 1 (of hair) grey or streaked with grey. 2 having grizzled hair. [grizzle grey from french grisel]
 
@@ -1990,7 +1980,7 @@ Grocery  n. (pl. -ies) 1 grocer's trade or shop. 2 (in pl.) Goods, esp. Food, so
 
 Grog  n. Drink of spirit (orig. Rum) and water. [origin uncertain]
 
-Groggy  adj. (-ier, -iest) incapable or unsteady.  groggily adv. Grogginess n.
+Groggy  adj. (-ier, -iest) incapable or unsteady. * groggily adv. Grogginess n.
 
 Groin1  —n. 1 depression between the belly and the thigh. 2 archit. A edge formed by intersecting vaults. B arch supporting a vault. —v. Archit. Build with groins. [origin uncertain]
 
@@ -2010,21 +2000,21 @@ Grosgrain  n. Corded fabric of silk etc. [french, = coarse grain: related to *gr
 
 Gros point  n. Cross-stitch embroidery on canvas. [french: related to *gross, *point]
 
-Gross  —adj. 1 overfed, bloated. 2 (of a person, manners, or morals) coarse, unrefined, or indecent. 3 flagrant (gross negligence). 4 total; not net (gross tonnage). 5 (of the senses etc.) Dull. —v. Produce as gross profit. —n. (pl. Same) amount equal to twelve dozen.  grossly adv. Grossness n. [latin grossus]
+Gross  —adj. 1 overfed, bloated. 2 (of a person, manners, or morals) coarse, unrefined, or indecent. 3 flagrant (gross negligence). 4 total; not net (gross tonnage). 5 (of the senses etc.) Dull. —v. Produce as gross profit. —n. (pl. Same) amount equal to twelve dozen. * grossly adv. Grossness n. [latin grossus]
 
 Gross domestic product  n. Total value of goods produced and services provided in a country in one year.
 
 Gross national product  n. Gross domestic product plus the total of net income from abroad.
 
-Grotesque  —adj. 1 comically or repulsively distorted. 2 incongruous, absurd. —n. 1 decorative form interweaving human and animal features. 2 comically distorted figure or design.  grotesquely adv. Grotesqueness n. [italian: related to *grotto]
+Grotesque  —adj. 1 comically or repulsively distorted. 2 incongruous, absurd. —n. 1 decorative form interweaving human and animal features. 2 comically distorted figure or design. * grotesquely adv. Grotesqueness n. [italian: related to *grotto]
 
 Grotto  n. (pl. -es or -s) 1 picturesque cave. 2 artificial ornamental cave. [italian grotta from greek krupte *crypt]
 
 Grotty  adj. (-ier, -iest) slang unpleasant, dirty, shabby, unattractive. [shortening of *grotesque]
 
-Grouch  colloq. —v. Grumble. —n. 1 discontented person. 2 fit of grumbling or the sulks.  grouchy adj. (-ier, -iest). [related to *grudge]
+Grouch  colloq. —v. Grumble. —n. 1 discontented person. 2 fit of grumbling or the sulks. * grouchy adj. (-ier, -iest). [related to *grudge]
 
-Ground1  —n. 1 a surface of the earth, esp. As contrasted with the air around it. B part of this specified in some way (low ground). 2 a position, area, or distance on the earth's surface. B extent of a subject dealt with (the book covers a lot of ground). 3 (often in pl.) Reason, justification. 4 area of a special kind or use (often in comb.: cricket-ground; fishing-grounds). 5 (in pl.) Enclosed land attached to a house etc. 6 area or basis for agreement etc. (common ground). 7 (in painting etc.) The surface giving the predominant colour. 8 (in pl.) Solid particles, esp. Of coffee, forming a residue. 9 us electr. = *earth n. 4. 10 bottom of the sea. 11 floor of a room etc. 12 (in full ground bass) mus. Short theme in the bass constantly repeated with the upper parts of the music varied. 13 (attrib.) (of animals) living on or in the ground; (of plants) dwarfish or trailing. —v. 1 refuse authority for (a pilot or an aircraft) to fly. 2 a run (a ship) aground; strand. B (of a ship) run aground. 3 (foll. By in) instruct thoroughly (in a subject). 4 (often as grounded adj.) (foll. By on) base (a principle, conclusion, etc.) On. 5 us electr. = *earth v.  break new (or fresh) ground treat a subject previously not dealt with. Get off the ground colloq. Make a successful start. Give (or lose) ground retreat, decline. Go to ground 1 (of a fox etc.) Enter its earth etc. 2 (of a person) become inaccessible for a prolonged period. Hold one's ground not retreat. On the grounds of because of. [old english]
+Ground1  —n. 1 a surface of the earth, esp. As contrasted with the air around it. B part of this specified in some way (low ground). 2 a position, area, or distance on the earth's surface. B extent of a subject dealt with (the book covers a lot of ground). 3 (often in pl.) Reason, justification. 4 area of a special kind or use (often in comb.: cricket-ground; fishing-grounds). 5 (in pl.) Enclosed land attached to a house etc. 6 area or basis for agreement etc. (common ground). 7 (in painting etc.) The surface giving the predominant colour. 8 (in pl.) Solid particles, esp. Of coffee, forming a residue. 9 us electr. = *earth n. 4. 10 bottom of the sea. 11 floor of a room etc. 12 (in full ground bass) mus. Short theme in the bass constantly repeated with the upper parts of the music varied. 13 (attrib.) (of animals) living on or in the ground; (of plants) dwarfish or trailing. —v. 1 refuse authority for (a pilot or an aircraft) to fly. 2 a run (a ship) aground; strand. B (of a ship) run aground. 3 (foll. By in) instruct thoroughly (in a subject). 4 (often as grounded adj.) (foll. By on) base (a principle, conclusion, etc.) On. 5 us electr. = *earth v. * break new (or fresh) ground treat a subject previously not dealt with. Get off the ground colloq. Make a successful start. Give (or lose) ground retreat, decline. Go to ground 1 (of a fox etc.) Enter its earth etc. 2 (of a person) become inaccessible for a prolonged period. Hold one's ground not retreat. On the grounds of because of. [old english]
 
 Ground2  past and past part. Of *grind.
 
@@ -2080,9 +2070,9 @@ Grout  —n. Thin fluid mortar. —v. Provide or fill with grout. [origin uncert
 
 Grove  n. Small wood or group of trees. [old english]
 
-Grovel  v. (-ll-; us -l-) 1 behave obsequiously. 2 lie prone in abject humility.  grovelling adj. [obsolete grovelling (adv.) From old norse á grúfu face down]
+Grovel  v. (-ll-; us -l-) 1 behave obsequiously. 2 lie prone in abject humility. * grovelling adj. [obsolete grovelling (adv.) From old norse á grúfu face down]
 
-Grow  v. (past grew; past part. Grown) 1 increase in size, height, quantity, degree, etc. 2 develop or exist as a living plant or natural product. 3 a produce (plants etc.) By cultivation. B allow (a beard etc.) To develop. 4 become gradually (grow rich). 5 (foll. By on) become gradually more favoured by. 6 (in passive; foll. By over etc.) Be covered with a growth.  grow out of 1 become too large to wear. 2 become too mature to retain (a habit etc.). 3 develop from. Grow up 1 advance to maturity. 2 (of a custom) arise. [old english]
+Grow  v. (past grew; past part. Grown) 1 increase in size, height, quantity, degree, etc. 2 develop or exist as a living plant or natural product. 3 a produce (plants etc.) By cultivation. B allow (a beard etc.) To develop. 4 become gradually (grow rich). 5 (foll. By on) become gradually more favoured by. 6 (in passive; foll. By over etc.) Be covered with a growth. * grow out of 1 become too large to wear. 2 become too mature to retain (a habit etc.). 3 develop from. Grow up 1 advance to maturity. 2 (of a custom) arise. [old english]
 
 Grower  n. 1 (often in comb.) Person growing produce (fruit-grower). 2 plant that grows in a specified way (fast grower).
 
@@ -2102,7 +2092,7 @@ Groyne  n. (us groin) timber, stone, or concrete wall built at right angles to t
 
 Grub  —n. 1 larva of an insect. 2 colloq. Food. —v. (-bb-) 1 dig superficially. 2 (foll. By up, out) a extract by digging. B extract (information etc.) By searching in books etc. 3 rummage. [old english]
 
-Grubby  adj. (-ier, -iest) 1 dirty. 2 of or infested with grubs.  grubbily adv. Grubbiness n.
+Grubby  adj. (-ier, -iest) 1 dirty. 2 of or infested with grubs. * grubbily adv. Grubbiness n.
 
 Grudge  —n. Persistent feeling of ill will or resentment. —v. (-ging) 1 be resentfully unwilling to give or allow. 2 (foll. By verbal noun or to + infin.) Be reluctant to do. [french]
 
@@ -2112,15 +2102,15 @@ Grueling  adj. (brit. Gruelling) extremely demanding or tiring.
 
 Gruelling  adj. (us grueling) extremely demanding or tiring.
 
-Gruesome  adj. Horrible, grisly, disgusting.  gruesomely adv. [scandinavian]
+Gruesome  adj. Horrible, grisly, disgusting. * gruesomely adv. [scandinavian]
 
-Gruff  adj. 1 a (of a voice) low and harsh. B (of a person) having a gruff voice. 2 surly.  gruffly adv. Gruffness n. [low german or dutch grof coarse]
+Gruff  adj. 1 a (of a voice) low and harsh. B (of a person) having a gruff voice. 2 surly. * gruffly adv. Gruffness n. [low german or dutch grof coarse]
 
-Grumble  —v. (-ling) 1 complain peevishly. 2 rumble. —n. 1 complaint. 2 rumble.  grumbler n. [obsolete grumme]
+Grumble  —v. (-ling) 1 complain peevishly. 2 rumble. —n. 1 complaint. 2 rumble. * grumbler n. [obsolete grumme]
 
 Grummet  var. Of *grommet.
 
-Grumpy  adj. (-ier, -iest) morosely irritable.  grumpily adv. Grumpiness n. [imitative]
+Grumpy  adj. (-ier, -iest) morosely irritable. * grumpily adv. Grumpiness n. [imitative]
 
 Grunt  —n. 1 low guttural sound made by a pig. 2 similar sound. —v. 1 make a grunt. 2 make a similar sound, esp. To express discontent. 3 utter with a grunt. [old english, imitative]
 
@@ -2142,13 +2132,13 @@ Guarantor  n. Person who gives a guarantee or guaranty.
 
 Guaranty  n. (pl. -ies) 1 written or other undertaking to answer for the payment of a debt or for the performance of an obligation by another person liable in the first instance. 2 thing serving as security.
 
-Guard  —v. 1 (often foll. By from, against) watch over and defend or protect. 2 keep watch by (a door etc.) To control entry or exit. 3 supervise (prisoners etc.) And prevent from escaping. 4 keep (thoughts or speech) in check. 5 (foll. By against) take precautions. —n. 1 state of vigilance. 2 person who protects or keeps watch. 3 soldiers etc. Protecting a place or person; escort. 4 official in general charge of a train. 5 part of an army detached for some purpose (advance guard). 6 (in pl.) (usu. Guards) body of troops nominally employed to guard a monarch. 7 thing that protects (fire-guard). 8 us prison warder. 9 defensive posture or motion in boxing etc.  be on (or keep or stand) guard keep watch. Off (or off one's) guard unprepared for some surprise or difficulty. On (or on one's) guard prepared for all contingencies. [germanic: related to *ward]
+Guard  —v. 1 (often foll. By from, against) watch over and defend or protect. 2 keep watch by (a door etc.) To control entry or exit. 3 supervise (prisoners etc.) And prevent from escaping. 4 keep (thoughts or speech) in check. 5 (foll. By against) take precautions. —n. 1 state of vigilance. 2 person who protects or keeps watch. 3 soldiers etc. Protecting a place or person; escort. 4 official in general charge of a train. 5 part of an army detached for some purpose (advance guard). 6 (in pl.) (usu. Guards) body of troops nominally employed to guard a monarch. 7 thing that protects (fire-guard). 8 us prison warder. 9 defensive posture or motion in boxing etc. * be on (or keep or stand) guard keep watch. Off (or off one's) guard unprepared for some surprise or difficulty. On (or on one's) guard prepared for all contingencies. [germanic: related to *ward]
 
-Guarded  adj. (of a remark etc.) Cautious.  guardedly adv.
+Guarded  adj. (of a remark etc.) Cautious. * guardedly adv.
 
 Guardhouse  n. Building used to accommodate a military guard or to detain prisoners.
 
-Guardian  n. 1 protector, keeper. 2 person having legal custody of another, esp. A minor.  guardianship n. [french: related to *ward, *warden]
+Guardian  n. 1 protector, keeper. 2 person having legal custody of another, esp. A minor. * guardianship n. [french: related to *ward, *warden]
 
 Guardroom  n. Room serving the same purpose as a guardhouse.
 
@@ -2168,7 +2158,7 @@ Guernsey  n. (pl. -s) 1 one of a breed of dairy cattle from guernsey in the chan
 
 Guerrilla  n. (also guerilla) member of a small independently acting (usu. Political) group taking part in irregular fighting. [spanish diminutive: related to *war]
 
-Guess  —v. 1 (often absol.) Estimate without calculation or measurement. 2 form a hypothesis or opinion about; conjecture; think likely. 3 conjecture or estimate correctly. 4 (foll. By at) make a conjecture about. —n. Estimate, conjecture.  i guess colloq. I think it likely; i suppose. [origin uncertain]
+Guess  —v. 1 (often absol.) Estimate without calculation or measurement. 2 form a hypothesis or opinion about; conjecture; think likely. 3 conjecture or estimate correctly. 4 (foll. By at) make a conjecture about. —n. Estimate, conjecture. * i guess colloq. I think it likely; i suppose. [origin uncertain]
 
 Guesswork  n. Process of or results got by guessing.
 
@@ -2202,7 +2192,7 @@ Guilder  n. Chief monetary unit of the netherlands. [alteration of dutch gulden 
 
 Guildhall  n. Meeting-place of a medieval guild; town hall.
 
-Guile  n. Cunning or sly behaviour; treachery, deceit.  guileful adj. Guileless adj. [french from scandinavian]
+Guile  n. Cunning or sly behaviour; treachery, deceit. * guileful adj. Guileless adj. [french from scandinavian]
 
 Guillemot  n. Fast-flying sea bird nesting on cliffs etc. [french]
 
@@ -2212,7 +2202,7 @@ Guilt  n. 1 fact of having committed a specified or implied offence. 2 feeling o
 
 Guiltless  adj. (often foll. By of an offence) innocent.
 
-Guilty  adj. (-ier, -iest) 1 culpable of or responsible for a wrong. 2 conscious of or affected by guilt. 3 causing a feeling of guilt (a guilty secret). 4 (often foll. By of) having committed a (specified) offence.  guiltily adv. Guiltiness n. [old english: related to *guilt]
+Guilty  adj. (-ier, -iest) 1 culpable of or responsible for a wrong. 2 conscious of or affected by guilt. 3 causing a feeling of guilt (a guilty secret). 4 (often foll. By of) having committed a (specified) offence. * guiltily adv. Guiltiness n. [old english: related to *guilt]
 
 Guinea  n. 1 hist. Sum of 21 old shillings (£1.05). 2 hist. Former british gold coin first coined for the african trade. [guinea in w. Africa]
 
@@ -2224,7 +2214,7 @@ Guipure  n. Heavy lace of linen pieces joined by embroidery. [french]
 
 Guise  n. 1 assumed appearance; pretence. 2 external appearance. [germanic: related to *wise2]
 
-Guitar  n. Usu. Six-stringed musical instrument played with the fingers or a plectrum.  guitarist n. [greek kithara harp]
+Guitar  n. Usu. Six-stringed musical instrument played with the fingers or a plectrum. * guitarist n. [greek kithara harp]
 
 Gujarati  (also gujerati) —n. (pl. -s) 1 native of gujarat. 2 language of gujarat. —adj. Of gujarat, its people, or language. [gujarat, state in india]
 
@@ -2240,17 +2230,17 @@ Gull2  v. Dupe, fool. [perhaps from obsolete gull yellow from old norse]
 
 Gullet  n. Food-passage extending from the mouth to the stomach. [latin gula throat]
 
-Gullible  adj. Easily persuaded or deceived.  gullibility n. [from *gull2]
+Gullible  adj. Easily persuaded or deceived. * gullibility n. [from *gull2]
 
 Gully  n. (pl. -ies) 1 water-worn ravine. 2 gutter or drain. 3 cricket fielding position between point and slips. [french goulet: related to *gullet]
 
 Gulp  —v. 1 (often foll. By down) swallow hastily, greedily, or with effort. 2 swallow gaspingly or with difficulty; choke. 3 (foll. By down, back) suppress (esp. Tears). —n. 1 act of gulping. 2 large mouthful of a drink. [dutch gulpen, imitative]
 
-Gum1  —n. 1 a viscous secretion of some trees and shrubs. B adhesive substance made from this. 2 us chewing gum. 3 = *gumdrop. 4 = *gum arabic. 5 = *gum-tree. —v. (-mm-) 1 (usu. Foll. By down, together, etc.) Fasten with gum. 2 apply gum to.  gum up colloq. Interfere with the smooth running of. [greek kommi from egyptian kemai]
+Gum1  —n. 1 a viscous secretion of some trees and shrubs. B adhesive substance made from this. 2 us chewing gum. 3 = *gumdrop. 4 = *gum arabic. 5 = *gum-tree. —v. (-mm-) 1 (usu. Foll. By down, together, etc.) Fasten with gum. 2 apply gum to. * gum up colloq. Interfere with the smooth running of. [greek kommi from egyptian kemai]
 
 Gum2  n. (usu. In pl.) Firm flesh around the roots of the teeth. [old english]
 
-Gum3  n.  by gum! Colloq. By god! [corruption of god]
+Gum3  n. * by gum! Colloq. By god! [corruption of god]
 
 Gum arabic  n. Gum exuded by some kinds of acacia.
 
@@ -2266,9 +2256,9 @@ Gummy2  adj. (-ier, -iest) toothless.
 
 Gumption  n. Colloq. 1 resourcefulness, initiative. 2 common sense. [origin unknown]
 
-Gum-tree  n. Tree exuding gum, esp. A eucalyptus.  up a gum-tree colloq. In great difficulties.
+Gum-tree  n. Tree exuding gum, esp. A eucalyptus. * up a gum-tree colloq. In great difficulties.
 
-Gun  —n. 1 weapon consisting of a metal tube from which bullets or other missiles are propelled with great force, esp. By a contained explosion. 2 starting pistol. 3 device for discharging insecticide, grease etc., in the required direction. 4 member of a shooting-party. 5 us gunman. —v. (-nn-) 1 a (usu. Foll. By down) shoot (a person) with a gun. B shoot at with a gun. 2 go shooting. 3 (foll. By for) seek out determinedly to attack or rebuke.  go great guns colloq. Proceed vigorously or successfully. Stick to one's guns colloq. Maintain one's position under attack. [perhaps an abbreviation of the scandinavian woman's name gunnhildr, applied to cannon etc.]
+Gun  —n. 1 weapon consisting of a metal tube from which bullets or other missiles are propelled with great force, esp. By a contained explosion. 2 starting pistol. 3 device for discharging insecticide, grease etc., in the required direction. 4 member of a shooting-party. 5 us gunman. —v. (-nn-) 1 a (usu. Foll. By down) shoot (a person) with a gun. B shoot at with a gun. 2 go shooting. 3 (foll. By for) seek out determinedly to attack or rebuke. * go great guns colloq. Proceed vigorously or successfully. Stick to one's guns colloq. Maintain one's position under attack. [perhaps an abbreviation of the scandinavian woman's name gunnhildr, applied to cannon etc.]
 
 Gunboat  n. Small vessel with heavy guns.
 
@@ -2280,11 +2270,11 @@ Gun-cotton  n. Explosive made by steeping cotton in acids.
 
 Gun dog  n. Dog trained to retrieve game shot by sportsmen.
 
-Gunfight  n. Us fight with firearms.  gunfighter n.
+Gunfight  n. Us fight with firearms. * gunfighter n.
 
 Gunfire  n. Firing of a gun or guns.
 
-Gunge  colloq. —n. Sticky or viscous matter. —v. (-ging) (usu. Foll. By up) clog with gunge.  gungy adj. [origin uncertain]
+Gunge  colloq. —n. Sticky or viscous matter. —v. (-ging) (usu. Foll. By up) clog with gunge. * gungy adj. [origin uncertain]
 
 Gung-ho  adj. Zealous, arrogantly eager. [chinese gonghe work together]
 
@@ -2300,11 +2290,11 @@ Gunnery  n. 1 construction and management of large guns. 2 firing of guns.
 
 Gunny  n. (pl. -ies) 1 coarse sacking, usu. Of jute fibre. 2 sack made of this. [hindi and marathi]
 
-Gunpoint  n.  at gunpoint threatened with a gun or an ultimatum etc.
+Gunpoint  n. * at gunpoint threatened with a gun or an ultimatum etc.
 
 Gunpowder  n. Explosive made of saltpetre, sulphur, and charcoal.
 
-Gunrunner  n. Person engaged in the illegal sale or importing of firearms.  gunrunning n.
+Gunrunner  n. Person engaged in the illegal sale or importing of firearms. * gunrunning n.
 
 Gunshot  n. 1 shot fired from a gun. 2 range of a gun (within gunshot).
 
@@ -2330,11 +2320,11 @@ Gusher  n. 1 oil well from which oil flows without being pumped. 2 effusive pers
 
 Gusset  n. 1 piece let into a garment etc. To strengthen or enlarge it. 2 bracket strengthening an angle of a structure. [french]
 
-Gust  —n. 1 sudden strong rush of wind. 2 burst of rain, smoke, emotion, etc. —v. Blow in gusts.  gusty adj. (-ier, -iest). [old norse]
+Gust  —n. 1 sudden strong rush of wind. 2 burst of rain, smoke, emotion, etc. —v. Blow in gusts. * gusty adj. (-ier, -iest). [old norse]
 
 Gusto  n. Zest; enjoyment. [latin gustus taste]
 
-Gut  —n. 1 the intestine. 2 (in pl.) The bowel or entrails. 3 (in pl.) Colloq. Personal courage and determination; perseverance. 4 slang stomach, belly. 5 (in pl.) A contents. B essence. 6 a material for violin strings etc. B material for fishing-lines made from the silk-glands of silkworms. 7 (attrib.) A instinctive (a gut reaction). B fundamental (a gut issue). —v. (-tt-) 1 remove or destroy the internal fittings of (a house etc.). 2 remove the guts of (a fish).  hate a person's guts colloq. Dislike a person intensely. [old english]
+Gut  —n. 1 the intestine. 2 (in pl.) The bowel or entrails. 3 (in pl.) Colloq. Personal courage and determination; perseverance. 4 slang stomach, belly. 5 (in pl.) A contents. B essence. 6 a material for violin strings etc. B material for fishing-lines made from the silk-glands of silkworms. 7 (attrib.) A instinctive (a gut reaction). B fundamental (a gut issue). —v. (-tt-) 1 remove or destroy the internal fittings of (a house etc.). 2 remove the guts of (a fish). * hate a person's guts colloq. Dislike a person intensely. [old english]
 
 Gutless  adj. Colloq. Lacking courage or energy.
 
@@ -2352,11 +2342,11 @@ Gutter press  n. Sensational newspapers.
 
 Guttersnipe  n. Street urchin.
 
-Guttural  —adj. 1 throaty, harsh-sounding. 2 phonet. (of a consonant) produced in the throat or by the back of the tongue and palate. 3 of the throat. —n. Phonet. Guttural consonant (e.g. K, g).  gutturally adv. [latin guttur throat]
+Guttural  —adj. 1 throaty, harsh-sounding. 2 phonet. (of a consonant) produced in the throat or by the back of the tongue and palate. 3 of the throat. —n. Phonet. Guttural consonant (e.g. K, g). * gutturally adv. [latin guttur throat]
 
 Guv  n. Slang = *governor 7. [abbreviation]
 
-Guy1  —n. 1 colloq. Man; fellow. 2 effigy of guy fawkes burnt on 5 nov.  —v. Ridicule. [guy fawkes, name of a conspirator]
+Guy1  —n. 1 colloq. Man; fellow. 2 effigy of guy fawkes burnt on 5 nov. —v. Ridicule. [guy fawkes, name of a conspirator]
 
 Guy2  —n. Rope or chain to secure a tent or steady a crane-load etc. —v. Secure with a guy or guys. [probably low german]
 
@@ -2372,7 +2362,7 @@ Gymnasium  n. (pl. -s or -sia) room or building equipped for gymnastics. [greek 
 
 Gymnast  n. Person who does gymnastics, esp. An expert.
 
-Gymnastic  adj. Of or involving gymnastics.  gymnastically adv.
+Gymnastic  adj. Of or involving gymnastics. * gymnastically adv.
 
 Gymnastics  n.pl. (also treated as sing.) 1 exercises performed in order to develop or display physical agility. 2 other forms of physical or mental agility.
 
@@ -2384,15 +2374,15 @@ Gymslip  n. Sleeveless tunic worn by schoolgirls.
 
 Gynae  n. (also gynie) colloq. Gynaecology. [abbreviation]
 
-Gynaecology  n. (us gynecology) science of the physiological functions and diseases of women.  gynaecological adj. Gynaecologist n. [greek gune gunaik- woman, *-logy]
+Gynaecology  n. (us gynecology) science of the physiological functions and diseases of women. * gynaecological adj. Gynaecologist n. [greek gune gunaik- woman, *-logy]
 
-Gynecology  n. (brit. Gynaecology) science of the physiological functions and diseases of women.  gynaecological adj. Gynaecologist n. [greek gune gunaik- woman, *-logy]
+Gynecology  n. (brit. Gynaecology) science of the physiological functions and diseases of women. * gynaecological adj. Gynaecologist n. [greek gune gunaik- woman, *-logy]
 
 Gypsum  n. Mineral used esp. To make plaster of paris. [greek gupsos]
 
 Gypsy  n. (also gipsy) (pl. -ies) member of a nomadic people of europe and n. America, of hindu origin with dark skin and hair. [from *egyptian]
 
-Gyrate  v. (-ting) move in a circle or spiral; revolve, whirl.  gyration n. Gyratory adj. [greek: related to *gyro-]
+Gyrate  v. (-ting) move in a circle or spiral; revolve, whirl. * gyration n. Gyratory adj. [greek: related to *gyro-]
 
 Gyrfalcon  n. Large falcon of the northern hemisphere. [french from old norse]
 

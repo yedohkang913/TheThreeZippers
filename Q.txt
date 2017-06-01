@@ -16,7 +16,7 @@ Qua  conj. In the capacity of. [latin, = in the way in which]
 
 Quack1  —n. Harsh sound made by ducks. —v. Utter this sound. [imitative]
 
-Quack2  n. 1  unqualified practitioner, esp. Of medicine; charlatan (often attrib.: quack cure). 2 slang any doctor.  quackery n. [abbreviation of quacksalver from dutch: probably related to *quack1, *salve1]
+Quack2  n. 1 unqualified practitioner, esp. Of medicine; charlatan (often attrib.: quack cure). 2 slang any doctor. * quackery n. [abbreviation of quacksalver from dutch: probably related to *quack1, *salve1]
 
 Quad1  n. Colloq. Quadrangle. [abbreviation]
 
@@ -26,13 +26,13 @@ Quad3  colloq. —n. Quadraphonics. —adj. Quadraphonic. [abbreviation]
 
 Quadragesima  n. First sunday in lent. [latin quadragesimus fortieth]
 
-Quadrangle  n. 1 four-sided plane figure, esp. A square or rectangle. 2 four-sided court, esp. In colleges.  quadrangular adj. [latin: related to *quadri-, *angle1]
+Quadrangle  n. 1 four-sided plane figure, esp. A square or rectangle. 2 four-sided court, esp. In colleges. * quadrangular adj. [latin: related to *quadri-, *angle1]
 
 Quadrant  n. 1 quarter of a circle's circumference. 2 quarter of a circle enclosed by two radii at right angles. 3 quarter of a sphere etc. 4 any of four parts of a plane divided by two lines at right angles. 5 a graduated quarter-circular strip of metal etc. B instrument graduated (esp. Through an arc of 90°) for measuring angles. [latin quadrans -ant-]
 
-Quadraphonic  adj. (of sound reproduction) using four transmission channels.  quadraphonically adv. Quadraphonics n.pl. [from *quadri-, *stereophonic]
+Quadraphonic  adj. (of sound reproduction) using four transmission channels. * quadraphonically adv. Quadraphonics n.pl. [from *quadri-, *stereophonic]
 
-Quadrate  —adj. Esp. Anat. & zool. Square or rectangular. —n. Rectangular object. —v. (-ting) make square.  [latin quadro make square]
+Quadrate  —adj. Esp. Anat. & zool. Square or rectangular. —n. Rectangular object. —v. (-ting) make square. [latin quadro make square]
 
 Quadratic  math. —adj. Involving the square (and no higher power) of an unknown quantity or variable (quadratic equation). —n. Quadratic equation.
 
@@ -44,9 +44,9 @@ Quadrilateral  —adj. Having four sides. —n. Four-sided figure.
 
 Quadrille  n. 1 a kind of square dance. 2 music for this. [french]
 
-Quadriplegia  n.  Paralysis of all four limbs.  quadriplegic adj. & n. [from *quadri-, greek plege a blow]
+Quadriplegia  n. Paralysis of all four limbs. * quadriplegic adj. & n. [from *quadri-, greek plege a blow]
 
-Quadruped  n.  Four-footed animal, esp. A mammal. [latin: related to *quadri-, pes ped- foot]
+Quadruped  n. Four-footed animal, esp. A mammal. [latin: related to *quadri-, pes ped- foot]
 
 Quadruple  —adj. 1 fourfold; having four parts. 2 (of time in music) having four beats in a bar. —n. Fourfold number or amount. —v. (-ling) multiply by four. [latin: related to *quadri-]
 
@@ -54,7 +54,7 @@ Quadruplet  n. Each of four children born at one birth.
 
 Quadruplicate  —adj. 1 fourfold. 2 of which four copies are made. —v. (-ting) multiply by four.
 
-Quaff  v. Literary 1 drink deeply. 2 drain (a cup etc.) In long draughts.  quaffable adj. [perhaps imitative]
+Quaff  v. Literary 1 drink deeply. 2 drain (a cup etc.) In long draughts. * quaffable adj. [perhaps imitative]
 
 Quagmire  n. 1 muddy or boggy area. 2 hazardous situation. [from quag bog, *mire]
 
@@ -62,17 +62,17 @@ Quail1  n. (pl. Same or -s) small game-bird related to the partridge. [french qu
 
 Quail2  v. Flinch; show fear. [origin unknown]
 
-Quaint  adj. Attractively odd or old-fashioned.  quaintly adv. Quaintness n.  [french cointe from latin cognosco ascertain]
+Quaint  adj. Attractively odd or old-fashioned. * quaintly adv. Quaintness n. [french cointe from latin cognosco ascertain]
 
 Quake  —v. (-king) shake, tremble. —n. Colloq. Earthquake. [old english]
 
-Quaker  n. Member of the society of friends.  quakerism n.
+Quaker  n. Member of the society of friends. * quakerism n.
 
-Qualification  n. 1 accomplishment fitting a person for a position or purpose. 2 thing that modifies or limits (statement had many qualifications). 3 qualifying or being qualified.  qualificatory adj. [french or medieval latin: related to *qualify]
+Qualification  n. 1 accomplishment fitting a person for a position or purpose. 2 thing that modifies or limits (statement had many qualifications). 3 qualifying or being qualified. * qualificatory adj. [french or medieval latin: related to *qualify]
 
-Qualify  v. (-ies, -ied) 1 (often as qualified adj.) Make competent or fit for a position or purpose. 2 make legally entitled. 3 (usu. Foll. By for) (of a person) satisfy conditions or requirements. 4 modify or limit (a statement etc.) (qualified approval). 5 gram. (of a word) attribute a quality to esp. A noun. 6 moderate, mitigate; make less severe. 7 (foll. By as) be describable as, count as (a grunt hardly qualifies as conversation).  qualifier n. [latin qualis such as, of what kind]
+Qualify  v. (-ies, -ied) 1 (often as qualified adj.) Make competent or fit for a position or purpose. 2 make legally entitled. 3 (usu. Foll. By for) (of a person) satisfy conditions or requirements. 4 modify or limit (a statement etc.) (qualified approval). 5 gram. (of a word) attribute a quality to esp. A noun. 6 moderate, mitigate; make less severe. 7 (foll. By as) be describable as, count as (a grunt hardly qualifies as conversation). * qualifier n. [latin qualis such as, of what kind]
 
-Qualitative  adj. Of quality as opposed to quantity.  qualitatively adv.  [latin: related to *quality]
+Qualitative  adj. Of quality as opposed to quantity. * qualitatively adv. [latin: related to *quality]
 
 Quality  n. (pl. -ies) 1 degree of excellence. 2 a general excellence (has quality). B (attrib.) Of high quality (a quality product). 3 attribute, faculty (has many good qualities). 4 relative nature or character. 5 timbre of a voice or sound. 6 archaic high social standing (people of quality). [latin qualis such as, of what kind]
 
@@ -86,7 +86,7 @@ Quango  n. (pl. -s) semi-public body with financial support from and senior appo
 
 Quanta  pl. Of *quantum.
 
-Quantify  v. (-ies, -ied) 1 determine the quantity of. 2 express as a quantity.  quantifiable adj. Quantification n. [medieval latin: related to *quantity]
+Quantify  v. (-ies, -ied) 1 determine the quantity of. 2 express as a quantity. * quantifiable adj. Quantification n. [medieval latin: related to *quantity]
 
 Quantitative  adj. 1 of quantity as opposed to quality. 2 measured or measurable by quantity.
 
@@ -130,7 +130,7 @@ Quarter-final  n. Match or round preceding the semifinal.
 
 Quarter-hour  n. 1 period of 15 minutes. 2 = *quarter n. 3.
 
-Quarter-light  n.  Small pivoted window in the side of a car, carriage, etc.
+Quarter-light  n. Small pivoted window in the side of a car, carriage, etc.
 
 Quarterly  —adj. Produced or occurring once every quarter of a year. —adv. Once every quarter of a year. —n. (pl. -ies) quarterly journal.
 
@@ -162,15 +162,15 @@ Quatrefoil  n. Four-pointed or -leafed figure, esp. As an architectural ornament
 
 Quattrocento  n. 15th-c. Italian art. [italian, = 400, used for the years 1400–99]
 
-Quaver  —v. 1 (esp. Of a voice or sound) vibrate, shake, tremble. 2 sing or say with a quavering voice. —n. 1 mus. Note half as long as a crotchet. 2 trill in singing. 3 tremble in speech.  quavery adj. [probably imitative]
+Quaver  —v. 1 (esp. Of a voice or sound) vibrate, shake, tremble. 2 sing or say with a quavering voice. —n. 1 mus. Note half as long as a crotchet. 2 trill in singing. 3 tremble in speech. * quavery adj. [probably imitative]
 
 Quay  n. Artificial landing-place for loading and unloading ships. [french]
 
 Quayside  n. Land forming or near a quay.
 
-Queasy  adj. (-ier, -iest) 1 a (of a person) nauseous. B (of the stomach) easily upset, weak of digestion. 2 (of the conscience etc.) Overscrupulous.  queasily adv. Queasiness n. [origin uncertain]
+Queasy  adj. (-ier, -iest) 1 a (of a person) nauseous. B (of the stomach) easily upset, weak of digestion. 2 (of the conscience etc.) Overscrupulous. * queasily adv. Queasiness n. [origin uncertain]
 
-Queen  —n. 1 (as a title usu. Queen) female sovereign. 2 (in full queen consort) king's wife. 3 woman, country, or thing pre-eminent of its kind. 4 fertile female among ants, bees, etc. 5 most powerful piece in chess. 6 court-card depicting a queen. 7 (the queen) national anthem when the sovereign is female. 8 slang offens. Male homosexual. 9 belle or mock sovereign for some event (queen of the may). —v. Chess convert (a pawn) into a queen when it reaches the opponent's side of the board.  queenly adj. (-ier, -iest). Queenliness n. [old english]
+Queen  —n. 1 (as a title usu. Queen) female sovereign. 2 (in full queen consort) king's wife. 3 woman, country, or thing pre-eminent of its kind. 4 fertile female among ants, bees, etc. 5 most powerful piece in chess. 6 court-card depicting a queen. 7 (the queen) national anthem when the sovereign is female. 8 slang offens. Male homosexual. 9 belle or mock sovereign for some event (queen of the may). —v. Chess convert (a pawn) into a queen when it reaches the opponent's side of the board. * queenly adj. (-ier, -iest). Queenliness n. [old english]
 
 Queen-anne  n. (often attrib.) Style of english architecture, furniture, etc., in the early 18th c.
 
@@ -198,7 +198,7 @@ Queen's proctor  n. Official who has the right to intervene in probate, divorce,
 
 Queen's scout  n. Scout who has reached the highest standard of proficiency.
 
-Queer  —adj. 1 strange, odd, eccentric. 2 shady, suspect, of questionable character. 3 slightly ill; faint. 4 slang offens. (esp. Of a man) homosexual. —n. Slang offens. Homosexual. —v. Slang spoil, put out of order.  in queer street slang in difficulty, esp. In debt. Queer a person's pitch colloq. Spoil a person's chances. [origin uncertain]
+Queer  —adj. 1 strange, odd, eccentric. 2 shady, suspect, of questionable character. 3 slightly ill; faint. 4 slang offens. (esp. Of a man) homosexual. —n. Slang offens. Homosexual. —v. Slang spoil, put out of order. * in queer street slang in difficulty, esp. In debt. Queer a person's pitch colloq. Spoil a person's chances. [origin uncertain]
 
 Quell  v. 1 crush or put down (a rebellion etc.). 2 suppress (fear etc.). [old english]
 
@@ -206,13 +206,13 @@ Quench  v. 1 satisfy (thirst) by drinking. 2 extinguish (a fire or light). 3 coo
 
 Quern  n. Hand-mill for grinding corn. [old english]
 
-Querulous  adj. Complaining, peevish.  querulously adj. [latin queror complain]
+Querulous  adj. Complaining, peevish. * querulously adj. [latin queror complain]
 
 Query  —n. (pl. -ies) 1 question. 2 question mark or the word query as a mark of interrogation. —v. (-ies, -ied) 1 ask or inquire. 2 call in question. 3 dispute the accuracy of. [latin quaere imperative of quaero inquire]
 
 Quest  —n. 1 search or seeking. 2 thing sought, esp. By a medieval knight. —v. (often foll. By about) go about in search of something (esp. Of dogs seeking game). [latin quaero quaesit- seek]
 
-Question  —n. 1 sentence worded or expressed so as to seek information or an answer. 2 a doubt or dispute about a matter (no question that he is dead). B raising of such doubt etc. 3 matter to be discussed or decided. 4 problem requiring a solution. —v. 1 ask questions of; interrogate; subject (a person) to examination. 2 throw doubt upon; raise objections to.  be just a question of time be certain to happen sooner or later. Be a question of be at issue, be a problem (it's a question of money). Call in (or into) question express doubts about.
+Question  —n. 1 sentence worded or expressed so as to seek information or an answer. 2 a doubt or dispute about a matter (no question that he is dead). B raising of such doubt etc. 3 matter to be discussed or decided. 4 problem requiring a solution. —v. 1 ask questions of; interrogate; subject (a person) to examination. 2 throw doubt upon; raise objections to. * be just a question of time be certain to happen sooner or later. Be a question of be at issue, be a problem (it's a question of money). Call in (or into) question express doubts about.
 
 Questionable  adj. Doubtful as regards truth, quality, honesty, wisdom, etc.
 
@@ -228,13 +228,13 @@ Queue  —n. Line or sequence of persons, vehicles, etc. Waiting their turn. —
 
 Queue-jump  v. Push forward out of turn in a queue.
 
-Quibble  —n. 1 petty objection; trivial point of criticism. 2 evasion; argument relying on ambiguity. 3 archaic pun. —v. (-ling) use quibbles.  quibbling adj. [origin uncertain]
+Quibble  —n. 1 petty objection; trivial point of criticism. 2 evasion; argument relying on ambiguity. 3 archaic pun. —v. (-ling) use quibbles. * quibbling adj. [origin uncertain]
 
 Quiche  n. Savoury flan. [french]
 
-Quick  —adj. 1 taking only a short time (quick worker). 2 arriving after a short time, prompt. 3 with only a short interval (in quick succession). 4 lively, intelligent, alert. 5 (of a temper) easily roused. 6 archaic alive (the quick and the dead). —adv. (also as int.) Quickly. —n. 1 soft sensitive flesh, esp. Below the nails. 2 seat of emotion (cut to the quick).  quickly adv. [old english]
+Quick  —adj. 1 taking only a short time (quick worker). 2 arriving after a short time, prompt. 3 with only a short interval (in quick succession). 4 lively, intelligent, alert. 5 (of a temper) easily roused. 6 archaic alive (the quick and the dead). —adv. (also as int.) Quickly. —n. 1 soft sensitive flesh, esp. Below the nails. 2 seat of emotion (cut to the quick). * quickly adv. [old english]
 
-Quicken  v. 1 make or become quicker; accelerate. 2 give life or vigour to; rouse. 3  a (of a woman) reach a stage in pregnancy when movements of the foetus can be felt. B (of a foetus) begin to show signs of life.
+Quicken  v. 1 make or become quicker; accelerate. 2 give life or vigour to; rouse. 3 a (of a woman) reach a stage in pregnancy when movements of the foetus can be felt. B (of a foetus) begin to show signs of life.
 
 Quick-fire  attrib. Adj. Rapid; in rapid succession.
 
@@ -250,15 +250,15 @@ Quicksand  n. (often in pl.) 1 area of loose wet sand that sucks in anything pla
 
 Quickset   —attrib. Adj. (of a hedge etc.) Formed of cuttings, esp. Hawthorn. —n. Hedge formed in this way.
 
-Quicksilver  n.  Mercury.
+Quicksilver  n. Mercury.
 
 Quickstep  n. Fast foxtrot.
 
 Quick-tempered  adj. Easily angered.
 
-Quick-witted  adj. Quick to grasp a situation, make repartee, etc.  quick-wittedness n.
+Quick-witted  adj. Quick to grasp a situation, make repartee, etc. * quick-wittedness n.
 
-Quid1  n. (pl. Same) slang one pound sterling.  quids in slang in a position of profit. [probably from latin quid what]
+Quid1  n. (pl. Same) slang one pound sterling. * quids in slang in a position of profit. [probably from latin quid what]
 
 Quid2  n. Lump of tobacco for chewing. [a dialect word, = *cud]
 
@@ -266,23 +266,23 @@ Quiddity  n. (pl. -ies) 1 philos. Essence of a thing. 2 quibble; trivial objecti
 
 Quid pro quo  n. (pl. Quid pro quos) return made (for a gift, favour, etc.). [latin, = something for something]
 
-Quiescent  adj. Inert, dormant.  quiescence n. [related to *quiet]
+Quiescent  adj. Inert, dormant. * quiescence n. [related to *quiet]
 
-Quiet  —adj. 1 with little or no sound or motion. 2 of gentle or peaceful disposition. 3 unobtrusive; not showy. 4 not overt; disguised. 5 undisturbed, uninterrupted; free or far from vigorous action. 6 informal (quiet wedding). 7 enjoyed in quiet (quiet smoke). 8 not anxious or remorseful. 9 not busy (it is very quiet at work). 10 peaceful (all quiet on the frontier). —n. 1 silence; stillness. 2 undisturbed state; tranquillity. —v. (often foll. By down) make or become quiet or calm.  be quiet (esp. In imper.) Cease talking etc.
+Quiet  —adj. 1 with little or no sound or motion. 2 of gentle or peaceful disposition. 3 unobtrusive; not showy. 4 not overt; disguised. 5 undisturbed, uninterrupted; free or far from vigorous action. 6 informal (quiet wedding). 7 enjoyed in quiet (quiet smoke). 8 not anxious or remorseful. 9 not busy (it is very quiet at work). 10 peaceful (all quiet on the frontier). —n. 1 silence; stillness. 2 undisturbed state; tranquillity. —v. (often foll. By down) make or become quiet or calm. * be quiet (esp. In imper.) Cease talking etc.
 
 Quieten  v. (often foll. By down) = *quiet v.
 
-Quietism  n. Passive contemplative attitude towards life, esp. As a form of mysticism.  quietist n. & adj. [italian: related to *quiet]
+Quietism  n. Passive contemplative attitude towards life, esp. As a form of mysticism. * quietist n. & adj. [italian: related to *quiet]
 
 Quietude  n. State of quiet.
 
 Quietus  n. Release from life; death, final riddance (will get its quietus). [medieval latin: related to *quiet]
 
-Quiff  n.  1 man's tuft of hair, brushed upward over the forehead. 2 curl plastered down on the forehead. [origin unknown]
+Quiff  n. 1 man's tuft of hair, brushed upward over the forehead. 2 curl plastered down on the forehead. [origin unknown]
 
 Quill  n. 1 (in full quill-feather) large feather in a wing or tail. 2 hollow stem of this. 3 (in full quill pen) pen made of a quill. 4 (usu. In pl.) Porcupine's spine. [probably low german quiele]
 
-Quilt  —n. Coverlet, esp. Of quilted material. —v. Line a coverlet or garment with padding enclosed between layers of cloth by lines of stitching.  quilter n. Quilting n.  [latin culcita cushion]
+Quilt  —n. Coverlet, esp. Of quilted material. —v. Line a coverlet or garment with padding enclosed between layers of cloth by lines of stitching. * quilter n. Quilting n. [latin culcita cushion]
 
 Quim  n. Coarse slang female genitals. [origin unknown]
 
@@ -298,11 +298,11 @@ Quinine  n. Bitter drug obtained from cinchona bark, used as a tonic and to redu
 
 Quinquagesima  n. Sunday before lent. [latin quinquagesimus fiftieth]
 
-Quinquennial  adj. 1 lasting five years. 2 recurring every five years.  quinquennially adv. [latin quinquennis from quinque five, annus year]
+Quinquennial  adj. 1 lasting five years. 2 recurring every five years. * quinquennially adv. [latin quinquennis from quinque five, annus year]
 
 Quinquereme  n. Ancient roman galley with five files of oarsmen on each side. [latin quinque five, remus oar]
 
-Quintessence  n. 1 (usu. Foll. By of) purest and most perfect form, manifestation, or embodiment of a quality etc. 2 highly refined extract.  quintessential adj. Quintessentially adv. [latin quinta essentia fifth substance (underlying the four elements)] 
+Quintessence  n. 1 (usu. Foll. By of) purest and most perfect form, manifestation, or embodiment of a quality etc. 2 highly refined extract. * quintessential adj. Quintessentially adv. [latin quinta essentia fifth substance (underlying the four elements)] 
 
 Quintet  n. 1 mus. A composition for five performers. B the performers. 2 any group of five. [latin quintus]
 
@@ -316,7 +316,7 @@ Quip  —n. Clever saying; epigram. —v. (-pp-) make quips. [perhaps from latin
 
 Quire  n. 25 (formerly 24) sheets of paper. [latin: related to *quaternary]
 
-Quirk  n. 1 peculiar feature, peculiarity. 2 trick of fate.  quirky adj. (-ier, -iest). [origin unknown]
+Quirk  n. 1 peculiar feature, peculiarity. 2 trick of fate. * quirky adj. (-ier, -iest). [origin unknown]
 
 Quisling  n. Traitor, collaborator. [quisling, name of a norwegian officer and collaborator with the nazis]
 
@@ -324,9 +324,9 @@ Quit  —v. (-tting; past and past part. Quitted or quit) 1 (also absol.) Give u
 
 Quitch  n. (in full quitch-grass) = *couch2. [old english]
 
-Quite  adv. 1 completely, entirely, wholly. 2 to some extent, rather. 3 (often foll. By so) said to indicate agreement.  quite a (or some) remarkable or outstanding (thing). Quite a few colloq. A fairly large number of. Quite something colloq. Remarkable thing or person. [var. Of *quit]
+Quite  adv. 1 completely, entirely, wholly. 2 to some extent, rather. 3 (often foll. By so) said to indicate agreement. * quite a (or some) remarkable or outstanding (thing). Quite a few colloq. A fairly large number of. Quite something colloq. Remarkable thing or person. [var. Of *quit]
 
-Quits  predic. Adj. On even terms by retaliation or repayment.  call it quits acknowledge that things are now even; agree to stop quarrelling. [probably related to *quit]
+Quits  predic. Adj. On even terms by retaliation or repayment. * call it quits acknowledge that things are now even; agree to stop quarrelling. [probably related to *quit]
 
 Quitter  n. 1 person who gives up easily. 2 shirker.
 
@@ -334,13 +334,13 @@ Quiver1  —v. Tremble or vibrate with a slight rapid motion. —n. Quivering mo
 
 Quiver2  n. Case for arrows. [anglo-french from germanic]
 
-Quixotic  adj. Extravagantly and romantically chivalrous.  quixotically adv. [don quixote, in cervantes' romance]
+Quixotic  adj. Extravagantly and romantically chivalrous. * quixotically adv. [don quixote, in cervantes' romance]
 
 Quiz  —n. (pl. Quizzes) 1 test of knowledge, esp. As entertainment. 2 interrogation, examination. —v. (-zz-) examine by questioning. [origin unknown]
 
-Quizzical  adj. Expressing or done with mild or amused perplexity.  quizzically adv.
+Quizzical  adj. Expressing or done with mild or amused perplexity. * quizzically adv.
 
-Quod  n.  Slang prison. [origin unknown]
+Quod  n. Slang prison. [origin unknown]
 
 Quoin  n. 1 external angle of a building. 2 cornerstone. 3 wedge used in printing and gunnery. [var. Of *coin]
 
