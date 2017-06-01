@@ -116,16 +116,16 @@ public class Set {
     }
 
     //print all the words in the set
-    public void showAllWords() {
-	System.out.println("\n" + name + ": A Complete List");
+    public String showAllWords() {
+	String ret = "\n" + name + ": A Complete List";
 	int numberPlace = 1;
 	Word temp = _first;
 	while (temp != null) {
-	    System.out.println(numberPlace + " " + temp);
+	    ret += numberPlace + " " + temp + "\n";
 	    numberPlace += 1;
 	    temp = temp.getNext();
 	}
-
+	return ret;
     }
 
     //testing

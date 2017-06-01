@@ -1,4 +1,4 @@
-
+import java.io.*;
 import java.util.Scanner;
 import java.util.ArrayList;
 
@@ -40,14 +40,19 @@ public class Driver {
 
 	    //user can only enter an integer that is equal to or less than 4
 	    pass = false;
+	    String option = sc.next();
 	    while (!pass) {
 		try {
-		    choiceMain = sc.nextInt(); //should be an int
+		    choiceMain = Integer.parseInt(option); //should be an int
 		    //should be less than or equal to 5
-		    if (choiceMain <= 5) { 	pass = true; }
-		    else {  System.out.println("Enter a valid input.");  }
+		    if (choiceMain <= 5) { pass = true; }
+		    else {  
+			System.out.println("Enter a valid input."); 
+			option = sc.next();
+		    }
 	     	} catch (Exception e) {
 	     	    System.out.println("Enter a valid input.");
+		    option = sc.next();
 	     	}
 	    }
 
@@ -114,8 +119,16 @@ public class Driver {
 
 		    */
 	     	}
-		
-		//_all.get(_all.size()-1).showAllWords();
+		Set geo = new Set("Geometry Terms");
+		geo.add(new Word ("hypotenuse", "issa leg"));
+		geo.add(new Word ("isosceles", "issa triangle"));
+		geo.add(new Word ("median", "issa middle"));
+		geo.add(new Word ("quadrilateral", "issa four"));
+		geo.add(new Word ("triangle","threes"));
+		_all.add(geo);
+		//Flashcard tester = new Flashcard(geo);
+		//tester.play();
+		//System.out.println(_all.get(_all.size()-1).showAllWords());
 	    }
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
@@ -136,9 +149,16 @@ public class Driver {
 		while (!option3.equals("h") && !pass) {
 		    try {
 			game = Integer.parseInt(option3);
-			pass = true;
+			if ( game <= 3 ) {
+			    pass = true;
+			}
+			else {
+			    System.out.println("Enter a valid input");
+			    option3 = sc.next().toLowerCase();
+			}
 		    } catch (Exception e) {
 			System.out.println("Enter a valid input.");
+			option3 = sc.next().toLowerCase();
 		    }
 		}
 
@@ -160,7 +180,7 @@ public class Driver {
 			try {
 			    setChoice = Integer.parseInt(option3);
 			    if (setChoice <= 3) {pass = true;}
-			    else {System.out.println("Enter a valid input.");}
+			    else {System.out.println("Enter a valid input."); option3 = sc.next().toLowerCase();}
 			} catch (Exception e) {
 			    System.out.println("Enter a valid input.");
 			    option3 = sc.next().toLowerCase();
@@ -189,9 +209,41 @@ public class Driver {
 
 	    //~~~~~~~~~~~~~~~~~~~~CREATE A TEXT FILE~~~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 4) {
+		System.out.println("Which set would you like to print?");
+		for (int x = 0; x < _all.size(); x++) {
+		    System.out.println("\t" +
+				       (x+1) +
+				       ": " +
+				       _all.get(x).getName());
+		}
 
-		//create text file
-	    
+		//ask users for a set
+		String sett = sc.next().toLowerCase();
+		pass = false;
+		int setC = 1;
+		while (!sett.equals("h") && !pass) {
+		    try {
+			setC = Integer.parseInt(sett);
+			if (setC <= 3) {pass = true;}
+			else {
+			    System.out.println("Enter a valid input."); 
+			    sett = sc.next().toLowerCase();}
+		    } catch (Exception e) {
+			System.out.println("Enter a valid input.");
+			sett = sc.next().toLowerCase();
+		    }
+		}
+		if ( !sett.equals("h") ) {
+		    try { 
+			PrintWriter filee = new PrintWriter("out.txt"); 
+			filee.println(_all.get(setC-1).showAllWords() );
+		    }
+		    catch ( Exception e ) { 
+			System.out.println("yah");
+		    }
+		    		    
+		}
+		
 	    }
 	
 	    //~~~~~~~~~~~~~~~~~~~~CALL IT QUITS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
