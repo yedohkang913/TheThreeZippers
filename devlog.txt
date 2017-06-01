@@ -34,6 +34,13 @@ ______   ______   __   __   __       ______   _______
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
 
 ==============================================================
+2017-05-31
+--------------------------------------------------------------
+Yedoh: 
+Kristin: 
+Kelly: Changed functionality of Learn.java, finished error handling in Learn.java and Flashcard.java, worked on alpha search method | 130 min (including class time) 
+
+==============================================================
 2017-05-30
 --------------------------------------------------------------
 Yedoh: worked on parsing the Dictionary.txt file & worked on fixing the other txt files for correct parsing | 120 min  
