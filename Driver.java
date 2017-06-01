@@ -20,7 +20,8 @@ public class Driver {
 
 	//initialize vars
 	_all = new ArrayList<Set>();
-	boolean choiceMain, pass; 
+	int choiceMain = 0;
+	boolean pass = false; 
 	Scanner sc = new Scanner(System.in);
 	//Dictionary.create();
 
@@ -39,7 +40,6 @@ public class Driver {
 
 	    //user can only enter an integer that is equal to or less than 4
 	    pass = false;
-	    int choiceMain = 0;
 	    while (!pass) {
 		try {
 		    choiceMain = sc.nextInt(); //should be an int
@@ -52,7 +52,7 @@ public class Driver {
 	    }
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~SEARCHING UP A WORD~~~~~~~~~~~~~~~~~~~~
-	    if (option == 1 ) {
+	    if (choiceMain == 1 ) {
 	     	System.out.println("\nWelcome to the DICTIONARY." +
 	     			   "\nEnter H at any time to return home" +
 	     			   "\nOtherwise, enter a word for its definition.");
@@ -72,7 +72,7 @@ public class Driver {
 	    }
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~~CREATING A SET~~~~~~~~~~~~~~~~~~~~~~~
-	    else if (option == 2) {
+	    else if (choiceMain == 2) {
 	     	System.out.println("A name for your new Set: ");
 	     	_all.add(new Set (sc.next()));
 	     	System.out.println("Enter word or \"H\" to save and exit.");
@@ -119,7 +119,7 @@ public class Driver {
 	    }
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
-	    else if (option == 3) {
+	    else if (choiceMain == 3) {
 	     	System.out.println("Select a game or enter \"H\" for main menu:");
 	     	System.out.println("\t1: Flashcards");
 		System.out.println("\t2: Learn");
@@ -132,10 +132,10 @@ public class Driver {
 		
 		//check for H or any of the above options
 		pass = false;
-	     	String option3 = sc.next().toLowerCase;
+	     	String option3 = sc.next().toLowerCase();
 		while (!option3.equals("h") && !pass) {
 		    try {
-			game = Integer.parseInt(option2);
+			game = Integer.parseInt(option3);
 			pass = true;
 		    } catch (Exception e) {
 			System.out.println("Enter a valid input.");
@@ -186,21 +186,21 @@ public class Driver {
 		    
 		}
 	    }
-	}
 
-	//~~~~~~~~~~~~~~~~~~~~CREATE A TEXT FILE~~~~~~~~~~~~~~~~~~~~~~~~~
-	else if (option == 4) {
+	    //~~~~~~~~~~~~~~~~~~~~CREATE A TEXT FILE~~~~~~~~~~~~~~~~~~~~~~~~~
+	    else if (choiceMain == 4) {
 
-	    //create text file
+		//create text file
 	    
-	}
+	    }
 	
-	//~~~~~~~~~~~~~~~~~~~~CALL IT QUITS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	else {
-	    System.out.println("See you soon!");
-	    break;
+	    //~~~~~~~~~~~~~~~~~~~~CALL IT QUITS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	    else {
+		System.out.println("See you soon!");
+		break;
+	    }
+
+
 	}
-
-
     }
 }
