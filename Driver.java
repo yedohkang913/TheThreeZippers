@@ -87,38 +87,38 @@ public class Driver {
 	     	while (!inputAdd.equals("h")) {
 	     	    System.out.println("Dictionary is still under construction.");
 
-		    /*
+       
 		    //search dictionary for user's inputted definition
 		    Word newWord = new Word (input);
 		    String possDef = Dictionary.search(input).getDefinition();
 
 		    if (possDef != null) {
-		    System.out.println("Here is the defn: \n" +
-		    possDef +
-		    "Would you like to change it? Y/N");
-		    String inputYN = sc.next().toLowerCase();
-		    pass = false;
-		    while (pass == false) {
-		    if (inputYN.equals("y")) {
-		    System.out.println("What is your definition?");
-		    newWord.setDefinition(sc.next());
-		    pass = true;
-		    }
-		    else if (inputYN.equals("n")) {
-		    //do nothing
-		    }
-		    else { System.out.println("Enter a valid input.");}
-		    }
+			System.out.println("Here is the defn: \n" +
+					   possDef +
+					   "Would you like to change it? Y/N");
+			String inputYN = sc.next().toLowerCase();
+			pass = false;
+			while (pass == false) {
+			    if (inputYN.equals("y")) {
+				System.out.println("What is your definition?");
+				newWord.setDefinition(sc.next());
+				pass = true;
+			    }
+			    else if (inputYN.equals("n")) {
+				//do nothing
+			    }
+			    else { System.out.println("Enter a valid input.");}
+			}
 		    } else {
-		    System.out.println("Your definition: ");
-		    newWord.setDefinition(sc.next());
+			System.out.println("Your definition: ");
+			newWord.setDefinition(sc.next());
 		    }
 		    
 		    _all.get(_all.size()-1).add(input);
 	     	    inputAdd = sc.next().toLowerCase();
 
-		    */
 	     	}
+		/*
 		Set geo = new Set("Geometry Terms");
 		geo.add(new Word ("hypotenuse", "issa leg"));
 		geo.add(new Word ("isosceles", "issa triangle"));
@@ -129,8 +129,8 @@ public class Driver {
 		//Flashcard tester = new Flashcard(geo);
 		//tester.play();
 		//System.out.println(_all.get(_all.size()-1).showAllWords());
+		}*/
 	    }
-
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 3) {
 	     	System.out.println("Select a game or enter \"H\" for main menu:");
