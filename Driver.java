@@ -6,149 +6,201 @@ public class Driver {
 
     //=======instance vars==========
     static ArrayList<Set> _all;
+    /*
+      public static final String ANSI_RESET = "\u001B[0m";
+      public static final String ANSI_RED = "\u001B[31m";
+      public static final String ANSI_GREEN = "\u001B[32m";
+      public static final String ANSI_YELLOW = "\u001B[33m";
+      public static final String ANSI_BLUE = "\u001B[34m";
+      public static final String ANSI_PURPLE = "\u001B[35m";
+    */
     //==============================
     
     public static void main (String[] arg) {
 
 	//initialize vars
 	_all = new ArrayList<Set>();
-	boolean pass;
+	boolean choiceMain, pass; 
 	Scanner sc = new Scanner(System.in);
+	//Dictionary.create();
 
 
 	//continuous loop for users to return to menu; until they call quits
 	while (true) {
 
 	    //welcome msg + initial options
-	    System.out.println("Welcome to Dictionary Frenzy!");
+	    System.out.println("\n\nWelcome to Dictionary Frenzy!");
 	    System.out.println("Here are your options" +
 			       "\n1: Search a word up in our dictionary." +
 			       "\n2: Create a set of vocabulary words" +
 			       "\n3: Play a game with an existing set." +
-			       "\n4: Exit");
+			       "\n4: Export a text file of an existing set." +
+			       "\n5: Exit");
 
 	    //user can only enter an integer that is equal to or less than 4
 	    pass = false;
-	    int option = 0;
+	    int choiceMain = 0;
 	    while (!pass) {
 		try {
-		    option = sc.nextInt(); //should be an int
-		    if (option <= 4) { //should be less than or equal to 4
-			pass = true;
-		    } else {
-			System.out.println("Bad input");
-		    }
+		    choiceMain = sc.nextInt(); //should be an int
+		    //should be less than or equal to 5
+		    if (choiceMain <= 5) { 	pass = true; }
+		    else {  System.out.println("Enter a valid input.");  }
 	     	} catch (Exception e) {
 	     	    System.out.println("Enter a valid input.");
 	     	}
 	    }
 
-	    //~~~~~~~~~~~~~~~SEARCHING UP A WORD~~~~~~~~~~~~
+	    //~~~~~~~~~~~~~~~~~~~~~~~SEARCHING UP A WORD~~~~~~~~~~~~~~~~~~~~
 	    if (option == 1 ) {
 	     	System.out.println("\nWelcome to the DICTIONARY." +
 	     			   "\nEnter H at any time to return home" +
 	     			   "\nOtherwise, enter a word for its definition.");
-	     	String input = sc.next();
-	     	if (input.equals("H")) {
-	     	    //do nothing; loops again to main menu
-	     	}
-	     	else {
+	     	String input1 = sc.next().toLowerCase();
+		while (!input1.equals("h")) {
 		    //should take in the word and search dictionary
 	     	    System.out.println("Currently under construction, sorry.");
-
+		    /*
+		      Word answer = Dictionary.search(input);
+		      System.out.println( answer + "\nDefn: " +
+		      answer.getDefinition());
+		    */			
+		    System.out.println("Type in another word to search," +
+				       "or type \"H\" to return to main menu.");
+		    input1 = sc.next().toLowerCase();
 	     	}
 	    }
 
-	    //~~~~~~~~~~~~~~~~~~~CREATING A SET~~~~~~~~~~~~~~~~~
+	    //~~~~~~~~~~~~~~~~~~~~~~~~~~~CREATING A SET~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (option == 2) {
 	     	System.out.println("A name for your new Set: ");
 	     	_all.add(new Set (sc.next()));
-	     	System.out.println("Enter words or S to save and exit.");
+	     	System.out.println("Enter word or \"H\" to save and exit.");
 
 		//add words or leave
-	     	String input = sc.next().toLowerCase();
-	     	while (!input.equals("s")) {
+	     	String inputAdd = sc.next().toLowerCase();
+	     	while (!inputAdd.equals("h")) {
 	     	    System.out.println("Dictionary is still under construction.");
-		    //add words to Set, which should also automatically search
-		    //up words
-	     	    //_all.get(_all.size()-1).add(input);
-	     	    input = sc.next().toLowerCase();
+
+		    /*
+		    //search dictionary for user's inputted definition
+		    Word newWord = new Word (input);
+		    String possDef = Dictionary.search(input).getDefinition();
+
+		    if (possDef != null) {
+		    System.out.println("Here is the defn: \n" +
+		    possDef +
+		    "Would you like to change it? Y/N");
+		    String inputYN = sc.next().toLowerCase();
+		    pass = false;
+		    while (pass == false) {
+		    if (inputYN.equals("y")) {
+		    System.out.println("What is your definition?");
+		    newWord.setDefinition(sc.next());
+		    pass = true;
+		    }
+		    else if (inputYN.equals("n")) {
+		    //do nothing
+		    }
+		    else { System.out.println("Enter a valid input.");}
+		    }
+		    } else {
+		    System.out.println("Your definition: ");
+		    newWord.setDefinition(sc.next());
+		    }
+		    
+		    _all.get(_all.size()-1).add(input);
+	     	    inputAdd = sc.next().toLowerCase();
+
+		    */
 	     	}
+		
+		//_all.get(_all.size()-1).showAllWords();
 	    }
 
-	    //~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~
+	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
 	    else if (option == 3) {
-	     	System.out.println("Select a game:");
+	     	System.out.println("Select a game or enter \"H\" for main menu:");
 	     	System.out.println("\t1: Flashcards");
 		System.out.println("\t2: Learn");
 		System.out.println("\t3: Matching");
 
+		//game and set
+		int game = 0;
+		int setChoice = 0;
+
+		
 		//check for H or any of the above options
-	     	pass = false;
-	     	String option2 = sc.next();
-	     	if (option2.equals("H")) {
-	     	    //do nothing--end this round
-	     	}
-		else {
-	     	    while (!pass) {
-	     		try {
-	     		    int opt = Integer.parseInt(option2);
-	     		    pass = true;
-	     		} catch (Exception e) {
-	     		    System.out.println("Enter a valid input.");
-	     		}
-	     	    }
+		pass = false;
+	     	String option3 = sc.next().toLowerCase;
+		while (!option3.equals("h") && !pass) {
+		    try {
+			game = Integer.parseInt(option2);
+			pass = true;
+		    } catch (Exception e) {
+			System.out.println("Enter a valid input.");
+		    }
+		}
 
-		    //choose an existing set in _all and print all
-	     	    System.out.println("Select an existing Set.");
-	     	    for (int x = 0; x < _all.size(); x++) {
-	     		System.out.println("\t" +
-	     				   (x+1) +
-	     				   ": " +
-	     				   _all.get(x).getName());
-	     	    }
+		//select a set
+		if (!option3.equals("h")) {
+		    //print all existing sets
+		    System.out.println("Select an existing Set.");
+		    for (int x = 0; x < _all.size(); x++) {
+			System.out.println("\t" +
+					   (x+1) +
+					   ": " +
+					   _all.get(x).getName());
+		    }
 
-		    //SIKE--you've made a bad choice--rough terrain ahead
-	     	    System.out.println("Currently under construction, sorry.");
-	     	    System.out.println("Here's an example set:");
+		    //ask users for a set
+		    option3 = sc.next().toLowerCase();
+		    pass = false;
+		    while (!option3.equals("h") && !pass) {
+			try {
+			    setChoice = Integer.parseInt(option3);
+			    if (setChoice <= 3) {pass = true;}
+			    else {System.out.println("Enter a valid input.");}
+			} catch (Exception e) {
+			    System.out.println("Enter a valid input.");
+			    option3 = sc.next().toLowerCase();
+			}
+		    }
 
-		    //*****************AN EXAMPLE***********************8
-	     	    Set hello = new Set("Compliments");
-	     	    Word cool = new Word("cool"
-					 ,"not warm enough");
-		    Word great = new Word ("great","what you say to a mate");
-		    Word superb = new Word ("superb","it's not just super, it's _____");
-		    Word fantastic = new Word ("fantastic","______ Beasts and where to find them.");
-		    Word awesome = new Word ("awesome","awe inducing");
-		    hello.add(cool);
-		    hello.add(great);
-		    hello.add(superb);
-		    hello.add(fantastic);
-		    hello.add(awesome);
-		    hello.showAllWords();
-		    System.out.println();
-
-		    Flashcard hiF = new Flashcard (hello);
-		    hiF.play();
-		    System.out.println();
-		    Learn hiL = new Learn(hello);
-		    hiL.play();
-		    System.out.println();
-		    Matching hiM = new Matching (hello);
-		    hiM.play();
-		    System.out.println();
-		    //*****************************************************
+		    //play the game
+		    if (!option3.equals("h")) {
+			Set theSet = _all.get(setChoice - 1);
+			if (game == 1) {
+			    Flashcard one = new Flashcard(theSet);
+			    one.play();
+			}
+			else if (game == 2) {
+			    Learn two = new Learn(theSet);
+			    two.play();
+			}
+			else {
+			    Matching three = new Matching(theSet);
+			    three.play();
+			}
+		    }
 		    
 		}
 	    }
-
-	    //~~~~~~~~~~~~~~~~~~~~CALL IT QUITS~~~~~~~~~~~~~~~~~~~~
-	    else {
-		System.out.println("See you soon!");
-		break;
-	    }
-
 	}
+
+	//~~~~~~~~~~~~~~~~~~~~CREATE A TEXT FILE~~~~~~~~~~~~~~~~~~~~~~~~~
+	else if (option == 4) {
+
+	    //create text file
+	    
+	}
+	
+	//~~~~~~~~~~~~~~~~~~~~CALL IT QUITS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	else {
+	    System.out.println("See you soon!");
+	    break;
+	}
+
 
     }
 }
