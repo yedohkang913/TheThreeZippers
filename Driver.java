@@ -84,13 +84,10 @@ public class Driver {
 
 		//add words or leave
 	     	String inputAdd = sc.next().toLowerCase();
-	     	while (!inputAdd.equals("h")) {
-	     	    System.out.println("Dictionary is still under construction.");
-
-       
+	     	while (!inputAdd.equals("h")) {      
 		    //search dictionary for user's inputted definition
-		    Word newWord = new Word (input);
-		    String possDef = Dictionary.search(input).getDefinition();
+		    Word newWord = new Word (inputAdd);
+		    String possDef = Dictionary.search(inputAdd).getDefinition();
 
 		    if (possDef != null) {
 			System.out.println("Here is the defn: \n" +
@@ -114,7 +111,7 @@ public class Driver {
 			newWord.setDefinition(sc.next());
 		    }
 		    
-		    _all.get(_all.size()-1).add(input);
+		    _all.get(_all.size()-1).add(newWord);
 	     	    inputAdd = sc.next().toLowerCase();
 
 	     	}
