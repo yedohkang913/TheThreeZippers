@@ -37,8 +37,8 @@ ______   ______   __   __   __       ______   _______
 2017-05-31
 --------------------------------------------------------------
 Yedoh: 
-Kristin: 
-Kelly: Changed functionality of Learn.java, finished error handling in Learn.java and Flashcard.java, worked on alpha search method | 130 min (including class time) 
+Kristin: Worked on dictionary search method; finished Driver with exception of Dictionary search parts | 140 min (ict)
+Kelly: Changed functionality of Learn.java, finished error handling in Learn.java and Flashcard.java, worked on dictionary search method | 130 min (including class time) 
 
 ==============================================================
 2017-05-30
