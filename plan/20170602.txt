@@ -1,0 +1,37 @@
+TheThreeZippers: Kelly Wang, Kristin Lin, Yedoh Kang
+APCS2 pd01
+Dictionary Frenzy!: Plan #4
+2017-06-02
+
+1. Which jobs are most crucial?
+   In order of priority:
+   A. Writing Driver.java:
+      An important class that will bring everything together, allowing the user to actually run and use the program/tool.
+   B. Adding comments, fixing code, making it look neater, adding more options to the Driver.java
+   C. adding a GUI (colors!)
+
+2. Which components constitute core functionality (vs non-essential)?
+      Core functionality: writing Driver.java so that the user can use the program.
+
+3. Which components are prerequisites for others?
+      Everything else.
+
+4. Which tasks can be delegated, and which must be collaboratively tackled?
+      Driver.java must be collaboratively tackled. We will then, on our own, review and test everything, and then talk about what we discovered
+      and fix them together unless it's a quick, minor change. 
+
+5. What is the timeline, and how does it accommodate setbacks, course changes?	
+      This timeline allows sufficient time for change, and leaves a few days to make crucial changes/fix things.
+      COMPLETE BY MIDNIGHT: 
+            *make changes necessary as we go
+            *remember to add comments!
+            *make changes to the Driver file along the way
+	    *WORK ON DICTIONARY.JAVA ALONG THE WAY!!
+      5/19 - Word.java (DONE)
+      5/20 - Set.java (DONE)
+      5/22 - Flashcard.java (DONE)
+      5/24 - Learn.java (DONE)
+      5/26 - Matching.java (DONE)
+      5/30 - Dictionary.java (DONE)
+      6/3 - Driver.java
+      6/6 - Make/add additional changes/features if necessary; Test cases (test out the program); Make code neater and easier to read; etc.
