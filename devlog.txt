@@ -36,7 +36,7 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-06-01
 --------------------------------------------------------------
-Yedoh: finished fixing the Dictionary text files; worked on Driver.java | 40 min  
+Yedoh: finished fixing the Dictionary text files; worked on Driver.java, worked on the plan due tomorrow | 40 min  
 Kristin: Worked on Driver.java | 100 min 
 Kelly: Worked on Driver.java | 45 min 
 
