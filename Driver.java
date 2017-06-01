@@ -64,12 +64,12 @@ public class Driver {
 	     	String input1 = sc.next().toLowerCase();
 		while (!input1.equals("h")) {
 		    //should take in the word and search dictionary
-	     	    System.out.println("Currently under construction, sorry.");
-		    /*
-		      Word answer = Dictionary.search(input);
-		      System.out.println( answer + "\nDefn: " +
-		      answer.getDefinition());
-		    */			
+	     	    //System.out.println("Currently under construction, sorry.");
+		   
+		      String answer = Dictionary.search(input1);
+		      System.out.println( input1 + "\nDefn: " +
+		      answer);
+        		
 		    System.out.println("Type in another word to search," +
 				       "or type \"H\" to return to main menu.");
 		    input1 = sc.next().toLowerCase();
@@ -87,7 +87,7 @@ public class Driver {
 	     	while (!inputAdd.equals("h")) {      
 		    //search dictionary for user's inputted definition
 		    Word newWord = new Word (inputAdd);
-		    String possDef = Dictionary.search(inputAdd).getDefinition();
+		    String possDef = Dictionary.search(inputAdd);
 
 		    if (possDef != null) {
 			System.out.println("Here is the defn: \n" +
