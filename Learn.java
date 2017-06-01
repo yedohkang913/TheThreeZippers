@@ -23,12 +23,36 @@ public class Learn {
         System.out.println("2 for PRIORITIZED SET (based on number of word)");
         System.out.println("3 for ALPHABETICAL SET");
         System.out.print("Selection: ");
-        removeType = sc.nextInt();
 	//did the user enter a valid input?
-        while (removeType != 1 && removeType != 2 && removeType != 3) {
-            System.out.println("Invalid number selected. Please enter a valid number for selection.");
-            System.out.print("Selection: ");
-            removeType = sc.nextInt();
+	String option = sc.next();
+	int removeType = 1;
+	//if the user did not enter a number
+	boolean done = false;
+	while ( done == false ) {
+	    try {
+		removeType = Integer.parseInt(option);
+		done = true; }
+	    catch ( Exception e ) {
+		System.out.println("Please enter 1, 2, or 3");
+	        option = sc.next();
+	    }
+	}
+	//if the user entered an invalid number
+	while (removeType != 1 && removeType != 2 && removeType != 3) {
+	    System.out.println("Invalid number selected. Please enter a valid number for selection.");
+	    System.out.print("Selection: ");
+	    option = sc.next();
+	    done = false;
+	    //if a user is a fool and once again decides not to enter a number 
+	    while ( done == false ) {
+		try {
+		    removeType = Integer.parseInt(option);
+		    done = true; }
+		catch ( Exception e ) {
+		    System.out.println("Please enter 1, 2, or 3");
+		    option = sc.next();
+		}
+	    }
 	}
         if (removeType == 1) {
             System.out.println("You have chosen a random set.");
@@ -84,19 +108,13 @@ public class Learn {
 		deck[i].setTimesMissed(); 
 		wrong++;
 		while (!input.equals(deck[i].getName())) {
-		    System.out.println("Sorry, but that's incorrect. \nWould you like to try again? y/n");
+		    System.out.println("Sorry, but that's incorrect. \nTry again, or type in 'kellyiscool' for the correct answer");
 		    input = sc1.next();
-		    if ( input.equals("n") ) {
-			System.out.println("Please enter the CORRECT answer: " + deck[i].getName() ) ;
-			input = sc1.next();
-		    }
-		    else if ( input.equals("y") ) {
-			System.out.println("Try again! Type in your answer:");
-			input = sc1.next();
-		    }
-		    else {
-			System.out.println("Please enter y or n");
-			input = sc1.next();
+		    if ( input.equals("kellyiscool") ) {
+			while ( !input.equals(deck[i].getName() ) ) {
+			    System.out.println("Please enter the CORRECT answer: " + deck[i].getName() ) ;
+			    input = sc1.next();
+			}
 		    }
 		}
 	    } else {
