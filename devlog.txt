@@ -38,7 +38,7 @@ ______   ______   __   __   __       ______   _______
 --------------------------------------------------------------
 Yedoh: finished fixing the Dictionary text files; worked on Driver.java, worked on the plan due tomorrow | 40 min  
 Kristin: Worked on Driver.java | 100 min 
-Kelly: Worked on Driver.java | 45 min 
+Kelly: Worked on Driver.java, made Flashcard.java and Learn.java friendlier | 115 min 
 
 ==============================================================
 2017-05-31
