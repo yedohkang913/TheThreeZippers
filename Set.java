@@ -99,6 +99,26 @@ public class Set {
 	return highest;
     }
 
+    public Word findRemove(String input) {
+        Word temp = _first;
+	while (temp != null) {
+	    if (temp.getName().equals(input)) {
+		if (temp == _first) {
+		    _first = _first.getNext();
+		}
+		else if (temp == _last) {
+		    _last = _last.getLast();
+		}
+		else {
+		    temp.getLast().setNext(temp.getNext());
+		    temp.getNext().setLast(temp.getLast()); 
+		}
+		return temp;
+	    }
+	}
+	return null;
+    }
+
     public String getName() {
 	return name;
     }
