@@ -39,7 +39,6 @@ public class Dictionary {
 				// update
 				defPlace += 2;
 			}
-			
 		}
 	}
 	
@@ -70,8 +69,7 @@ public class Dictionary {
 	  	}
 	  	return _list.get(_index).getDefinition();
 	}
-     
-
+	
 	public static void main (String[] args) {
 		try {
 			create();
@@ -81,5 +79,4 @@ public class Dictionary {
 		}
 		System.out.println(search("tycoon"));
 	}
-
 }
