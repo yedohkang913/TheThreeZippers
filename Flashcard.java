@@ -21,32 +21,20 @@ public class Flashcard {
 	System.out.print("Selection: ");
         String option = sc.next();
 	int removeType = 1;
-	//if the user did not enter a number
+	//if the user did not enter a valid number
 	boolean done = false;
 	while ( done == false ) {
 	    try {
 		removeType = Integer.parseInt(option);
-		done = true; }
-	    catch ( Exception e ) {
-		System.out.println("Please enter 1, 2, or 3");
-	        option = sc.next();
-	    }
-	}
-	//if the user entered an invalid number
-	while (removeType != 1 && removeType != 2 && removeType != 3) {
-	    System.out.println("Invalid number selected. Please enter a valid number for selection.");
-	    System.out.print("Selection: ");
-	    option = sc.next();
-	    done = false;
-	    //if a user is a fool and once again decides not to enter a number 
-	    while ( done == false ) {
-		try {
-		    removeType = Integer.parseInt(option);
-		    done = true; }
-		catch ( Exception e ) {
+		if ( removeType > 3 ) {
 		    System.out.println("Please enter 1, 2, or 3");
 		    option = sc.next();
 		}
+		else{ done = true; }
+	    }
+	    catch ( Exception e ) {
+		System.out.println("Please enter 1, 2, or 3");
+	        option = sc.next();
 	    }
 	}
 	if (removeType == 1) {
@@ -74,30 +62,17 @@ public class Flashcard {
 	while ( done == false ) {
 	    try {
 		order = Integer.parseInt(option);
-		done = true; }
+		if ( order > 3 ) {
+		    System.out.println("Please enter 1, 2, or 3");
+		    option = sc.next();
+		}
+		else {done = true; }
+	    }
 	    catch ( Exception e ) {
 		System.out.println("Please enter 1, 2, or 3");
 	        option = sc.next();
 	    }
-	}
-	//if the user entered an invalid number
-	while (order != 1 && order != 2 && order != 3) {
-	    System.out.println("Invalid number selected. Please enter a valid number for selection.");
-	    System.out.print("Selection: ");
-	    option = sc.next();
-	    done = false;
-	    //if a user is a fool and once again decides not to enter a number 
-	    while ( done == false ) {
-		try {
-		    order = Integer.parseInt(option);
-		    done = true; }
-		catch ( Exception e ) {
-		    System.out.println("Please enter 1, 2, or 3");
-		    option = sc.next();
-		}
-	    }
-	}
-	
+	}	
 	if (order == 1) {
 	    System.out.println("You have chosen to start with words.");
 	}
@@ -139,84 +114,30 @@ public class Flashcard {
     public void play() {
 	Scanner sc1 = new Scanner(System.in);
 	System.out.println("LET'S STUDY WITH FLASHCARDS!");
-	System.out.println("Press 1 to see the corresponding word/definition.");
+	System.out.println("Enter any key to see the corresponding word/definition.");
 	for (int i = 0; i < deck.length; i++) {
 	    //If user has chosen to start with random choice
 	    if (randomOrder == true) { 
 		order = (int)(Math.random()*2+1);
 	    }
-	    //Print word, then print definition as prompted when user enters 1
+	    //Print word, then print definition as prompted when user enters whatever key
 	    if (order == 1) {
 		System.out.println("\n" + deck[i].getName());
 		String opt = sc1.next();
-		int option = 0;
-		boolean done = false;
-		//if user enters something other than 1
-		while ( done == false ) {
-		    try {
-			option = Integer.parseInt(opt);
-			done = true; }
-		    catch (Exception e) {
-			System.out.println("Please enter 1 to see the definition.");
-			opt = sc1.next();
-		    }
-		}
-		
-		while (option != 1) {
-		    System.out.println("Please enter 1 to see the definition.");
-		    opt = sc1.next();
-		    done = false;
-		    while ( done == false ) {
-			try {
-			    option = Integer.parseInt(opt);
-			    done = true; }
-			catch (Exception e) {
-			    System.out.println("Please enter 1 to see the definition.");
-			    opt = sc1.next();
-			}
-		    }
-		}
-		if (option == 1) {
+		if (opt != null) {
 		    System.out.println(deck[i].getDefinition());
 		}
 	    }
-	    //Print definition, then print word as prompted when user enters 1
+	    //Print definition, then print word as prompted when user enters something
 	    else if (order == 2) {
 		System.out.println("\n" + deck[i].getDefinition());
 		String opt = sc1.next();
-		int option = 0;
-		boolean done = false;
-		//if user enters something other than 1
-		while ( done == false ) {
-		    try {
-			option = Integer.parseInt(opt);
-			done = true; }
-		    catch (Exception e) {
-			System.out.println("Please enter 1 to see the word.");
-			opt = sc1.next();
-		    }
-		}
-		
-		while (option != 1) {
-		    System.out.println("Please enter 1 to see the word.");
-		    opt = sc1.next();
-		    done = false;
-		    while ( done == false ) {
-			try {
-			    option = Integer.parseInt(opt);
-			    done = true; }
-			catch (Exception e) {
-			    System.out.println("Please enter 1 to see the word.");
-			    opt = sc1.next();
-			}
-		    }
-		}
-		if (option == 1) {
+		if (opt != null) {
 		    System.out.println(deck[i].getName());
 		}
 	    }
 	    //If the user did not know the correct word/definition, assign a higher priority to that word
-	    System.out.println("Did you know the correct word/definition? Enter 1 for no, any key for yes");
+	    System.out.println("Did you know the correct word/definition? Enter 1 for no, any other key for yes");
 	    String rite = sc1.next();
 	    int q;
 	    try { q = Integer.parseInt(rite);
