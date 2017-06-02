@@ -26,32 +26,19 @@ public class Learn {
 	//did the user enter a valid input?
 	String option = sc.next();
 	int removeType = 1;
-	//if the user did not enter a number
 	boolean done = false;
 	while ( done == false ) {
 	    try {
 		removeType = Integer.parseInt(option);
-		done = true; }
-	    catch ( Exception e ) {
-		System.out.println("Please enter 1, 2, or 3");
-	        option = sc.next();
-	    }
-	}
-	//if the user entered an invalid number
-	while (removeType != 1 && removeType != 2 && removeType != 3) {
-	    System.out.println("Invalid number selected. Please enter a valid number for selection.");
-	    System.out.print("Selection: ");
-	    option = sc.next();
-	    done = false;
-	    //if a user is a fool and once again decides not to enter a number 
-	    while ( done == false ) {
-		try {
-		    removeType = Integer.parseInt(option);
-		    done = true; }
-		catch ( Exception e ) {
+		if ( removeType > 3 ) {
 		    System.out.println("Please enter 1, 2, or 3");
 		    option = sc.next();
 		}
+		else {done = true; }
+	    }
+	    catch ( Exception e ) {
+		System.out.println("Please enter 1, 2, or 3");
+	        option = sc.next();
 	    }
 	}
         if (removeType == 1) {
