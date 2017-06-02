@@ -10,8 +10,10 @@ public class Dictionary {
 	
 	private String word;
 	private static ArrayList<Word> _list;
-	private static final String[] alpha = {"A","B","C","D","E","F","G","H","I","J","K",
-		"L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"};
+	private static final String[] alpha = {"A","B","C","D","E","F","G",
+					       "H","I","J","K","L","M","N","O",
+					       "P","Q","R","S","T","U","V","W",
+					       "X","Y","Z"};
 	
 	public static void create () throws FileNotFoundException {
 		
@@ -55,7 +57,7 @@ public class Dictionary {
 	  	    //found the word!
 	  	    if ( (_list.get(mid)).alphaCompare(yeah) == 0 ) {
 	  			_index = mid;
-	  			break;
+				return _list.get(_index).getDefinition();
 	  	    }
 	  	    //word comes before arg
 	  	    else if ( (_list.get(mid) ).alphaCompare(yeah) < 0 ) {
@@ -67,7 +69,7 @@ public class Dictionary {
 	  	    }
 	  	    mid = ( hi + lo ) /2;
 	  	}
-	  	return _list.get(_index).getDefinition();
+		return null;
 	}
 	
 	public static void main (String[] args) {
@@ -77,6 +79,6 @@ public class Dictionary {
 		catch (FileNotFoundException inputFile) {
 			System.out.println("another");
 		}
-		System.out.println(search("tycoon"));
+		System.out.println(search("hello"));
 	}
 }
