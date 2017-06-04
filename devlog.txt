@@ -34,6 +34,20 @@ ______   ______   __   __   __       ______   _______
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
 
 ==============================================================
+2017-06-03
+--------------------------------------------------------------
+Yedoh: <tbd> | <tbd> min
+Kristin: fixed Driver error with Scanner and input; added option to edit a set| 90 min
+Kelly: <tbd> | <tbd> min
+
+==============================================================
+2017-06-02
+--------------------------------------------------------------
+Yedoh: Worked on Dictionary.search() & tested it thoroughly | 40 min
+Kristin: wrote Set.findRemove to remove a specific Word | 40 min
+Kelly: (same as YK) | 40 min
+
+==============================================================
 2017-06-01
 --------------------------------------------------------------
 Yedoh: finished fixing the Dictionary text files; worked on Driver.java, worked on the plan due tomorrow | 40 min  

@@ -100,9 +100,10 @@ public class Set {
     }
 
     public Word findRemove(String input) {
+	input = input.toLowerCase();
         Word temp = _first;
 	while (temp != null) {
-	    if (temp.getName().equals(input)) {
+	    if (temp.getName().toLowerCase().equals(input)) {
 		if (temp == _first) {
 		    _first = _first.getNext();
 		}
@@ -115,6 +116,7 @@ public class Set {
 		}
 		return temp;
 	    }
+	    temp = temp.getNext();
 	}
 	return null;
     }
@@ -137,7 +139,7 @@ public class Set {
 
     //print all the words in the set
     public String showAllWords() {
-	String ret = "\n" + name + ": A Complete List";
+	String ret = "\n" + name + ": A Complete List\n";
 	int numberPlace = 1;
 	Word temp = _first;
 	while (temp != null) {
@@ -150,7 +152,6 @@ public class Set {
 
     //testing
     public static void main (String[] args) {
-	/* ~~~~~~~~ A TEST OF FUNCTIONALITY ~~~~~~~~
 	Set geo = new Set("Geometry Terms");
 	Word orthocenter = new Word("Orthocenter");
 	Word hypotenuse = new Word("hypotenuse");
@@ -161,27 +162,12 @@ public class Set {
 	geo.add(orthocenter);
 	geo.add(hypotenuse);
 	geo.add(isosceles);
-	geo.showAllWords();
-	//should be hypo, ortho, iso
-	System.out.println("\nRemoving by priority: ");
-	System.out.println("size: " + geo.getSize());
-	System.out.println(geo.removeP()); 
-	System.out.println(geo.removeP()); 
-	System.out.println(geo.removeP());
-	System.out.println("size: " + geo.getSize());
-	//readd
-	geo.add(orthocenter);
-	geo.add(hypotenuse);
-	geo.add(isosceles);
-	//should be random
-	System.out.println("\nRemoving randomly: ");
-	System.out.println("size: " + geo.getSize());
-	System.out.println(geo.removeR()); 
-	System.out.println(geo.removeR());
-	System.out.println(geo.removeR());
-	System.out.println("size: " + geo.getSize());
+	System.out.println(	geo.showAllWords());
 
-	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+	geo.findRemove("orthocenter");
+
+	System.out.println(	geo.showAllWords());
+
     }
 
 }

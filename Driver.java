@@ -39,9 +39,10 @@ public class Driver {
 	    System.out.println("Here are your options: " +
 			       "\n1: Search a word up in our dictionary." +
 			       "\n2: Create a set of vocabulary words" +
-			       "\n3: Play a game with an existing set." +
-			       "\n4: Export a text file of an existing set." +
-			       "\n5: Exit");
+			       "\n3: Edit an existing set." +
+			       "\n4: Play a game with an existing set." +
+			       "\n5: Export a text file of an existing set." +
+			       "\n6: Exit");
 
 	    //user can only enter an integer that is equal to or less than 4
 	    pass = false;
@@ -51,7 +52,7 @@ public class Driver {
 		try {
 		    choiceMain = Integer.parseInt(option); //should be an int
 		    //should be less than or equal to 5
-		    if (choiceMain <= 5) { 
+		    if (choiceMain <= 6) { 
 			pass = true; 
 		    }
 		    else {  
@@ -139,8 +140,73 @@ public class Driver {
 	     	}
 
 	    }
-	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
+
+	    //~~~~~~~~~~~~~~~~~~~~~~~~~~EDITING A SET~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 3) {
+
+		System.out.println("Let's EDIT a set!");
+
+		//print all existing sets
+		System.out.println("\nSelect an existing Set: ");
+		if (_all.size() == 0) {
+		    System.out.println("\tYou have no Sets." +
+				       "\nEnter 'H' to head back to menu.");
+		} else {
+		    for (int x = 0; x < _all.size(); x++) {
+			System.out.println("\t" +
+					   (x+1) +
+					   ": " +
+					   _all.get(x).getName());
+		    }
+		}
+
+		//ask users for a set
+		System.out.print("\nSelection: ");
+		String option3 = sc.next().toLowerCase();
+		int editSet = -1;
+		pass = false;
+		while (!option3.equals("h") && !pass) {
+		    try {
+			editSet = Integer.parseInt(option3);
+			if (editSet <= 3) {
+			    pass = true;
+			}
+			else {
+			    System.out.print("\n Please enter a valid input: ");
+			    option3 = sc.next().toLowerCase();
+			}
+		    }
+		    catch (Exception e) {
+			System.out.print("\n Please enter a valid input: ");
+			option3 = sc.next().toLowerCase();
+		    }
+		}
+
+		if (!option3.equals("h")) {
+		    Set editing = _all.get(editSet-1); //chosen set
+		    System.out.println (editing.showAllWords()); //should be with defn
+
+		    //prompts user to input desired word for removal
+		    System.out.println("Word for removal/H:" );
+		    option3 = sc.next().toLowerCase();
+
+		    while (!option3.equals("h")) {
+			if (editing.findRemove(option3) != null) {
+			    System.out.println("Word has been removed!");
+			}
+			else {
+			    System.out.println("Word was not found.");
+			}
+			System.out.println (editing.showAllWords()); //should be with defn
+			System.out.println("Word for removal/H:" );
+			option3 = sc.next().toLowerCase();
+		    }
+		}
+		
+	    }
+
+	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
+	    else if (choiceMain == 4) {
 		System.out.println("\n Welcome to PLAYING A GAME!!\n");
 	     	System.out.println("Select a game or enter \"H\" for main menu:");
 	     	System.out.println("\t1: Flashcards");
@@ -155,25 +221,25 @@ public class Driver {
 		//check for H or any of the above options
 		pass = false;
 		System.out.print("\nSelection: ");
-	     	String option3 = sc.next().toLowerCase();
-		while (!option3.equals("h") && !pass) {
+	     	String option4 = sc.next().toLowerCase();
+		while (!option4.equals("h") && !pass) {
 		    try {
-			game = Integer.parseInt(option3);
+			game = Integer.parseInt(option4);
 			if ( game <= 3 ) {
 			    pass = true;
 			}
 			else {
 			    System.out.print("\nPlease enter a valid input: ");
-			    option3 = sc.next().toLowerCase();
+			    option4 = sc.next().toLowerCase();
 			}
 		    } catch (Exception e) {
 			System.out.print("\nPlease enter a valid input: ");
-			option3 = sc.next().toLowerCase();
+			option4 = sc.next().toLowerCase();
 		    }
 		}
 
 		//select a set
-		if (!option3.equals("h")) {
+		if (!option4.equals("h")) {
 		    //print all existing sets
 		    System.out.println("\nSelect an existing Set: ");
 
@@ -191,27 +257,28 @@ public class Driver {
 
 		    //ask users for a set
 		    System.out.print("\nSelection: ");
-		    option3 = sc.next().toLowerCase();
+		    option4 = sc.next().toLowerCase();
 		    pass = false;
-		    while (!option3.equals("h") && !pass) {
+		    while (!option4.equals("h") && !pass) {
 			try {
-			    setChoice = Integer.parseInt(option3);
+			    setChoice = Integer.parseInt(option4);
 			    if (setChoice <= 3) {
 				pass = true;
 			    }
 			    else {
 				System.out.print("\n Please enter a valid input: ");
-				option3 = sc.next().toLowerCase();
+				option4 = sc.next().toLowerCase();
 			    }
 			}
 			catch (Exception e) {
 			    System.out.print("\n Please enter a valid input: ");
-			    option3 = sc.next().toLowerCase();
+			    option4 = sc.next().toLowerCase();
 			}
 		    }
+		
 
 		    //play the game
-		    if (!option3.equals("h")) {
+		    if (!option4.equals("h")) {
 			Set theSet = _all.get(setChoice - 1);
 			if (game == 1) {
 			    Flashcard one = new Flashcard(theSet);
@@ -231,7 +298,7 @@ public class Driver {
 	    }
 
 	    //~~~~~~~~~~~~~~~~~~~~CREATE A TEXT FILE~~~~~~~~~~~~~~~~~~~~~~~~~
-	    else if (choiceMain == 4) {
+	    else if (choiceMain == 5) {
 		System.out.println("Let's CREATE A TEXT FILE!");
 		System.out.println("\nWhich set would you like to print?");
 		if (_all.size() == 0) {
