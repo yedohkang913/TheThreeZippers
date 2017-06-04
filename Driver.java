@@ -23,6 +23,7 @@ public class Driver {
 	int choiceMain = 0;
 	boolean pass = false; 
 	Scanner sc = new Scanner(System.in);
+	Scanner lines = new Scanner(System.in);
 	try {
 	    Dictionary.create();
 	}
@@ -70,7 +71,7 @@ public class Driver {
 	     			   "\nEnter H at any time to return home!" +
 	     			   "\nOtherwise, enter a word for its definition.\n");
 	     	System.out.print("Word/H: \n");
-		String input1 = sc.next().toLowerCase();
+		String input1 = lines.nextLine().toLowerCase();
 		System.out.println();
 		while (!input1.equals("h")) {
 		    //should take in the word and search dictionary
@@ -80,7 +81,7 @@ public class Driver {
 		    System.out.println("Type in another word to search," +
 				       " or type \"H\" to return to main menu.\n");
 		    System.out.print("Word/H: \n");
-		    input1 = sc.next().toLowerCase();
+		    input1 = lines.nextLine().toLowerCase();
 		    System.out.println();
 	     	}
 	    }
@@ -90,17 +91,17 @@ public class Driver {
 		System.out.println("\nWelcome to MAKING YOUR OWN SET!!");
 		System.out.println("\nA name for your new Set: ");
 		System.out.print("Name: ");
-	     	_all.add(new Set (sc.next()));
+	     	_all.add(new Set (lines.nextLine()));
 		System.out.println();
 	     	System.out.println("Enter word or \"H\" to save and exit.\n");
 
 		//add words or leave
 		System.out.println("Word/H: ");
-	     	String inputAdd = sc.next().toLowerCase();
+	     	String inputAdd = lines.nextLine().toLowerCase();
 	     	while (!inputAdd.equals("h")) {      
 		    //search dictionary for user's inputted definition
-		    Word newWord = new Word (inputAdd);
 		    String possDef = Dictionary.search(inputAdd);
+		    Word newWord = new Word (inputAdd, possDef);
 
 		    if (possDef != null) {
 			System.out.println("\nDefinition: \n" +
@@ -113,7 +114,7 @@ public class Driver {
 			    if (inputYN.equals("y")) {
 				System.out.println("\nWhat is your definition?");
 				System.out.println("\nNew Definition: ");
-				newWord.setDefinition(sc.next());
+				newWord.setDefinition(lines.nextLine());
 				pass = true;
 			    }
 			    else if (inputYN.equals("n")) {
@@ -126,33 +127,17 @@ public class Driver {
 		    }
 		    else {
 			System.out.println("\nYour definition: ");
-			newWord.setDefinition(sc.next());
+			newWord.setDefinition(lines.nextLine());
 		    }
 		    
 		    _all.get(_all.size()-1).add(newWord);
 
-		    /* fix BUG where someone changes the definition and inputs it
-		     * and the Next Word to Input prints
-		     * BUT instead of letting the user put in the next word, the Definition
-		     * for the changed definition from the previous word shows up.
-		     */
 		    
 		    System.out.print("\nNext Word to input/H: \n");
-	     	    inputAdd = sc.next().toLowerCase();
+	     	    inputAdd = lines.nextLine().toLowerCase();
 
 	     	}
-		/*
-		  Set geo = new Set("Geometry Terms");
-		  geo.add(new Word ("hypotenuse", "issa leg"));
-		  geo.add(new Word ("isosceles", "issa triangle"));
-		  geo.add(new Word ("median", "issa middle"));
-		  geo.add(new Word ("quadrilateral", "issa four"));
-		  geo.add(new Word ("triangle","threes"));
-		  _all.add(geo);
-		  //Flashcard tester = new Flashcard(geo);
-		  //tester.play();
-		  //System.out.println(_all.get(_all.size()-1).showAllWords());
-		  }*/
+
 	    }
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 3) {
@@ -191,11 +176,17 @@ public class Driver {
 		if (!option3.equals("h")) {
 		    //print all existing sets
 		    System.out.println("\nSelect an existing Set: ");
-		    for (int x = 0; x < _all.size(); x++) {
-			System.out.println("\t" +
-					   (x+1) +
-					   ": " +
-					   _all.get(x).getName());
+
+		    if (_all.size() == 0) {
+			System.out.println("\tYou have no Sets." +
+					   "\nEnter 'H' to head back to menu.");
+		    } else {
+			for (int x = 0; x < _all.size(); x++) {
+			    System.out.println("\t" +
+					       (x+1) +
+					       ": " +
+					       _all.get(x).getName());
+			}
 		    }
 
 		    //ask users for a set
@@ -243,11 +234,16 @@ public class Driver {
 	    else if (choiceMain == 4) {
 		System.out.println("Let's CREATE A TEXT FILE!");
 		System.out.println("\nWhich set would you like to print?");
-		for (int x = 0; x < _all.size(); x++) {
-		    System.out.println("\t" +
-				       (x+1) +
-				       ": " +
-				       _all.get(x).getName());
+		if (_all.size() == 0) {
+		    System.out.println("\tYou have no Sets." +
+				       "\nEnter 'H' to head back to menu.");
+		} else {
+		    for (int x = 0; x < _all.size(); x++) {
+			System.out.println("\t" +
+					   (x+1) +
+					   ": " +
+					   _all.get(x).getName());
+		    }
 		}
 
 		//ask users for a set
