@@ -78,6 +78,12 @@ public class Driver {
 		    //should take in the word and search dictionary
 		    System.out.print("Definition:");
 		    String answer = Dictionary.search(input1);
+		    if ( answer == null ) {
+			answer = Dictionary.checkWord1(input1);
+		    	if ( answer == null ) {
+			    answer = Dictionary.checkWord2(input1);
+		    	}
+		    }
 		    System.out.println("\n" + answer+ "\n\n");
 		    System.out.println("Type in another word to search," +
 				       " or type \"H\" to return to main menu.\n");
