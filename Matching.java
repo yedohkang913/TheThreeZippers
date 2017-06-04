@@ -18,7 +18,7 @@ public class Matching {
 
     //constructor
     public Matching (Set newDeck) {
-	System.out.println("Welcome to Matching!");
+	System.out.println("\nWelcome to Matching!");
 
 	//dequeue cards randomly or by priority or alpha into an ArrayList
 	wordDeck = new Word[newDeck.getSize()];
@@ -74,8 +74,8 @@ public class Matching {
     public void play() {
 	Scanner sc1 = new Scanner(System.in);
 	Scanner sc2 = new Scanner(System.in);
-	System.out.println("LET'S STUDY WITH MATCHING!");
-	System.out.println("Type in the letter corresponding to a word, then type in the number corresponding to its definition!");
+	System.out.println("\nLET'S STUDY WITH MATCHING!");
+	System.out.println("Type in the letter corresponding to a word, then type in the number corresponding to its definition!\n");
 
 	//numMatched increases until all matches are made
 	while (numMatched != wordDeck.length) {

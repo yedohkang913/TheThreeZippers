@@ -17,12 +17,12 @@ public class Learn {
     
 	// scanner input, for choices: either random, prioritized, or alphabetical
         Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to Learn!");
-        System.out.println("Please select an option: ");
-        System.out.println("1 for RANDOM SET");
-        System.out.println("2 for PRIORITIZED SET (based on number of word)");
-        System.out.println("3 for ALPHABETICAL SET");
-        System.out.print("Selection: ");
+        System.out.println("\nWelcome to Learn!");
+        System.out.println("\nPlease select an option: ");
+        System.out.println("1: RANDOM SET");
+        System.out.println("2: PRIORITIZED SET (based on number of word)");
+        System.out.println("3: ALPHABETICAL SET");
+        System.out.print("\nSelection: ");
 	//did the user enter a valid input?
 	String option = sc.next();
 	int removeType = 1;
@@ -31,24 +31,24 @@ public class Learn {
 	    try {
 		removeType = Integer.parseInt(option);
 		if ( removeType > 3 ) {
-		    System.out.println("Please enter 1, 2, or 3");
+		    System.out.print("\nPlease enter 1, 2, or 3: ");
 		    option = sc.next();
 		}
 		else {done = true; }
 	    }
 	    catch ( Exception e ) {
-		System.out.println("Please enter 1, 2, or 3");
+		System.out.print("\nPlease enter 1, 2, or 3: ");
 	        option = sc.next();
 	    }
 	}
         if (removeType == 1) {
-            System.out.println("You have chosen a random set.");
+            System.out.println("\nYou have chosen a random set.");
 	}
 	else if (removeType == 2) {
-	    System.out.println("You have chosen a prioritized set.");
+	    System.out.println("\nYou have chosen a prioritized set.");
 	}
 	else if (removeType == 3) {
-	    System.out.println("You have chosen an alphabetical set.");
+	    System.out.println("\nYou have chosen an alphabetical set.");
 	}
 
 	deck = new Word[newDeck.getSize()];
@@ -84,22 +84,26 @@ public class Learn {
 
     public void play() {
 	Scanner sc1 = new Scanner(System.in);
-	System.out.println("LET'S STUDY WITH LEARN!");
-	System.out.println("Type in the word and press enter, after the definition has been printed!");
+	System.out.println("\nLET'S STUDY WITH LEARN!");
+	System.out.println("\nType in the word and press enter, after the definition has been printed!");
 	for (int i = 0; i < deck.length; i++) {
 	    //Print definition
-	    System.out.println("\n" + deck[i].getDefinition());
+	    System.out.println("\nDefinition: \n" + deck[i].getDefinition());
+	    System.out.println();
+	    System.out.print("Word: ");
 	    String input = sc1.next().toLowerCase();
 	    //if the user enters the incorrect word: either display the answer or try again
 	    if (!input.equals(deck[i].getName())) {
 		deck[i].setTimesMissed(); 
 		wrong++;
 		while (!input.equals(deck[i].getName())) {
-		    System.out.println("Sorry, but that's incorrect. \nTry again, or type in 'kellyiscool' for the correct answer");
+		    System.out.println("\nSorry, but that's incorrect. \nTry again, or type in 'kellyiscool' for the correct answer!");
+		    System.out.print("Word/kellyiscool: ");
 		    input = sc1.next();
 		    if ( input.equals("kellyiscool") ) {
 			while ( !input.equals(deck[i].getName() ) ) {
-			    System.out.println("Please enter the CORRECT answer: " + deck[i].getName() ) ;
+			    System.out.println("\nPlease enter the CORRECT answer: " + deck[i].getName() ) ;
+			    System.out.print("Input: ");
 			    input = sc1.next();
 			}
 		    }
@@ -110,12 +114,12 @@ public class Learn {
 	    }
 	    //print stats for this game!
 	    wordsLeft--;
-	    System.out.println("# of Words Incorrect: " + wrong);
+	    System.out.println("\n# of Words Incorrect: " + wrong);
 	    System.out.println("# of Words Correct: " + correct);
 	    System.out.println("# of Words Left : " + wordsLeft);
 	    percentRight = (float) correct / (correct + wrong) * 100;
 	} // end for loop
-	System.out.println("Percent Correct: " + percentRight + "%");
+	System.out.println("\nPercent Correct: " + percentRight + "%");
     } // end play        
 
     //tester

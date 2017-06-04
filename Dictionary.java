@@ -49,10 +49,10 @@ public class Dictionary {
 	  	Word yeah = new Word( word );
 	    
 		//binary search function  
-	  	int hi = _list.size();
+	  	int hi = _list.size()-1;
 	  	int lo = 0;
 	  	int mid = (hi + lo )/2;
-	  	int _index = 0;
+	  	int _index = -1;
 	  	while ( lo <= hi ) {
 	  	    //found the word!
 	  	    if ( (_list.get(mid)).alphaCompare(yeah) == 0 ) {

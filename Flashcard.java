@@ -13,12 +13,12 @@ public class Flashcard {
 
 	// scanner input, for choices: either random, prioritized, or alphabetical
 	Scanner sc = new Scanner(System.in);
-	System.out.println("Welcome to Flashcard!");
-	System.out.println("Please select an option: ");
-	System.out.println("1 for RANDOM SET");
-	System.out.println("2 for PRIORITIZED SET (based on number of times the word was missed)");
-	System.out.println("3 for ALPHABETICAL SET");
-	System.out.print("Selection: ");
+	System.out.println("\nWelcome to Flashcard!");
+	System.out.println("\nPlease select an option: ");
+	System.out.println("1: RANDOM SET");
+	System.out.println("2: PRIORITIZED SET (based on number of times the word was missed)");
+	System.out.println("3: ALPHABETICAL SET");
+	System.out.print("\nSelection: ");
         String option = sc.next();
 	int removeType = 1;
 	//if the user did not enter a valid number
@@ -27,32 +27,32 @@ public class Flashcard {
 	    try {
 		removeType = Integer.parseInt(option);
 		if ( removeType > 3 ) {
-		    System.out.println("Please enter 1, 2, or 3");
+		    System.out.print("\nPlease enter 1, 2, or 3: ");
 		    option = sc.next();
 		}
 		else{ done = true; }
 	    }
 	    catch ( Exception e ) {
-		System.out.println("Please enter 1, 2, or 3");
+		System.out.print("\nPlease enter 1, 2, or 3: ");
 	        option = sc.next();
 	    }
 	}
 	if (removeType == 1) {
-	    System.out.println("You have chosen a random set.");
+	    System.out.println("\nYou have chosen a random set.");
 	}
 	else if (removeType == 2) {
-	    System.out.println("You have chosen a prioritized set.");
+	    System.out.println("\nYou have chosen a prioritized set.");
 	}
 	else if (removeType == 3) {
-	    System.out.println("You have chosen an alphabetical set.");
+	    System.out.println("\nYou have chosen an alphabetical set.");
 	}
 
 	// scanner input, for choices: either word first or definition or random
-	System.out.println("Please select an option: ");
-	System.out.println("1 for WORD FIRST");
-	System.out.println("2 for DEFINITION FIRST");
-	System.out.println("3 for RANDOM");
-	System.out.print("Selection: ");
+	System.out.println("\nPlease select an option: ");
+	System.out.println("1: WORD FIRST");
+	System.out.println("2: DEFINITION FIRST");
+	System.out.println("3: RANDOM");
+	System.out.print("\nSelection: ");
 	//order = sc.nextInt();
 	//did the user enter a valid input?
 	option = sc.next();
@@ -63,25 +63,25 @@ public class Flashcard {
 	    try {
 		order = Integer.parseInt(option);
 		if ( order > 3 ) {
-		    System.out.println("Please enter 1, 2, or 3");
+		    System.out.print("\nPlease enter 1, 2, or 3: ");
 		    option = sc.next();
 		}
 		else {done = true; }
 	    }
 	    catch ( Exception e ) {
-		System.out.println("Please enter 1, 2, or 3");
+		System.out.print("\nPlease enter 1, 2, or 3: ");
 	        option = sc.next();
 	    }
 	}	
 	if (order == 1) {
-	    System.out.println("You have chosen to start with words.");
+	    System.out.println("\nYou have chosen to start with words.");
 	}
 	else if (order == 2) {
-	    System.out.println("You have chosen to start with definitions.");
+	    System.out.println("\nYou have chosen to start with definitions.");
 	}
 	else if (order == 3) {
 	    randomOrder = true;
-	    System.out.println("You have chosen to start with a random choice.");
+	    System.out.println("\nYou have chosen to start with a random choice.");
 	}
 
 	//dequeue cards randomly or by priority or alpha into an ArrayList
@@ -113,8 +113,8 @@ public class Flashcard {
 
     public void play() {
 	Scanner sc1 = new Scanner(System.in);
-	System.out.println("LET'S STUDY WITH FLASHCARDS!");
-	System.out.println("Enter any key to see the corresponding word/definition.");
+	System.out.println("\nLET'S STUDY WITH FLASHCARDS!");
+	System.out.println("\nEnter any key to see the corresponding word/definition.");
 	for (int i = 0; i < deck.length; i++) {
 	    //If user has chosen to start with random choice
 	    if (randomOrder == true) { 
@@ -122,22 +122,25 @@ public class Flashcard {
 	    }
 	    //Print word, then print definition as prompted when user enters whatever key
 	    if (order == 1) {
-		System.out.println("\n" + deck[i].getName());
+		System.out.println("\nWord: \n" + deck[i].getName());
 		String opt = sc1.next();
 		if (opt != null) {
-		    System.out.println(deck[i].getDefinition());
+		    // IN THE TERMINAL, WHEN the word is printed, and a random key is pressed,
+		    // the definition is NOT SHOWN. it just prints null
+		    System.out.println("\nDefinition: \n" + deck[i].getDefinition());
 		}
 	    }
 	    //Print definition, then print word as prompted when user enters something
 	    else if (order == 2) {
-		System.out.println("\n" + deck[i].getDefinition());
+		System.out.println("\nDefinition: \n" + deck[i].getDefinition());
 		String opt = sc1.next();
 		if (opt != null) {
-		    System.out.println(deck[i].getName());
+		    System.out.println("\nWord: \n" + deck[i].getName());
 		}
 	    }
 	    //If the user did not know the correct word/definition, assign a higher priority to that word
-	    System.out.println("Did you know the correct word/definition? Enter 1 for no, any other key for yes");
+	    System.out.println("\nDid you know the correct word/definition? \n\t1: no \n\tany other key EXCEPT for H: yes");
+	    System.out.print("\nSelection: ");
 	    String rite = sc1.next();
 	    int q;
 	    try { q = Integer.parseInt(rite);
