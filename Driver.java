@@ -70,7 +70,7 @@ public class Driver {
 	    if (choiceMain == 1 ) {
 	     	System.out.println("\nWelcome to the DICTIONARY!!\n" +
 	     			   "\nEnter H at any time to return home!" +
-	     			   "\nOtherwise, enter a word for its definition.\n");
+	     			   "\nOtherwise, enter a word for its definition.\n\n");
 	     	System.out.print("Word/H: \n");
 		String input1 = lines.nextLine().toLowerCase();
 		System.out.println();
@@ -335,7 +335,7 @@ public class Driver {
 			PrintWriter filee = new PrintWriter(sett+".txt"); 
 			filee.println(_all.get(setC-1).showAllWords() );
 			filee.close();
-			System.out.println("A text file has been created!");
+			System.out.println("\nA text file has been created!");
 		    }
 		    catch ( Exception e ) { 
 			System.out.println("yah");

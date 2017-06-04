@@ -109,7 +109,7 @@ public class Learn {
 		    }
 		}
 	    } else {
-		System.out.println("True and correct!");
+		System.out.println("\nTrue and correct!");
 		correct++;
 	    }
 	    //print stats for this game!
