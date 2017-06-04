@@ -36,7 +36,7 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-06-03
 --------------------------------------------------------------
-Yedoh: <tbd> | <tbd> min
+Yedoh: continued testing Dictionary.search() & fixed some methods in Driver.java and layout/output in the terminal | 80 min
 Kristin: fixed Driver error with Scanner and input; added option to edit a set| 90 min
 Kelly: <tbd> | <tbd> min
 
