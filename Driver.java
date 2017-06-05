@@ -82,6 +82,9 @@ public class Driver {
 			answer = Dictionary.checkWord1(input1);
 		    	if ( answer == null ) {
 			    answer = Dictionary.checkWord2(input1);
+			    if (answer == null) {
+				System.out.println("This word is not in our database.");
+			    }
 		    	}
 		    }
 		    System.out.println("\n" + answer+ "\n\n");
@@ -188,24 +191,107 @@ public class Driver {
 		    }
 		}
 
+		//choose to removal or add or rename set
 		if (!option3.equals("h")) {
 		    Set editing = _all.get(editSet-1); //chosen set
 		    System.out.println (editing.showAllWords()); //should be with defn
 
-		    //prompts user to input desired word for removal
-		    System.out.println("Word for removal/H:" );
+		    System.out.println("Would you like to: " + 
+				       "\t1: Rename the Set" + 
+				       "\t2: Add words" + 
+				       "\t3: Remove words" + 
+				       "\tH: Bail");
 		    option3 = sc.next().toLowerCase();
+		    int how = 0;
+		    pass = false;
+		    while (!option3.equals("h") && !pass) {
+			try {
+			    how = Integer.parseInt(option3);
+			    if (how <= 4) {
+				pass = true;
+			    }
+			    else {
+				System.out.print("\nPlease enter a valid input:");
+				option3 = sc.next().toLowerCase();
+			    }
+			}
+			catch (Exception e) {
+			    System.out.print("\n Please enter a valid input: ");
+			    option3 = sc.next().toLowerCase();
+			}
+		    }
 
-		    while (!option3.equals("h")) {
-			if (editing.findRemove(option3) != null) {
-			    System.out.println("Word has been removed!");
+		    //rename the set
+		    if (how == 1) {
+			System.out.println("\nNew name: ");
+			option3 = lines.nextLine();
+			editing.setName(option3);
+		    }
+
+		    //add words
+		    if (how == 2) {
+			System.out.println("New Word/H: ");
+			String editAdd = lines.nextLine();
+
+			while (!editAdd.equals("h")) {      
+			    //search dictionary for user's inputted definition
+			    String possDef2 = Dictionary.search(editAdd);
+			    Word newWord2 = new Word (editAdd, possDef2);
+
+			    if (possDef2 != null) {
+				System.out.println("\nDefinition: \n" +
+						   possDef2 +
+						   "\n\nWould you like to change it? Y/N");
+				System.out.print("Y/N: ");
+				String inputYN2 = sc.next().toLowerCase();
+				pass = false;
+				while (pass == false) {
+				    if (inputYN2.equals("y")) {
+					System.out.println("\nWhat is your definition?");
+					System.out.println("\nNew Definition: ");
+					newWord2.setDefinition(lines.nextLine());
+					pass = true;
+				    }
+				    else if (inputYN2.equals("n")) {
+					pass = true;
+				    }
+				    else {
+					System.out.println("Enter a valid input.");
+				    }
+				}
+			    }
+			    else {
+				System.out.println("\nYour definition: ");
+				newWord2.setDefinition(lines.nextLine());
+			    }
+		    
+			    editing.add(newWord2);
+
+		    
+			    System.out.print("\nNext Word to input/H: \n");
+			    editAdd = lines.nextLine().toLowerCase();
+
 			}
-			else {
-			    System.out.println("Word was not found.");
-			}
-			System.out.println (editing.showAllWords()); //should be with defn
+
+		    }
+
+		    //remove words
+		    if (how == 3) {
+			//prompts user to input desired word for removal
 			System.out.println("Word for removal/H:" );
 			option3 = sc.next().toLowerCase();
+
+			while (!option3.equals("h")) {
+			    if (editing.findRemove(option3) != null) {
+				System.out.println("Word has been removed!");
+			    }
+			    else {
+				System.out.println("Word was not found.");
+			    }
+			    System.out.println (editing.showAllWords()); //should be with defn
+			    System.out.println("Word for removal/H:" );
+			    option3 = sc.next().toLowerCase();
+			}
 		    }
 		}
 		

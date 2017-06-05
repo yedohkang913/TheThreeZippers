@@ -137,13 +137,17 @@ public class Set {
 	return size;
     }
 
+    public void setName(String newName) {
+	name = newName;
+    }
+
     //print all the words in the set
     public String showAllWords() {
 	String ret = "\n" + name + ": A Complete List\n";
 	int numberPlace = 1;
 	Word temp = _first;
 	while (temp != null) {
-	    ret += numberPlace + " " + temp + "\n";
+	    ret += numberPlace + " " + temp + ": " + temp.getDefinition() + "\n";
 	    numberPlace += 1;
 	    temp = temp.getNext();
 	}
