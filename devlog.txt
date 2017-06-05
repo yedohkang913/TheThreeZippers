@@ -32,13 +32,19 @@ ______   ______   __   __   __       ______   _______
   \:\ \ \ \\::___\/_\:\_/.:\ \\:\ \____\:\ \ \ \\:\\_  _\/
    \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
+==============================================================
+2017-06-04
+--------------------------------------------------------------
+Yedoh:  | min
+Kristin: | min
+Kelly: wrote checkWord methods, looked for bugs | 130 min
 
 ==============================================================
 2017-06-03
 --------------------------------------------------------------
 Yedoh: continued testing Dictionary.search() & fixed some methods in Driver.java and layout/output in the terminal | 80 min
 Kristin: fixed Driver error with Scanner and input; added option to edit a set| 90 min
-Kelly: <tbd> | <tbd> min
+Kelly: n/a | 0 min
 
 ==============================================================
 2017-06-02
