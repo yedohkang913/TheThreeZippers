@@ -445,7 +445,7 @@ public class Driver {
 		}
 		if ( !sett.equals("h") ) {
 		    try { 
-			PrintWriter filee = new PrintWriter(sett+".txt"); 
+			PrintWriter filee = new PrintWriter(_all.get(setC-1).getName()+".txt"); 
 			filee.println(_all.get(setC-1).showAllWords() );
 			filee.close();
 			System.out.println("\nA text file has been created!");

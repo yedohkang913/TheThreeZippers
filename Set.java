@@ -104,6 +104,7 @@ public class Set {
         Word temp = _first;
 	while (temp != null) {
 	    if (temp.getName().toLowerCase().equals(input)) {
+		size--;
 		if (temp == _first) {
 		    if (temp == _last) {
 			_last = null;
