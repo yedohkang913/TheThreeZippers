@@ -197,10 +197,13 @@ public class Driver {
 		    System.out.println (editing.showAllWords()); //should be with defn
 
 		    System.out.println("Would you like to: " + 
-				       "\t1: Rename the Set" + 
-				       "\t2: Add words" + 
-				       "\t3: Remove words" + 
-				       "\tH: Bail");
+				       "\n\t1: Rename the Set" + 
+				       "\n\t2: Add words" + 
+				       "\n\t3: Remove words" + 
+				       "\n\t4: Delete the set" +
+				       "\n\tH: Bail");
+
+		    System.out.println("Selection: ");
 		    option3 = sc.next().toLowerCase();
 		    int how = 0;
 		    pass = false;
@@ -291,6 +294,22 @@ public class Driver {
 			    System.out.println (editing.showAllWords()); //should be with defn
 			    System.out.println("Word for removal/H:" );
 			    option3 = sc.next().toLowerCase();
+			}
+		    }
+
+		    if (how == 4) {
+			System.out.println("Are you sure? Y/N");
+			option3 = sc.next().toLowerCase();
+			pass = false;
+			while (!pass) {
+			    if (option3.equals("y")) {
+				_all.remove(editSet-1);
+				pass = true;
+			    } 
+			    if (option3.equals("n")) {
+				//do nothing exits
+				pass = true;
+			    }
 			}
 		    }
 		}
