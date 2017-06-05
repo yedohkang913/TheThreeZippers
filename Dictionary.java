@@ -45,9 +45,9 @@ public class Dictionary {
     }
 	
     public static boolean checque() {
-	for ( int x = 0; x < _list.size()-1 ; x++ ) {
+	for ( int x = 37; x < _list.size()-1 ; x++ ) {
 	    System.out.println(_list.get(x));
-	    if ( _list.get(x).alphaCompare(_list.get(x+1) )> 0 ){
+	    if ( _list.get(x).alphaCompare(_list.get(x+1) )>= 0 ){
 		return false;
 	    }
 	}

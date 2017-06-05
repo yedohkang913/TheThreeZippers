@@ -83,11 +83,13 @@ public class Driver {
 		    	if ( answer == null ) {
 			    answer = Dictionary.checkWord2(input1);
 			    if (answer == null) {
-				System.out.println("This word is not in our database.");
+				System.out.println("\nThis word is not in our database\n.");
 			    }
 		    	}
 		    }
-		    System.out.println("\n" + answer+ "\n\n");
+		    if (answer != null) {
+			System.out.println("\n" + answer+ "\n\n");
+		    }
 		    System.out.println("Type in another word to search," +
 				       " or type \"H\" to return to main menu.\n");
 		    System.out.print("Word/H: \n");
