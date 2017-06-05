@@ -83,6 +83,7 @@ public class Dictionary {
 	if ( ret.equals("")) return null;
 	return ret;
     }
+    
     public static String checkWord2( String word ) {
 	//check if the word is actually two words (ex. lavenderwater --> lavender water, policeofficer --> police officer)
 	for ( int x = 0 ; x < word.length() ; x++ ){
@@ -102,6 +103,7 @@ public class Dictionary {
 	catch (FileNotFoundException inputFile) {
 	    System.out.println("another");
 	}
-	System.out.println(search("hello"));
+	//System.out.println(search("hello"));
+	System.out.println(_list);
     }
 }
