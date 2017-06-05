@@ -284,7 +284,7 @@ public class Driver {
 		    if (how == 3) {
 			//prompts user to input desired word for removal
 			System.out.println("\nWord for removal/H:" );
-			option3 = sc.next().toLowerCase();
+			option3 = lines.nextLine().toLowerCase();
 
 			while (!option3.equals("h")) {
 			    if (editing.findRemove(option3) != null) {
@@ -295,7 +295,7 @@ public class Driver {
 			    }
 			    System.out.println (editing.showAllWords()); //should be with defn
 			    System.out.println("\nWord for removal/H:" );
-			    option3 = sc.next().toLowerCase();
+			    option3 = lines.nextLine().toLowerCase();
 			}
 		    }
 

@@ -100,19 +100,23 @@ public class Set {
     }
 
     public Word findRemove(String input) {
-	if (input == _first && input == _last) {
-	    _first = null;
-	    _last = null;
-	}
 	input = input.toLowerCase();
         Word temp = _first;
 	while (temp != null) {
 	    if (temp.getName().toLowerCase().equals(input)) {
-		else if (temp == _first) {
-		    _first = _first.getNext();
+		if (temp == _first) {
+		    if (temp == _last) {
+			_last = null;
+			_first = null;
+			return null;
+		    } else {
+			_first = _first.getNext();
+			_first.setLast(null);
+		    }
 		}
 		else if (temp == _last) {
 		    _last = _last.getLast();
+		    _last.setNext(null);
 		}
 		else {
 		    temp.getLast().setNext(temp.getNext());
