@@ -83,7 +83,7 @@ public class Driver {
 		    	if ( answer == null ) {
 			    answer = Dictionary.checkWord2(input1);
 			    if (answer == null) {
-				System.out.println("\nThis word is not in our database\n.");
+				System.out.println("\nThis word is not in our database.\n");
 			    }
 		    	}
 		    }
@@ -155,7 +155,7 @@ public class Driver {
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~EDITING A SET~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 3) {
 
-		System.out.println("Let's EDIT a set!");
+		System.out.println("\nLet's EDIT a set!");
 
 		//print all existing sets
 		System.out.println("\nSelect an existing Set: ");
@@ -205,7 +205,7 @@ public class Driver {
 				       "\n\t4: Delete the set" +
 				       "\n\tH: Bail");
 
-		    System.out.println("Selection: ");
+		    System.out.print("\nSelection: ");
 		    option3 = sc.next().toLowerCase();
 		    int how = 0;
 		    pass = false;
@@ -235,7 +235,7 @@ public class Driver {
 
 		    //add words
 		    if (how == 2) {
-			System.out.println("New Word/H: ");
+			System.out.println("\nNew Word/H: ");
 			String editAdd = lines.nextLine();
 
 			while (!editAdd.equals("h")) {      
@@ -283,7 +283,7 @@ public class Driver {
 		    //remove words
 		    if (how == 3) {
 			//prompts user to input desired word for removal
-			System.out.println("Word for removal/H:" );
+			System.out.println("\nWord for removal/H:" );
 			option3 = sc.next().toLowerCase();
 
 			while (!option3.equals("h")) {
@@ -294,7 +294,7 @@ public class Driver {
 				System.out.println("Word was not found.");
 			    }
 			    System.out.println (editing.showAllWords()); //should be with defn
-			    System.out.println("Word for removal/H:" );
+			    System.out.println("\nWord for removal/H:" );
 			    option3 = sc.next().toLowerCase();
 			}
 		    }
