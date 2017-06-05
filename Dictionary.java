@@ -44,6 +44,15 @@ public class Dictionary {
 	}
     }
 	
+    public static boolean checque() {
+	for ( int x = 0; x < _list.size()-1 ; x++ ) {
+	    System.out.println(_list.get(x));
+	    if ( word.alphaCompare(_list.get(x+1) )> 0 ){
+		return false;
+	    }
+	}
+	return true;
+    }
     public static String search (String word) {
 		
 	Word yeah = new Word( word );
