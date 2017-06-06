@@ -87,8 +87,10 @@ public class Dictionary {
 	//append a number to the word, check if its in our dictionary
 	//return all the definitions of that word
 	String ret = "";
-	for ( int i = 1 ; search(word + i ) != null ; i++ ) {
+	int i =1;
+        while ( search(word+i) != null ) {
 	    ret += "\n" + search( word + i );
+	    i++;
 	}
 	if ( ret.equals("")) return null;
 	return ret;
@@ -107,7 +109,7 @@ public class Dictionary {
     }
 
     /*
-    public static void main (String[] args) {
+      public static void main (String[] args) {
 	try {
 	    create();
 	}
