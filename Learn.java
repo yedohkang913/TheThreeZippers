@@ -26,7 +26,7 @@ public class Learn {
         System.out.println("\nWelcome to Learn!");
         System.out.println("\nPlease select an option: ");
         System.out.println("1: RANDOM SET");
-        System.out.println("2: PRIORITIZED SET (based on number of word)");
+        System.out.println("2: PRIORITIZED SET (based on number of times a word was missed)");
         System.out.println("3: ALPHABETICAL SET");
         System.out.print("\nSelection: ");
 	//did the user enter a valid input?

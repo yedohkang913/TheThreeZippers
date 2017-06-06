@@ -79,8 +79,10 @@ public class Driver {
 		    System.out.print("Definition:");
 		    String answer = Dictionary.search(input1);
 		    if ( answer == null ) {
+			//some words in the dictionary have numbers attached
 			answer = Dictionary.checkWord1(input1);
 		    	if ( answer == null ) {
+			    //try to separate two words togther into spaces
 			    answer = Dictionary.checkWord2(input1);
 			    if (answer == null) {
 				System.out.println("\nThis word is not in our database.\n");
@@ -113,6 +115,14 @@ public class Driver {
 	     	while (!inputAdd.equals("h")) {      
 		    //search dictionary for user's inputted definition
 		    String possDef = Dictionary.search(inputAdd);
+		    if ( possDef == null ) {
+			//some words in the dictionary have numbers attached
+			possDef = Dictionary.checkWord1(inputAdd);
+		    	if ( possDef == null ) {
+			    //if you didn't put a space between two words
+			    possDef = Dictionary.checkWord2(inputAdd);
+		    	}
+		    }
 		    Word newWord = new Word (inputAdd, possDef);
 
 		    if (possDef != null) {
@@ -236,11 +246,19 @@ public class Driver {
 		    //add words
 		    if (how == 2) {
 			System.out.println("\nNew Word/H: ");
-			String editAdd = lines.nextLine();
+			String editAdd = lines.nextLine().toLowerCase();
 
 			while (!editAdd.equals("h")) {      
 			    //search dictionary for user's inputted definition
 			    String possDef2 = Dictionary.search(editAdd);
+			    if ( possDef2 == null ) {
+				//some words in the dictionary have #s attached
+				possDef2 = Dictionary.checkWord1(editAdd);
+				if ( possDef2 == null ) {
+				    //if there was no space between two words
+				    possDef2 = Dictionary.checkWord2(editAdd);
+				}
+			    }
 			    Word newWord2 = new Word (editAdd, possDef2);
 
 			    if (possDef2 != null) {
