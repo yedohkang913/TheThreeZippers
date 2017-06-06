@@ -51,7 +51,7 @@ ______   ______   __   __   __       ______   _______
 --------------------------------------------------------------
 Yedoh: wrote the Zone of Reflection, helped Kelly test the checque method, looked for errors in the parsing | 80 min (including class time)
 Kristin: Fixed Driver.java bugs--specfically the editing section that called findRemove. Fixed formating as well. | 100 min (including class time)
-Kelly: | min
+Kelly: wrote checque method, looked for errors in parsing | 100 min (including class time)
 
 ==============================================================
 2017-06-04
