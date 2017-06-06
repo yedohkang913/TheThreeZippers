@@ -1,3 +1,10 @@
+
+/*=============================
+  class MergeSort
+  Description: sorts an array using MergeSort
+  ==============================*/
+
+
 public class MergeSort {
 
     /******************************************************
@@ -8,7 +15,8 @@ public class MergeSort {
      * output array sorted in ascending order.
      ******************************************************/
     private static Word[] merge( Word[] a, Word[] b ) 
-    { 
+    {
+	// create a new array
 	Word[] retArr = new Word[a.length + b.length];
 	int aCounter = 0;
 	int bCounter = 0;

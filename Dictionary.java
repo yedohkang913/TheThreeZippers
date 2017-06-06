@@ -105,7 +105,8 @@ public class Dictionary {
 	}
 	return null;
     }
-	
+
+    /*
     public static void main (String[] args) {
 	try {
 	    create();
@@ -117,4 +118,5 @@ public class Dictionary {
 	checque();
 	//System.out.println(_list);
     }
+    */
 }

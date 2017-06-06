@@ -128,6 +128,7 @@ public class Matching {
 
     }
 
+    /*
     public static void main(String[] args) {
 	Set hello = new Set("coolSet");
 	Word cool = new Word("cool");
@@ -148,4 +149,5 @@ public class Matching {
 	Matching hi = new Matching (hello);
 	hi.play();
     }
+    */
 }

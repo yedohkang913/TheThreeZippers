@@ -1,3 +1,11 @@
+
+/*=============================
+  class Flaschard
+  Description: Prints out a definition or a word, and the user presses any key to print its
+  corresponding definition or word. 
+  ==============================*/
+
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
@@ -153,6 +161,7 @@ public class Flashcard {
 	} // end for loop
     } // end play		
 
+    /*
     //tester
     public static void main(String[] args) {
 	Set geo = new Set("Geometry Terms");
@@ -165,6 +174,7 @@ public class Flashcard {
 	tester.play();
 
     }
+    */
     
 } // end class flashcard
 
