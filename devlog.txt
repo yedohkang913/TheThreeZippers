@@ -32,11 +32,19 @@ ______   ______   __   __   __       ______   _______
   \:\ \ \ \\::___\/_\:\_/.:\ \\:\ \____\:\ \ \ \\:\\_  _\/
    \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \
     \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/
+
+==============================================================
+2017-06-05
+--------------------------------------------------------------
+Yedoh:  | min
+Kristin: Fixed Driver.java bugs--specfically the editing section that called findRemove. Fixed formating as well. | 100 min (including class time)
+Kelly: | min
+
 ==============================================================
 2017-06-04
 --------------------------------------------------------------
 Yedoh:  | min
-Kristin: | min
+Kristin: Helped Kelly look over first checkWord method | 5 min
 Kelly: wrote checkWord methods, looked for bugs | 130 min
 
 ==============================================================
