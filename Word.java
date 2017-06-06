@@ -14,7 +14,7 @@ public class Word implements Comparable{
     private int timesMissed;
     private Word nextWord;
     private Word lastWord;
-    private final String ALPHA = "-'123456789abcdefghijklmnopqrstuvwxyz";
+    private final String ALPHA = "123456789abcdefghijklmnopqrstuvwxyz";
     
     public Word (String nam) {
 	name = nam;
@@ -56,11 +56,12 @@ public class Word implements Comparable{
 		{
 		    a++; b++; 
 	    }
-	    // if the index is a space in the word, skip it
-	    else if ( (name.substring(a,a+1 ) ).equals(" ") && ((Word) (that) ).getName().substring(b,b+1) .equals(" " ) ) {
+	    // if the index NOT A LETTER in the word, skip it
+	    else if ( ( ALPHA.indexOf(name.substring(a,a+1 ) ) ) == -1 && 
+		      ALPHA.indexOf( ((Word)(that)).getName().substring(b,b+1) )== -1 ) {
 		a++; b++;}
-	    else if ( ( name.substring(a,a+1) ) .equals(" ")) { a++ ;}
-	    else if ( (( (Word)(that)).getName().substring(b,b+1)).equals(" ") ) { b++ ;}
+	    else if ( (  ALPHA.indexOf(name.substring(a,a+1)) ) == -1 ) { a++ ;}
+	    else if ( ALPHA.indexOf( ((Word)(that)).getName().substring(b,b+1) )== -1 ) { b++ ;}
 	    
 	    // otherwise compare where those letters stand in the alphabet
 	    else {
