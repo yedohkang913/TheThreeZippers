@@ -7,10 +7,15 @@ Dictionary Frenzy!: DevLog
 ------------------------------------------
 OBSTACLES OVERCOME
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. We thought that parsing the dictionary and then putting the words into an ArrayList would be hard, but we managed to 
-   do it! Although it took a long time fixing the spacing in the Dictionary.txt file, we were able to get the search method
-   working.
-2. We also managed to create a text file and write to it. 
+1. We thought that parsing the dictionary and then putting the words into an
+   ArrayList would be hard, but we managed to do it! Although it took a long
+   time fixing the spacing in the Dictionary.txt file, we were able to get the
+   search method working. 
+2. We also managed to create a text file and write to it.
+3. We divided at the beginning on how to make Sets both a random queue and
+   priority queue, but we solved that by writing two different remove methods.
+   We were also divided on the nodes vs. arrays vs. ArrayList, but in the end,
+   we used all three to reflect the material this semester.
 
 UNRESOLVED ISSUES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -20,19 +25,26 @@ COOL STUFF LEARNED
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. How to parse a text file!
 2. How to create and write to a file!
+3. How to format output in the terminal with System.out.printf();
 
 MID-DEVELOPMENT DESIGN CHANGES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. We decided to scrap AsteroidGravity.java because we thought that it would be much better for both sides of the party. 
-   For the user, it would be hard to play a game of falling asteroids in the terminal, and for the programmer, it would be
-   hard to code it.
+1. We decided to scrap AsteroidGravity.java because we thought that it would be
+   much better for both sides of the party. 
+   For the user, it would be hard to play a game of falling asteroids in the
+   terminal, and for the programmer, it would be difficult to code it.
+2. We decided that Learning, Matching, and Set needed to use arrays instead of
+   linked lists, like Set, to use MergeSort. The constructors in those classes
+   had to now copy over the Words in the chosen Set into their own array.
 
 LESSONS LEARNED
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. Always GIT PULL before you commit.
-2. Always make sure that another group member isn't working on the same file as you at the same time.
+2. Always make sure that another group member isn't working on the same file as
+   you at the same time.
 3. Don't use a Dictionary AT ALL unless you're going to use an API.
 4. Don't spend 2 weeks trying to fix all the mistakes in the text files.
+5. Keep a rudimentary Driver throughout the process. 
 
 ||||||||||||||||||||||||||||||||||||||||||
 	
