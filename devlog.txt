@@ -3,25 +3,38 @@ APCS2 pd01
 Dictionary Frenzy!: DevLog
 
 /////////// Zone of Reflection \\\\\\\\\\\
+
 ------------------------------------------
 OBSTACLES OVERCOME
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. We thought that parsing the dictionary and then putting the words into an ArrayList would be hard, but we managed to 
+   do it! Although it took a long time fixing the spacing in the Dictionary.txt file, we were able to get the search method
+   working.
+2. We also managed to create a text file and write to it. 
 
 UNRESOLVED ISSUES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Some words (even though they're in the dictionary) return null (no definition found).
 	
 COOL STUFF LEARNED
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. How to parse a text file!
+2. How to create and write to a file!
 
 MID-DEVELOPMENT DESIGN CHANGES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. We decided to scrap AsteroidGravity.java because we thought that it would be much better for both sides of the party. 
+   For the user, it would be hard to play a game of falling asteroids in the terminal, and for the programmer, it would be
+   hard to code it.
 
 LESSONS LEARNED
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Always GIT PULL before you commit.
+2. Always make sure that another group member isn't working on the same file as you at the same time.
+3. Don't use a Dictionary AT ALL unless you're going to use an API.
+4. Don't spend 2 weeks trying to fix all the mistakes in the text files.
 
 ||||||||||||||||||||||||||||||||||||||||||
-	
-
 	
 
 ______   ______   __   __   __       ______   _______    
@@ -36,14 +49,14 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-06-05
 --------------------------------------------------------------
-Yedoh:  | min
+Yedoh: wrote the Zone of Reflection, helped Kelly test the checque method, looked for errors in the parsing | 80 min (including class time)
 Kristin: Fixed Driver.java bugs--specfically the editing section that called findRemove. Fixed formating as well. | 100 min (including class time)
 Kelly: | min
 
 ==============================================================
 2017-06-04
 --------------------------------------------------------------
-Yedoh:  | min
+Yedoh: fixed layout and tested Driver.java for bugs | 30 min
 Kristin: Helped Kelly look over first checkWord method | 5 min
 Kelly: wrote checkWord methods, looked for bugs | 130 min
 
