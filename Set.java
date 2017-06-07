@@ -162,26 +162,5 @@ public class Set {
 	}
 	return ret;
     }
-
-    //testing
-    public static void main (String[] args) {
-	Set geo = new Set("Geometry Terms");
-	Word orthocenter = new Word("Orthocenter");
-	Word hypotenuse = new Word("hypotenuse");
-	Word isosceles = new Word("isoceles");
-	orthocenter.setTimesMissed(); //p = 1
-	hypotenuse.setTimesMissed(); hypotenuse.setTimesMissed(); // p = 2
-	//p for isoceles = 0
-	geo.add(orthocenter);
-	geo.add(hypotenuse);
-	geo.add(isosceles);
-	System.out.println(	geo.showAllWords());
-
-	geo.findRemove("orthocenter");
-
-	System.out.println(	geo.showAllWords());
-
-    }
-
 }
 
