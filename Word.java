@@ -117,11 +117,4 @@ public class Word implements Comparable{
 	return name;
     }
 
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    //tester for alphaCompare
-    public static void main(String[] args) {
-
-    }
-
 }//end class word
