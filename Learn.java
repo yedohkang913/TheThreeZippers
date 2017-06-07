@@ -1,4 +1,3 @@
-
 /*=============================
   class Learn
   Description: prints the definition of a set, and checks if the user's input (the word) is correct
@@ -127,19 +126,5 @@ public class Learn {
 	} // end for loop
 	System.out.println("\nPercent Correct: " + percentRight + "%");
     } // end play        
-
-    /*
-    //tester
-    public static void main(String[] args) {
-	Set geo = new Set("Geometry Terms");
-	geo.add(new Word ("hypotenuse", "issa leg"));
-	geo.add(new Word ("isosceles", "issa triangle"));
-	geo.add(new Word ("median", "issa middle"));
-	geo.add(new Word ("quadrilateral", "issa four"));
-	geo.add(new Word ("triangle","threes"));
-	Learn tester = new Learn(geo);
-	tester.play();
-    }
-    */
 
 } // end class Learn
