@@ -19,9 +19,12 @@ Dictionary Frenzy! has a Driver file that presents the user with the options of 
 
 ### Launch Instructions: 
 1. Open up the terminal.
-2. $ git clone https://github.com/yedohkang913/TheThreeZippers.git
-3. $ cd TheThreeZippers
-4. $ javac Driver.java
-5. $ java Driver
-6. Have fun!
+2. Follow these instructions:
+```txt
+$ git clone https://github.com/yedohkang913/TheThreeZippers.git
+$ cd TheThreeZippers
+$ javac Driver.java
+$ java Driver
+```
+3. Have fun!
 
