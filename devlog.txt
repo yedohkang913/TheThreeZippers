@@ -19,7 +19,7 @@ OBSTACLES OVERCOME
 
 UNRESOLVED ISSUES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. Some words (even though they're in the dictionary) return null (no definition found).
+1. Some (minimal amount) words (even though they're in the dictionary) return null (no definition found).
 2. If we had more time, we would have added another option, to parse a text file and create a Set from that.
 	
 COOL STUFF LEARNED
@@ -40,12 +40,14 @@ MID-DEVELOPMENT DESIGN CHANGES
 
 LESSONS LEARNED
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. Always GIT PULL before you commit.
+1. Always GIT PULL before you commit/push.
 2. Always make sure that another group member isn't working on the same file as
    you at the same time.
 3. Don't use a Dictionary AT ALL unless you're going to use an API.
 4. Don't spend 2 weeks trying to fix all the mistakes in the text files.
 5. Keep a rudimentary Driver throughout the process. 
+6. Be watchful of what you name variables.
+7. Be efficient! Don't rewrite code that's already been implemented. 
 
 ||||||||||||||||||||||||||||||||||||||||||
 	
