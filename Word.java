@@ -14,7 +14,7 @@ public class Word implements Comparable{
     private int timesMissed;
     private Word nextWord;
     private Word lastWord;
-    private final String ALPHA = "123456789abcdefghijklmnopqrstuvwxyz";
+    private static final String ALPHA = "123456789abcdefghijklmnopqrstuvwxyz";
     
     public Word (String nam) {
 	name = nam;
