@@ -129,27 +129,4 @@ public class Matching {
 	System.out.println("\nEnd of Game!!");
 
     }
-
-    /*
-    public static void main(String[] args) {
-	Set hello = new Set("coolSet");
-	Word cool = new Word("cool");
-	cool.setDefinition("not warm enough");
-	Word great = new Word ("great");
-	great.setDefinition("what you say to a mate");
-	Word superb = new Word ("superb");
-	superb.setDefinition("it's not just super, it's _____");
-	Word fantastic = new Word ("fantastic");
-	fantastic.setDefinition("_____ baby!");
-	Word awesome = new Word ("awesome");
-	awesome.setDefinition("awe inducing");
-	hello.add(cool);
-	hello.add(great);
-	hello.add(superb);
-	hello.add(fantastic);
-	hello.add(awesome);
-	Matching hi = new Matching (hello);
-	hi.play();
-    }
-    */
 }
