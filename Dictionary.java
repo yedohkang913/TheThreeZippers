@@ -108,17 +108,4 @@ public class Dictionary {
 	return null;
     }
 
-    /*
-      public static void main (String[] args) {
-	try {
-	    create();
-	}
-	catch (FileNotFoundException inputFile) {
-	    System.out.println("another");
-	}
-	//System.out.println(search("hello"));
-	checque();
-	//System.out.println(_list);
-    }
-    */
 }
