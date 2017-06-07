@@ -25,7 +25,7 @@ public class Dictionary {
 	    String line = "";
 	    int defPlace = 1;
 		
-	    File inputFile = new File( alpha[i] + ".txt");
+	    File inputFile = new File("dictionaries/" +  alpha[i] + ".txt");
 	    //File inputFile = new File("T.txt");
 	    Scanner input = new Scanner(inputFile);
 	    // while the text file has a next line

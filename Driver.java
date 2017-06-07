@@ -56,7 +56,7 @@ public class Driver {
 			pass = true; 
 		    }
 		    else {  
-			System.out.print("\n\nPlease enter a valid input: "); 
+			System.out.print("\nPlease enter a valid input: "); 
 			option = sc.next();
 		    }
 		} 
@@ -124,7 +124,6 @@ public class Driver {
 		    	}
 		    }
 		    Word newWord = new Word (inputAdd, possDef);
-
 		    if (possDef != null) {
 			System.out.println("\nDefinition: \n" +
 					   possDef +
@@ -143,7 +142,7 @@ public class Driver {
 				pass = true;
 			    }
 			    else {
-				System.out.println("Enter a valid input.");
+				System.out.print("\nEnter a valid input: ");
 			    }
 			}
 		    }
