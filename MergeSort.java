@@ -1,4 +1,3 @@
-
 /*=============================
   class MergeSort
   Description: sorts an array using MergeSort
