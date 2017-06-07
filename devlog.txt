@@ -27,6 +27,7 @@ COOL STUFF LEARNED
 1. How to parse a text file!
 2. How to create and write to a file!
 3. How to format output in the terminal with System.out.printf();
+4. How to use colors in the terminal!
 
 MID-DEVELOPMENT DESIGN CHANGES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,8 +66,8 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-06-05
 --------------------------------------------------------------
-Yedoh: fixed bugs, edited devlog and readme | 180 min (including class time)
-Kristin: fixed bugs, edited uml | 200 min (including class time)
+Yedoh: fixed bugs, edited devlog and readme | 220 min (including class time)
+Kristin: fixed bugs, edited uml, added colors | 300 min (including class time)
 Kelly: fixed bugs, edited flowchart | 100 min (including class time)
 
 ==============================================================
