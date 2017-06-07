@@ -18,7 +18,7 @@ public class Matching {
 
     //constructor
     public Matching (Set newDeck) {
-	System.out.println("\nWelcome to Matching!");
+	System.out.println("\n\u001B[33mWelcome to Matching!\u001B[0m");
 
 	//dequeue cards randomly or by priority or alpha into an ArrayList
 	wordDeck = new Word[newDeck.getSize()];
@@ -115,14 +115,14 @@ public class Matching {
 		//is the input correct?
 		else if (display[indexOfWord][0].getDefinition().equals(
 									display[indexOfDef][1].getDefinition())) {
-		    System.out.println("\nYou got it!");
+		    System.out.println("\n\u001B[35mYou got it!\u001B[0m");
 		    numMatched++;
 		    display[indexOfWord][0] = null;
 		    display[indexOfDef][1] = null;
 		}
 		
 		else { //input is wrong & numMatched does not change
-		    System.out.println("\nSorry, buddy.");
+		    System.out.println("\n\u001B[31mSorry, buddy.\u001B[0m");
 		}
 	    }
 	}

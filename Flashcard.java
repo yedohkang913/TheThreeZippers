@@ -20,7 +20,7 @@ public class Flashcard {
 
 	// scanner input, for choices: either random, prioritized, or alphabetical
 	Scanner sc = new Scanner(System.in);
-	System.out.println("\nWelcome to Flashcard!");
+	System.out.println("\n\u001B[33mWelcome to Flashcard!\u001B[0m");
 	System.out.println("\nPlease select an option: ");
 	System.out.println("1: RANDOM SET");
 	System.out.println("2: PRIORITIZED SET (based on number of times the word was missed)");

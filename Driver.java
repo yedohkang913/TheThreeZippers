@@ -7,12 +7,12 @@ public class Driver {
     //=======instance vars==========
     static ArrayList<Set> _all;
     /*
-      public static final String ANSI_RESET = "\u001B[0m";
-      public static final String ANSI_RED = "\u001B[31m";
-      public static final String ANSI_GREEN = "\u001B[32m";
-      public static final String ANSI_YELLOW = "\u001B[33m";
-      public static final String ANSI_BLUE = "\u001B[34m";
-      public static final String ANSI_PURPLE = "\u001B[35m";
+    public static final String ANSI_RESET = "\u001B[0m";
+    public static final String ANSI_RED = "\u001B[31m";
+    public static final String ANSI_GREEN = "\u001B[32m";
+    public static final String ANSI_YELLOW = "\u001B[33m";
+    public static final String ANSI_BLUE = "\u001B[34m";
+    public static final String ANSI_PURPLE = "\u001B[35m";
     */
     //==============================
     
@@ -35,14 +35,14 @@ public class Driver {
 	while (true) {
 
 	    //welcome msg + initial options
-	    System.out.println("\n\nWelcome to Dictionary Frenzy!\n");
+	    System.out.println("\n\n\u001B[34mWelcome to Dictionary Frenzy!\n");
 	    System.out.println("Here are your options: " +
 			       "\n1: Search a word up in our dictionary." +
 			       "\n2: Create a set of vocabulary words" +
 			       "\n3: Edit an existing set." +
 			       "\n4: Play a game with an existing set." +
 			       "\n5: Export a text file of an existing set." +
-			       "\n6: Exit");
+			       "\n6: Exit\u001B[0m");
 
 	    //user can only enter an integer that is equal to or less than 4
 	    pass = false;
@@ -56,21 +56,21 @@ public class Driver {
 			pass = true; 
 		    }
 		    else {  
-			System.out.print("\nPlease enter a valid input: "); 
+			System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: "); 
 			option = sc.next();
 		    }
 		} 
 		catch (Exception e) {
-		    System.out.print("\nPlease enter a valid input: ");
+		    System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 		    option = sc.next();
 		}
 	    }
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~SEARCHING UP A WORD~~~~~~~~~~~~~~~~~~~~
 	    if (choiceMain == 1 ) {
-	     	System.out.println("\nWelcome to the DICTIONARY!!\n" +
+	     	System.out.println("\n\u001B[32mWelcome to the DICTIONARY!!\n" +
 	     			   "\nEnter H at any time to return home!" +
-	     			   "\nOtherwise, enter a word for its definition.\n\n");
+	     			   "\nOtherwise, enter a word for its definition.\u001B[0m\n\n");
 	     	System.out.print("Word/H: \n");
 		String input1 = lines.nextLine().toLowerCase();
 		System.out.println();
@@ -102,7 +102,7 @@ public class Driver {
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~~CREATING A SET~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 2) {
-		System.out.println("\nWelcome to MAKING YOUR OWN SET!!");
+		System.out.println("\n\u001B[32mWelcome to MAKING YOUR OWN SET!!\u001B[0m");
 		System.out.println("\nA name for your new Set: ");
 		System.out.print("Name: ");
 	     	_all.add(new Set (lines.nextLine()));
@@ -142,7 +142,7 @@ public class Driver {
 				pass = true;
 			    }
 			    else {
-				System.out.print("\nEnter a valid input: ");
+				System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 				inputYN = sc.next().toLowerCase();
 			    }
 			}
@@ -165,7 +165,7 @@ public class Driver {
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~EDITING A SET~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 3) {
 
-		System.out.println("\nLet's EDIT a set!");
+		System.out.println("\n\u001B[32mLet's EDIT a set!\u001B[0m");
 
 		//print all existing sets
 		System.out.println("\nSelect an existing Set: ");
@@ -193,12 +193,12 @@ public class Driver {
 			    pass = true;
 			}
 			else {
-			    System.out.print("\n Please enter a valid input: ");
+			    System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			    option3 = sc.next().toLowerCase();
 			}
 		    }
 		    catch (Exception e) {
-			System.out.print("\n Please enter a valid input: ");
+			System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			option3 = sc.next().toLowerCase();
 		    }
 		}
@@ -206,7 +206,9 @@ public class Driver {
 		//choose to removal or add or rename set
 		if (!option3.equals("h")) {
 		    Set editing = _all.get(editSet-1); //chosen set
-		    System.out.println (editing.showAllWords()); //should be with defn
+		    System.out.println ("\n\u001B[35m" +
+					editing.showAllWords() +
+					"\u001B[0m"); //should be with defn
 
 		    System.out.println("Would you like to: " + 
 				       "\n\t1: Rename the Set" + 
@@ -226,12 +228,12 @@ public class Driver {
 				pass = true;
 			    }
 			    else {
-				System.out.print("\nPlease enter a valid input:");
+				System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m:");
 				option3 = sc.next().toLowerCase();
 			    }
 			}
 			catch (Exception e) {
-			    System.out.print("\n Please enter a valid input: ");
+			    System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			    option3 = sc.next().toLowerCase();
 			}
 		    }
@@ -241,6 +243,9 @@ public class Driver {
 			System.out.println("\nNew name: ");
 			option3 = lines.nextLine();
 			editing.setName(option3);
+			System.out.println ("\n\u001B[35m" +
+					    editing.showAllWords() +
+					    "\u001B[0m"); //should be with defn
 		    }
 
 		    //add words
@@ -279,7 +284,7 @@ public class Driver {
 					pass = true;
 				    }
 				    else {
-					System.out.println("Enter a valid input.");
+					System.out.println("\u001B[31mPlease enter a valid input\u001B[0m.");
 					inputYN2 = sc.next().toLowerCase();
 				    }
 				}
@@ -291,6 +296,9 @@ public class Driver {
 		    
 			    editing.add(newWord2);
 
+			    System.out.println ("\n\u001B[35m" +
+						editing.showAllWords() +
+						"\u001B[0m"); //should be with defn
 		    
 			    System.out.print("\nNext Word to input/H: \n");
 			    editAdd = lines.nextLine().toLowerCase();
@@ -302,7 +310,7 @@ public class Driver {
 		    //remove words
 		    if (how == 3) {
 			//prompts user to input desired word for removal
-			System.out.println("\nWord for removal/H:" );
+			System.out.println("Word for removal/H:" );
 			option3 = lines.nextLine().toLowerCase();
 
 			while (!option3.equals("h")) {
@@ -312,7 +320,9 @@ public class Driver {
 			    else {
 				System.out.println("Word was not found.");
 			    }
-			    System.out.println (editing.showAllWords()); //should be with defn
+			    System.out.println ("\n\u001B[35m" +
+						editing.showAllWords() +
+						"\u001B[0m"); //should be with defn
 			    System.out.println("\nWord for removal/H:" );
 			    option3 = lines.nextLine().toLowerCase();
 			}
@@ -332,7 +342,7 @@ public class Driver {
 				pass = true;
 			    }
 			    else {
-				System.out.println("\nPlease enter a valid input.");
+				System.out.println("\n\u001B[31mPlease enter a valid input\u001B[0m.");
 				option3 = sc.next().toLowerCase();
 			    }
 			}
@@ -343,7 +353,7 @@ public class Driver {
 
 	    //~~~~~~~~~~~~~~~~~~~~~~~~~~PLAYING A GAME~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 4) {
-		System.out.println("\n Welcome to PLAYING A GAME!!\n");
+		System.out.println("\n\u001B[32mWelcome to PLAYING A GAME!!\u001B[0m\n");
 	     	System.out.println("Select a game or enter \"H\" for main menu:");
 	     	System.out.println("\t1: Flashcards");
 		System.out.println("\t2: Learn");
@@ -365,11 +375,11 @@ public class Driver {
 			    pass = true;
 			}
 			else {
-			    System.out.print("\nPlease enter a valid input: ");
+			    System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			    option4 = sc.next().toLowerCase();
 			}
 		    } catch (Exception e) {
-			System.out.print("\nPlease enter a valid input: ");
+			System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			option4 = sc.next().toLowerCase();
 		    }
 		}
@@ -402,12 +412,12 @@ public class Driver {
 				pass = true;
 			    }
 			    else {
-				System.out.print("\n Please enter a valid input: ");
+				System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 				option4 = sc.next().toLowerCase();
 			    }
 			}
 			catch (Exception e) {
-			    System.out.print("\n Please enter a valid input: ");
+			    System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			    option4 = sc.next().toLowerCase();
 			}
 		    }
@@ -435,7 +445,7 @@ public class Driver {
 
 	    //~~~~~~~~~~~~~~~~~~~~CREATE A TEXT FILE~~~~~~~~~~~~~~~~~~~~~~~~~
 	    else if (choiceMain == 5) {
-		System.out.println("Let's CREATE A TEXT FILE!");
+		System.out.println("\u001B[32mLet's CREATE A TEXT FILE!\u001B[0m");
 		System.out.println("\nWhich set would you like to print?");
 		if (_all.size() == 0) {
 		    System.out.println("\tYou have no Sets." +
@@ -459,10 +469,10 @@ public class Driver {
 			setC = Integer.parseInt(sett);
 			if (setC <= _all.size() && setC > 0) {pass = true;}
 			else {
-			    System.out.print("\nPlease enter a valid input: "); 
+			    System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: "); 
 			    sett = sc.next().toLowerCase();}
 		    } catch (Exception e) {
-			System.out.print("\nPlease enter a valid input: ");
+			System.out.print("\n\u001B[31mPlease enter a valid input\u001B[0m: ");
 			sett = sc.next().toLowerCase();
 		    }
 		}
@@ -483,7 +493,7 @@ public class Driver {
 	
 	    //~~~~~~~~~~~~~~~~~~~~CALL IT QUITS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	    else {
-		System.out.println("\nSee you soon!");
+		System.out.println("\n\u001B[32mSee you soon!\u001B[0m");
 		break;
 	    }
 
