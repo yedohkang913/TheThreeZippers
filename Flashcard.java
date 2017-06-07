@@ -97,13 +97,16 @@ public class Flashcard {
 	for (int x = 0; x < limit; x++) {
 	    //put words of Set newDeck into AL deck randomly
 	    if (removeType == 1) {
-		deck[x] = newDeck.removeR();
+		Word temp = newDeck.removeR();
+		deck[x] = new Word(temp.getName(), temp.getDefinition());
 	    } //put words of Set newDeck into AL deck by priority
 	    else if (removeType == 2) {
-		deck[x] = newDeck.removeP();
+		Word temp = newDeck.removeP();
+		deck[x] = new Word(temp.getName(), temp.getDefinition());
 	    } //put words of Set newDeck into AL deck regularly; sorted later 
 	    else {
-		deck[x] = newDeck.regRemove();
+		Word temp = newDeck.regRemove();
+		deck[x] = new Word(temp.getName(), temp.getDefinition());
 	    }
 	}
 
