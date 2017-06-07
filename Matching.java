@@ -35,7 +35,7 @@ public class Matching {
 	for (Word x : wordDeck) {
 	    newDeck.add(x);
 	}	
- 
+
 	//sort the word column; defDeck is still random
 	wordDeck = MergeSort.sort(wordDeck);
 
