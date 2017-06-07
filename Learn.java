@@ -9,16 +9,16 @@ public class Learn {
 
     private Word[] deck;
     private float percentRight;
-    private int correct;
-    private int wrong;
-    private int wordsLeft;
+    private int numCorrect;
+    private int numWrong;
+    private int numWordsLeft;
     private int removeType;
 
     public Learn ( Set newDeck ) {
         
         percentRight = 0;
-        correct = 0;
-        wrong = 0;    
+        numCorrect = 0;
+        numWrong = 0;    
     
 	// scanner input, for choices: either random, prioritized, or alphabetical
         Scanner sc = new Scanner(System.in);
@@ -79,7 +79,7 @@ public class Learn {
 	    deck = MergeSort.sort(deck);
 	}
 
-	wordsLeft = deck.length;    
+	numWordsLeft = deck.length;    
     }
 
     public float getPercent() {
@@ -100,7 +100,7 @@ public class Learn {
 	    //if the user enters the incorrect word: either display the answer or try again
 	    if (!input.equals(deck[i].getName())) {
 		deck[i].setTimesMissed(); 
-		wrong++;
+		numWrong++;
 		while (!input.equals(deck[i].getName())) {
 		    System.out.println("\nSorry, but that's incorrect. \nTry again, or type in 'kellyiscool' for the correct answer!");
 		    System.out.print("Word/kellyiscool: ");
@@ -115,14 +115,14 @@ public class Learn {
 		}
 	    } else {
 		System.out.println("\nTrue and correct!");
-		correct++;
+		numCorrect++;
 	    }
 	    //print stats for this game!
-	    wordsLeft--;
-	    System.out.println("\n# of Words Incorrect: " + wrong);
-	    System.out.println("# of Words Correct: " + correct);
-	    System.out.println("# of Words Left : " + wordsLeft);
-	    percentRight = (float) correct / (correct + wrong) * 100;
+	    numWordsLeft--;
+	    System.out.println("\n# of Words Incorrect: " + numWrong);
+	    System.out.println("# of Words Correct: " + numCorrect);
+	    System.out.println("# of Words Left : " + numWordsLeft);
+	    percentRight = (float) numCorrect / (numCorrect + numWrong) * 100;
 	} // end for loop
 	System.out.println("\nPercent Correct: " + percentRight + "%");
     } // end play        
