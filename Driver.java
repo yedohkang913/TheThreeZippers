@@ -52,7 +52,7 @@ public class Driver {
 		try {
 		    choiceMain = Integer.parseInt(option); //should be an int
 		    //should be less than or equal to 5 but not negative
-		    if (choiceMain <= 6 && choiceMain > -1) { 
+		    if (choiceMain <= 6 && choiceMain > 0) { 
 			pass = true; 
 		    }
 		    else {  
@@ -143,6 +143,7 @@ public class Driver {
 			    }
 			    else {
 				System.out.print("\nEnter a valid input: ");
+				inputYN = sc.next().toLowerCase();
 			    }
 			}
 		    }
@@ -188,7 +189,7 @@ public class Driver {
 		while (!option3.equals("h") && !pass) {
 		    try {
 			editSet = Integer.parseInt(option3);
-			if (editSet <= _all.size() && editSet > -1) {
+			if (editSet <= _all.size() && editSet > 0) {
 			    pass = true;
 			}
 			else {
@@ -221,7 +222,7 @@ public class Driver {
 		    while (!option3.equals("h") && !pass) {
 			try {
 			    how = Integer.parseInt(option3);
-			    if (how <= 4 && how > -1) {
+			    if (how <= 4 && how > 0) {
 				pass = true;
 			    }
 			    else {
@@ -279,6 +280,7 @@ public class Driver {
 				    }
 				    else {
 					System.out.println("Enter a valid input.");
+					inputYN2 = sc.next().toLowerCase();
 				    }
 				}
 			    }
@@ -325,9 +327,13 @@ public class Driver {
 				_all.remove(editSet-1);
 				pass = true;
 			    } 
-			    if (option3.equals("n")) {
+			    else if (option3.equals("n")) {
 				//do nothing exits
 				pass = true;
+			    }
+			    else {
+				System.out.println("\nPlease enter a valid input.");
+				option3 = sc.next().toLowerCase();
 			    }
 			}
 		    }
@@ -355,7 +361,7 @@ public class Driver {
 		while (!option4.equals("h") && !pass) {
 		    try {
 			game = Integer.parseInt(option4);
-			if ( game <= 3 && game > -1) {
+			if ( game <= 3 && game > 0) {
 			    pass = true;
 			}
 			else {
@@ -392,7 +398,7 @@ public class Driver {
 		    while (!option4.equals("h") && !pass) {
 			try {
 			    setChoice = Integer.parseInt(option4);
-			    if (setChoice <= _all.size() && setChoice > -1) {
+			    if (setChoice <= _all.size() && setChoice > 0) {
 				pass = true;
 			    }
 			    else {
@@ -451,7 +457,7 @@ public class Driver {
 		while (!sett.equals("h") && !pass) {
 		    try {
 			setC = Integer.parseInt(sett);
-			if (setC <= _all.size() && setC > -1) {pass = true;}
+			if (setC <= _all.size() && setC > 0) {pass = true;}
 			else {
 			    System.out.print("\nPlease enter a valid input: "); 
 			    sett = sc.next().toLowerCase();}
