@@ -65,9 +65,9 @@ ______   ______   __   __   __       ______   _______
 ==============================================================
 2017-06-05
 --------------------------------------------------------------
-Yedoh:  |  min (including class time)
-Kristin: |  min (including class time)
-Kelly:  |  min (including class time)
+Yedoh: fixed bugs, edited devlog and readme | 180 min (including class time)
+Kristin: fixed bugs, edited uml | 200 min (including class time)
+Kelly: fixed bugs, edited flowchart | 100 min (including class time)
 
 ==============================================================
 2017-06-05
