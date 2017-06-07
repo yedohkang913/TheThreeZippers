@@ -27,12 +27,14 @@ public class Matching {
 	for (int x = 0; x < limit; x++) {
 	    //put words of Set newDeck into AL deck randomly
 	    Word temp = newDeck.removeR();
-	    wordDeck[x] = temp;
-	    defDeck[x] = temp; //your definitions are random
+	    //we'll be setting pointers to null, so deep copy
+	    Word newTemp = new Word (temp.getName(), temp.getDefinition());
+	    wordDeck[x] = newTemp;
+	    defDeck[x] = newTemp; //your definitions are random
 	} 
 
 	//put words of Set newDeck back into newDeck
-	for (Word x : wordDeck) {
+	for (Word x : defDeck) {
 	    newDeck.add(x);
 	}	
 
